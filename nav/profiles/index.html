@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+
+  <title>Cancer InFocus - HCI</title>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body style="background-color:#364a6c; height: 100vh;">
+
+  <!-- Define the topnav menu -->
+  <div class="topnav" id="myTopnav">
+    <a href="http://hci-cancerinfocus.hci.utah.edu:3841" style="background-color: rgba(143, 41, 45, 0.7); color: white;">Home</a>
+    <div class="dropdown">
+      <button class="dropbtn">Other Apps
+        <i class="fa fa-caret-down"> </i>
+      </button>
+      <div class="dropdown-content">
+        <a href="http://hci-cancerinfocus.hci.utah.edu:3841/profiles">CIF Profiles</a>
+        <a href="http://hci-cancerinfocus.hci.utah.edu:3841/bivariate">CIF<sup>2</sup> (bivariate)</a>
+        <!-- <a href="https://cancerinfocus.uky.edu/appalachia">Appalachia</a> -->
+      </div>
+    </div>
+    <a href="https://cancerinfocus.uky.edu/data-sources/">Data Sources</a>
+    <a href="https://cancerinfocus.uky.edu/about">About</a>
+
+    <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
+
+  <!-- include iframe for displaying Shiny application -->
+  <iframe height="92%" width="100%" frameborder="no" src="http://hci-cancerinfocus.hci.utah.edu:3838/profiles"> </iframe>
+
+</body>
+
+</html>
+<!-- partial -->
+  <script  src="../script.js"></script>
+
+</body>
+</html>

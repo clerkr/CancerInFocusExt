@@ -1,0 +1,713 @@
+<!--
+
+    ShinyProxy
+
+    Copyright (C) 2016-2023 Open Analytics
+
+    ===========================================================================
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the Apache License as published by
+    The Apache Software Foundation, either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    Apache License for more details.
+
+    You should have received a copy of the Apache License
+    along with this program.  If not, see <http://www.apache.org/licenses/>
+
+-->
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity4">
+<head lang="en">
+	<title th:text="${appTitle} + ' - ' + ${appInstanceDisplayName}"></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="stylesheet" media="screen" th:href="@{${resourcePrefix} + ${bootstrapCss}}"/>
+	<link rel="stylesheet" media="screen" th:href="@{${resourcePrefix} + '/css/default.css'}"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" media="screen" th:href="@{'/assets/css/navbar.css'}"/>
+	<script th:src="@{${resourcePrefix} + ${jqueryJs}}"></script>
+	<script th:src="@{${resourcePrefix} + ${bootstrapJs}}"></script>
+	<script th:src="@{${resourcePrefix} + ${handlebars}}"></script>
+	<script th:src="@{${resourcePrefix} + '/js/shiny.app.js' }"></script>
+	<script th:src="@{${resourcePrefix} + '/js/shiny.api.js' }"></script>
+	<script th:src="@{${resourcePrefix} + '/js/shiny.connections.js'}"></script>
+	<script th:src="@{${resourcePrefix} + '/js/shiny.instances.js' }"></script>
+	<script th:src="@{${resourcePrefix} + '/js/shiny.ui.js' }"></script>
+	<script th:src="@{${resourcePrefix} + '/js/shiny.common.js'}"></script>
+	<script th:src="@{${resourcePrefix} + '/handlebars/precompiled.js'}"></script>
+</head>
+<body id="appPage">
+	<div th:replace="fragments/navbar :: navbar"></div>
+
+    <div id="iframeinsert"></div>
+    <div id="loading" class="loading">
+		<div class="loading-txt">Launching <span th:text="${appTitle}"></span>...</div>
+		<div class="loading-img"></div>
+	</div>
+	<div id="resumingApp" class="loading">
+		<div class="loading-txt">Resuming this app...</div>
+		<div class="loading-img"></div>
+	</div>
+	<div id="stoppingApp" class="loading">
+		<div class="loading-txt">Stopping this app...</div>
+		<div class="loading-img"></div>
+	</div>
+	<div id="pausingApp" class="loading">
+		<div class="loading-txt">Pausing this app...</div>
+		<div class="loading-img"></div>
+	</div>
+	<div id="appStopped" class="loading">
+		<div class="loading-txt">
+			This app has been stopped, you can now close this tab.<br><br>
+			<span class="refreshButton">
+				<button onClick="Shiny.instances.eventHandlers.onRestartInstance()" class="btn btn-default btn-restart-app">Restart app</button>
+			</span>
+		</div>
+	</div>
+	<div id="appPaused" class="loading">
+		<div class="loading-txt">
+			This app has been paused, you can now close this tab.<br><br>
+			<span class="refreshButton">
+				<button onClick="Shiny.instances.eventHandlers.onRestartInstance()" class="btn btn-default btn-restart-app">Resume app</button>
+			</span>
+		</div>
+	</div>
+	<div id="reconnecting" class="loading">
+		<div class="loading-txt">
+			Reconnecting to <span th:text="${appTitle}"></span>...
+			<div class="loading-img"></div>
+			<span class="retryingDetails">
+				<br>
+				Attempt <span class="reloadAttempts"></span>/<span class="maxReloadAttempts"></span>
+				<br>
+				Retrying <span id="retryInXSeconds">in <span class="retrySeconds"></span></span><span id="retryNow">now</span>
+			</span>
+		</div>
+	</div>
+	<div id="reloadFailed" class="loading">
+		<div class="loading-txt">
+			Failed to reload <span th:text="${appTitle}"></span><br><br>
+			<span class="refreshButton">
+				<button onClick="window.location.reload()" class="btn btn-default">Refresh page</button>
+			</span>
+		</div>
+	</div>
+	<div id="startFailed" class="loading">
+		<div class="loading-txt">
+			Failed to start app <span th:text="${appTitle}"></span><br><br>
+			<span class="refreshButton">
+				<button onClick="window.location.reload()" class="btn btn-default">Try again</button>
+			</span>
+		</div>
+	</div>
+	<div id="appCrashed" class="loading">
+		<div class="loading-txt">
+			This app has crashed and has been stopped.<br><br>
+			<span class="refreshButton">
+				<button onClick="Shiny.instances.eventHandlers.onRestartInstance()" class="btn btn-default btn-restart-app">Restart app</button>
+			</span>
+		</div>
+	</div>
+	<div id="userLoggedOut" class="loading">
+		<div class="loading-txt">
+			You are now (automatically) logged out, you can now close this tab.<br><br>
+			<span class="refreshButton">
+				<a th:href="@{/}" class="btn btn-default">Login again</a>
+			</span>
+		</div>
+	</div>
+    <div id="parameterForm">
+		<th:block th:if="${parameterFragment != null}" th:utext="${parameterFragment}"></th:block>
+        <div th:if="${parameterFragment == null}" class="container">
+            <div class="row">
+                <h2>Choose the parameters for this app</h2>
+            </div>
+            <div class="row" id="selectAllWarning">
+                <div class="alert alert-danger" role="alert">Please select a value for each parameter before starting the app!</div>
+            </div>
+            <div class="row">
+                <form class="form-horizontal default-parameter-form">
+                    <div class="form-group" th:each="parameterDefinition, paramIter : ${parameterDefinitions}">
+                        <label th:for="${'parameter-' + parameterDefinition.getId()}" class="col-sm-2 control-label" th:text="${parameterDefinition.getDisplayNameOrId()}"></label>
+                        <div class="col-sm-10">
+                            <select th:id="${'parameter-' + parameterDefinition.getId()}" th:name="${parameterDefinition.getId()}" class="form-control"
+									th:disabled="${paramIter.index > 0 && parameterDefaults.get(paramIter.index) == 0}" >
+                                <option disabled selected>Select an option</option>
+								<option th:each="value, iter : ${parameterValues.get(parameterDefinition.id)}" th:text="${value}"></option>
+							</select>
+                            <span class="help-block" th:if="${parameterDefinition.getDescription() != null}" th:utext="${parameterDefinition.getDescription()}"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button type="submit" class="btn btn-default btn-success">Start</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+		</div>
+    </div>
+
+	<div th:replace="fragments/modal :: modal"></div>
+
+	<div id="extraContent" style="display: none; padding-top: 100vh;">
+		<div id="dataSources" style="padding: 15vw; padding-top: 50px !important; font-size: 16px; line-height: 26px;">
+		    <div class="title" style="text-align: center;">
+	              <img src="https://live.staticflickr.com/65535/52492234247_c430d09ed5_h.jpg" alt="Cancer InFocus" style="width:50vw; margin-bottom: 52px;">
+		      <h1 style="margin-bottom: 44px;">DATA SOURCES</h1>
+		      <p style="text-align: justify;">Data for Cancer InFocus were gathered from several publicly available sources. Due to automated data collection efforts, years on sources will change over time. The years given here represent the most recently available data and reflect what is found on <a href="https://cancerinfocus.org" target="_blank" rel="noreferrer noopener">Cancer InFocus: Catchment Areas</a>. The exact years available in a specific cancer center's Cancer InFocus application may vary depending on how recently the responsible institution has updated them. </p>
+		      <hr>
+		    </div>
+
+		    <h2><strong><em>Cancer Incidence and Mortality</em></strong></h2>
+
+		    <h4><a href="https://statecancerprofiles.cancer.gov/index.html" target="_blank" rel="noreferrer noopener">State Cancer Profiles (SCP)</a></h4>
+
+		    <p>SCP is an interactive map engine produced in collaboration between the National Cancer Institute and Centers for Disease Control and Prevention. It was developed with the idea to provide a geographic profile of cancer burden in the United States and reveal geographic disparities in cancer incidence, mortality, risk factors for cancer, and cancer screening, across different population subgroups. The target audiences are health planners, policy makers, and cancer information providers who need quick and easy access to cancer related data and maps to inform and prioritize investments in cancer control.</p>
+
+		    <p>Cancer incidence data from SCP used in Cancer InFocus comes from the Surveillance, Epidemiology, and End Results SEER*Stat Database and from the National Program of Cancer Registries where applicable. The most recently available incidence data are the 5-year average age-adjusted rates per 100,00 people for 2016-2020.</p>
+
+		    <p>Cancer mortality data from SCP used in Cancer InFocus comes from the National Vital Statistics System public use data file. The most recently available mortality data are the 5-year age-adjusted mortality rates per 100,000 people for 2016-2020.</p>
+
+		    <hr>
+
+		    <h2><strong><em>Sociodemographics, Economics &amp; Insurnace, and Housing &amp; Transportation</em></strong></h2>
+
+		    <h4><a href="https://data.census.gov/cedsci/" target="_blank" rel="noreferrer noopener">American Community Survey (ACS), 5-Year Estimates, U.S. Census Bureau</a></h4>
+
+		    <p>ACS is a nationally representative sample of households that are randomly selected to participate. This survey provides population estimates of demographic information for various geographic areas, aggregated over five consecutive years. </p>
+
+		    <p>Cancer InFocus contains the following indicators from the ACS. The most recently available ACS data are the 2017-2021 5-year estimates:</p>
+
+		    <figure class="wp-block-table">
+		      <table class="table table-bordered table-striped">
+		        <tbody>
+		          <tr>
+		            <th><strong>Indicator</strong></th>
+		            <th><strong>ACS Table </strong></th>
+		            <th><strong>Population Used</strong></th>
+		          </tr>
+		          <tr>
+		            <td>Total Population</td>
+		            <td>B01001</td>
+		            <td>Total population</td>
+		          </tr>
+		          <tr>
+		            <td>Under 18 Years Old</td>
+		            <td>B01001</td>
+		            <td>Total population</td>
+		          </tr>
+		          <tr>
+		            <td>18 to 64 Years Old</td>
+		            <td>B01001</td>
+		            <td>Total population</td>
+		          </tr>
+		          <tr>
+		            <td>Over 64 Years Old</td>
+		            <td>B01001</td>
+		            <td>Total population</td>
+		          </tr>
+		          <tr>
+		            <td>White (non-Hispanic)</td>
+		            <td>B01001H</td>
+		            <td>White alone, not Hispanic or Latino population</td>
+		          </tr>
+		          <tr>
+		            <td>Black (non-Hispanic)</td>
+		            <td>B01001B</td>
+		            <td>People who are Black or African American alone</td>
+		          </tr>
+		          <tr>
+		            <td>Hispanic</td>
+		            <td>B01001I</td>
+		            <td>People who are Hispanic or Latino</td>
+		          </tr>
+		          <tr>
+		            <td>Asian (non-Hispanic)</td>
+		            <td>B01001D</td>
+		            <td>People who are Asian alone</td>
+		          </tr>
+		          <tr>
+		            <td>Other Non-Hispanic Races</td>
+		            <td>B03002</td>
+		            <td>Total population <br>(calculated by subtracting other indicators)</td>
+		          </tr>
+		          <tr>
+		            <td>Did Not Attend High School</td>
+		            <td>B15003</td>
+		            <td>Population 25 years and over</td>
+		          </tr>
+		          <tr>
+		            <td>Graduated High School</td>
+		            <td>B15003</td>
+		            <td>Population 25 years and over</td>
+		          </tr>
+		          <tr>
+		            <td>Graduated College</td>
+		            <td>B15003</td>
+		            <td>Population 25 years and over</td>
+		          </tr>
+		          <tr>
+		            <td>Completed a Graduate Degree</td>
+		            <td>B15003</td>
+		            <td>Population 25 years and over</td>
+		          </tr>
+		          <tr>
+		            <td>Annual Labor Force Participation Rate</td>
+		            <td>B23025</td>
+		            <td>Population 16 years and over </td>
+		          </tr>
+		          <tr>
+		            <td>Annual Unemployment Rate</td>
+		            <td>B23025</td>
+		            <td>Population 16 years and over </td>
+		          </tr>
+		          <tr>
+		            <td>Enrolled in Medicaid</td>
+		            <td>C27007</td>
+		            <td>Civilian noninstitutionalized population</td>
+		          </tr>
+		          <tr>
+		            <td>Household Income ($)</td>
+		            <td>B19013</td>
+		            <td>Households</td>
+		          </tr>
+		          <tr>
+		            <td>Insured</td>
+		            <td>B27001</td>
+		            <td>Civilian noninstitutionalized population</td>
+		          </tr>
+		          <tr>
+		            <td>Living Below Poverty</td>
+		            <td>B17026</td>
+		            <td>Families</td>
+		          </tr>
+		          <tr>
+		            <td>Received TANF or SNAP Public Assistance</td>
+		            <td>B19058</td>
+		            <td>Households</td>
+		          </tr>
+		          <tr>
+		            <td>Uninsured</td>
+		            <td>B27001</td>
+		            <td>Civilian noninstitutionalized population</td>
+		          </tr>
+		          <tr>
+		            <td>Crowded Homes</td>
+		            <td>DP04</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>High Rent Burden</td>
+		            <td>B25070</td>
+		            <td>Renter-occupied housing units</td>
+		          </tr>
+		          <tr>
+		            <td>Homes without Broadband Internet</td>
+		            <td>DP02</td>
+		            <td>Households</td>
+		          </tr>
+		          <tr>
+		            <td>Homes without Complete Plumbing</td>
+		            <td>DP04</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>Housing in Mobile Homes</td>
+		            <td>DP04</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>Housing in Multi-Unit Structures</td>
+		            <td>DP04</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>Median Gross Rent ($)</td>
+		            <td>DP04</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>Median Home Value ($)</td>
+		            <td>DP04</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>Median Monthly Mortgage ($)</td>
+		            <td>DP04</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>No Household Vehicle Access</td>
+		            <td>B08141</td>
+		            <td>Workers 16 years and over in households</td>
+		          </tr>
+		          <tr>
+		            <td>Owner-occupied Housing Units</td>
+		            <td>DP04</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>Single Parent Homes</td>
+		            <td>B11012</td>
+		            <td>Households</td>
+		          </tr>
+		          <tr>
+		            <td>Vacant Housing</td>
+		            <td>B25002</td>
+		            <td>Housing units</td>
+		          </tr>
+		          <tr>
+		            <td>Black Population Living Below Poverty</td>
+		            <td>B17010B</td>
+		            <td>Families with a householder who is Black or African-American alone</td>
+		          </tr>
+		          <tr>
+		            <td>Black Population without Health Insurance</td>
+		            <td>C27001B</td>
+		            <td>Black or African-American alone civilian noninstitutionalized population</td>
+		          </tr>
+		          <tr>
+		            <td>Children without Health Insurance</td>
+		            <td>B27010</td>
+		            <td>Civilian noninstitutionalized population</td>
+		          </tr>
+		          <tr>
+		            <td>Economic Segregation</td>
+		            <td>B19001</td>
+		            <td>Households</td>
+		          </tr>
+		          <tr>
+		            <td>Gender Pay Gap</td>
+		            <td>B24022</td>
+		            <td>Full=time, year-round civilian employed population 16 years and over</td>
+		          </tr>
+		          <tr>
+		            <td>Hispanic Population Living Below Poverty</td>
+		            <td>B17010I</td>
+		            <td>Families with a householder who is Hispanic or Latino</td>
+		          </tr>
+		          <tr>
+		            <td>Hispanic Population without Health Insurance</td>
+		            <td>C27001I</td>
+		            <td>Hispanic or Latino civilian noninstitutionalized population</td>
+		          </tr>
+		          <tr>
+		            <td>Income Inequality<br>(Gini Coefficient)</td>
+		            <td>B19083</td>
+		            <td>Households</td>
+		          </tr>
+		          <tr>
+		            <td>Lack Proficiency in English</td>
+		            <td>B16005</td>
+		            <td>Population 5 years and over</td>
+		          </tr>
+		          <tr>
+		            <td>Racial Economic Segregation</td>
+		            <td>B19001A/B</td>
+		            <td>Households with a householder who is White alone/Black or African-American alone</td>
+		          </tr>
+		          <tr>
+		            <td>Racial Segregation</td>
+		            <td>B03002</td>
+		            <td>Total population</td>
+		          </tr>
+		        </tbody>
+		      </table>
+		    </figure>
+
+		    <p>Economic Segregation, Racial Segregation, and Racial Economic Segregation as indices referred to collectively as Indices of Concentrations at the Extremes. These are intended to look at the difference in the proportions of most versus least privileged individuals in an area. For Economic Segregation, most privileged is defined as annual income over $150,000, whereas least privileged is annual income under $30,000. For Racial Segregation, most privileged is White race and least privileged is Black race. For Racial Economic Segregation, most privileged is White race with annual income over $150,000 and least privileged is Black race with annual income under $30,000. These indices range between -1 and +1, with values approaching +1 showing segregation towards greater privilege and values approaching -1 showing segregation towards less privilege.</p>
+
+		    <p>Gender Pay Gap measures the cents fewer on the dollar that the median female in an area makes per dollar the median male in that area makes. Positive values indicate that the median male makes more than the median female; negative values indicate that the median female makes more than the median male.</p>
+
+		    <h4><a rel="noreferrer noopener" href="https://www.bls.gov/data/" target="_blank">U</a><a rel="noreferrer noopener" href="https://www.bls.gov/data/" target="_blank">.</a><a rel="noreferrer noopener" href="https://www.bls.gov/data/" target="_blank">S</a><a rel="noreferrer noopener" href="https://www.bls.gov/data/" target="_blank">.</a><a href="https://www.bls.gov/data/" target="_blank" rel="noreferrer noopener"> </a><a rel="noreferrer noopener" href="https://www.bls.gov/data/" target="_blank">Bureau of Labor Statistics (BLS)</a></h4>
+
+		    <p>The BLS&nbsp;measures labor market activity, working conditions, price changes, and productivity in the U.S. economy to support public and private decision making. Cancer InFocus uses BLS to obtain the monthly unemployment rate (not seasonally adjusted). This data is updated monthly and typically runs on a two month delay. BLS data is not included in the Cancer InFocus mapping applications.</p>
+
+		    <hr>
+
+		    <h2><strong><em>Screening &amp; Risk Factors and Other Health Factors</em></strong></h2>
+
+		    <h4><a href="https://www.cdc.gov/places/" target="_blank" rel="noreferrer noopener">PLACES</a></h4>
+
+		    <p>PLACES is a collaboration between CDC, the Robert Wood Johnson Foundation, and the CDC Foundation. PLACES provides health data for small areas across the country. This allows local health departments and jurisdictions, regardless of population size and rurality, to better understand the burden and geographic distribution of health measures in their areas and assist them in planning public health interventions.</p>
+
+		    <p>PLACES provides model-based, population-level analysis and community estimates of health measures to all counties, places (incorporated and census designated places), census tracts, and ZIP Code Tabulation Areas (ZCTAs) across the United States.</p>
+
+		    <p>Cancer InFocus contains the following indicators from the PLACES, which are based off of data from the Behavioral Risk Factor Surveillance System:</p>
+
+		    <figure class="wp-block-table">
+		      <table class="table table-bordered table-striped">
+		        <tbody>
+		          <tr>
+		            <th><strong>Indicator</strong></th>
+		            <th><strong>Most Recent Survey Variable Name</strong></th>
+		            <th><strong>Most Recent Year Used</strong></th>
+		          </tr>
+		          <tr>
+		            <td>Met Breast Screening Recommendations</td>
+		            <td>_MAM5023</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Had Pap Test in Last 3 Years,<br>Age 21-65</td>
+		            <td>_RFPAP35</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Met Colorectal Screening Recommendations</td>
+		            <td>_CRCREC</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Currently Smoke (adults)</td>
+		            <td>_RFSMOK3</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Obese (BMI over 30)</td>
+		            <td>_BMI5CAT</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Physically Inactive</td>
+		            <td>_TOTINDA</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Binge Drink</td>
+		            <td>_RFBING5</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Sleep &lt; 7 Hours a Night</td>
+		            <td>SLEPTIM1</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>History of Cancer Diagnosis</td>
+		            <td>CHCOCNCR</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Report Fair or Poor Overall Health</td>
+		            <td>_RFHLTH</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Report Frequent Physical Health Distress</td>
+		            <td>_PHYS14D</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Report Frequent Mental Health Distress</td>
+		            <td>_MENT14D</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Have Depression</td>
+		            <td>ADDEPEV3</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Diagnosed with Diabetes</td>
+		            <td>DIABETE4</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Have High Blood Pressure</td>
+		            <td>_RFHYPE5</td>
+		            <td>2019</td>
+		          </tr>
+		          <tr>
+		            <td>On Blood Pressure Medicine</td>
+		            <td>BPMEDS</td>
+		            <td>2019</td>
+		          </tr>
+		          <tr>
+		            <td>Have Coronary Heart Disease</td>
+		            <td>CVDCRHD4</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Had a Stroke</td>
+		            <td>CVDSTRK3</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Have Chronic Kidney Disease</td>
+		            <td>CHCKDNY2</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Diagnosed with Asthma</td>
+		            <td>_LTASTH1</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Have COPD</td>
+		            <td>CHCCOPD2</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>All Adult Teeth Lost</td>
+		            <td>_ALTETH3</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Had a Medical Checkup in the Last Year</td>
+		            <td>CHECKUP1</td>
+		            <td>2020</td>
+		          </tr>
+		          <tr>
+		            <td>Had a Dental Visit in the Last Year</td>
+		            <td>_DENVST3</td>
+		            <td>2020</td>
+		          </tr>
+		        </tbody>
+		      </table>
+		    </figure>
+
+		    <hr>
+
+		    <h2><strong><em>Environment</em></strong></h2>
+
+		    <h4><a href="https://www.ers.usda.gov/data-products/food-access-research-atlas/" target="_blank" rel="noreferrer noopener">Economic Research Service, U.S. Department of Agriculture (USDA ERS)</a></h4>
+
+		    <p>The mission of USDA’s Economic Research Service is to anticipate trends and emerging issues in agriculture, food, the environment, and rural America and to conduct high-quality, objective economic research to inform and enhance public and private decision making. ERS research and analysis covers a broad range of economic and policy topics, including food/nutrition and poverty.</p>
+
+		    <p>Cancer InFocus uses the indicator Food Deserts (LILA Vehicle) from the USDA ERS. The most recently available data is from 2015.</p>
+
+		    <h4><a href="https://www.fcc.gov/general/broadband-deployment-data-fcc-form-477" target="_blank" rel="noreferrer noopener">Federal Communications Commission (FCC)</a></h4>
+
+		    <p>The FCC regulates interstate and international communications by radio, television, wire, satellite, and cable in all 50 states, the District of Columbia and U.S. territories. An independent U.S. government agency overseen by Congress, the Commission is the federal agency responsible for implementing and enforcing America’s communications law and regulations.</p>
+
+		    <p>Cancer InFocus uses the FCC Form 477 broadband data on average maximum advertised upload and download speeds at the Census block group level. This data is updated twice yearly in June and December and runs about one year behind. FCC data is not included in the Cancer InFocus mapping applications.</p>
+
+		    <h4><a href="https://www.epa.gov/ejscreen" target="_blank" rel="noreferrer noopener">Environmental Protection Agency (EPA) Environmental Justice Screening (EJScreen)</a></h4>
+
+		    <p>EJScreen is an EPA's environmental justice mapping and screening tool that provides EPA with a nationally consistent dataset and approach for combining environmental and demographic socioeconomic indicators.</p>
+
+		    <p>Cancer InFocus uses the 12 raw environmental justice indicator variables given at the Census tract level from the 2022 EJScreen dataset.</p>
+
+		    <h4><a href="https://www.epa.gov/ground-water-and-drinking-water/safe-drinking-water-information-system-sdwis-federal-reporting" target="_blank" rel="noreferrer noopener">EPA Safe Drinking Water Information System (SDWIS)</a></h4>
+
+		    <p>The EPA's SDWIS databases store information about drinking water. The federal version (SDWIS/FED) stores the information the U.S. Environmental Protection Agency (EPA) needs to monitor approximately 156,000 public water systems.</p>
+
+		    <p>Cancer InFocus uses the indicator Public Water Systems Violations (Health Based) from the SDWIS. This data is aggregated from the most recently completed year back to 2016.</p>
+
+		    <hr>
+
+		    <h2><strong><em>Facilities &amp; Providers</em></strong></h2>
+
+		    <h4><a href="https://enviro.epa.gov/" target="_blank" rel="noreferrer noopener">EPA Envirofacts</a></h4>
+
+		    <p>The Envirofacts Multisystem Search integrates information from a variety of databases and includes latitude and longitude information. Each of these databases contains information about facilities that are required to report activity to a state or federal system.</p>
+
+		    <p>Cancer InFocus draws information on Superfund sites from the <a href="https://www.epa.gov/enviro/sems-overview" target="_blank" rel="noreferrer noopener">Superfund Enterprise Management System (SEMS)</a> and information on facilities releasing known carcinogens from the <a href="https://www.epa.gov/enviro/tri-model" target="_blank" rel="noreferrer noopener">Toxic Release Inventory</a>. Superfund site data is available in real-time; the most recently available Toxic Release Inventory data is from 2021.
+
+		    </p><h4><a href="https://data.hrsa.gov/data/about" target="_blank" rel="noreferrer noopener">Health Resources &amp; Services Administration (HRSA), Department of Health &amp; Human Services</a></h4>
+
+		    <p>HRSA programs provide health care to people who are geographically isolated, economically or medically vulnerable. This includes people living with HIV/AIDS, pregnant women, mothers and their families, and those otherwise unable to access high quality health care. HRSA also supports access to health care in rural areas, the training of health professionals, the distribution of providers to areas where they are needed most, and improvements in health care delivery.</p>
+
+		    <p>Cancer InFocus uses facility data for Federally-Qualified Health Centers (FQHC), FQHC Look-a-Likes (FQHC LAL), Rural Health Clinics (RHC), and Correctional Facility clinics. All of these facilities fall under the general classification of Health Professional Shortage Area (HPSA) facilities. This data is available in real-time, reflecting all such facilities currently recognized by HRSA.</p>
+
+		    <h4><a href="https://www.acr.org/Clinical-Resources/Lung-Cancer-Screening-Resources/LCS-Locator-Tool" target="_blank" rel="noreferrer noopener">Lung Cancer Screening Registry (LCSR), American College of Radiology</a></h4>
+
+		    <p>The ACR Lung Cancer Screening Registry (LCSR) is designed to systematically audit the quality of interpretation of screening lung CT exams. The registry is based on the ACR Lung Imaging Reporting and Data System (Lung-RADS), which is the product of the ACR Lung Cancer Screening Committee subgroup on Lung-RADS. This Lung-RADS system is a quality assurance tool designed to standardize lung cancer screening CT reporting and management recommendations, reduce confusion in lung cancer screening CT interpretations and facilitate outcome monitoring. The ACR LCSR will capture Lung-RADS recommendations and monitor and compare appropriate use of Lung-RADS</p>
+
+		    <p>Cancer InFocus uses the location data for Lung Cancer Screening Sites from the LCSR. This data is available in real-time, reflecting active lung cancer screening locations in the LCSR. </p>
+
+		    <p><em>Note: Not all lung cancer screening sites are required to be a part of the LCSR. The ACR estimates that the LCSR reflects between 80%-90% of all active sites in the nation.</em></p>
+
+		    <h4><a href="https://nppes.cms.hhs.gov/#/" target="_blank" rel="noreferrer noopener">National Plan &amp; Provider Enumeration System (NPPES)</a></h4>
+
+		    <p>Centers for Medicare &amp; Medicaid Services&nbsp;CMS has developed the NPPES to assign unique identifiers to health care providers. The National Provider Indentifier (NPI) has been the standard identifier for all HIPAA-covered entities (health care providers) since May 23, 2007. Small health plans were required to obtain and use an NPI by May 23, 2008.</p>
+
+		    <p>Cancer InFocus uses the location data for gastroenterologists and colon &amp; rectal surgeons from the NPPES. This data is available in real-time, reflecting all practicing providers.</p>
+
+		    <h4><a href="https://www.fda.gov/radiation-emitting-products/consumer-information-mqsa/search-certified-facility" target="_blank" rel="noreferrer noopener">United States Food and Drug Administration (FDA)</a></h4>
+
+		    <p>The Mammography Quality Standards Act requires mammography facilities across the nation to meet uniform quality standards. Congress passed this law in 1992 to assure high-quality mammography for early breast cancer detection, which can lead to early treatment, a range of treatment options, and increased chances of survival. Under the law, all mammography facilities must: 1) be accredited by an FDA-approved accreditation body, 2) be certified by FDA, or its State, as meeting the standards, 3) undergo an annual MQSA inspection, and 4) prominently display the certificate issued by the agency.</p>
+
+		    <p>Cancer InFocus uses the location data for Mammography Sites from the FDA Certified Mammography Facilities list. This data is updated on a weekly basis to reflect real-time presence of mammography facilities.</p>
+		</div>
+
+		<div id="about" style="padding: 15vw; padding-top: 50px !important; font-size: 16px; line-height: 26px;">
+		    <div class="title" style="text-align: center;">
+		      <img src="https://live.staticflickr.com/65535/52492234247_c430d09ed5_h.jpg" alt="Cancer InFocus" style="width:50vw; margin-bottom: 52px;">
+		      <h1 style="margin-bottom: 44px;">ABOUT US</h1>
+		      <p style="text-align: justify;">Cancer InFocus is a data gathering and visualization platform designed to make understanding the cancer burden in a geographic area easier through a rapid and repeatable process of tool creation. This platform was developed by the Community Impact Office at the University of Kentucky Markey Cancer Center, and is made available to others through CancerInFocus.org (for data downloads) and a no-cost licensing agreement (for access to data gathering and application creation code). </p>
+		      <hr>
+		    </div>
+
+		    <h2><strong><em>What It Does</em></strong></h2>
+
+		    <p>Cancer InFocus begins with a data gathering program known as CIFTools. This program receives a set of US counties as an input and uses that input to pull and filter data from numerous publicly available online sources, such as the US Census Bureau's American Community Survey, CDC Places, the FDA Certified Mammography facility list, and more (see available data sources <a href="https://cancerinfocus.org/datasources/" target="_blank" rel="noreferrer noopener">here</a>). Data is then processed into a standard format, organized by category and geographic level, and written to files for use.</p>
+
+		    <p>After the data files are produced, they can be used independently or read into the Cancer InFocus Shiny application code (see below) to create an interactive mapping application. This application can be deployed online for use by anyone interested in better understanding the impacts of cancer where they live and work.</p>
+
+		    <p>The generalized nature and rapid processing of these tools allows data and applications to be easily updated over time, making the workflow of characterizing the cancer burden in an area more efficient. Increased efficiency means less time spent gathering data and building tools and more time spent on working to improve cancer outcomes.</p>
+
+		    <hr>
+
+		    <h2><strong><em>How You Can Use It</em></strong></h2>
+
+		    <p>There are two ways in which cancer centers and other interested parties can take advantage of the data gathering aspect of Cancer InFocus. Data has already been gathered and made available for download for the defined catchment areas of all NCI-designated cancer centers <a href="https://cancerinfocus.org" target="_blank" rel="noreferrer noopener">here</a> . Additional cancer centers that are not NCI-designated can request to have their catchment/service areas added to this application by emailing <a href="mailto:ciodata@uky.edu">ciodata@uky.edu</a>.</p>
+
+		    <p>Researchers can also request access to the code behind the data gathering process by filling out the following <a href="https://redcap.uky.edu/redcap/surveys/?s=FEE7KWDKRYFN88LE" target="_blank" rel="noreferrer noopener">request form </a>.
+
+		    </p><p>If a cancer center is interested in creating their own site-specific version of the Cancer InFocus interactive mapping application <a href="https://cancerinfocus.uky.edu" target="_blank" rel="noreferrer noopener">(example)</a>, they may do so through the completion of a no-cost licensing agreement with the University of Kentucky Markey Cancer Center. The licensing form may be obtained by emailing <a href="mailto:ciodata@uky.edu">ciodata@uky.edu</a>. Centers who license access to the Cancer InFocus Shiny application code will be responsible for deploying and maintaining their own versions of Cancer InFocus.</p>
+
+		    <hr>
+
+		    <h2><strong><em>Acknowledgments</em></strong></h2>
+
+		    <p>This work was aided and inspired by the work of others seeking to emphasize the importance of cancer center catchment areas and assess the holes left to be filled. Two articles dealing with the geographic scope of US cancer centers were of particular importance to us: <a href="https://aacrjournals.org/cebp/article/31/5/955/694731/Assessing-the-Coverage-of-US-Cancer-Center-Primary" target="_blank" rel="noreferrer noopener"><em>Assessing the Coverage of US Cancer Center Primary Catchment Areas</em> (2022)</a>, by Leader, McNair et al. and <a href="https://aacrjournals.org/cebp/article-abstract/31/5/965/694730/A-National-Map-of-NCI-Designated-Cancer-Center?redirectedFrom=fulltext" target="_blank" rel="noreferrer noopener"><em>A National Map of NCI-Designated Cancer Center Catchment Areas on the 50th Anniversary of the Cancer Centers Program</em> (2022)</a> by DelNero, Buller et al.</p>
+
+
+		    <h2><strong><em>Citation</em></strong></h2>
+
+		    <p>Justin Todd Burus, Lee Park, Caree R. McAfee, Natalie P. Wilhite, Pamela C. Hull; Cancer InFocus: Tools for Cancer Center Catchment Area Geographic Data Collection and Visualization. <em>Cancer Epidemiol Biomarkers Prev</em> 2023; <a href="https://doi.org/10.1158/1055-9965.EPI-22-1319" target="_blank" rel="noreferrer noopener">https://doi.org/10.1158/1055-9965.EPI-22-1319</a></p>
+		</div>
+	</div>
+
+	<script type="text/javascript" th:inline="javascript">
+			$(window).on('load', function() {
+			window.Shiny.common.init([[${contextPath}]], [[${application_name}]], [[${spInstance}]], [[${appMaxInstances}]], [[${myAppsMode}]], [[${pauseSupported}]]);
+			window.Shiny.app.start(
+					[[${proxy}]],
+					[[${heartbeatRate}]],
+					[[${appName}]],
+					[[${appInstance}]],
+                    [[${parameterAllowedCombinations}]],
+                    [[${parameterDefinitions}]],
+                    [[${parameterIds}]],
+					[[${appPath}]],
+					[[${containerSubPath}]],
+			);
+			window.Shiny.ui.loadDefaultParameters([[${parameterDefaults}]]);
+			if ([[${refreshOpenidEnabled}]]) {
+				window.Shiny.connections.startOpenidRefresh();
+			}
+
+			let extraContentIntervalID;
+			function onAppStart() {
+				if (Shiny.app.runtimeState.proxy.status === "Up") {
+					document.getElementById('extraContent').style.display = "block";
+					clearInterval(extraContentIntervalID);
+				}
+			}
+			extraContentIntervalID = setInterval(onAppStart, 1000);
+		});
+	</script>
+</body>
+</html>

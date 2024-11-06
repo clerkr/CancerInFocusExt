@@ -1,0 +1,88 @@
+---
+output: 
+    pdf_document:
+        keep_tex: true
+        df_print: kable
+header-includes:
+    - \usepackage{graphicx}
+    - \usepackage{booktabs}
+    - \usepackage{longtable}
+    - \usepackage{array}
+    - \usepackage{multirow}
+    - \usepackage{float}
+    - \usepackage{colortbl}
+    - \usepackage{tabu}
+    - \usepackage[normalem]{ulem}
+    - \usepackage{makecell}
+    - \usepackage{xcolor}
+    - \let\Begin\begin
+    - \let\End\end
+    - \newcommand{\Newrow}{\\}
+params:
+    datCIF: NULL
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, results='hide', message=FALSE, warning=FALSE)
+library(knitr)
+library(dplyr)
+library(rmarkdown)
+library(pander)
+panderOptions('knitr.auto.asis', FALSE)
+library(kableExtra)
+allow_markdown <- function(tex) {
+    tex <- gsub("begin", "Begin", tex) ## fix \begin{} tags
+    tex <- gsub("\\\\end", "\n\\\\End", tex) ## fix \end{} tags
+    tex <- gsub("\\\\\\\\", "\\\\Newrow\n", tex) ## fix new row \\
+    return(tex)
+}
+```
+
+
+```{r, echo=F}
+area = unique(params$datCIF$area)
+state = unique(params$datCIF$State)
+cats = unique(params$datCIF$cat)
+```
+
+<!-- change to correct filename -->
+![](cif_wake_big_logo_tm.png){height=50% style="display: block; margin: 0 auto;"}
+
+\vspace{2cm}
+
+# Profile for `r area`
+
+```{r, echo=F, results='asis'}
+for (i in 1:length(cats)) {
+    cat('\n')
+    cat("##", cats[i], "\n")
+    df = params$datCIF %>%
+        filter(cat == cats[i]) %>%
+        {
+            if (!(cats[i] %in% c('Sociodemographics', 'Cancer Incidence (age-adj per 100k)',
+                                 "Screening & Risk Factors", "Other Health Factors")))
+                arrange(., Variable)
+            else
+                .
+        } %>%
+        select(Variable, Value, Catchment_Median_Value)
+
+    print(kbl(df,
+              col.names = c("Variable", "Value", "Catchment Median"),
+              format = 'latex',
+              linesep = '',
+              booktabs = T,
+              longtable = T,
+              align = c('lrr')) %>% 
+              kable_styling(font_size=12, 
+                            latex_options=c('hold_position', 'repeat_header', 'striped')) %>% 
+              column_spec(1, width="8cm") %>% 
+              column_spec(2, width="4cm") %>% 
+              column_spec(3, width="4cm")
+          )
+    pander(paste0("$\\vspace{0.4cm}$\n"))
+    
+    if (shiny::isRunning())
+        shiny::incProgress(i/length(cats) - 0.05)  
+}
+```
