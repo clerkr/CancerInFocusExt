@@ -3,9 +3,9 @@
 docker build -t setup -f setup/Dockerfile .
 
 docker run \
-    -v /srv/shiny-server/internal/ShinyCIF:/srv/shiny-server/internal/ShinyCIF \
-    -v /srv/shiny-server/internal/ShinyCIFProfiles:/srv/shiny-server/internal/ShinyCIFProfiles \
-    -v /srv/shiny-server/internal/ShinyCIFBivar:/srv/shiny-server/internal/ShinyCIFBivar \
-    -v /srv/shiny-server/internal/huntsman_catchment_data:/srv/shiny-server/internal/huntsman_catchment_data \
-    -v /srv/shiny-server/internal/setup:/srv/shiny-server/internal/setup \
+    -v /srv/external/ShinyCIF:/srv/external/ShinyCIF \
+    -v /srv/external/ShinyCIFProfiles:/srv/external/ShinyCIFProfiles \
+    -v /srv/external/ShinyCIFBivar:/srv/external/ShinyCIFBivar \
+    -v /srv/external/huntsman_catchment_data:/srv/external/huntsman_catchment_data \
+    -v /srv/external/setup:/srv/external/setup \
     setup

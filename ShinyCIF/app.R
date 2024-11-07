@@ -25,7 +25,7 @@ recent = 'October 29, 2024' #! date of latest update
 ca = 'huntsman' #! catchment area name from CIFTools
 
 #!#!#! WHEN SAVING THIS FILE AS app.R, remove or comment out the following two lines of code
-# path = '/srv/shiny-server/internal/ShinyCIF/' #! location of Shiny app
+# path = '/srv/external/ShinyCIF/' #! location of Shiny app
 
 # setwd(path)
 

@@ -10,6 +10,6 @@ RUN apt-get update && apt-get install -y \
     && R CMD javareconf
 
 # Run setup script
-CMD ["Rscript", "/srv/shiny-server/internal/setup/CIFvars_v5.R"]
+CMD ["Rscript", "/srv/external/setup/CIFvars_v5.R"]
 
 

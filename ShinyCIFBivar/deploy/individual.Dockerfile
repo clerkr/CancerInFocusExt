@@ -19,10 +19,10 @@ RUN echo "local(options(shiny.port = 3840, shiny.host = '0.0.0.0'))" > /usr/loca
 # Expose the port the app runs on
 EXPOSE 3840
 
-# COPY ShinyCIFBivar/app.R /srv/shiny-server/internal/ShinyCIFBivar/app.R
+# COPY ShinyCIFBivar/app.R /srv/external/ShinyCIFBivar/app.R
 
-# WORKDIR /srv/shiny-server/internal/ShinyCIFBivar/
+# WORKDIR /srv/external/ShinyCIFBivar/
 
 # CMD ["/usr/bin/shiny-server"]
 
-CMD ["R", "-e", "shiny::runApp('/srv/shiny-server/internal/ShinyCIFBivar/app.R')"]
+CMD ["R", "-e", "shiny::runApp('/srv/external/ShinyCIFBivar/app.R')"]

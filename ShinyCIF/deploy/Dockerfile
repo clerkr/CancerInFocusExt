@@ -19,8 +19,8 @@ RUN echo "local(options(shiny.port = 3838, shiny.host = '0.0.0.0'))" > /usr/loca
 # Expose the port the app runs on
 EXPOSE 3838
 
-COPY ShinyCIF/app.R /srv/shiny-server/internal/ShinyCIF/app.R
+COPY ShinyCIF/app.R /srv/external/ShinyCIF/app.R
 
-WORKDIR /srv/shiny-server/internal/ShinyCIF/
+WORKDIR /srv/external/ShinyCIF/
 
 CMD ["/usr/bin/shiny-server"]
