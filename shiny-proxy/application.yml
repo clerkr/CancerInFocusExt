@@ -1,7 +1,7 @@
 server:
   forward-headers-strategy: native
   servlet:
-    context-path: /shape
+    context-path: /shape/external
 proxy:
   title: ShinyProxy
   port: 8080
@@ -15,23 +15,24 @@ proxy:
     display-name: Cancer InFocus
     description: Shiny CIF Application
     container-cmd: ["R", "-e", "shiny::runApp('/srv/external/ShinyCIF/app.R')"]
-    container-image: cif
+    container-image: cif-ext
     container-volumes: ["/srv/external/:/srv/external/"]
     container-network: external-net
   - id: profiles
     display-name: Cancer InFocus Profiles
     description: Shiny CIF Profiles Application
     container-cmd: ["R", "-e", "shiny::runApp('/srv/external/ShinyCIFProfiles/app.R')"]
-    container-image: profiles
+    container-image: profiles-ext
     container-volumes: ["/srv/external/:/srv/external/"]
     container-network: external-net
   - id: bivariate
     display-name: Cancer InFocus Bivariate
     description: Shiny CIF Bivariate Application
     container-cmd: ["R", "-e", "shiny::runApp('/srv/external/ShinyCIFBivar/app.R')"]
-    container-image: bivar
+    container-image: bivar-ext
     container-volumes: ["/srv/external/:/srv/external/"]
     container-network: external-net
+  container-log-path: /var/log/shiny-proxy/external
 logging:
   file:
-    name: external.log
+    name: /var/log/shiny-proxy/external/external.log

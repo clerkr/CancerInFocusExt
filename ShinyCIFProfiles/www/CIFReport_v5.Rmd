@@ -46,7 +46,7 @@ cats = unique(params$datCIF$cat)
 ```
 
 <!-- change to correct filename -->
-![](cif_wake_big_logo_tm.png){height=50% style="display: block; margin: 0 auto;"}
+![](cif_huntsman_big_logo.png){height=50% style="display: block; margin: 0 auto;"}
 
 \vspace{2cm}
 
