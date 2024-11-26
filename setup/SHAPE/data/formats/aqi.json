@@ -1,0 +1,11 @@
+{
+    "daysWithAqi": "int",
+    "goodDays": "pct",
+    "moderateDays": "pct",
+    "unhealthyForSensitiveGroupsDays": "pct",
+    "unhealthyDays": "pct",
+    "veryUnhealthyDays": "pct",
+    "hazardousDays": "pct",
+    "maxAqi": "int",
+    "medianAqi": "int"
+}

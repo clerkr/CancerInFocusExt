@@ -1,0 +1,11 @@
+{
+    "daysWithAqi": "Number of days on which AQI was recorded",
+    "goodDays": "Proportion of days with good AQI",
+    "moderateDays": "Proportion of days with moderate AQI",
+    "unhealthyForSensitiveGroupsDays": "Proportion of days with AQI that is unhealthy for sensitive groups",
+    "unhealthyDays": "Proportion of days with unhealthy AQI",
+    "veryUnhealthyDays": "Proportion of days with very unhealthy AQI",
+    "hazardousDays": "Proportion of days with hazardous AQI",
+    "maxAqi": "Max AQI in the last year",
+    "medianAqi": "Median AQI in the last year"
+}
