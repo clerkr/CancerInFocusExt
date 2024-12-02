@@ -5,4 +5,4 @@
 
 #### Dev Env ####
 
-docker run --name shape-ext -it -v /Users/davidstone/Projects/SHAPE/external:/srv/external shape-ext
+docker run -it -v /Users/davidstone/Projects/SHAPE/external:/srv/external shape-ext
