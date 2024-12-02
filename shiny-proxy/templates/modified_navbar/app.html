@@ -169,6 +169,14 @@
 
 		    <h2><strong><em>Cancer Incidence and Mortality</em></strong></h2>
 
+			<h4><a href="https://www.cdc.gov/united-states-cancer-statistics/index.html" target="_blank" rel="noreferrer noopener">US Cancer Statistics (USCS)</a></h4>
+
+			<p>The United States Cancer Statistics are the official federal cancer statistics. These statistics include cancer registry data from CDC's National Program of Cancer Registries (NPCR) and the National Cancer Institute's (NCI) Surveillance, Epidemiology, and End Results (SEER) Program, as well as mortality data from CDC's National Center for Health Statistics. The statistics provide information on newly diagnosed cancer cases and cancer deaths for the United States and Puerto Rico.</p>
+
+			<p>Cancer incidence data from USCS used in Cancer InFocus comes from their Incidence Analytic Dataset. Access to this resource was provided to Cancer InFocus to allow us to pull county-level cancer incidence rates that were previously unavailable publicly. The most recently available incidence data are the 5-year average age-adjusted rates per 100,00 people for 2017-2021.</p>
+
+			<p>If you plan to use any of the cancer incidence data in future projects, please make sure to cite the USCS Incidence Analytic Dataset as: "National Program of Cancer Registries and Surveillance, Epidemiology, and End Results Program SEER*Stat Database: Incidence Analytic Dataset, United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute. Based on the 2023 submission." Data from Indiana should be excluded from any downstream analysis due to not meeting the USCS criteria for 2017-2021.</p>
+
 		    <h4><a href="https://statecancerprofiles.cancer.gov/index.html" target="_blank" rel="noreferrer noopener">State Cancer Profiles (SCP)</a></h4>
 
 		    <p>SCP is an interactive map engine produced in collaboration between the National Cancer Institute and Centers for Disease Control and Prevention. It was developed with the idea to provide a geographic profile of cancer burden in the United States and reveal geographic disparities in cancer incidence, mortality, risk factors for cancer, and cancer screening, across different population subgroups. The target audiences are health planners, policy makers, and cancer information providers who need quick and easy access to cancer related data and maps to inform and prioritize investments in cancer control.</p>
@@ -445,136 +453,186 @@
 		    <p>Cancer InFocus contains the following indicators from the PLACES, which are based off of data from the Behavioral Risk Factor Surveillance System:</p>
 
 		    <figure class="wp-block-table">
-		      <table class="table table-bordered table-striped">
-		        <tbody>
-		          <tr>
-		            <th><strong>Indicator</strong></th>
-		            <th><strong>Most Recent Survey Variable Name</strong></th>
-		            <th><strong>Most Recent Year Used</strong></th>
-		          </tr>
-		          <tr>
-		            <td>Met Breast Screening Recommendations</td>
-		            <td>_MAM5023</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Had Pap Test in Last 3 Years,<br>Age 21-65</td>
-		            <td>_RFPAP35</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Met Colorectal Screening Recommendations</td>
-		            <td>_CRCREC</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Currently Smoke (adults)</td>
-		            <td>_RFSMOK3</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Obese (BMI over 30)</td>
-		            <td>_BMI5CAT</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Physically Inactive</td>
-		            <td>_TOTINDA</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Binge Drink</td>
-		            <td>_RFBING5</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Sleep &lt; 7 Hours a Night</td>
-		            <td>SLEPTIM1</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>History of Cancer Diagnosis</td>
-		            <td>CHCOCNCR</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Report Fair or Poor Overall Health</td>
-		            <td>_RFHLTH</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Report Frequent Physical Health Distress</td>
-		            <td>_PHYS14D</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Report Frequent Mental Health Distress</td>
-		            <td>_MENT14D</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Have Depression</td>
-		            <td>ADDEPEV3</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Diagnosed with Diabetes</td>
-		            <td>DIABETE4</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Have High Blood Pressure</td>
-		            <td>_RFHYPE5</td>
-		            <td>2019</td>
-		          </tr>
-		          <tr>
-		            <td>On Blood Pressure Medicine</td>
-		            <td>BPMEDS</td>
-		            <td>2019</td>
-		          </tr>
-		          <tr>
-		            <td>Have Coronary Heart Disease</td>
-		            <td>CVDCRHD4</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Had a Stroke</td>
-		            <td>CVDSTRK3</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Have Chronic Kidney Disease</td>
-		            <td>CHCKDNY2</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Diagnosed with Asthma</td>
-		            <td>_LTASTH1</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Have COPD</td>
-		            <td>CHCCOPD2</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>All Adult Teeth Lost</td>
-		            <td>_ALTETH3</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Had a Medical Checkup in the Last Year</td>
-		            <td>CHECKUP1</td>
-		            <td>2020</td>
-		          </tr>
-		          <tr>
-		            <td>Had a Dental Visit in the Last Year</td>
-		            <td>_DENVST3</td>
-		            <td>2020</td>
-		          </tr>
-		        </tbody>
-		      </table>
-		    </figure>
+				<table>
+				  <tbody>
+					<tr>
+					  <th><strong>Indicator</strong></th>
+					  <th><strong>Most Recent Survey Variable Name</strong></th>
+					  <th><strong>Most Recent Year Used</strong></th>
+					</tr>
+					<tr>
+					  <td>Met Breast Screening Recommendations</td>
+					  <td>_MAM5023</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Met Colorectal Screening Recommendations</td>
+					  <td>_CRCREC</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Currently Smoke (adults)</td>
+					  <td>_RFSMOK3</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Obese (BMI over 30)</td>
+					  <td>_BMI5CAT</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Physically Inactive</td>
+					  <td>_TOTINDA</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Binge Drink</td>
+					  <td>_RFBING5</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Sleep &lt; 7 Hours a Night</td>
+					  <td>SLEPTIM1</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>History of Cancer Diagnosis</td>
+					  <td>CHCOCNCR</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Report Fair or Poor Overall Health</td>
+					  <td>_RFHLTH</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Report Frequent Physical Health Distress</td>
+					  <td>_PHYS14D</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Report Frequent Mental Health Distress</td>
+					  <td>_MENT14D</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Have Depression</td>
+					  <td>ADDEPEV3</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Diagnosed with Diabetes</td>
+					  <td>DIABETE4</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Have High Blood Pressure</td>
+					  <td>_RFHYPE5</td>
+					  <td>2021</td>
+					</tr>
+					<tr>
+					  <td>On Blood Pressure Medicine</td>
+					  <td>BPMEDS</td>
+					  <td>2021</td>
+					</tr>
+					<tr>
+					  <td>Have Coronary Heart Disease</td>
+					  <td>CVDCRHD4</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Had a Stroke</td>
+					  <td>CVDSTRK3</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Have High Cholesterol</td>
+					  <td>_RFCHOL3</td>
+					  <td>2021</td>
+					</tr>
+					<tr>
+					  <td>Diagnosed with Asthma</td>
+					  <td>_LTASTH1</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Have COPD</td>
+					  <td>CHCCOPD2</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>All Adult Teeth Lost</td>
+					  <td>_ALTETH3</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Had a Medical Checkup in the Last Year</td>
+					  <td>CHECKUP1</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Had a Dental Visit in the Last Year</td>
+					  <td>_DENVST3</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Hearing Disability</td>
+					  <td>DEAF</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Vision Disability</td>
+					  <td>BLIND</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Cognitive Disability</td>
+					  <td>DECIDE</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Mobility Disability</td>
+					  <td>DIFFWALK</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Self-care Disability</td>
+					  <td>DIFFDRES</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Independent Living Disability</td>
+					  <td>DIFFALON</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Felt Socially Isolated in Last 12 Months</td>
+					  <td>SDHISOLT</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Experienced Food Insecurity in Last 12 Months</td>
+					  <td>SDHFOOD1</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Experienced Housing Insecurity in Last 12 Months</td>
+					  <td>SDHBILLS</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Lacked Reliable Transportation in Last 12 Months</td>
+					  <td>SDHTRNSP</td>
+					  <td>2022</td>
+					</tr>
+					<tr>
+					  <td>Lacked Social/Emotional Support in Last 12 Months</td>
+					  <td>EMTSUPRT</td>
+					  <td>2022</td>
+					</tr>
+				  </tbody>
+				</table>
+			</figure>
 
 		    <hr>
 
