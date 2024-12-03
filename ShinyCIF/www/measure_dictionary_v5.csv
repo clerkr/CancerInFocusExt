@@ -160,4 +160,30 @@ Mortality Prostate,Prostate Cancer,int,"State Cancer Profiles, 2018 - 2022"
 pctBB 100 20,Housing Units with 100/20 Mbps Broadband Service,pct,"FCC, June 2023"
 pctBB 1000 10,Housing Units with 1000/10 Mbps Broadband Service,pct,"FCC, June 2023"
 pct5G 7 1,Area with 7/1 Mbps Mobile 5G Coverage,pct,"FCC, June 2023"
-pct5G 35 3,Area with 35/3 Mbps Mobile 5G Coverage,pct,"FCC, June 2023"
+pct5G 35 3,Area with 35/3 Mbps Mobile 5G Coverage,pct,"FCC, June 2023"daysWithAqi,Number of days on which AQI was recorded,int,Environmental Protection Agency
+goodDays,Proportion of days with good AQI,pct,Environmental Protection Agency
+moderateDays,Proportion of days with moderate AQI,pct,Environmental Protection Agency
+unhealthyForSensitiveGroupsDays,Proportion of days with AQI that is unhealthy for sensitive groups,pct,Environmental Protection Agency
+unhealthyDays,Proportion of days with unhealthy AQI,pct,Environmental Protection Agency
+veryUnhealthyDays,Proportion of days with very unhealthy AQI,pct,Environmental Protection Agency
+hazardousDays,Proportion of days with hazardous AQI,pct,Environmental Protection Agency
+maxAqi,Max AQI in the last year,int,Environmental Protection Agency
+medianAqi,Median AQI in the last year,int,Environmental Protection Agency
+hadMammogramInTheLastTwoYearsAge40OrOlder,"Had mammogram in the last two years, age 40 or older",pct,Behavioral Risk Factor Surveillance System
+haventHadMammogramInTheLastTwoYearsAge40OrOlder,"Haven't had mammogram in the last two years, age 40 or older",pct,Behavioral Risk Factor Surveillance System
+hadMammogramInTheLastTwoYearsAges50To74,"Had mammogram in the last two years, ages 50 to 74",pct,Behavioral Risk Factor Surveillance System
+haventHadMammogramInTheLastTwoYearsAges50To74,"Haven't had mammogram in the last two years, ages 50 to 74",pct,Behavioral Risk Factor Surveillance System
+everMammogram,Ever mammogram,pct,Behavioral Risk Factor Surveillance System
+neverMammogram,Never mammogram,pct,Behavioral Risk Factor Surveillance System
+hadMammogramInTheLastTwoYears,Had mammogram in the last two years,pct,Behavioral Risk Factor Surveillance System
+hadMammogramThreeOrMoreYearsAgo,Had mammogram three or more years ago,pct,Behavioral Risk Factor Surveillance System
+hadPapTestInThePast3YearsNoHysterectomyAges21To65,"Had pap test in the past 3 years, no hysterectomy, ages 21 to 65",pct,Behavioral Risk Factor Surveillance System
+everCervicalCancerScreening,Ever cervical cancer screening,pct,Behavioral Risk Factor Surveillance System
+neverCervicalCancerScreening,Never cervical cancer screening,pct,Behavioral Risk Factor Surveillance System
+everPapTest,Ever pap test,pct,Behavioral Risk Factor Surveillance System
+neverPapTest,Never pap test,pct,Behavioral Risk Factor Surveillance System
+hadCervicalCancerScreeningInTheLastYear,Had cervical cancer screening in the last year,pct,Behavioral Risk Factor Surveillance System
+hadCervicalCancerScreeningWithinTheLastTwoToFiveYears,Had cervical cancer screening within the last two to five years,pct,Behavioral Risk Factor Surveillance System
+hadCervicalCancerScreeningFiveOrMoreYearsAgo,Had cervical cancer screening five or more years ago,pct,Behavioral Risk Factor Surveillance System
+everHpvTest,Ever HPV test,pct,Behavioral Risk Factor Surveillance System
+neverHpvTest,Never HPV test,pct,Behavioral Risk Factor Surveillance System

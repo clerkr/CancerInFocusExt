@@ -86,11 +86,11 @@ aqi_long['lbl'] = aqi_long['value'].apply(lambda x: str(x))
 aqi_long = aqi_long[["cat","GEOID","County","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
 
 # Append to county column
-aqi_long.to_csv('ShinyCIF/www/data/all_county.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+# aqi_long.to_csv('ShinyCIF/www/data/all_county.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
 
 # Add measures to measure dictionary
 measures = aqi_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
-measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+# measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
 
 
 # ----- Radon -------
@@ -144,7 +144,7 @@ brfss_brst_crvcl_scrn = brfss_brst_crvcl_scrn[[x in AWS for x in brfss_brst_crvc
 brfss_brst_crvcl_scrn = brfss_brst_crvcl_scrn.merge(state_fips, how='left', on='state')
 
 # Only keep the columns we want
-brfss_brst_crvcl_scrn = brfss_brst_crvcl_scrn.drop(['idBreastAndCervicalCancerScreening', 'idStateFips', 'stateAbbreviation'], axis='columns')
+brfss_brst_crvcl_scrn = brfss_brst_crvcl_scrn.drop(['idBreastAndCervicalCancerScreening', 'stateAbbreviation'], axis='columns')
 
 # Create long data and rename columns
 brfss_brst_crvcl_scrn_long = pd.melt(brfss_brst_crvcl_scrn, id_vars=['state', 'fips'], var_name='measure', value_name='value')
