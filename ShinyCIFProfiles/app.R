@@ -252,7 +252,7 @@ sidebar_selector = sidebar(
             img(
                 src = b64,
                 align = "center",
-                style = "width: 70%;
+                style = "width: 95%;
                           padding-top: 1.06vh; padding-bottom: 1.06vh;"
             )
         )
