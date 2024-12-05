@@ -1,3 +1,4 @@
+# %%
 
 # Import packages
 
@@ -16,6 +17,8 @@ except:
     raise Exception('Use sql_login_template.json to fill in the login information for sql server then change the name to sql_login.json')
     # If you don't know the SQL server login, ask the RISR contact. Right now, it's Douglas Canada
 
+# %%
+
 # Setup connection to SHAPE
 connection_url = sa.engine.URL.create(
     "mssql+pyodbc",
@@ -28,8 +31,14 @@ connection_url = sa.engine.URL.create(
 engine = sa.create_engine(connection_url)
 conn = engine.connect()
 
+
+# %%
+
 # Read State FIPS Table
 state_fips = pd.read_sql('select * from census.StateFips', conn)
+
+# Read County FIPS Table
+county_fips = pd.read_sql('select * from census.CountyFips', conn)
 
 # Read AQI table
 aqi = pd.read_sql('select * from epa.Aqi', conn)
@@ -43,6 +52,7 @@ brfss_brst_crvcl_scrn = pd.read_sql('select * from brfss.BreastAndCervicalCancer
 # Close the connection
 conn.close()
 
+# %%
 
 # ----- State FIPS -----
 # This table is mostly for utility and won't be a part of the dataset directly
@@ -50,17 +60,34 @@ conn.close()
 # Only keep the columns we want
 state_fips = state_fips.drop('idStateFips', axis='columns')
 
+# Create version for just our five states
+aws_state_fips = state_fips[[x in AWS for x in state_fips['state']]]
+
+
+# ----- County FIPS -----
+# This table is mostly for utility and won't be a part of the dataset directly
+
+# Only keep the columns we want
+county_fips = county_fips.drop('idCountyFips', axis='columns')
+
+# Create version for just our five states
+aws_county_fips = county_fips[[x in AWS for x in county_fips['state']]]
+
+# %%
 
 # ----- AQI -------
 
 # Filter aqi to area we serve
 aqi = aqi[[x in AWS for x in aqi['state']]]
 
+# Fill in NAs for missing counties
+aqi = aqi.merge(aws_county_fips, how='outer', left_on='fips', right_on='fips')
+
 # Only keep the columns we want
-aqi = aqi.drop('idAqi', axis='columns')
+aqi = aqi.drop(['idAqi', 'state_x', 'county_x'], axis='columns')
 
 # Create long data and rename columns
-aqi_long = pd.melt(aqi, id_vars=['state', 'county', 'fips'], var_name='measure', value_name='value')
+aqi_long = pd.melt(aqi, id_vars=['state_y', 'county_y', 'fips'], var_name='measure', value_name='value')
 aqi_long.columns = ['State', 'County', 'GEOID', 'measure', 'value']
 
 # Create columns for category, race/ethnicity, and sex
@@ -93,16 +120,21 @@ measures = aqi_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
 # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
 
 
+# %%
+
 # ----- Radon -------
 
 # Filter radon to area we serve
 radon = radon[[x in AWS for x in radon['state']]]
 
+# Fill in NAs for missing counties
+radon = radon.merge(aws_county_fips, how='outer', left_on='fips', right_on='fips')
+
 # Only keep the columns we want
-radon = radon[["state", "county", "fips", "indoorRadonPotential"]]
+radon = radon[["state_y", "county_y", "fips", "indoorRadonPotential"]]
 
 # Create long data and rename columns
-radon_long = pd.melt(radon, id_vars=['state', 'county', 'fips'], var_name='measure', value_name='value')
+radon_long = pd.melt(radon, id_vars=['state_y', 'county_y', 'fips'], var_name='measure', value_name='value')
 radon_long.columns = ['State', 'County', 'GEOID', 'measure', 'value']
 
 # Create columns for category, race/ethnicity, and sex
@@ -135,13 +167,15 @@ measures = radon_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
 # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
 
 
+# %%
+
 # ----- BRFSS -----
 
 # Filter brfss to area we serve
 brfss_brst_crvcl_scrn = brfss_brst_crvcl_scrn[[x in AWS for x in brfss_brst_crvcl_scrn['state']]]
 
 # Add FIPS
-brfss_brst_crvcl_scrn = brfss_brst_crvcl_scrn.merge(state_fips, how='left', on='state')
+brfss_brst_crvcl_scrn = brfss_brst_crvcl_scrn.merge(state_fips, how='outer', on='state')
 
 # Only keep the columns we want
 brfss_brst_crvcl_scrn = brfss_brst_crvcl_scrn.drop(['idBreastAndCervicalCancerScreening', 'stateAbbreviation'], axis='columns')
@@ -173,8 +207,10 @@ brfss_brst_crvcl_scrn_long['lbl'] = brfss_brst_crvcl_scrn_long['value'].apply(la
 brfss_brst_crvcl_scrn_long = brfss_brst_crvcl_scrn_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
 
 # Append to county column
-brfss_brst_crvcl_scrn_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA")
+# brfss_brst_crvcl_scrn_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA")
 
 # Add measures to measure dictionary
 measures = brfss_brst_crvcl_scrn_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
-measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+# measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+# %%

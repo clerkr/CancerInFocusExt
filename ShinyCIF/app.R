@@ -51,6 +51,21 @@ roads_sf = st_read('www/shapefiles/roads_sf.shp')
 
 fd = st_read("www/shapefiles/fd.shp")
 
+state_sf = st_read("www/shapefiles/state_border_sf.shp") %>%
+    rename(GEOID = STATEFP)
+
+state_df = read.csv('www/data/all_state.csv', header = T) %>% 
+    mutate(
+        GEOID = str_pad(GEOID, side = 'left', width = 2, pad = '0'),
+        RE = case_when(
+            RE == 'All' ~ 'All Races',
+            .default = RE
+        ),
+        Sex = case_when(
+            Sex == 'All' ~ 'All Sexes',
+            .default = Sex
+        ))
+
 county_sf = st_read("www/shapefiles/county_sf.shp") 
 
 county_df = read.csv('www/data/all_county.csv', header = T) %>% 
@@ -107,7 +122,7 @@ locs = read.csv(paste0(paste0('www/locations/', ca, '_locations_', curr, '.csv')
 
 ### prepare additional items----
 #define geo for selectInput
-geo = c("County" = "County", "Tract" = "Tract")
+geo = c("County" = "County", "Tract" = "Tract", "State" = "State")
 
 #define facilities
 facilities = c('FQHCs/Other HPSAs', 'GI Providers', 'Lung Cancer Screening', 'Mammography', 
@@ -127,6 +142,11 @@ tractDl = tract_df %>%
            Value = '') %>% 
     select(-c(County, Tract)) %>% 
     rename(FIPS = GEOID) 
+
+stateDl = state_df %>%
+    filter(measure == 'hadMammogramInTheLastTwoYearsAge40OrOlder') %>%
+    select(GEOID, State, measure, value) %>%
+    rename(FIPS = GEOID)
 
 #color palette options
 palOpts = list(
@@ -744,7 +764,9 @@ server = function(input, output, session) {
             vals$dat = county_df
         } else if (geo_to_map() == 'Tract') {
             vals$dat = tract_df
-        } 
+        } else if (geo_to_map() == 'State') {
+            vals$dat = state_df
+        }
         
         #update category selection
         sel = ifelse(
@@ -870,7 +892,11 @@ server = function(input, output, session) {
                 vals$dat2 = tract_sf %>% 
                     right_join(vals$dat1, by = c('GEOID')) %>%
                     dplyr::filter(def == group_to_map())
-            } 
+            } else if (geo_to_map() == 'State'){
+                vals$dat2 = state_sf %>%
+                    right_join(vals$dat1, by = 'GEOID') %>%
+                    dplyr::filter(def == group_to_map())
+            }
             
             #update dataset for download
             if (geo_to_map() %in% c('County', 'Tract')){
@@ -878,14 +904,21 @@ server = function(input, output, session) {
                     st_drop_geometry() %>%
                     select(GEOID, County, State, def, value) %>%
                     rename(measure = def)
-            } 
+            } else if (geo_to_map() == 'State'){
+                datOut$current = vals$dat2 %>%
+                    st_drop_geometry() %>%
+                    select(GEOID, State, def, value) %>%
+                    rename(measure = def)
+            }
             
             #configure popups
             content = if (geo_to_map() == 'County'){
                 paste0("<b>",vals$dat2$County, ", ", vals$dat2$State, ": </b>", vals$dat2$lbl)
             } else if (geo_to_map() == 'Tract'){
                 paste0("<b>",vals$dat2$County, ", ", vals$dat2$State, ", ", vals$dat2$Tract, ": </b>", vals$dat2$lbl)
-            } 
+            } else if (geo_to_map() == 'State'){
+                paste0("<b>", vals$dat2$State, ": </b>", vals$dat2$lbl)
+            }
             
             #configure source
             source = unique(vals$dat2$source)
