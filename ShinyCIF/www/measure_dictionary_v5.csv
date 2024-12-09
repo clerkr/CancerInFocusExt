@@ -187,3 +187,54 @@ hadCervicalCancerScreeningWithinTheLastTwoToFiveYears,Had cervical cancer screen
 hadCervicalCancerScreeningFiveOrMoreYearsAgo,Had cervical cancer screening five or more years ago,pct,Behavioral Risk Factor Surveillance System
 everHpvTest,Ever HPV test,pct,Behavioral Risk Factor Surveillance System
 neverHpvTest,Never HPV test,pct,Behavioral Risk Factor Surveillance System
+insurancePaidForAllOrPartOfCancerTreatment,Insurance paid for all or part of cancer treatment,pct,Behavioral Risk Factor Surveillance System
+insuranceDidntPayForAnyOfCancerTreatment,Insurance didn't pay for any of cancer treatment,pct,Behavioral Risk Factor Surveillance System
+everDeniedHealthOrLifeInsuranceBecauseOfCancer,Ever denied health or life insurance because of cancer,pct,Behavioral Risk Factor Surveillance System
+neverDeniedHealthOrLifeInsuranceBecauseOfCancer,Never denied health or life insurance because of cancer,pct,Behavioral Risk Factor Surveillance System
+hadAtLeastOneRecommendedCrcTestAges45To75,"Had at least one recommended CRC test, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+haventHadAtLeastOneRecommendedCrcTestInRecommendedTimeIntervalAges45To75,"Haven't had at least one recommended CRC test in recommended time interval, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+neverHadAnyRecommendedCrcTestsAges45To75,"Never had any recommended CRC tests, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+hadABloodStoolTestInThePastYearAges45To75,"Had a blood stool test in the past year, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+hadABloodStoolTestMoreThanOneYearAgoAges45To75,"Had a blood stool test more than one year ago, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+neverHadABloodStoolTestAges45To75,"Never had a blood stool test, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+everColonoscopy,Ever colonoscopy,pct,Behavioral Risk Factor Surveillance System
+everSigmoidoscopy,Ever sigmoidoscopy,pct,Behavioral Risk Factor Surveillance System
+everColonoscopyAndSigmoidoscopy,Ever colonoscopy and sigmoidoscopy,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyWithinTheLastYear,Had colonoscopy within the last year,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyMoreThanOneLessThanTenYearsAgo,Had colonoscopy more than one less than ten years ago,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyMoreThanTenYearsAgo,Had colonoscopy more than ten years ago,pct,Behavioral Risk Factor Surveillance System
+hadSigmoidoscopyWithinTheLastYear,Had sigmoidoscopy within the last year,pct,Behavioral Risk Factor Surveillance System
+hadSigmoidoscopyMoreThanOneLessThanTenYearsAgo,Had sigmoidoscopy more than one less than ten years ago,pct,Behavioral Risk Factor Surveillance System
+hadSigmoidoscopyMoreThanTenYearsAgo,Had sigmoidoscopy more than ten years ago,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyOrSigmoidoscopyWithinTheLastYear,Had colonoscopy or sigmoidoscopy within the last year,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyOrSigmoidoscopyMoreThanTenYearsAgo,Had colonoscopy or sigmoidoscopy more than ten years ago,pct,Behavioral Risk Factor Surveillance System
+didntGoToDoctorBecauseCouldNotAffordIt,Didn't go to doctor because could not afford it,pct,Behavioral Risk Factor Surveillance System
+haveAPersonalHealthCareProvider,Have a personal health care provider,pct,Behavioral Risk Factor Surveillance System
+dontHaveAPersonalHealthCareProvider,Don't have a personal health care provider,pct,Behavioral Risk Factor Surveillance System
+eligibleForLungCancerScreening,Eligible for Lung cancer screening,pct,Behavioral Risk Factor Surveillance System
+eligibleForLungCancerScreeningAndHadCtScanForLungCancerInThePastYear,Eligible for Lung cancer screening and had CT scan for Lung cancer in the past year,pct,Behavioral Risk Factor Surveillance System
+everHadCtScanForLungCancerAges50To80,"Ever had CT scan for Lung cancer, ages 50 to 80",pct,Behavioral Risk Factor Surveillance System
+hadCtScanForLungCancerInThePastYearAges50To80,"Had CT scan for Lung cancer in the past year, ages 50 to 80",pct,Behavioral Risk Factor Surveillance System
+mentalHealthGoodForTheWholeLastMonth,Mental health good for the whole last month,pct,Behavioral Risk Factor Surveillance System
+mentalHealthGoodForMostOfTheLastMonth,Mental health good for most of the last month,pct,Behavioral Risk Factor Surveillance System
+mentalHealthNotGoodForAboutHalfOfTheLastMonth,Mental health not good for about half of the last month,pct,Behavioral Risk Factor Surveillance System
+mentalHealthNotGoodForMostOfTheLastMonth,Mental health not good for most of the last month,pct,Behavioral Risk Factor Surveillance System
+lostJobOrDecreasedHoursInTheLastYear,Lost job or decreased hours in the last year,pct,Behavioral Risk Factor Surveillance System
+didNotLoseJobOrDecreaseHoursInTheLastYear,Did not lose job or decrease hours in the last year,pct,Behavioral Risk Factor Surveillance System
+receivedSnapInTheLastYear,Received SNAP in the last year,pct,Behavioral Risk Factor Surveillance System
+haventReceivedSnapInTheLastYear,Haven't received SNAP in the last year,pct,Behavioral Risk Factor Surveillance System
+normallyDidNotHaveMoneyToGetMoreFoodOnceItRanOutInTheLastYear,Normally did not have money to get more food once it ran out in the last year,pct,Behavioral Risk Factor Surveillance System
+sometimesDidNotHaveMoneyToGetMoreFoodOnceItRanOutInTheLastYear,Sometimes did not have money to get more food once it ran out in the last year,pct,Behavioral Risk Factor Surveillance System
+normallyHadMoneyToGetMoreFoodOnceItRanOutInTheLastYear,Normally had money to get more food once it ran out in the last year,pct,Behavioral Risk Factor Surveillance System
+notAbleToPayForHousingOrUtilitiesAtAnyTimeInTheLastYear,Not able to pay for housing or utilities at any time in the last year,pct,Behavioral Risk Factor Surveillance System
+ableToPayForHousingAndUtilitiesInTheLastYear,Able to pay for housing and utilities in the last year,pct,Behavioral Risk Factor Surveillance System
+threatenedWithHavingUtilitiesShutOffInTheLastYear,Threatened with having utilities shut off in the last year,pct,Behavioral Risk Factor Surveillance System
+notThreatenedWithHavingUtilitiesShutOffInTheLastYear,Not threatened with having utilities shut off in the last year,pct,Behavioral Risk Factor Surveillance System
+currentSmokerAges18OrOlder,"Current smoker, ages 18 or older",pct,Behavioral Risk Factor Surveillance System
+notCurrentSmokerAges18OrOlder,"Not current smoker, ages 18 or older",pct,Behavioral Risk Factor Surveillance System
+everSmoked100Cigarettes,Ever smoked 100 cigarettes,pct,Behavioral Risk Factor Surveillance System
+neverSmoked100Cigarettes,Never smoked 100 cigarettes,pct,Behavioral Risk Factor Surveillance System
+smokeEveryDay,Smoke every day,pct,Behavioral Risk Factor Surveillance System
+smokeSomeDays,Smoke some days,pct,Behavioral Risk Factor Surveillance System
+formerSmoker,Former smoker,pct,Behavioral Risk Factor Surveillance System
+neverSmoked,Never smoked,pct,Behavioral Risk Factor Surveillance System
