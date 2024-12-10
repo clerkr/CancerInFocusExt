@@ -8,13 +8,14 @@ import csv
 import json
 import os
 
-# Set Area we serve variable
+# Set Area we serve variables
 AWS = ['Utah', 'Idaho', 'Wyoming', 'Montana', 'Nevada']
+AWS_FIPS = ['16', '30', '32', '49', '56', 16, 30, 32, 49, 56]
 
 # Set options
 OPTIONS = {}
-# OPTIONS['datasets'] = ['AQI', 'Radon', 'BRFSS']
-OPTIONS['datasets'] = ['BRFSS']
+# OPTIONS['datasets'] = ['AQI', 'Radon', 'BRFSS', 'FCC']
+OPTIONS['datasets'] = ['FCC']
 
 # %%
 
@@ -48,6 +49,9 @@ state_fips = pd.read_sql('select * from census.StateFips', conn)
 # Read County FIPS Table
 county_fips = pd.read_sql('select * from census.CountyFips', conn)
 
+# Read Tract FIPS Table
+tract_fips = pd.read_sql('select * from census.TractFips', conn)
+
 # Read AQI table
 if 'AQI' in OPTIONS['datasets']:
     aqi = pd.read_sql('select * from epa.Aqi', conn)
@@ -66,6 +70,13 @@ if 'BRFSS' in OPTIONS['datasets']:
     brfss_mntl_hlth = pd.read_sql('select * from brfss.MentalHealth', conn)
     brfss_scl_det = pd.read_sql('select * from brfss.SocialDeterminants', conn)
     brfss_tbco = pd.read_sql('select * from brfss.Tobacco', conn)
+
+# Read FCC tables
+if 'FCC' in OPTIONS['datasets']:
+    broadbandCounty = pd.read_sql('select * from fcc.BroadbandCountyDec2023', conn)
+    broadbandTract = pd.read_sql('select * from fcc.BroadbandTractDec2023', conn)
+    mobileCounty = pd.read_sql('select * from fcc.MobileCountyDec2023', conn)
+    mobileTract = pd.read_sql('select * from fcc.MobileTractDec2023', conn)
 
 # Close the connection
 conn.close()
@@ -90,6 +101,16 @@ county_fips = county_fips.drop('idCountyFips', axis='columns')
 
 # Create version for just our five states
 aws_county_fips = county_fips[[x in AWS for x in county_fips['state']]]
+
+
+# ----- Tract FIPS -----
+# This table is mostly for utility and won't be a part of the dataset directly
+
+# Only keep the columns we want
+tract_fips = tract_fips.drop('idTractFips', axis='columns')
+
+# Create version for just our five states
+aws_tract_fips = tract_fips[[x in AWS for x in tract_fips['state']]]
 
 # %%
 
@@ -546,3 +567,205 @@ if 'BRFSS' in OPTIONS['datasets']:
     # Add measures to measure dictionary
     measures = brfss_tbco_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
     # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+# %%
+
+# ----- FCC -------
+
+if 'FCC' in OPTIONS['datasets']:
+
+    # --- Broadband County table ---
+
+    # Filter to area we serve
+    broadbandCounty = broadbandCounty[[x in AWS_FIPS for x in broadbandCounty['STATEID']]]
+
+    # Fill in NAs for missing counties
+    broadbandCounty = broadbandCounty.merge(aws_county_fips, how='outer', left_on='COUNTYID', right_on='fips')
+
+    # Get month and year
+    # Currently the tables only contain data for one month and year, so we are making that assumption here
+    # If that ever changes, we would need to change this code
+    month = broadbandCounty.at[0, 'MONTH']
+    year = broadbandCounty.at[0, 'YEAR']
+
+    # Only keep the columns we want
+    broadbandCounty = broadbandCounty.drop(['RecordID', 'STATEID', 'COUNTYID', 'TOT_POP', 'MONTH', 'YEAR'], axis='columns')
+
+    # Create long data and rename columns
+    broadbandCounty_long = pd.melt(broadbandCounty, id_vars=['state', 'county', 'fips'], var_name='measure', value_name='value')
+    broadbandCounty_long.columns = ['State', 'County', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    broadbandCounty_long['cat'] = 'Environment'
+    broadbandCounty_long['RE'] = pd.NA
+    broadbandCounty_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    fcc_defs = json.load(open('setup/SHAPE/data/definitions/fcc.json'))
+    broadbandCounty_long['def'] = broadbandCounty_long['measure'].apply(lambda x: fcc_defs[x])
+
+    # Create format column
+    fcc_fmt = json.load(open('setup/SHAPE/data/formats/fcc.json'))
+    broadbandCounty_long['fmt'] = broadbandCounty_long['measure'].apply(lambda x: fcc_fmt[x])
+
+    # Create data source column
+    broadbandCounty_long['source'] = f'FCC, {month} {year}'
+
+    # Create label column
+    broadbandCounty_long['lbl'] = broadbandCounty_long['value'].apply(lambda x: f'{x:.1f}')
+
+    # Reorder columns
+    broadbandCounty_long = broadbandCounty_long[["cat","GEOID","County","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    broadbandCounty_long.to_csv('ShinyCIF/www/data/all_county.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = broadbandCounty_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Broadband Tract table ---
+
+    # Filter to area we serve
+    broadbandTract = broadbandTract[[x in AWS_FIPS for x in broadbandTract['STATEID']]]
+
+    # Fill in NAs for missing tracts
+    broadbandTract = broadbandTract.merge(aws_tract_fips, how='outer', left_on='TRACTID', right_on='fips')
+
+    # Get month and year
+    # Currently the tables only contain data for one month and year, so we are making that assumption here
+    # If that ever changes, we would need to change this code
+    month = broadbandTract.at[0, 'MONTH']
+    year = broadbandTract.at[0, 'YEAR']
+
+    # Only keep the columns we want
+    broadbandTract = broadbandTract.drop(['RecordID', 'STATEID', 'TRACTID', 'TOT_POP', 'MONTH', 'YEAR'], axis='columns')
+
+    # Create long data and rename columns
+    broadbandTract_long = pd.melt(broadbandTract, id_vars=['state', 'county', 'tract', 'fips'], var_name='measure', value_name='value')
+    broadbandTract_long.columns = ['State', 'County', 'Tract', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    broadbandTract_long['cat'] = 'Environment'
+    broadbandTract_long['RE'] = pd.NA
+    broadbandTract_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    broadbandTract_long['def'] = broadbandTract_long['measure'].apply(lambda x: fcc_defs[x])
+
+    # Create format column
+    broadbandTract_long['fmt'] = broadbandTract_long['measure'].apply(lambda x: fcc_fmt[x])
+
+    # Create data source column
+    broadbandTract_long['source'] = f'FCC, {month} {year}'
+
+    # Create label column
+    broadbandTract_long['lbl'] = broadbandTract_long['value'].apply(lambda x: f'{x:.1f}')
+
+    # Reorder columns
+    broadbandTract_long = broadbandTract_long[["cat","GEOID","Tract","County","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    broadbandTract_long.to_csv('ShinyCIF/www/data/all_tract.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Measures are the same as county, so they are already in the measure dictionary
+
+    # %%
+
+    # --- Mobile County table ---
+
+    # Filter to area we serve
+    mobileCounty = mobileCounty[[x in AWS_FIPS for x in mobileCounty['STATEID']]]
+
+    # Fill in NAs for missing counties
+    mobileCounty = mobileCounty.merge(aws_county_fips, how='outer', left_on='COUNTYID', right_on='fips')
+
+    # Get month and year
+    # Currently the tables only contain data for one month and year, so we are making that assumption here
+    # If that ever changes, we would need to change this code
+    month = mobileCounty.at[0, 'MONTH']
+    year = mobileCounty.at[0, 'YEAR']
+
+    # Only keep the columns we want
+    mobileCounty = mobileCounty.drop(['RecordID', 'STATEID', 'COUNTYID', 'TOT_POP', 'MONTH', 'YEAR'], axis='columns')
+
+    # Create long data and rename columns
+    mobileCounty_long = pd.melt(mobileCounty, id_vars=['state', 'county', 'fips'], var_name='measure', value_name='value')
+    mobileCounty_long.columns = ['State', 'County', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    mobileCounty_long['cat'] = 'Environment'
+    mobileCounty_long['RE'] = pd.NA
+    mobileCounty_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    mobileCounty_long['def'] = mobileCounty_long['measure'].apply(lambda x: fcc_defs[x])
+
+    # Create format column
+    mobileCounty_long['fmt'] = mobileCounty_long['measure'].apply(lambda x: fcc_fmt[x])
+
+    # Create data source column
+    mobileCounty_long['source'] = f'FCC, {month} {year}'
+
+    # Create label column
+    mobileCounty_long['lbl'] = mobileCounty_long['value'].apply(lambda x: f'{x:.1f}')
+
+    # Reorder columns
+    mobileCounty_long = mobileCounty_long[["cat","GEOID","County","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    mobileCounty_long.to_csv('ShinyCIF/www/data/all_county.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = mobileCounty_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Mobile Tract table ---
+
+    # Filter to area we serve
+    mobileTract = mobileTract[[x in AWS_FIPS for x in mobileTract['STATEID']]]
+
+    # Fill in NAs for missing tracts
+    mobileTract = mobileTract.merge(aws_tract_fips, how='outer', left_on='TRACTID', right_on='fips')
+
+    # Get month and year
+    # Currently the tables only contain data for one month and year, so we are making that assumption here
+    # If that ever changes, we would need to change this code
+    month = mobileTract.at[0, 'MONTH']
+    year = mobileTract.at[0, 'YEAR']
+
+    # Only keep the columns we want
+    mobileTract = mobileTract.drop(['RecordID', 'STATEID', 'TRACTID', 'TOT_POP', 'MONTH', 'YEAR'], axis='columns')
+
+    # Create long data and rename columns
+    mobileTract_long = pd.melt(mobileTract, id_vars=['state', 'county', 'tract', 'fips'], var_name='measure', value_name='value')
+    mobileTract_long.columns = ['State', 'County', 'Tract', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    mobileTract_long['cat'] = 'Environment'
+    mobileTract_long['RE'] = pd.NA
+    mobileTract_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    mobileTract_long['def'] = mobileTract_long['measure'].apply(lambda x: fcc_defs[x])
+
+    # Create format column
+    mobileTract_long['fmt'] = mobileTract_long['measure'].apply(lambda x: fcc_fmt[x])
+
+    # Create data source column
+    mobileTract_long['source'] = f'FCC, {month} {year}'
+
+    # Create label column
+    mobileTract_long['lbl'] = mobileTract_long['value'].apply(lambda x: f'{x:.1f}')
+
+    # Reorder columns
+    mobileTract_long = mobileTract_long[["cat","GEOID","Tract","County","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    mobileTract_long.to_csv('ShinyCIF/www/data/all_tract.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Measures are the same as county, so they are already in the measure dictionary
