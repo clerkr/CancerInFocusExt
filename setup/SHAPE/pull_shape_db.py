@@ -15,7 +15,7 @@ AWS_FIPS = ['16', '30', '32', '49', '56', 16, 30, 32, 49, 56]
 # Set options
 OPTIONS = {}
 # OPTIONS['datasets'] = ['AQI', 'Radon', 'BRFSS', 'FCC']
-OPTIONS['datasets'] = ['FCC']
+OPTIONS['datasets'] = ['HINTS', 'BRFSS']
 
 # %%
 
@@ -77,6 +77,19 @@ if 'FCC' in OPTIONS['datasets']:
     broadbandTract = pd.read_sql('select * from fcc.BroadbandTractDec2023', conn)
     mobileCounty = pd.read_sql('select * from fcc.MobileCountyDec2023', conn)
     mobileTract = pd.read_sql('select * from fcc.MobileTractDec2023', conn)
+
+# Read HINTS tables
+if 'HINTS' in OPTIONS['datasets']:
+    hints_cncr_com = pd.read_sql('select * from hints.CancerCommunication', conn)
+    hints_cncr_percep = pd.read_sql('select * from hints.CancerPerceptions', conn)
+    hints_crvcl_cncr = pd.read_sql('select * from hints.CervicalCancer', conn)
+    hints_clin_trial = pd.read_sql('select * from hints.ClinicalTrials', conn)
+    hints_lng_cncr = pd.read_sql('select * from hints.LungCancer', conn)
+    hints_mntl_hlth = pd.read_sql('select * from hints.MentalHealth', conn)
+    hints_skn_prot = pd.read_sql('select * from hints.SkinProtection', conn)
+    hints_scl_det = pd.read_sql('select * from hints.SocialDeterminants', conn)
+    hints_tbco = pd.read_sql('select * from hints.Tobacco', conn)
+
 
 # Close the connection
 conn.close()
@@ -769,3 +782,405 @@ if 'FCC' in OPTIONS['datasets']:
     mobileTract_long.to_csv('ShinyCIF/www/data/all_tract.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
 
     # Measures are the same as county, so they are already in the measure dictionary
+
+# %%
+
+# ----- HINTS -----
+
+if 'HINTS' in OPTIONS['datasets']:
+
+    # --- Cancer Communication table ---
+
+    # Filter to area we serve
+    hints_cncr_com = hints_cncr_com[[x in AWS for x in hints_cncr_com['state']]]
+
+    # Add FIPS
+    hints_cncr_com = hints_cncr_com.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_cncr_com = hints_cncr_com.drop(['idCancerCommunication', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_cncr_com_long = pd.melt(hints_cncr_com, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_cncr_com_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_cncr_com_long['cat'] = 'Cancer Communication & Perceptions'
+    hints_cncr_com_long['RE'] = pd.NA
+    hints_cncr_com_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_defs = json.load(open('setup/SHAPE/data/definitions/hints.json'))
+    hints_cncr_com_long['def'] = hints_cncr_com_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_fmt = json.load(open('setup/SHAPE/data/formats/hints.json'))
+    hints_cncr_com_long['fmt'] = hints_cncr_com_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_cncr_com_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_cncr_com_long['lbl'] = hints_cncr_com_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_cncr_com_long = hints_cncr_com_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_cncr_com_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_cncr_com_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Cancer Perceptions table ---
+
+    # Filter to area we serve
+    hints_cncr_percep = hints_cncr_percep[[x in AWS for x in hints_cncr_percep['state']]]
+
+    # Add FIPS
+    hints_cncr_percep = hints_cncr_percep.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_cncr_percep = hints_cncr_percep.drop(['idCancerPerceptions', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_cncr_percep_long = pd.melt(hints_cncr_percep, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_cncr_percep_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_cncr_percep_long['cat'] = 'Cancer Communication & Perceptions'
+    hints_cncr_percep_long['RE'] = pd.NA
+    hints_cncr_percep_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_cncr_percep_long['def'] = hints_cncr_percep_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_cncr_percep_long['fmt'] = hints_cncr_percep_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_cncr_percep_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_cncr_percep_long['lbl'] = hints_cncr_percep_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_cncr_percep_long = hints_cncr_percep_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_cncr_percep_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_cncr_percep_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Cervical Cancer table ---
+
+    # Filter to area we serve
+    hints_crvcl_cncr = hints_crvcl_cncr[[x in AWS for x in hints_crvcl_cncr['state']]]
+
+    # Add FIPS
+    hints_crvcl_cncr = hints_crvcl_cncr.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_crvcl_cncr = hints_crvcl_cncr.drop(['idCervicalCancer', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_crvcl_cncr_long = pd.melt(hints_crvcl_cncr, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_crvcl_cncr_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_crvcl_cncr_long['cat'] = 'Screening & Risk Factors'
+    hints_crvcl_cncr_long['RE'] = pd.NA
+    hints_crvcl_cncr_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_crvcl_cncr_long['def'] = hints_crvcl_cncr_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_crvcl_cncr_long['fmt'] = hints_crvcl_cncr_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_crvcl_cncr_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_crvcl_cncr_long['lbl'] = hints_crvcl_cncr_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_crvcl_cncr_long = hints_crvcl_cncr_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_crvcl_cncr_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_crvcl_cncr_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Clinical Trials table ---
+
+    # Filter to area we serve
+    hints_clin_trial = hints_clin_trial[[x in AWS for x in hints_clin_trial['state']]]
+
+    # Add FIPS
+    hints_clin_trial = hints_clin_trial.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_clin_trial = hints_clin_trial.drop(['idClinicalTrials', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_clin_trial_long = pd.melt(hints_clin_trial, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_clin_trial_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_clin_trial_long['cat'] = 'Clinical Trials'
+    hints_clin_trial_long['RE'] = pd.NA
+    hints_clin_trial_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_clin_trial_long['def'] = hints_clin_trial_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_clin_trial_long['fmt'] = hints_clin_trial_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_clin_trial_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_clin_trial_long['lbl'] = hints_clin_trial_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_clin_trial_long = hints_clin_trial_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_clin_trial_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_clin_trial_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Lung Cancer table ---
+
+    # Filter to area we serve
+    hints_lng_cncr = hints_lng_cncr[[x in AWS for x in hints_lng_cncr['state']]]
+
+    # Add FIPS
+    hints_lng_cncr = hints_lng_cncr.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_lng_cncr = hints_lng_cncr.drop(['idLungCancer', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_lng_cncr_long = pd.melt(hints_lng_cncr, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_lng_cncr_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_lng_cncr_long['cat'] = 'Screening & Risk Factors'
+    hints_lng_cncr_long['RE'] = pd.NA
+    hints_lng_cncr_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_lng_cncr_long['def'] = hints_lng_cncr_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_lng_cncr_long['fmt'] = hints_lng_cncr_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_lng_cncr_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_lng_cncr_long['lbl'] = hints_lng_cncr_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_lng_cncr_long = hints_lng_cncr_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_lng_cncr_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_lng_cncr_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Mental Health table ---
+
+    # Filter to area we serve
+    hints_mntl_hlth = hints_mntl_hlth[[x in AWS for x in hints_mntl_hlth['state']]]
+
+    # Add FIPS
+    hints_mntl_hlth = hints_mntl_hlth.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_mntl_hlth = hints_mntl_hlth.drop(['idMentalHealth', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_mntl_hlth_long = pd.melt(hints_mntl_hlth, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_mntl_hlth_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_mntl_hlth_long['cat'] = 'Other Health Factors'
+    hints_mntl_hlth_long['RE'] = pd.NA
+    hints_mntl_hlth_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_mntl_hlth_long['def'] = hints_mntl_hlth_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_mntl_hlth_long['fmt'] = hints_mntl_hlth_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_mntl_hlth_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_mntl_hlth_long['lbl'] = hints_mntl_hlth_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_mntl_hlth_long = hints_mntl_hlth_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_mntl_hlth_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_mntl_hlth_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Skin Protection table ---
+
+    # Filter to area we serve
+    hints_skn_prot = hints_skn_prot[[x in AWS for x in hints_skn_prot['state']]]
+
+    # Add FIPS
+    hints_skn_prot = hints_skn_prot.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_skn_prot = hints_skn_prot.drop(['idSkinProtection', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_skn_prot_long = pd.melt(hints_skn_prot, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_skn_prot_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_skn_prot_long['cat'] = 'Screening & Risk Factors'
+    hints_skn_prot_long['RE'] = pd.NA
+    hints_skn_prot_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_skn_prot_long['def'] = hints_skn_prot_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_skn_prot_long['fmt'] = hints_skn_prot_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_skn_prot_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_skn_prot_long['lbl'] = hints_skn_prot_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_skn_prot_long = hints_skn_prot_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_skn_prot_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_skn_prot_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Social Determinants table ---
+
+    # Filter to area we serve
+    hints_scl_det = hints_scl_det[[x in AWS for x in hints_scl_det['state']]]
+
+    # Add FIPS
+    hints_scl_det = hints_scl_det.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_scl_det = hints_scl_det.drop(['idSocialDeterminants', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_scl_det_long = pd.melt(hints_scl_det, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_scl_det_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_scl_det_long['cat'] = 'Sociodemographics'
+    hints_scl_det_long['RE'] = pd.NA
+    hints_scl_det_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_scl_det_long['def'] = hints_scl_det_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_scl_det_long['fmt'] = hints_scl_det_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_scl_det_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_scl_det_long['lbl'] = hints_scl_det_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_scl_det_long = hints_scl_det_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_scl_det_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_scl_det_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+
+    # %%
+
+    # --- Tobacco table ---
+
+    # Filter to area we serve
+    hints_tbco = hints_tbco[[x in AWS for x in hints_tbco['state']]]
+
+    # Add FIPS
+    hints_tbco = hints_tbco.merge(aws_state_fips, how='outer', on='state')
+
+    # Only keep the columns we want
+    hints_tbco = hints_tbco.drop(['idTobacco', 'stateAbbreviation'], axis='columns')
+
+    # Create long data and rename columns
+    hints_tbco_long = pd.melt(hints_tbco, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hints_tbco_long.columns = ['State', 'GEOID', 'measure', 'value']
+
+    # Create columns for category, race/ethnicity, and sex
+    hints_tbco_long['cat'] = 'Screening & Risk Factors'
+    hints_tbco_long['RE'] = pd.NA
+    hints_tbco_long['Sex'] = pd.NA
+
+    # Create measure definitions column
+    hints_tbco_long['def'] = hints_tbco_long['measure'].apply(lambda x: hints_defs[x])
+
+    # Create format column
+    hints_tbco_long['fmt'] = hints_tbco_long['measure'].apply(lambda x: hints_fmt[x])
+
+    # Create data source column
+    hints_tbco_long['source'] = 'Health Information National Trends Survey'
+
+    # Create label column
+    hints_tbco_long['lbl'] = hints_tbco_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+
+    # Reorder columns
+    hints_tbco_long = hints_tbco_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+
+    # Append to county column
+    hints_tbco_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hints_tbco_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
