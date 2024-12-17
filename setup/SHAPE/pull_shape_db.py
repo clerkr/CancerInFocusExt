@@ -15,7 +15,7 @@ AWS_FIPS = ['16', '30', '32', '49', '56', 16, 30, 32, 49, 56]
 # Set options
 OPTIONS = {}
 # OPTIONS['datasets'] = ['AQI', 'Radon', 'BRFSS', 'FCC']
-OPTIONS['datasets'] = ['HINTS', 'BRFSS']
+OPTIONS['datasets'] = ['AQI', 'BRFSS', 'FCC']
 
 # %%
 
@@ -171,7 +171,7 @@ if 'AQI' in OPTIONS['datasets']:
 
     # Add measures to measure dictionary
     measures = aqi_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
-    measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
 
 
 # %%
@@ -635,7 +635,7 @@ if 'FCC' in OPTIONS['datasets']:
 
     # Add measures to measure dictionary
     measures = broadbandCounty_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
-    measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
 
     # %%
 
@@ -733,7 +733,7 @@ if 'FCC' in OPTIONS['datasets']:
 
     # Add measures to measure dictionary
     measures = mobileCounty_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
-    measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
 
     # %%
 

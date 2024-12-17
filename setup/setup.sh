@@ -1,11 +1,25 @@
 #!/bin/bash
 
-docker build -t setup -f setup/Dockerfile .
+#### Prod Env ####
+
+# docker build -t setup -f setup/Dockerfile .
+
+# docker run \
+#     -v /srv/external/ShinyCIF:/srv/external/ShinyCIF \
+#     -v /srv/external/ShinyCIFProfiles:/srv/external/ShinyCIFProfiles \
+#     -v /srv/external/ShinyCIFBivar:/srv/external/ShinyCIFBivar \
+#     -v /srv/external/huntsman_catchment_data:/srv/external/huntsman_catchment_data \
+#     -v /srv/external/setup:/srv/external/setup \
+#     setup
+
+#### Dev Env ####
+
+docker build --platform linux/x86_64 -t setup -f setup/Dockerfile .
 
 docker run \
-    -v /srv/external/ShinyCIF:/srv/external/ShinyCIF \
-    -v /srv/external/ShinyCIFProfiles:/srv/external/ShinyCIFProfiles \
-    -v /srv/external/ShinyCIFBivar:/srv/external/ShinyCIFBivar \
-    -v /srv/external/huntsman_catchment_data:/srv/external/huntsman_catchment_data \
-    -v /srv/external/setup:/srv/external/setup \
+    -v /Users/davidstone/Projects/SHAPE/external/ShinyCIF:/srv/external/ShinyCIF \
+    -v /Users/davidstone/Projects/SHAPE/external/ShinyCIFProfiles:/srv/external/ShinyCIFProfiles \
+    -v /Users/davidstone/Projects/SHAPE/external/ShinyCIFBivar:/srv/external/ShinyCIFBivar \
+    -v /Users/davidstone/Projects/SHAPE/external/huntsman_catchment_data:/srv/external/huntsman_catchment_data \
+    -v /Users/davidstone/Projects/SHAPE/external/setup:/srv/external/setup \
     setup

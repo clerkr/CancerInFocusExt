@@ -1,0 +1,1966 @@
+FIPS,Tract,County,State,LILATracts_Vehicle
+16001000100,Census Tract 1,Ada County,Idaho,0
+16001000201,Census Tract 2.01,Ada County,Idaho,0
+16001000202,Census Tract 2.02,Ada County,Idaho,0
+16001000302,Census Tract 3.02,Ada County,Idaho,0
+16001000303,Census Tract 3.03,Ada County,Idaho,0
+16001000304,Census Tract 3.04,Ada County,Idaho,0
+16001000400,Census Tract 4,Ada County,Idaho,1
+16001000500,Census Tract 5,Ada County,Idaho,0
+16001000600,Census Tract 6,Ada County,Idaho,0
+16001000701,Census Tract 7.01,Ada County,Idaho,0
+16001000702,Census Tract 7.02,Ada County,Idaho,0
+16001000802,Census Tract 8.02,Ada County,Idaho,0
+16001000803,Census Tract 8.03,Ada County,Idaho,0
+16001000804,Census Tract 8.04,Ada County,Idaho,0
+16001000805,Census Tract 8.05,Ada County,Idaho,0
+16001000900,Census Tract 9,Ada County,Idaho,0
+16001001000,Census Tract 10,Ada County,Idaho,1
+16001001100,Census Tract 11,Ada County,Idaho,1
+16001001201,Census Tract 12.01,Ada County,Idaho,0
+16001001202,Census Tract 12.02,Ada County,Idaho,0
+16001001400,Census Tract 14,Ada County,Idaho,0
+16001001500,Census Tract 15,Ada County,Idaho,0
+16001001600,Census Tract 16,Ada County,Idaho,0
+16001001700,Census Tract 17,Ada County,Idaho,0
+16001001800,Census Tract 18,Ada County,Idaho,0
+16001001900,Census Tract 19,Ada County,Idaho,0
+16001002000,Census Tract 20,Ada County,Idaho,0
+16001002100,Census Tract 21,Ada County,Idaho,0
+16001002221,Census Tract 22.21,Ada County,Idaho,0
+16001002222,Census Tract 22.22,Ada County,Idaho,0
+16001002223,Census Tract 22.23,Ada County,Idaho,0
+16001002224,Census Tract 22.24,Ada County,Idaho,0
+16001002302,Census Tract 23.02,Ada County,Idaho,0
+16001002310,Census Tract 23.10,Ada County,Idaho,0
+16001002312,Census Tract 23.12,Ada County,Idaho,0
+16001002313,Census Tract 23.13,Ada County,Idaho,0
+16001002410,Census Tract 24.10,Ada County,Idaho,0
+16001002411,Census Tract 24.11,Ada County,Idaho,0
+16001002412,Census Tract 24.12,Ada County,Idaho,0
+16001002413,Census Tract 24.13,Ada County,Idaho,0
+16001010100,Census Tract 101,Ada County,Idaho,0
+16001010201,Census Tract 102.01,Ada County,Idaho,0
+16001010221,Census Tract 102.21,Ada County,Idaho,0
+16001010223,Census Tract 102.23,Ada County,Idaho,0
+16001010224,Census Tract 102.24,Ada County,Idaho,0
+16001010225,Census Tract 102.25,Ada County,Idaho,0
+16001010313,Census Tract 103.13,Ada County,Idaho,0
+16001010321,Census Tract 103.21,Ada County,Idaho,0
+16001010322,Census Tract 103.22,Ada County,Idaho,0
+16001010331,Census Tract 103.31,Ada County,Idaho,0
+16001010332,Census Tract 103.32,Ada County,Idaho,0
+16001010333,Census Tract 103.33,Ada County,Idaho,0
+16001010334,Census Tract 103.34,Ada County,Idaho,0
+16001010335,Census Tract 103.35,Ada County,Idaho,0
+16001010401,Census Tract 104.01,Ada County,Idaho,0
+16001010402,Census Tract 104.02,Ada County,Idaho,0
+16001010501,Census Tract 105.01,Ada County,Idaho,0
+16001010503,Census Tract 105.03,Ada County,Idaho,0
+16001010504,Census Tract 105.04,Ada County,Idaho,0
+16003950100,Census Tract 9501,Adams County,Idaho,0
+16003950200,Census Tract 9502,Adams County,Idaho,0
+16005000200,Census Tract 2,Bannock County,Idaho,0
+16005000300,Census Tract 3,Bannock County,Idaho,0
+16005000400,Census Tract 4,Bannock County,Idaho,0
+16005000500,Census Tract 5,Bannock County,Idaho,0
+16005000600,Census Tract 6,Bannock County,Idaho,0
+16005000700,Census Tract 7,Bannock County,Idaho,0
+16005000800,Census Tract 8,Bannock County,Idaho,0
+16005000900,Census Tract 9,Bannock County,Idaho,0
+16005001000,Census Tract 10,Bannock County,Idaho,0
+16005001101,Census Tract 11.01,Bannock County,Idaho,0
+16005001102,Census Tract 11.02,Bannock County,Idaho,0
+16005001200,Census Tract 12,Bannock County,Idaho,0
+16005001300,Census Tract 13,Bannock County,Idaho,0
+16005001400,Census Tract 14,Bannock County,Idaho,0
+16005001500,Census Tract 15,Bannock County,Idaho,0
+16005001601,Census Tract 16.01,Bannock County,Idaho,0
+16005001602,Census Tract 16.02,Bannock County,Idaho,0
+16005001603,Census Tract 16.03,Bannock County,Idaho,0
+16005001700,Census Tract 17,Bannock County,Idaho,0
+16005001900,Census Tract 19,Bannock County,Idaho,0
+16005940000,Census Tract 9400,Bannock County,Idaho,0
+16005981800,Census Tract 9818,Bannock County,Idaho,0
+16007950100,Census Tract 9501,Bear Lake County,Idaho,0
+16007950200,Census Tract 9502,Bear Lake County,Idaho,0
+16009940000,Census Tract 9400,Benewah County,Idaho,0
+16009950100,Census Tract 9501,Benewah County,Idaho,0
+16011940000,Census Tract 9400,Bingham County,Idaho,0
+16011950100,Census Tract 9501,Bingham County,Idaho,0
+16011950200,Census Tract 9502,Bingham County,Idaho,0
+16011950300,Census Tract 9503,Bingham County,Idaho,0
+16011950400,Census Tract 9504,Bingham County,Idaho,0
+16011950500,Census Tract 9505,Bingham County,Idaho,0
+16011950600,Census Tract 9506,Bingham County,Idaho,0
+16011950700,Census Tract 9507,Bingham County,Idaho,0
+16013960100,Census Tract 9601,Blaine County,Idaho,0
+16013960200,Census Tract 9602,Blaine County,Idaho,0
+16013960300,Census Tract 9603,Blaine County,Idaho,0
+16013960500,Census Tract 9605,Blaine County,Idaho,0
+16015950200,Census Tract 9502,Boise County,Idaho,0
+16017950100,Census Tract 9501,Bonner County,Idaho,1
+16017950200,Census Tract 9502,Bonner County,Idaho,0
+16017950300,Census Tract 9503,Bonner County,Idaho,0
+16017950400,Census Tract 9504,Bonner County,Idaho,0
+16017950500,Census Tract 9505,Bonner County,Idaho,0
+16017950600,Census Tract 9506,Bonner County,Idaho,0
+16017950700,Census Tract 9507,Bonner County,Idaho,0
+16017950800,Census Tract 9508,Bonner County,Idaho,0
+16017950900,Census Tract 9509,Bonner County,Idaho,0
+16019970100,Census Tract 9701,Bonneville County,Idaho,0
+16019970300,Census Tract 9703,Bonneville County,Idaho,0
+16019970401,Census Tract 9704.01,Bonneville County,Idaho,0
+16019970402,Census Tract 9704.02,Bonneville County,Idaho,0
+16019970403,Census Tract 9704.03,Bonneville County,Idaho,0
+16019970501,Census Tract 9705.01,Bonneville County,Idaho,0
+16019970502,Census Tract 9705.02,Bonneville County,Idaho,0
+16019970503,Census Tract 9705.03,Bonneville County,Idaho,0
+16019970601,Census Tract 9706.01,Bonneville County,Idaho,0
+16019970602,Census Tract 9706.02,Bonneville County,Idaho,0
+16019970603,Census Tract 9706.03,Bonneville County,Idaho,0
+16019970700,Census Tract 9707,Bonneville County,Idaho,1
+16019970800,Census Tract 9708,Bonneville County,Idaho,1
+16019970900,Census Tract 9709,Bonneville County,Idaho,0
+16019971000,Census Tract 9710,Bonneville County,Idaho,0
+16019971100,Census Tract 9711,Bonneville County,Idaho,1
+16019971200,Census Tract 9712,Bonneville County,Idaho,1
+16019971301,Census Tract 9713.01,Bonneville County,Idaho,0
+16019971302,Census Tract 9713.02,Bonneville County,Idaho,0
+16019971400,Census Tract 9714,Bonneville County,Idaho,0
+16019971500,Census Tract 9715,Bonneville County,Idaho,0
+16021970100,Census Tract 9701,Boundary County,Idaho,0
+16021970200,Census Tract 9702,Boundary County,Idaho,0
+16023970100,Census Tract 9701,Butte County,Idaho,0
+16025970100,Census Tract 9701,Camas County,Idaho,1
+16027020100,Census Tract 201,Canyon County,Idaho,0
+16027020200,Census Tract 202,Canyon County,Idaho,0
+16027020300,Census Tract 203,Canyon County,Idaho,0
+16027020401,Census Tract 204.01,Canyon County,Idaho,0
+16027020402,Census Tract 204.02,Canyon County,Idaho,1
+16027020501,Census Tract 205.01,Canyon County,Idaho,0
+16027020503,Census Tract 205.03,Canyon County,Idaho,0
+16027020504,Census Tract 205.04,Canyon County,Idaho,1
+16027020601,Census Tract 206.01,Canyon County,Idaho,0
+16027020602,Census Tract 206.02,Canyon County,Idaho,0
+16027020700,Census Tract 207,Canyon County,Idaho,0
+16027020901,Census Tract 209.01,Canyon County,Idaho,0
+16027020902,Census Tract 209.02,Canyon County,Idaho,0
+16027021001,Census Tract 210.01,Canyon County,Idaho,0
+16027021002,Census Tract 210.02,Canyon County,Idaho,1
+16027021100,Census Tract 211,Canyon County,Idaho,0
+16027021200,Census Tract 212,Canyon County,Idaho,1
+16027021300,Census Tract 213,Canyon County,Idaho,0
+16027021500,Census Tract 215,Canyon County,Idaho,0
+16027021600,Census Tract 216,Canyon County,Idaho,1
+16027021700,Census Tract 217,Canyon County,Idaho,0
+16027021800,Census Tract 218,Canyon County,Idaho,0
+16027021901,Census Tract 219.01,Canyon County,Idaho,0
+16027021903,Census Tract 219.03,Canyon County,Idaho,0
+16027021904,Census Tract 219.04,Canyon County,Idaho,0
+16027022100,Census Tract 221,Canyon County,Idaho,0
+16027022200,Census Tract 222,Canyon County,Idaho,0
+16027022300,Census Tract 223,Canyon County,Idaho,0
+16027022400,Census Tract 224,Canyon County,Idaho,0
+16029960100,Census Tract 9601,Caribou County,Idaho,0
+16029960200,Census Tract 9602,Caribou County,Idaho,0
+16031950100,Census Tract 9501,Cassia County,Idaho,0
+16031950200,Census Tract 9502,Cassia County,Idaho,0
+16031950300,Census Tract 9503,Cassia County,Idaho,0
+16031950400,Census Tract 9504,Cassia County,Idaho,0
+16031950500,Census Tract 9505,Cassia County,Idaho,0
+16031950600,Census Tract 9506,Cassia County,Idaho,0
+16033950100,Census Tract 9501,Clark County,Idaho,1
+16035940000,Census Tract 9400,Clearwater County,Idaho,0
+16035970100,Census Tract 9701,Clearwater County,Idaho,0
+16037960200,Census Tract 9602,Custer County,Idaho,0
+16039960100,Census Tract 9601,Elmore County,Idaho,1
+16039960200,Census Tract 9602,Elmore County,Idaho,0
+16039960300,Census Tract 9603,Elmore County,Idaho,0
+16039960400,Census Tract 9604,Elmore County,Idaho,0
+16039960500,Census Tract 9605,Elmore County,Idaho,0
+16041970100,Census Tract 9701,Franklin County,Idaho,0
+16041970200,Census Tract 9702,Franklin County,Idaho,0
+16043970100,Census Tract 9701,Fremont County,Idaho,0
+16043970200,Census Tract 9702,Fremont County,Idaho,0
+16043970300,Census Tract 9703,Fremont County,Idaho,0
+16045960100,Census Tract 9601,Gem County,Idaho,0
+16045960200,Census Tract 9602,Gem County,Idaho,1
+16045960300,Census Tract 9603,Gem County,Idaho,0
+16047960100,Census Tract 9601,Gooding County,Idaho,0
+16047960200,Census Tract 9602,Gooding County,Idaho,0
+16049940000,Census Tract 9400,Idaho County,Idaho,0
+16049960100,Census Tract 9601,Idaho County,Idaho,0
+16049960200,Census Tract 9602,Idaho County,Idaho,1
+16049960300,Census Tract 9603,Idaho County,Idaho,0
+16049960400,Census Tract 9604,Idaho County,Idaho,1
+16051960100,Census Tract 9601,Jefferson County,Idaho,0
+16051960200,Census Tract 9602,Jefferson County,Idaho,0
+16051960300,Census Tract 9603,Jefferson County,Idaho,0
+16051960400,Census Tract 9604,Jefferson County,Idaho,0
+16053970100,Census Tract 9701,Jerome County,Idaho,0
+16053970200,Census Tract 9702,Jerome County,Idaho,0
+16053970300,Census Tract 9703,Jerome County,Idaho,0
+16053970400,Census Tract 9704,Jerome County,Idaho,0
+16053970500,Census Tract 9705,Jerome County,Idaho,0
+16055000100,Census Tract 1,Kootenai County,Idaho,0
+16055000200,Census Tract 2,Kootenai County,Idaho,0
+16055000301,Census Tract 3.01,Kootenai County,Idaho,0
+16055000302,Census Tract 3.02,Kootenai County,Idaho,0
+16055000401,Census Tract 4.01,Kootenai County,Idaho,0
+16055000402,Census Tract 4.02,Kootenai County,Idaho,0
+16055000500,Census Tract 5,Kootenai County,Idaho,0
+16055000601,Census Tract 6.01,Kootenai County,Idaho,0
+16055000602,Census Tract 6.02,Kootenai County,Idaho,1
+16055000700,Census Tract 7,Kootenai County,Idaho,0
+16055000800,Census Tract 8,Kootenai County,Idaho,0
+16055000900,Census Tract 9,Kootenai County,Idaho,0
+16055001001,Census Tract 10.01,Kootenai County,Idaho,0
+16055001002,Census Tract 10.02,Kootenai County,Idaho,0
+16055001100,Census Tract 11,Kootenai County,Idaho,0
+16055001200,Census Tract 12,Kootenai County,Idaho,0
+16055001300,Census Tract 13,Kootenai County,Idaho,0
+16055001400,Census Tract 14,Kootenai County,Idaho,0
+16055001500,Census Tract 15,Kootenai County,Idaho,0
+16055001600,Census Tract 16,Kootenai County,Idaho,0
+16055001700,Census Tract 17,Kootenai County,Idaho,0
+16055001800,Census Tract 18,Kootenai County,Idaho,0
+16055001900,Census Tract 19,Kootenai County,Idaho,0
+16055002000,Census Tract 20,Kootenai County,Idaho,0
+16055940000,Census Tract 9400,Kootenai County,Idaho,0
+16057005100,Census Tract 51,Latah County,Idaho,0
+16057005200,Census Tract 52,Latah County,Idaho,0
+16057005300,Census Tract 53,Latah County,Idaho,0
+16057005400,Census Tract 54,Latah County,Idaho,0
+16057005500,Census Tract 55,Latah County,Idaho,0
+16057005600,Census Tract 56,Latah County,Idaho,0
+16057005700,Census Tract 57,Latah County,Idaho,0
+16059970100,Census Tract 9701,Lemhi County,Idaho,0
+16059970200,Census Tract 9702,Lemhi County,Idaho,0
+16059970300,Census Tract 9703,Lemhi County,Idaho,0
+16061940001,Census Tract 9400.01,Lewis County,Idaho,0
+16061940002,Census Tract 9400.02,Lewis County,Idaho,0
+16061950300,Census Tract 9503,Lewis County,Idaho,0
+16063950100,Census Tract 9501,Lincoln County,Idaho,0
+16065950100,Census Tract 9501,Madison County,Idaho,0
+16065950200,Census Tract 9502,Madison County,Idaho,0
+16065950301,Census Tract 9503.01,Madison County,Idaho,0
+16065950302,Census Tract 9503.02,Madison County,Idaho,1
+16065950400,Census Tract 9504,Madison County,Idaho,0
+16065950500,Census Tract 9505,Madison County,Idaho,0
+16067970100,Census Tract 9701,Minidoka County,Idaho,0
+16067970200,Census Tract 9702,Minidoka County,Idaho,0
+16067970300,Census Tract 9703,Minidoka County,Idaho,0
+16067970400,Census Tract 9704,Minidoka County,Idaho,0
+16067970500,Census Tract 9705,Minidoka County,Idaho,0
+16069940000,Census Tract 9400,Nez Perce County,Idaho,0
+16069960200,Census Tract 9602,Nez Perce County,Idaho,0
+16069960300,Census Tract 9603,Nez Perce County,Idaho,0
+16069960400,Census Tract 9604,Nez Perce County,Idaho,0
+16069960500,Census Tract 9605,Nez Perce County,Idaho,0
+16069960600,Census Tract 9606,Nez Perce County,Idaho,0
+16069960700,Census Tract 9607,Nez Perce County,Idaho,0
+16069960800,Census Tract 9608,Nez Perce County,Idaho,0
+16069960900,Census Tract 9609,Nez Perce County,Idaho,0
+16069961000,Census Tract 9610,Nez Perce County,Idaho,0
+16071960100,Census Tract 9601,Oneida County,Idaho,0
+16073950101,Census Tract 9501.01,Owyhee County,Idaho,0
+16073950102,Census Tract 9501.02,Owyhee County,Idaho,0
+16073950200,Census Tract 9502,Owyhee County,Idaho,1
+16075960100,Census Tract 9601,Payette County,Idaho,0
+16075960200,Census Tract 9602,Payette County,Idaho,0
+16075960300,Census Tract 9603,Payette County,Idaho,0
+16075960400,Census Tract 9604,Payette County,Idaho,0
+16077960100,Census Tract 9601,Power County,Idaho,0
+16077960200,Census Tract 9602,Power County,Idaho,0
+16079960200,Census Tract 9602,Shoshone County,Idaho,0
+16079960300,Census Tract 9603,Shoshone County,Idaho,0
+16079960400,Census Tract 9604,Shoshone County,Idaho,0
+16081960100,Census Tract 9601,Teton County,Idaho,0
+16083000200,Census Tract 2,Twin Falls County,Idaho,0
+16083000300,Census Tract 3,Twin Falls County,Idaho,0
+16083000400,Census Tract 4,Twin Falls County,Idaho,0
+16083000500,Census Tract 5,Twin Falls County,Idaho,0
+16083000600,Census Tract 6,Twin Falls County,Idaho,0
+16083000700,Census Tract 7,Twin Falls County,Idaho,1
+16083000800,Census Tract 8,Twin Falls County,Idaho,0
+16083000900,Census Tract 9,Twin Falls County,Idaho,0
+16083001000,Census Tract 10,Twin Falls County,Idaho,0
+16083001100,Census Tract 11,Twin Falls County,Idaho,0
+16083001200,Census Tract 12,Twin Falls County,Idaho,0
+16083001300,Census Tract 13,Twin Falls County,Idaho,0
+16083001400,Census Tract 14,Twin Falls County,Idaho,0
+16083001500,Census Tract 15,Twin Falls County,Idaho,0
+16085970100,Census Tract 9701,Valley County,Idaho,0
+16085970200,Census Tract 9702,Valley County,Idaho,0
+16085970300,Census Tract 9703,Valley County,Idaho,0
+16087970100,Census Tract 9701,Washington County,Idaho,0
+16087970200,Census Tract 9702,Washington County,Idaho,1
+16087970300,Census Tract 9703,Washington County,Idaho,0
+30001000100,Census Tract 1,Beaverhead County,Montana,0
+30001000200,Census Tract 2,Beaverhead County,Montana,0
+30001000300,Census Tract 3,Beaverhead County,Montana,0
+30003000100,Census Tract 1,Big Horn County,Montana,0
+30003940400,Census Tract 9404,Big Horn County,Montana,0
+30003940500,Census Tract 9405,Big Horn County,Montana,1
+30003940600,Census Tract 9406,Big Horn County,Montana,0
+30003940700,Census Tract 9407,Big Horn County,Montana,0
+30005000100,Census Tract 1,Blaine County,Montana,0
+30005000200,Census Tract 2,Blaine County,Montana,0
+30005940100,Census Tract 9401,Blaine County,Montana,0
+30005940200,Census Tract 9402,Blaine County,Montana,1
+30007000100,Census Tract 1,Broadwater County,Montana,0
+30007000200,Census Tract 2,Broadwater County,Montana,0
+30009000100,Census Tract 1,Carbon County,Montana,0
+30009000200,Census Tract 2,Carbon County,Montana,0
+30009000300,Census Tract 3,Carbon County,Montana,0
+30009000400,Census Tract 4,Carbon County,Montana,0
+30009000500,Census Tract 5,Carbon County,Montana,0
+30011000300,Census Tract 3,Carter County,Montana,0
+30013000100,Census Tract 1,Cascade County,Montana,0
+30013000200,Census Tract 2,Cascade County,Montana,0
+30013000300,Census Tract 3,Cascade County,Montana,0
+30013000400,Census Tract 4,Cascade County,Montana,0
+30013000700,Census Tract 7,Cascade County,Montana,0
+30013000800,Census Tract 8,Cascade County,Montana,0
+30013000900,Census Tract 9,Cascade County,Montana,0
+30013001000,Census Tract 10,Cascade County,Montana,0
+30013001100,Census Tract 11,Cascade County,Montana,0
+30013001200,Census Tract 12,Cascade County,Montana,0
+30013001600,Census Tract 16,Cascade County,Montana,1
+30013001700,Census Tract 17,Cascade County,Montana,0
+30013001800,Census Tract 18,Cascade County,Montana,0
+30013001900,Census Tract 19,Cascade County,Montana,0
+30013002100,Census Tract 21,Cascade County,Montana,0
+30013002200,Census Tract 22,Cascade County,Montana,1
+30013002300,Census Tract 23,Cascade County,Montana,0
+30013010100,Census Tract 101,Cascade County,Montana,0
+30013010400,Census Tract 104,Cascade County,Montana,0
+30013010600,Census Tract 106,Cascade County,Montana,0
+30013010700,Census Tract 107,Cascade County,Montana,0
+30013010800,Census Tract 108,Cascade County,Montana,0
+30015010200,Census Tract 102,Chouteau County,Montana,0
+30015010300,Census Tract 103,Chouteau County,Montana,1
+30017961300,Census Tract 9613,Custer County,Montana,0
+30017961500,Census Tract 9615,Custer County,Montana,0
+30017961600,Census Tract 9616,Custer County,Montana,0
+30017961800,Census Tract 9618,Custer County,Montana,0
+30017961900,Census Tract 9619,Custer County,Montana,0
+30017962000,Census Tract 9620,Custer County,Montana,0
+30019020300,Census Tract 203,Daniels County,Montana,0
+30021000100,Census Tract 1,Dawson County,Montana,0
+30021000200,Census Tract 2,Dawson County,Montana,0
+30021000300,Census Tract 3,Dawson County,Montana,0
+30023000300,Census Tract 3,Deer Lodge County,Montana,1
+30023000400,Census Tract 4,Deer Lodge County,Montana,0
+30023000500,Census Tract 5,Deer Lodge County,Montana,0
+30025000100,Census Tract 1,Fallon County,Montana,0
+30027030100,Census Tract 301,Fergus County,Montana,0
+30027030200,Census Tract 302,Fergus County,Montana,1
+30029000100,Census Tract 1,Flathead County,Montana,0
+30029000201,Census Tract 2.01,Flathead County,Montana,0
+30029000202,Census Tract 2.02,Flathead County,Montana,0
+30029000203,Census Tract 2.03,Flathead County,Montana,0
+30029000300,Census Tract 3,Flathead County,Montana,0
+30029000401,Census Tract 4.01,Flathead County,Montana,0
+30029000402,Census Tract 4.02,Flathead County,Montana,0
+30029000601,Census Tract 6.01,Flathead County,Montana,0
+30029000602,Census Tract 6.02,Flathead County,Montana,0
+30029000700,Census Tract 7,Flathead County,Montana,0
+30029000800,Census Tract 8,Flathead County,Montana,0
+30029000900,Census Tract 9,Flathead County,Montana,0
+30029001000,Census Tract 10,Flathead County,Montana,0
+30029001100,Census Tract 11,Flathead County,Montana,0
+30029001200,Census Tract 12,Flathead County,Montana,0
+30029001301,Census Tract 13.01,Flathead County,Montana,0
+30029001302,Census Tract 13.02,Flathead County,Montana,0
+30029001400,Census Tract 14,Flathead County,Montana,0
+30029001700,Census Tract 17,Flathead County,Montana,0
+30031000101,Census Tract 1.01,Gallatin County,Montana,0
+30031000102,Census Tract 1.02,Gallatin County,Montana,0
+30031000103,Census Tract 1.03,Gallatin County,Montana,0
+30031000200,Census Tract 2,Gallatin County,Montana,0
+30031000300,Census Tract 3,Gallatin County,Montana,0
+30031000400,Census Tract 4,Gallatin County,Montana,0
+30031000501,Census Tract 5.01,Gallatin County,Montana,0
+30031000502,Census Tract 5.02,Gallatin County,Montana,0
+30031000503,Census Tract 5.03,Gallatin County,Montana,0
+30031000504,Census Tract 5.04,Gallatin County,Montana,0
+30031000600,Census Tract 6,Gallatin County,Montana,0
+30031000701,Census Tract 7.01,Gallatin County,Montana,0
+30031000702,Census Tract 7.02,Gallatin County,Montana,0
+30031000800,Census Tract 8,Gallatin County,Montana,0
+30031000900,Census Tract 9,Gallatin County,Montana,0
+30031001001,Census Tract 10.01,Gallatin County,Montana,0
+30031001002,Census Tract 10.02,Gallatin County,Montana,0
+30031001101,Census Tract 11.01,Gallatin County,Montana,0
+30031001102,Census Tract 11.02,Gallatin County,Montana,0
+30031001200,Census Tract 12,Gallatin County,Montana,0
+30031001500,Census Tract 15,Gallatin County,Montana,0
+30031001600,Census Tract 16,Gallatin County,Montana,0
+30033000100,Census Tract 1,Garfield County,Montana,0
+30035940200,Census Tract 9402,Glacier County,Montana,0
+30035940400,Census Tract 9404,Glacier County,Montana,1
+30035976000,Census Tract 9760,Glacier County,Montana,0
+30035980000,Census Tract 9800,Glacier County,Montana,1
+30037000100,Census Tract 1,Golden Valley County,Montana,1
+30039961700,Census Tract 9617,Granite County,Montana,0
+30041040100,Census Tract 401,Hill County,Montana,0
+30041040200,Census Tract 402,Hill County,Montana,0
+30041040300,Census Tract 403,Hill County,Montana,0
+30041040400,Census Tract 404,Hill County,Montana,0
+30041040500,Census Tract 405,Hill County,Montana,0
+30041940300,Census Tract 9403,Hill County,Montana,0
+30043962201,Census Tract 9622.01,Jefferson County,Montana,0
+30043962202,Census Tract 9622.02,Jefferson County,Montana,0
+30043962300,Census Tract 9623,Jefferson County,Montana,0
+30045000100,Census Tract 1,Judith Basin County,Montana,0
+30047000100,Census Tract 1,Lake County,Montana,0
+30047000200,Census Tract 2,Lake County,Montana,0
+30047940301,Census Tract 9403.01,Lake County,Montana,0
+30047940303,Census Tract 9403.03,Lake County,Montana,0
+30047940400,Census Tract 9404,Lake County,Montana,0
+30047940500,Census Tract 9405,Lake County,Montana,0
+30047940600,Census Tract 9406,Lake County,Montana,0
+30047940700,Census Tract 9407,Lake County,Montana,0
+30049000100,Census Tract 1,Lewis And Clark County,Montana,0
+30049000200,Census Tract 2,Lewis And Clark County,Montana,0
+30049000300,Census Tract 3,Lewis And Clark County,Montana,0
+30049000400,Census Tract 4,Lewis And Clark County,Montana,0
+30049000501,Census Tract 5.01,Lewis And Clark County,Montana,0
+30049000502,Census Tract 5.02,Lewis And Clark County,Montana,0
+30049000600,Census Tract 6,Lewis And Clark County,Montana,0
+30049000700,Census Tract 7,Lewis And Clark County,Montana,0
+30049000800,Census Tract 8,Lewis And Clark County,Montana,1
+30049000900,Census Tract 9,Lewis And Clark County,Montana,0
+30049001000,Census Tract 10,Lewis And Clark County,Montana,0
+30049001100,Census Tract 11,Lewis And Clark County,Montana,0
+30049001201,Census Tract 12.01,Lewis And Clark County,Montana,0
+30049001202,Census Tract 12.02,Lewis And Clark County,Montana,0
+30051050100,Census Tract 501,Liberty County,Montana,0
+30053000100,Census Tract 1,Lincoln County,Montana,0
+30053000200,Census Tract 2,Lincoln County,Montana,0
+30053000300,Census Tract 3,Lincoln County,Montana,0
+30053000400,Census Tract 4,Lincoln County,Montana,0
+30053000500,Census Tract 5,Lincoln County,Montana,0
+30055954000,Census Tract 9540,McCone County,Montana,0
+30057000100,Census Tract 1,Madison County,Montana,0
+30057000200,Census Tract 2,Madison County,Montana,0
+30057000300,Census Tract 3,Madison County,Montana,0
+30059000100,Census Tract 1,Meagher County,Montana,1
+30061964500,Census Tract 9645,Mineral County,Montana,1
+30061964600,Census Tract 9646,Mineral County,Montana,0
+30063000100,Census Tract 1,Missoula County,Montana,0
+30063000201,Census Tract 2.01,Missoula County,Montana,1
+30063000202,Census Tract 2.02,Missoula County,Montana,0
+30063000300,Census Tract 3,Missoula County,Montana,1
+30063000400,Census Tract 4,Missoula County,Montana,0
+30063000500,Census Tract 5,Missoula County,Montana,0
+30063000700,Census Tract 7,Missoula County,Montana,0
+30063000800,Census Tract 8,Missoula County,Montana,0
+30063000901,Census Tract 9.01,Missoula County,Montana,0
+30063000902,Census Tract 9.02,Missoula County,Montana,0
+30063001000,Census Tract 10,Missoula County,Montana,0
+30063001100,Census Tract 11,Missoula County,Montana,0
+30063001200,Census Tract 12,Missoula County,Montana,0
+30063001302,Census Tract 13.02,Missoula County,Montana,0
+30063001303,Census Tract 13.03,Missoula County,Montana,0
+30063001304,Census Tract 13.04,Missoula County,Montana,0
+30063001400,Census Tract 14,Missoula County,Montana,0
+30063001500,Census Tract 15,Missoula County,Montana,0
+30063001600,Census Tract 16,Missoula County,Montana,0
+30063001800,Census Tract 18,Missoula County,Montana,0
+30065000100,Census Tract 1,Musselshell County,Montana,0
+30065000200,Census Tract 2,Musselshell County,Montana,0
+30067000100,Census Tract 1,Park County,Montana,0
+30067000200,Census Tract 2,Park County,Montana,0
+30067000300,Census Tract 3,Park County,Montana,0
+30067000400,Census Tract 4,Park County,Montana,0
+30067000500,Census Tract 5,Park County,Montana,0
+30067980600,Census Tract 9806,Park County,Montana,0
+30069000100,Census Tract 1,Petroleum County,Montana,0
+30071060200,Census Tract 602,Phillips County,Montana,0
+30073977000,Census Tract 9770,Pondera County,Montana,0
+30073977200,Census Tract 9772,Pondera County,Montana,0
+30075000100,Census Tract 1,Powder River County,Montana,0
+30077000100,Census Tract 1,Powell County,Montana,0
+30077000200,Census Tract 2,Powell County,Montana,0
+30079000100,Census Tract 1,Prairie County,Montana,0
+30081000100,Census Tract 1,Ravalli County,Montana,0
+30081000201,Census Tract 2.01,Ravalli County,Montana,0
+30081000202,Census Tract 2.02,Ravalli County,Montana,0
+30081000300,Census Tract 3,Ravalli County,Montana,0
+30081000401,Census Tract 4.01,Ravalli County,Montana,0
+30081000402,Census Tract 4.02,Ravalli County,Montana,0
+30081000500,Census Tract 5,Ravalli County,Montana,1
+30081000600,Census Tract 6,Ravalli County,Montana,0
+30081000700,Census Tract 7,Ravalli County,Montana,0
+30081000800,Census Tract 8,Ravalli County,Montana,0
+30083070100,Census Tract 701,Richland County,Montana,0
+30083070200,Census Tract 702,Richland County,Montana,0
+30083070300,Census Tract 703,Richland County,Montana,0
+30083070400,Census Tract 704,Richland County,Montana,0
+30085080100,Census Tract 801,Roosevelt County,Montana,0
+30085940001,Census Tract 9400.01,Roosevelt County,Montana,0
+30085940002,Census Tract 9400.02,Roosevelt County,Montana,1
+30087000100,Census Tract 1,Rosebud County,Montana,0
+30087000200,Census Tract 2,Rosebud County,Montana,0
+30087000300,Census Tract 3,Rosebud County,Montana,0
+30087940400,Census Tract 9404,Rosebud County,Montana,0
+30089000100,Census Tract 1,Sanders County,Montana,0
+30089000200,Census Tract 2,Sanders County,Montana,1
+30089940300,Census Tract 9403,Sanders County,Montana,0
+30091090200,Census Tract 902,Sheridan County,Montana,0
+30091090400,Census Tract 904,Sheridan County,Montana,0
+30093000100,Census Tract 1,Silver Bow County,Montana,0
+30093000200,Census Tract 2,Silver Bow County,Montana,1
+30093000300,Census Tract 3,Silver Bow County,Montana,0
+30093000400,Census Tract 4,Silver Bow County,Montana,0
+30093000500,Census Tract 5,Silver Bow County,Montana,0
+30093000600,Census Tract 6,Silver Bow County,Montana,0
+30093000700,Census Tract 7,Silver Bow County,Montana,0
+30093000800,Census Tract 8,Silver Bow County,Montana,0
+30095966400,Census Tract 9664,Stillwater County,Montana,0
+30095966500,Census Tract 9665,Stillwater County,Montana,0
+30095966600,Census Tract 9666,Stillwater County,Montana,0
+30097967000,Census Tract 9670,Sweet Grass County,Montana,0
+30099000100,Census Tract 1,Teton County,Montana,0
+30099000200,Census Tract 2,Teton County,Montana,0
+30099000300,Census Tract 3,Teton County,Montana,0
+30101000100,Census Tract 1,Toole County,Montana,0
+30101000200,Census Tract 2,Toole County,Montana,0
+30101980000,Census Tract 9800,Toole County,Montana,0
+30103963500,Census Tract 9635,Treasure County,Montana,1
+30105100100,Census Tract 1001,Valley County,Montana,0
+30105100500,Census Tract 1005,Valley County,Montana,0
+30105940600,Census Tract 9406,Valley County,Montana,0
+30107000100,Census Tract 1,Wheatland County,Montana,0
+30109000100,Census Tract 1,Wibaux County,Montana,1
+30111000200,Census Tract 2,Yellowstone County,Montana,0
+30111000300,Census Tract 3,Yellowstone County,Montana,1
+30111000401,Census Tract 4.01,Yellowstone County,Montana,0
+30111000402,Census Tract 4.02,Yellowstone County,Montana,0
+30111000500,Census Tract 5,Yellowstone County,Montana,0
+30111000600,Census Tract 6,Yellowstone County,Montana,0
+30111000701,Census Tract 7.01,Yellowstone County,Montana,0
+30111000702,Census Tract 7.02,Yellowstone County,Montana,0
+30111000704,Census Tract 7.04,Yellowstone County,Montana,0
+30111000705,Census Tract 7.05,Yellowstone County,Montana,0
+30111000706,Census Tract 7.06,Yellowstone County,Montana,0
+30111000800,Census Tract 8,Yellowstone County,Montana,0
+30111000901,Census Tract 9.01,Yellowstone County,Montana,0
+30111000902,Census Tract 9.02,Yellowstone County,Montana,1
+30111001000,Census Tract 10,Yellowstone County,Montana,0
+30111001100,Census Tract 11,Yellowstone County,Montana,0
+30111001200,Census Tract 12,Yellowstone County,Montana,0
+30111001300,Census Tract 13,Yellowstone County,Montana,0
+30111001401,Census Tract 14.01,Yellowstone County,Montana,0
+30111001402,Census Tract 14.02,Yellowstone County,Montana,0
+30111001501,Census Tract 15.01,Yellowstone County,Montana,0
+30111001502,Census Tract 15.02,Yellowstone County,Montana,0
+30111001702,Census Tract 17.02,Yellowstone County,Montana,0
+30111001703,Census Tract 17.03,Yellowstone County,Montana,0
+30111001704,Census Tract 17.04,Yellowstone County,Montana,0
+30111001801,Census Tract 18.01,Yellowstone County,Montana,0
+30111001802,Census Tract 18.02,Yellowstone County,Montana,0
+30111001803,Census Tract 18.03,Yellowstone County,Montana,0
+30111001804,Census Tract 18.04,Yellowstone County,Montana,0
+30111001901,Census Tract 19.01,Yellowstone County,Montana,0
+30111001902,Census Tract 19.02,Yellowstone County,Montana,0
+30111940000,Census Tract 9400,Yellowstone County,Montana,0
+32001950100,Census Tract 9501,Churchill County,Nevada,0
+32001950301,Census Tract 9503.01,Churchill County,Nevada,0
+32001950302,Census Tract 9503.02,Churchill County,Nevada,1
+32001950400,Census Tract 9504,Churchill County,Nevada,0
+32001950500,Census Tract 9505,Churchill County,Nevada,0
+32001950600,Census Tract 9506,Churchill County,Nevada,0
+32001950700,Census Tract 9507,Churchill County,Nevada,0
+32003000101,Census Tract 1.01,Clark County,Nevada,0
+32003000103,Census Tract 1.03,Clark County,Nevada,0
+32003000105,Census Tract 1.05,Clark County,Nevada,0
+32003000106,Census Tract 1.06,Clark County,Nevada,0
+32003000107,Census Tract 1.07,Clark County,Nevada,1
+32003000108,Census Tract 1.08,Clark County,Nevada,0
+32003000109,Census Tract 1.09,Clark County,Nevada,0
+32003000201,Census Tract 2.01,Clark County,Nevada,1
+32003000203,Census Tract 2.03,Clark County,Nevada,1
+32003000204,Census Tract 2.04,Clark County,Nevada,0
+32003000301,Census Tract 3.01,Clark County,Nevada,0
+32003000302,Census Tract 3.02,Clark County,Nevada,0
+32003000401,Census Tract 4.01,Clark County,Nevada,0
+32003000402,Census Tract 4.02,Clark County,Nevada,1
+32003000403,Census Tract 4.03,Clark County,Nevada,1
+32003000510,Census Tract 5.10,Clark County,Nevada,0
+32003000513,Census Tract 5.13,Clark County,Nevada,0
+32003000514,Census Tract 5.14,Clark County,Nevada,0
+32003000515,Census Tract 5.15,Clark County,Nevada,0
+32003000516,Census Tract 5.16,Clark County,Nevada,0
+32003000517,Census Tract 5.17,Clark County,Nevada,0
+32003000518,Census Tract 5.18,Clark County,Nevada,1
+32003000519,Census Tract 5.19,Clark County,Nevada,0
+32003000520,Census Tract 5.20,Clark County,Nevada,0
+32003000521,Census Tract 5.21,Clark County,Nevada,0
+32003000522,Census Tract 5.22,Clark County,Nevada,0
+32003000523,Census Tract 5.23,Clark County,Nevada,0
+32003000524,Census Tract 5.24,Clark County,Nevada,0
+32003000525,Census Tract 5.25,Clark County,Nevada,1
+32003000526,Census Tract 5.26,Clark County,Nevada,0
+32003000527,Census Tract 5.27,Clark County,Nevada,0
+32003000528,Census Tract 5.28,Clark County,Nevada,1
+32003000600,Census Tract 6,Clark County,Nevada,1
+32003000700,Census Tract 7,Clark County,Nevada,1
+32003000800,Census Tract 8,Clark County,Nevada,1
+32003000900,Census Tract 9,Clark County,Nevada,0
+32003001003,Census Tract 10.03,Clark County,Nevada,0
+32003001004,Census Tract 10.04,Clark County,Nevada,1
+32003001005,Census Tract 10.05,Clark County,Nevada,0
+32003001006,Census Tract 10.06,Clark County,Nevada,0
+32003001100,Census Tract 11,Clark County,Nevada,1
+32003001200,Census Tract 12,Clark County,Nevada,1
+32003001300,Census Tract 13,Clark County,Nevada,0
+32003001401,Census Tract 14.01,Clark County,Nevada,0
+32003001402,Census Tract 14.02,Clark County,Nevada,0
+32003001501,Census Tract 15.01,Clark County,Nevada,0
+32003001502,Census Tract 15.02,Clark County,Nevada,1
+32003001607,Census Tract 16.07,Clark County,Nevada,1
+32003001608,Census Tract 16.08,Clark County,Nevada,0
+32003001609,Census Tract 16.09,Clark County,Nevada,0
+32003001610,Census Tract 16.10,Clark County,Nevada,0
+32003001611,Census Tract 16.11,Clark County,Nevada,0
+32003001612,Census Tract 16.12,Clark County,Nevada,0
+32003001613,Census Tract 16.13,Clark County,Nevada,0
+32003001706,Census Tract 17.06,Clark County,Nevada,0
+32003001707,Census Tract 17.07,Clark County,Nevada,0
+32003001708,Census Tract 17.08,Clark County,Nevada,0
+32003001709,Census Tract 17.09,Clark County,Nevada,0
+32003001710,Census Tract 17.10,Clark County,Nevada,1
+32003001711,Census Tract 17.11,Clark County,Nevada,1
+32003001712,Census Tract 17.12,Clark County,Nevada,0
+32003001713,Census Tract 17.13,Clark County,Nevada,0
+32003001714,Census Tract 17.14,Clark County,Nevada,0
+32003001715,Census Tract 17.15,Clark County,Nevada,0
+32003001716,Census Tract 17.16,Clark County,Nevada,0
+32003001717,Census Tract 17.17,Clark County,Nevada,0
+32003001718,Census Tract 17.18,Clark County,Nevada,0
+32003001801,Census Tract 18.01,Clark County,Nevada,0
+32003001803,Census Tract 18.03,Clark County,Nevada,0
+32003001804,Census Tract 18.04,Clark County,Nevada,0
+32003001901,Census Tract 19.01,Clark County,Nevada,0
+32003001902,Census Tract 19.02,Clark County,Nevada,0
+32003002000,Census Tract 20,Clark County,Nevada,1
+32003002201,Census Tract 22.01,Clark County,Nevada,1
+32003002203,Census Tract 22.03,Clark County,Nevada,0
+32003002204,Census Tract 22.04,Clark County,Nevada,0
+32003002206,Census Tract 22.06,Clark County,Nevada,0
+32003002207,Census Tract 22.07,Clark County,Nevada,0
+32003002302,Census Tract 23.02,Clark County,Nevada,0
+32003002303,Census Tract 23.03,Clark County,Nevada,0
+32003002403,Census Tract 24.03,Clark County,Nevada,1
+32003002404,Census Tract 24.04,Clark County,Nevada,0
+32003002405,Census Tract 24.05,Clark County,Nevada,1
+32003002406,Census Tract 24.06,Clark County,Nevada,0
+32003002501,Census Tract 25.01,Clark County,Nevada,0
+32003002504,Census Tract 25.04,Clark County,Nevada,0
+32003002505,Census Tract 25.05,Clark County,Nevada,0
+32003002506,Census Tract 25.06,Clark County,Nevada,0
+32003002603,Census Tract 26.03,Clark County,Nevada,1
+32003002604,Census Tract 26.04,Clark County,Nevada,1
+32003002605,Census Tract 26.05,Clark County,Nevada,1
+32003002706,Census Tract 27.06,Clark County,Nevada,0
+32003002707,Census Tract 27.07,Clark County,Nevada,0
+32003002708,Census Tract 27.08,Clark County,Nevada,1
+32003002808,Census Tract 28.08,Clark County,Nevada,0
+32003002810,Census Tract 28.10,Clark County,Nevada,0
+32003002811,Census Tract 28.11,Clark County,Nevada,0
+32003002814,Census Tract 28.14,Clark County,Nevada,0
+32003002821,Census Tract 28.21,Clark County,Nevada,0
+32003002822,Census Tract 28.22,Clark County,Nevada,0
+32003002823,Census Tract 28.23,Clark County,Nevada,0
+32003002824,Census Tract 28.24,Clark County,Nevada,0
+32003002825,Census Tract 28.25,Clark County,Nevada,0
+32003002826,Census Tract 28.26,Clark County,Nevada,0
+32003002827,Census Tract 28.27,Clark County,Nevada,0
+32003002828,Census Tract 28.28,Clark County,Nevada,0
+32003002829,Census Tract 28.29,Clark County,Nevada,0
+32003002830,Census Tract 28.30,Clark County,Nevada,0
+32003002831,Census Tract 28.31,Clark County,Nevada,0
+32003002832,Census Tract 28.32,Clark County,Nevada,0
+32003002833,Census Tract 28.33,Clark County,Nevada,0
+32003002834,Census Tract 28.34,Clark County,Nevada,0
+32003002835,Census Tract 28.35,Clark County,Nevada,0
+32003002836,Census Tract 28.36,Clark County,Nevada,0
+32003002837,Census Tract 28.37,Clark County,Nevada,0
+32003002838,Census Tract 28.38,Clark County,Nevada,0
+32003002841,Census Tract 28.41,Clark County,Nevada,0
+32003002842,Census Tract 28.42,Clark County,Nevada,0
+32003002843,Census Tract 28.43,Clark County,Nevada,0
+32003002844,Census Tract 28.44,Clark County,Nevada,0
+32003002845,Census Tract 28.45,Clark County,Nevada,0
+32003002846,Census Tract 28.46,Clark County,Nevada,0
+32003002847,Census Tract 28.47,Clark County,Nevada,0
+32003002848,Census Tract 28.48,Clark County,Nevada,0
+32003002905,Census Tract 29.05,Clark County,Nevada,1
+32003002915,Census Tract 29.15,Clark County,Nevada,0
+32003002916,Census Tract 29.16,Clark County,Nevada,0
+32003002919,Census Tract 29.19,Clark County,Nevada,0
+32003002935,Census Tract 29.35,Clark County,Nevada,0
+32003002936,Census Tract 29.36,Clark County,Nevada,0
+32003002937,Census Tract 29.37,Clark County,Nevada,0
+32003002938,Census Tract 29.38,Clark County,Nevada,0
+32003002939,Census Tract 29.39,Clark County,Nevada,0
+32003002940,Census Tract 29.40,Clark County,Nevada,0
+32003002941,Census Tract 29.41,Clark County,Nevada,0
+32003002942,Census Tract 29.42,Clark County,Nevada,0
+32003002944,Census Tract 29.44,Clark County,Nevada,0
+32003002946,Census Tract 29.46,Clark County,Nevada,0
+32003002947,Census Tract 29.47,Clark County,Nevada,0
+32003002948,Census Tract 29.48,Clark County,Nevada,0
+32003002949,Census Tract 29.49,Clark County,Nevada,0
+32003002950,Census Tract 29.50,Clark County,Nevada,0
+32003002951,Census Tract 29.51,Clark County,Nevada,0
+32003002952,Census Tract 29.52,Clark County,Nevada,0
+32003002953,Census Tract 29.53,Clark County,Nevada,0
+32003002954,Census Tract 29.54,Clark County,Nevada,0
+32003002956,Census Tract 29.56,Clark County,Nevada,1
+32003002957,Census Tract 29.57,Clark County,Nevada,0
+32003002958,Census Tract 29.58,Clark County,Nevada,0
+32003002961,Census Tract 29.61,Clark County,Nevada,0
+32003002962,Census Tract 29.62,Clark County,Nevada,0
+32003002964,Census Tract 29.64,Clark County,Nevada,0
+32003002965,Census Tract 29.65,Clark County,Nevada,0
+32003002966,Census Tract 29.66,Clark County,Nevada,0
+32003002967,Census Tract 29.67,Clark County,Nevada,0
+32003002968,Census Tract 29.68,Clark County,Nevada,0
+32003002969,Census Tract 29.69,Clark County,Nevada,0
+32003002970,Census Tract 29.70,Clark County,Nevada,0
+32003002974,Census Tract 29.74,Clark County,Nevada,0
+32003002975,Census Tract 29.75,Clark County,Nevada,0
+32003002976,Census Tract 29.76,Clark County,Nevada,0
+32003002977,Census Tract 29.77,Clark County,Nevada,0
+32003002978,Census Tract 29.78,Clark County,Nevada,0
+32003002979,Census Tract 29.79,Clark County,Nevada,0
+32003002980,Census Tract 29.80,Clark County,Nevada,0
+32003002981,Census Tract 29.81,Clark County,Nevada,0
+32003002982,Census Tract 29.82,Clark County,Nevada,0
+32003002983,Census Tract 29.83,Clark County,Nevada,0
+32003002984,Census Tract 29.84,Clark County,Nevada,0
+32003002985,Census Tract 29.85,Clark County,Nevada,0
+32003002995,Census Tract 29.95,Clark County,Nevada,1
+32003002996,Census Tract 29.96,Clark County,Nevada,1
+32003003001,Census Tract 30.01,Clark County,Nevada,0
+32003003003,Census Tract 30.03,Clark County,Nevada,0
+32003003004,Census Tract 30.04,Clark County,Nevada,0
+32003003005,Census Tract 30.05,Clark County,Nevada,0
+32003003006,Census Tract 30.06,Clark County,Nevada,0
+32003003102,Census Tract 31.02,Clark County,Nevada,0
+32003003103,Census Tract 31.03,Clark County,Nevada,0
+32003003104,Census Tract 31.04,Clark County,Nevada,1
+32003003204,Census Tract 32.04,Clark County,Nevada,0
+32003003208,Census Tract 32.08,Clark County,Nevada,0
+32003003210,Census Tract 32.10,Clark County,Nevada,0
+32003003211,Census Tract 32.11,Clark County,Nevada,0
+32003003213,Census Tract 32.13,Clark County,Nevada,0
+32003003214,Census Tract 32.14,Clark County,Nevada,0
+32003003215,Census Tract 32.15,Clark County,Nevada,0
+32003003218,Census Tract 32.18,Clark County,Nevada,0
+32003003219,Census Tract 32.19,Clark County,Nevada,0
+32003003220,Census Tract 32.20,Clark County,Nevada,0
+32003003222,Census Tract 32.22,Clark County,Nevada,0
+32003003223,Census Tract 32.23,Clark County,Nevada,0
+32003003226,Census Tract 32.26,Clark County,Nevada,0
+32003003227,Census Tract 32.27,Clark County,Nevada,0
+32003003228,Census Tract 32.28,Clark County,Nevada,0
+32003003229,Census Tract 32.29,Clark County,Nevada,0
+32003003230,Census Tract 32.30,Clark County,Nevada,0
+32003003231,Census Tract 32.31,Clark County,Nevada,0
+32003003232,Census Tract 32.32,Clark County,Nevada,0
+32003003233,Census Tract 32.33,Clark County,Nevada,0
+32003003234,Census Tract 32.34,Clark County,Nevada,0
+32003003235,Census Tract 32.35,Clark County,Nevada,0
+32003003236,Census Tract 32.36,Clark County,Nevada,0
+32003003237,Census Tract 32.37,Clark County,Nevada,0
+32003003238,Census Tract 32.38,Clark County,Nevada,0
+32003003239,Census Tract 32.39,Clark County,Nevada,0
+32003003240,Census Tract 32.40,Clark County,Nevada,0
+32003003241,Census Tract 32.41,Clark County,Nevada,0
+32003003242,Census Tract 32.42,Clark County,Nevada,0
+32003003243,Census Tract 32.43,Clark County,Nevada,0
+32003003244,Census Tract 32.44,Clark County,Nevada,0
+32003003245,Census Tract 32.45,Clark County,Nevada,0
+32003003246,Census Tract 32.46,Clark County,Nevada,0
+32003003247,Census Tract 32.47,Clark County,Nevada,0
+32003003248,Census Tract 32.48,Clark County,Nevada,0
+32003003249,Census Tract 32.49,Clark County,Nevada,0
+32003003250,Census Tract 32.50,Clark County,Nevada,0
+32003003251,Census Tract 32.51,Clark County,Nevada,0
+32003003252,Census Tract 32.52,Clark County,Nevada,0
+32003003253,Census Tract 32.53,Clark County,Nevada,0
+32003003254,Census Tract 32.54,Clark County,Nevada,0
+32003003260,Census Tract 32.60,Clark County,Nevada,0
+32003003261,Census Tract 32.61,Clark County,Nevada,0
+32003003262,Census Tract 32.62,Clark County,Nevada,0
+32003003303,Census Tract 33.03,Clark County,Nevada,0
+32003003305,Census Tract 33.05,Clark County,Nevada,0
+32003003306,Census Tract 33.06,Clark County,Nevada,0
+32003003307,Census Tract 33.07,Clark County,Nevada,0
+32003003308,Census Tract 33.08,Clark County,Nevada,0
+32003003309,Census Tract 33.09,Clark County,Nevada,0
+32003003310,Census Tract 33.10,Clark County,Nevada,0
+32003003311,Census Tract 33.11,Clark County,Nevada,0
+32003003312,Census Tract 33.12,Clark County,Nevada,0
+32003003313,Census Tract 33.13,Clark County,Nevada,0
+32003003314,Census Tract 33.14,Clark County,Nevada,0
+32003003315,Census Tract 33.15,Clark County,Nevada,0
+32003003316,Census Tract 33.16,Clark County,Nevada,0
+32003003317,Census Tract 33.17,Clark County,Nevada,0
+32003003318,Census Tract 33.18,Clark County,Nevada,0
+32003003319,Census Tract 33.19,Clark County,Nevada,0
+32003003320,Census Tract 33.20,Clark County,Nevada,0
+32003003321,Census Tract 33.21,Clark County,Nevada,0
+32003003408,Census Tract 34.08,Clark County,Nevada,0
+32003003409,Census Tract 34.09,Clark County,Nevada,0
+32003003410,Census Tract 34.10,Clark County,Nevada,0
+32003003411,Census Tract 34.11,Clark County,Nevada,0
+32003003412,Census Tract 34.12,Clark County,Nevada,0
+32003003413,Census Tract 34.13,Clark County,Nevada,0
+32003003414,Census Tract 34.14,Clark County,Nevada,0
+32003003415,Census Tract 34.15,Clark County,Nevada,1
+32003003416,Census Tract 34.16,Clark County,Nevada,0
+32003003418,Census Tract 34.18,Clark County,Nevada,0
+32003003419,Census Tract 34.19,Clark County,Nevada,0
+32003003420,Census Tract 34.20,Clark County,Nevada,0
+32003003421,Census Tract 34.21,Clark County,Nevada,0
+32003003422,Census Tract 34.22,Clark County,Nevada,0
+32003003423,Census Tract 34.23,Clark County,Nevada,0
+32003003426,Census Tract 34.26,Clark County,Nevada,0
+32003003427,Census Tract 34.27,Clark County,Nevada,1
+32003003428,Census Tract 34.28,Clark County,Nevada,0
+32003003429,Census Tract 34.29,Clark County,Nevada,0
+32003003430,Census Tract 34.30,Clark County,Nevada,1
+32003003431,Census Tract 34.31,Clark County,Nevada,1
+32003003500,Census Tract 35,Clark County,Nevada,1
+32003003607,Census Tract 36.07,Clark County,Nevada,0
+32003003609,Census Tract 36.09,Clark County,Nevada,0
+32003003610,Census Tract 36.10,Clark County,Nevada,0
+32003003612,Census Tract 36.12,Clark County,Nevada,0
+32003003613,Census Tract 36.13,Clark County,Nevada,0
+32003003615,Census Tract 36.15,Clark County,Nevada,0
+32003003616,Census Tract 36.16,Clark County,Nevada,1
+32003003617,Census Tract 36.17,Clark County,Nevada,0
+32003003618,Census Tract 36.18,Clark County,Nevada,0
+32003003619,Census Tract 36.19,Clark County,Nevada,0
+32003003620,Census Tract 36.20,Clark County,Nevada,0
+32003003621,Census Tract 36.21,Clark County,Nevada,0
+32003003622,Census Tract 36.22,Clark County,Nevada,0
+32003003623,Census Tract 36.23,Clark County,Nevada,0
+32003003624,Census Tract 36.24,Clark County,Nevada,0
+32003003625,Census Tract 36.25,Clark County,Nevada,1
+32003003626,Census Tract 36.26,Clark County,Nevada,0
+32003003627,Census Tract 36.27,Clark County,Nevada,0
+32003003628,Census Tract 36.28,Clark County,Nevada,0
+32003003629,Census Tract 36.29,Clark County,Nevada,0
+32003003630,Census Tract 36.30,Clark County,Nevada,0
+32003003631,Census Tract 36.31,Clark County,Nevada,0
+32003003632,Census Tract 36.32,Clark County,Nevada,0
+32003003633,Census Tract 36.33,Clark County,Nevada,0
+32003003634,Census Tract 36.34,Clark County,Nevada,0
+32003003635,Census Tract 36.35,Clark County,Nevada,0
+32003003636,Census Tract 36.36,Clark County,Nevada,0
+32003003637,Census Tract 36.37,Clark County,Nevada,0
+32003003638,Census Tract 36.38,Clark County,Nevada,0
+32003003639,Census Tract 36.39,Clark County,Nevada,0
+32003003640,Census Tract 36.40,Clark County,Nevada,0
+32003003641,Census Tract 36.41,Clark County,Nevada,0
+32003003642,Census Tract 36.42,Clark County,Nevada,0
+32003003643,Census Tract 36.43,Clark County,Nevada,0
+32003003644,Census Tract 36.44,Clark County,Nevada,0
+32003003700,Census Tract 37,Clark County,Nevada,0
+32003003800,Census Tract 38,Clark County,Nevada,1
+32003004000,Census Tract 40,Clark County,Nevada,0
+32003004100,Census Tract 41,Clark County,Nevada,0
+32003004200,Census Tract 42,Clark County,Nevada,0
+32003004301,Census Tract 43.01,Clark County,Nevada,0
+32003004302,Census Tract 43.02,Clark County,Nevada,0
+32003004401,Census Tract 44.01,Clark County,Nevada,0
+32003004402,Census Tract 44.02,Clark County,Nevada,1
+32003004500,Census Tract 45,Clark County,Nevada,0
+32003004601,Census Tract 46.01,Clark County,Nevada,0
+32003004602,Census Tract 46.02,Clark County,Nevada,0
+32003004703,Census Tract 47.03,Clark County,Nevada,1
+32003004707,Census Tract 47.07,Clark County,Nevada,0
+32003004709,Census Tract 47.09,Clark County,Nevada,0
+32003004710,Census Tract 47.10,Clark County,Nevada,1
+32003004712,Census Tract 47.12,Clark County,Nevada,1
+32003004713,Census Tract 47.13,Clark County,Nevada,1
+32003004714,Census Tract 47.14,Clark County,Nevada,1
+32003004715,Census Tract 47.15,Clark County,Nevada,0
+32003004716,Census Tract 47.16,Clark County,Nevada,0
+32003004717,Census Tract 47.17,Clark County,Nevada,0
+32003004907,Census Tract 49.07,Clark County,Nevada,0
+32003004910,Census Tract 49.10,Clark County,Nevada,0
+32003004911,Census Tract 49.11,Clark County,Nevada,0
+32003004912,Census Tract 49.12,Clark County,Nevada,0
+32003004914,Census Tract 49.14,Clark County,Nevada,0
+32003004915,Census Tract 49.15,Clark County,Nevada,0
+32003004916,Census Tract 49.16,Clark County,Nevada,0
+32003004917,Census Tract 49.17,Clark County,Nevada,0
+32003004918,Census Tract 49.18,Clark County,Nevada,0
+32003004919,Census Tract 49.19,Clark County,Nevada,0
+32003004920,Census Tract 49.20,Clark County,Nevada,0
+32003004921,Census Tract 49.21,Clark County,Nevada,0
+32003004923,Census Tract 49.23,Clark County,Nevada,0
+32003004924,Census Tract 49.24,Clark County,Nevada,0
+32003004925,Census Tract 49.25,Clark County,Nevada,0
+32003004926,Census Tract 49.26,Clark County,Nevada,0
+32003005005,Census Tract 50.05,Clark County,Nevada,1
+32003005006,Census Tract 50.06,Clark County,Nevada,1
+32003005007,Census Tract 50.07,Clark County,Nevada,0
+32003005010,Census Tract 50.10,Clark County,Nevada,1
+32003005011,Census Tract 50.11,Clark County,Nevada,0
+32003005012,Census Tract 50.12,Clark County,Nevada,0
+32003005013,Census Tract 50.13,Clark County,Nevada,0
+32003005014,Census Tract 50.14,Clark County,Nevada,1
+32003005015,Census Tract 50.15,Clark County,Nevada,0
+32003005016,Census Tract 50.16,Clark County,Nevada,0
+32003005017,Census Tract 50.17,Clark County,Nevada,0
+32003005101,Census Tract 51.01,Clark County,Nevada,0
+32003005102,Census Tract 51.02,Clark County,Nevada,0
+32003005103,Census Tract 51.03,Clark County,Nevada,0
+32003005104,Census Tract 51.04,Clark County,Nevada,0
+32003005105,Census Tract 51.05,Clark County,Nevada,0
+32003005106,Census Tract 51.06,Clark County,Nevada,0
+32003005107,Census Tract 51.07,Clark County,Nevada,0
+32003005108,Census Tract 51.08,Clark County,Nevada,0
+32003005109,Census Tract 51.09,Clark County,Nevada,0
+32003005200,Census Tract 52,Clark County,Nevada,0
+32003005311,Census Tract 53.11,Clark County,Nevada,0
+32003005312,Census Tract 53.12,Clark County,Nevada,0
+32003005313,Census Tract 53.13,Clark County,Nevada,0
+32003005314,Census Tract 53.14,Clark County,Nevada,0
+32003005315,Census Tract 53.15,Clark County,Nevada,0
+32003005316,Census Tract 53.16,Clark County,Nevada,0
+32003005317,Census Tract 53.17,Clark County,Nevada,0
+32003005318,Census Tract 53.18,Clark County,Nevada,0
+32003005319,Census Tract 53.19,Clark County,Nevada,0
+32003005320,Census Tract 53.20,Clark County,Nevada,0
+32003005321,Census Tract 53.21,Clark County,Nevada,0
+32003005322,Census Tract 53.22,Clark County,Nevada,0
+32003005333,Census Tract 53.33,Clark County,Nevada,0
+32003005335,Census Tract 53.35,Clark County,Nevada,0
+32003005336,Census Tract 53.36,Clark County,Nevada,0
+32003005337,Census Tract 53.37,Clark County,Nevada,0
+32003005338,Census Tract 53.38,Clark County,Nevada,0
+32003005341,Census Tract 53.41,Clark County,Nevada,0
+32003005342,Census Tract 53.42,Clark County,Nevada,0
+32003005343,Census Tract 53.43,Clark County,Nevada,0
+32003005346,Census Tract 53.46,Clark County,Nevada,0
+32003005347,Census Tract 53.47,Clark County,Nevada,0
+32003005348,Census Tract 53.48,Clark County,Nevada,0
+32003005349,Census Tract 53.49,Clark County,Nevada,0
+32003005350,Census Tract 53.50,Clark County,Nevada,0
+32003005351,Census Tract 53.51,Clark County,Nevada,0
+32003005352,Census Tract 53.52,Clark County,Nevada,0
+32003005353,Census Tract 53.53,Clark County,Nevada,0
+32003005354,Census Tract 53.54,Clark County,Nevada,0
+32003005355,Census Tract 53.55,Clark County,Nevada,0
+32003005356,Census Tract 53.56,Clark County,Nevada,0
+32003005357,Census Tract 53.57,Clark County,Nevada,0
+32003005358,Census Tract 53.58,Clark County,Nevada,0
+32003005359,Census Tract 53.59,Clark County,Nevada,0
+32003005360,Census Tract 53.60,Clark County,Nevada,0
+32003005421,Census Tract 54.21,Clark County,Nevada,1
+32003005422,Census Tract 54.22,Clark County,Nevada,0
+32003005423,Census Tract 54.23,Clark County,Nevada,0
+32003005432,Census Tract 54.32,Clark County,Nevada,0
+32003005433,Census Tract 54.33,Clark County,Nevada,0
+32003005434,Census Tract 54.34,Clark County,Nevada,0
+32003005435,Census Tract 54.35,Clark County,Nevada,0
+32003005436,Census Tract 54.36,Clark County,Nevada,0
+32003005437,Census Tract 54.37,Clark County,Nevada,0
+32003005438,Census Tract 54.38,Clark County,Nevada,0
+32003005439,Census Tract 54.39,Clark County,Nevada,1
+32003005501,Census Tract 55.01,Clark County,Nevada,0
+32003005502,Census Tract 55.02,Clark County,Nevada,0
+32003005503,Census Tract 55.03,Clark County,Nevada,0
+32003005504,Census Tract 55.04,Clark County,Nevada,0
+32003005607,Census Tract 56.07,Clark County,Nevada,0
+32003005612,Census Tract 56.12,Clark County,Nevada,0
+32003005613,Census Tract 56.13,Clark County,Nevada,0
+32003005614,Census Tract 56.14,Clark County,Nevada,0
+32003005615,Census Tract 56.15,Clark County,Nevada,0
+32003005702,Census Tract 57.02,Clark County,Nevada,0
+32003005703,Census Tract 57.03,Clark County,Nevada,1
+32003005704,Census Tract 57.04,Clark County,Nevada,0
+32003005705,Census Tract 57.05,Clark County,Nevada,0
+32003005711,Census Tract 57.11,Clark County,Nevada,0
+32003005712,Census Tract 57.12,Clark County,Nevada,0
+32003005713,Census Tract 57.13,Clark County,Nevada,0
+32003005714,Census Tract 57.14,Clark County,Nevada,0
+32003005715,Census Tract 57.15,Clark County,Nevada,0
+32003005716,Census Tract 57.16,Clark County,Nevada,0
+32003005803,Census Tract 58.03,Clark County,Nevada,0
+32003005804,Census Tract 58.04,Clark County,Nevada,0
+32003005805,Census Tract 58.05,Clark County,Nevada,0
+32003005806,Census Tract 58.06,Clark County,Nevada,0
+32003005807,Census Tract 58.07,Clark County,Nevada,0
+32003005808,Census Tract 58.08,Clark County,Nevada,0
+32003005809,Census Tract 58.09,Clark County,Nevada,0
+32003005811,Census Tract 58.11,Clark County,Nevada,0
+32003005813,Census Tract 58.13,Clark County,Nevada,0
+32003005818,Census Tract 58.18,Clark County,Nevada,0
+32003005822,Census Tract 58.22,Clark County,Nevada,0
+32003005823,Census Tract 58.23,Clark County,Nevada,0
+32003005824,Census Tract 58.24,Clark County,Nevada,0
+32003005825,Census Tract 58.25,Clark County,Nevada,0
+32003005826,Census Tract 58.26,Clark County,Nevada,0
+32003005827,Census Tract 58.27,Clark County,Nevada,0
+32003005828,Census Tract 58.28,Clark County,Nevada,0
+32003005829,Census Tract 58.29,Clark County,Nevada,0
+32003005830,Census Tract 58.30,Clark County,Nevada,0
+32003005831,Census Tract 58.31,Clark County,Nevada,0
+32003005832,Census Tract 58.32,Clark County,Nevada,0
+32003005833,Census Tract 58.33,Clark County,Nevada,0
+32003005834,Census Tract 58.34,Clark County,Nevada,0
+32003005835,Census Tract 58.35,Clark County,Nevada,0
+32003005836,Census Tract 58.36,Clark County,Nevada,0
+32003005837,Census Tract 58.37,Clark County,Nevada,0
+32003005838,Census Tract 58.38,Clark County,Nevada,0
+32003005839,Census Tract 58.39,Clark County,Nevada,0
+32003005840,Census Tract 58.40,Clark County,Nevada,0
+32003005841,Census Tract 58.41,Clark County,Nevada,0
+32003005842,Census Tract 58.42,Clark County,Nevada,0
+32003005843,Census Tract 58.43,Clark County,Nevada,0
+32003005844,Census Tract 58.44,Clark County,Nevada,0
+32003005845,Census Tract 58.45,Clark County,Nevada,0
+32003005846,Census Tract 58.46,Clark County,Nevada,0
+32003005847,Census Tract 58.47,Clark County,Nevada,0
+32003005848,Census Tract 58.48,Clark County,Nevada,1
+32003005849,Census Tract 58.49,Clark County,Nevada,0
+32003005850,Census Tract 58.50,Clark County,Nevada,0
+32003005851,Census Tract 58.51,Clark County,Nevada,0
+32003005852,Census Tract 58.52,Clark County,Nevada,0
+32003005853,Census Tract 58.53,Clark County,Nevada,0
+32003005854,Census Tract 58.54,Clark County,Nevada,0
+32003005855,Census Tract 58.55,Clark County,Nevada,0
+32003005856,Census Tract 58.56,Clark County,Nevada,0
+32003005902,Census Tract 59.02,Clark County,Nevada,0
+32003005903,Census Tract 59.03,Clark County,Nevada,0
+32003005904,Census Tract 59.04,Clark County,Nevada,0
+32003005905,Census Tract 59.05,Clark County,Nevada,0
+32003006001,Census Tract 60.01,Clark County,Nevada,1
+32003006103,Census Tract 61.03,Clark County,Nevada,0
+32003006104,Census Tract 61.04,Clark County,Nevada,0
+32003006201,Census Tract 62.01,Clark County,Nevada,1
+32003006202,Census Tract 62.02,Clark County,Nevada,0
+32003006203,Census Tract 62.03,Clark County,Nevada,0
+32003006204,Census Tract 62.04,Clark County,Nevada,0
+32003006700,Census Tract 67,Clark County,Nevada,0
+32003006800,Census Tract 68,Clark County,Nevada,0
+32003006900,Census Tract 69,Clark County,Nevada,0
+32003007100,Census Tract 71,Clark County,Nevada,1
+32003007200,Census Tract 72,Clark County,Nevada,0
+32003007500,Census Tract 75,Clark County,Nevada,0
+32003007600,Census Tract 76,Clark County,Nevada,0
+32003007800,Census Tract 78,Clark County,Nevada,1
+32005001000,Census Tract 10,Douglas County,Nevada,0
+32005001100,Census Tract 11,Douglas County,Nevada,0
+32005001200,Census Tract 12,Douglas County,Nevada,0
+32005001300,Census Tract 13,Douglas County,Nevada,0
+32005001400,Census Tract 14,Douglas County,Nevada,0
+32005001500,Census Tract 15,Douglas County,Nevada,0
+32005001600,Census Tract 16,Douglas County,Nevada,0
+32005001700,Census Tract 17,Douglas County,Nevada,0
+32005001800,Census Tract 18,Douglas County,Nevada,0
+32005001900,Census Tract 19,Douglas County,Nevada,0
+32005002000,Census Tract 20,Douglas County,Nevada,0
+32005002100,Census Tract 21,Douglas County,Nevada,0
+32005002200,Census Tract 22,Douglas County,Nevada,0
+32005002300,Census Tract 23,Douglas County,Nevada,0
+32005002400,Census Tract 24,Douglas County,Nevada,0
+32005002500,Census Tract 25,Douglas County,Nevada,0
+32007950200,Census Tract 9502,Elko County,Nevada,0
+32007950701,Census Tract 9507.01,Elko County,Nevada,0
+32007950702,Census Tract 9507.02,Elko County,Nevada,0
+32007950800,Census Tract 9508,Elko County,Nevada,0
+32007950900,Census Tract 9509,Elko County,Nevada,0
+32007951000,Census Tract 9510,Elko County,Nevada,0
+32007951201,Census Tract 9512.01,Elko County,Nevada,0
+32007951202,Census Tract 9512.02,Elko County,Nevada,0
+32007951300,Census Tract 9513,Elko County,Nevada,0
+32007951401,Census Tract 9514.01,Elko County,Nevada,0
+32007951402,Census Tract 9514.02,Elko County,Nevada,0
+32007951500,Census Tract 9515,Elko County,Nevada,0
+32007951600,Census Tract 9516,Elko County,Nevada,0
+32007951700,Census Tract 9517,Elko County,Nevada,1
+32009950100,Census Tract 9501,Esmeralda County,Nevada,1
+32011000100,Census Tract 1,Eureka County,Nevada,0
+32013010500,Census Tract 105,Humboldt County,Nevada,0
+32013010600,Census Tract 106,Humboldt County,Nevada,0
+32013010701,Census Tract 107.01,Humboldt County,Nevada,0
+32013010702,Census Tract 107.02,Humboldt County,Nevada,0
+32015000300,Census Tract 3,Lander County,Nevada,0
+32017950100,Census Tract 9501,Lincoln County,Nevada,0
+32017950200,Census Tract 9502,Lincoln County,Nevada,0
+32019960101,Census Tract 9601.01,Lyon County,Nevada,0
+32019960102,Census Tract 9601.02,Lyon County,Nevada,0
+32019960103,Census Tract 9601.03,Lyon County,Nevada,0
+32019960201,Census Tract 9602.01,Lyon County,Nevada,0
+32019960202,Census Tract 9602.02,Lyon County,Nevada,0
+32019960301,Census Tract 9603.01,Lyon County,Nevada,0
+32019960302,Census Tract 9603.02,Lyon County,Nevada,0
+32019960303,Census Tract 9603.03,Lyon County,Nevada,0
+32019960800,Census Tract 9608,Lyon County,Nevada,0
+32019960900,Census Tract 9609,Lyon County,Nevada,1
+32021970700,Census Tract 9707,Mineral County,Nevada,0
+32021970800,Census Tract 9708,Mineral County,Nevada,0
+32023960100,Census Tract 9601,Nye County,Nevada,0
+32023960200,Census Tract 9602,Nye County,Nevada,0
+32023960300,Census Tract 9603,Nye County,Nevada,1
+32023960401,Census Tract 9604.01,Nye County,Nevada,1
+32023960402,Census Tract 9604.02,Nye County,Nevada,0
+32023960403,Census Tract 9604.03,Nye County,Nevada,0
+32023960404,Census Tract 9604.04,Nye County,Nevada,0
+32023960405,Census Tract 9604.05,Nye County,Nevada,0
+32023960406,Census Tract 9604.06,Nye County,Nevada,0
+32027960100,Census Tract 9601,Pershing County,Nevada,0
+32029970200,Census Tract 9702,Storey County,Nevada,0
+32031000101,Census Tract 1.01,Washoe County,Nevada,0
+32031000102,Census Tract 1.02,Washoe County,Nevada,1
+32031000201,Census Tract 2.01,Washoe County,Nevada,0
+32031000202,Census Tract 2.02,Washoe County,Nevada,1
+32031000300,Census Tract 3,Washoe County,Nevada,0
+32031000400,Census Tract 4,Washoe County,Nevada,0
+32031000700,Census Tract 7,Washoe County,Nevada,1
+32031000900,Census Tract 9,Washoe County,Nevada,1
+32031001005,Census Tract 10.05,Washoe County,Nevada,0
+32031001008,Census Tract 10.08,Washoe County,Nevada,1
+32031001009,Census Tract 10.09,Washoe County,Nevada,0
+32031001010,Census Tract 10.10,Washoe County,Nevada,0
+32031001011,Census Tract 10.11,Washoe County,Nevada,0
+32031001012,Census Tract 10.12,Washoe County,Nevada,0
+32031001013,Census Tract 10.13,Washoe County,Nevada,0
+32031001014,Census Tract 10.14,Washoe County,Nevada,0
+32031001015,Census Tract 10.15,Washoe County,Nevada,0
+32031001101,Census Tract 11.01,Washoe County,Nevada,0
+32031001103,Census Tract 11.03,Washoe County,Nevada,0
+32031001104,Census Tract 11.04,Washoe County,Nevada,0
+32031001105,Census Tract 11.05,Washoe County,Nevada,0
+32031001201,Census Tract 12.01,Washoe County,Nevada,0
+32031001202,Census Tract 12.02,Washoe County,Nevada,1
+32031001300,Census Tract 13,Washoe County,Nevada,0
+32031001400,Census Tract 14,Washoe County,Nevada,0
+32031001501,Census Tract 15.01,Washoe County,Nevada,0
+32031001502,Census Tract 15.02,Washoe County,Nevada,1
+32031001701,Census Tract 17.01,Washoe County,Nevada,0
+32031001702,Census Tract 17.02,Washoe County,Nevada,0
+32031001801,Census Tract 18.01,Washoe County,Nevada,1
+32031001802,Census Tract 18.02,Washoe County,Nevada,0
+32031001901,Census Tract 19.01,Washoe County,Nevada,0
+32031001902,Census Tract 19.02,Washoe County,Nevada,1
+32031002103,Census Tract 21.03,Washoe County,Nevada,0
+32031002104,Census Tract 21.04,Washoe County,Nevada,0
+32031002105,Census Tract 21.05,Washoe County,Nevada,0
+32031002106,Census Tract 21.06,Washoe County,Nevada,0
+32031002107,Census Tract 21.07,Washoe County,Nevada,1
+32031002204,Census Tract 22.04,Washoe County,Nevada,0
+32031002205,Census Tract 22.05,Washoe County,Nevada,1
+32031002206,Census Tract 22.06,Washoe County,Nevada,0
+32031002207,Census Tract 22.07,Washoe County,Nevada,0
+32031002208,Census Tract 22.08,Washoe County,Nevada,0
+32031002209,Census Tract 22.09,Washoe County,Nevada,0
+32031002210,Census Tract 22.10,Washoe County,Nevada,0
+32031002211,Census Tract 22.11,Washoe County,Nevada,1
+32031002212,Census Tract 22.12,Washoe County,Nevada,0
+32031002301,Census Tract 23.01,Washoe County,Nevada,0
+32031002302,Census Tract 23.02,Washoe County,Nevada,0
+32031002401,Census Tract 24.01,Washoe County,Nevada,0
+32031002406,Census Tract 24.06,Washoe County,Nevada,0
+32031002407,Census Tract 24.07,Washoe County,Nevada,0
+32031002408,Census Tract 24.08,Washoe County,Nevada,0
+32031002409,Census Tract 24.09,Washoe County,Nevada,0
+32031002410,Census Tract 24.10,Washoe County,Nevada,0
+32031002411,Census Tract 24.11,Washoe County,Nevada,0
+32031002412,Census Tract 24.12,Washoe County,Nevada,0
+32031002500,Census Tract 25,Washoe County,Nevada,0
+32031002603,Census Tract 26.03,Washoe County,Nevada,0
+32031002610,Census Tract 26.10,Washoe County,Nevada,0
+32031002611,Census Tract 26.11,Washoe County,Nevada,0
+32031002612,Census Tract 26.12,Washoe County,Nevada,0
+32031002613,Census Tract 26.13,Washoe County,Nevada,0
+32031002614,Census Tract 26.14,Washoe County,Nevada,1
+32031002615,Census Tract 26.15,Washoe County,Nevada,0
+32031002616,Census Tract 26.16,Washoe County,Nevada,0
+32031002617,Census Tract 26.17,Washoe County,Nevada,0
+32031002618,Census Tract 26.18,Washoe County,Nevada,0
+32031002619,Census Tract 26.19,Washoe County,Nevada,0
+32031002703,Census Tract 27.03,Washoe County,Nevada,0
+32031002704,Census Tract 27.04,Washoe County,Nevada,0
+32031002705,Census Tract 27.05,Washoe County,Nevada,0
+32031002706,Census Tract 27.06,Washoe County,Nevada,0
+32031002707,Census Tract 27.07,Washoe County,Nevada,0
+32031002801,Census Tract 28.01,Washoe County,Nevada,0
+32031002802,Census Tract 28.02,Washoe County,Nevada,0
+32031002901,Census Tract 29.01,Washoe County,Nevada,0
+32031002902,Census Tract 29.02,Washoe County,Nevada,0
+32031003000,Census Tract 30,Washoe County,Nevada,0
+32031003101,Census Tract 31.01,Washoe County,Nevada,0
+32031003105,Census Tract 31.05,Washoe County,Nevada,0
+32031003106,Census Tract 31.06,Washoe County,Nevada,0
+32031003108,Census Tract 31.08,Washoe County,Nevada,0
+32031003109,Census Tract 31.09,Washoe County,Nevada,0
+32031003110,Census Tract 31.10,Washoe County,Nevada,0
+32031003202,Census Tract 32.02,Washoe County,Nevada,0
+32031003203,Census Tract 32.03,Washoe County,Nevada,0
+32031003204,Census Tract 32.04,Washoe County,Nevada,0
+32031003305,Census Tract 33.05,Washoe County,Nevada,0
+32031003306,Census Tract 33.06,Washoe County,Nevada,0
+32031003307,Census Tract 33.07,Washoe County,Nevada,0
+32031003308,Census Tract 33.08,Washoe County,Nevada,0
+32031003309,Census Tract 33.09,Washoe County,Nevada,0
+32031003501,Census Tract 35.01,Washoe County,Nevada,0
+32031003503,Census Tract 35.03,Washoe County,Nevada,0
+32031003504,Census Tract 35.04,Washoe County,Nevada,0
+32031003507,Census Tract 35.07,Washoe County,Nevada,0
+32031003508,Census Tract 35.08,Washoe County,Nevada,0
+32031003509,Census Tract 35.09,Washoe County,Nevada,0
+32031003510,Census Tract 35.10,Washoe County,Nevada,0
+32031003511,Census Tract 35.11,Washoe County,Nevada,0
+32031003512,Census Tract 35.12,Washoe County,Nevada,0
+32031003513,Census Tract 35.13,Washoe County,Nevada,0
+32031003514,Census Tract 35.14,Washoe County,Nevada,0
+32031003515,Census Tract 35.15,Washoe County,Nevada,0
+32031940200,Census Tract 9402,Washoe County,Nevada,0
+32031980000,Census Tract 9800,Washoe County,Nevada,0
+32031980300,Census Tract 9803,Washoe County,Nevada,0
+32033970100,Census Tract 9701,White Pine County,Nevada,0
+32033970200,Census Tract 9702,White Pine County,Nevada,0
+32033970300,Census Tract 9703,White Pine County,Nevada,0
+32510000100,Census Tract 1,Carson City,Nevada,0
+32510000200,Census Tract 2,Carson City,Nevada,0
+32510000300,Census Tract 3,Carson City,Nevada,0
+32510000400,Census Tract 4,Carson City,Nevada,0
+32510000501,Census Tract 5.01,Carson City,Nevada,0
+32510000502,Census Tract 5.02,Carson City,Nevada,0
+32510000600,Census Tract 6,Carson City,Nevada,0
+32510000701,Census Tract 7.01,Carson City,Nevada,0
+32510000702,Census Tract 7.02,Carson City,Nevada,0
+32510000800,Census Tract 8,Carson City,Nevada,0
+32510000900,Census Tract 9,Carson City,Nevada,0
+32510001001,Census Tract 10.01,Carson City,Nevada,0
+32510001002,Census Tract 10.02,Carson City,Nevada,0
+49001100100,Census Tract 1001,Beaver County,Utah,0
+49001100200,Census Tract 1002,Beaver County,Utah,0
+49003960100,Census Tract 9601,Box Elder County,Utah,0
+49003960200,Census Tract 9602,Box Elder County,Utah,0
+49003960300,Census Tract 9603,Box Elder County,Utah,1
+49003960400,Census Tract 9604,Box Elder County,Utah,0
+49003960500,Census Tract 9605,Box Elder County,Utah,0
+49003960601,Census Tract 9606.01,Box Elder County,Utah,0
+49003960602,Census Tract 9606.02,Box Elder County,Utah,0
+49003960701,Census Tract 9607.01,Box Elder County,Utah,0
+49003960702,Census Tract 9607.02,Box Elder County,Utah,0
+49003960801,Census Tract 9608.01,Box Elder County,Utah,0
+49003960802,Census Tract 9608.02,Box Elder County,Utah,0
+49005000101,Census Tract 1.01,Cache County,Utah,0
+49005000102,Census Tract 1.02,Cache County,Utah,0
+49005000201,Census Tract 2.01,Cache County,Utah,0
+49005000202,Census Tract 2.02,Cache County,Utah,0
+49005000300,Census Tract 3,Cache County,Utah,0
+49005000401,Census Tract 4.01,Cache County,Utah,0
+49005000402,Census Tract 4.02,Cache County,Utah,0
+49005000403,Census Tract 4.03,Cache County,Utah,0
+49005000501,Census Tract 5.01,Cache County,Utah,0
+49005000502,Census Tract 5.02,Cache County,Utah,0
+49005000600,Census Tract 6,Cache County,Utah,0
+49005000701,Census Tract 7.01,Cache County,Utah,0
+49005000702,Census Tract 7.02,Cache County,Utah,0
+49005000800,Census Tract 8,Cache County,Utah,0
+49005000900,Census Tract 9,Cache County,Utah,0
+49005001001,Census Tract 10.01,Cache County,Utah,0
+49005001002,Census Tract 10.02,Cache County,Utah,1
+49005001101,Census Tract 11.01,Cache County,Utah,0
+49005001102,Census Tract 11.02,Cache County,Utah,0
+49005001201,Census Tract 12.01,Cache County,Utah,0
+49005001202,Census Tract 12.02,Cache County,Utah,0
+49005001300,Census Tract 13,Cache County,Utah,0
+49005001401,Census Tract 14.01,Cache County,Utah,0
+49005001402,Census Tract 14.02,Cache County,Utah,0
+49005001500,Census Tract 15,Cache County,Utah,0
+49005980100,Census Tract 9801,Cache County,Utah,0
+49007000100,Census Tract 1,Carbon County,Utah,0
+49007000200,Census Tract 2,Carbon County,Utah,0
+49007000300,Census Tract 3,Carbon County,Utah,0
+49007000500,Census Tract 5,Carbon County,Utah,0
+49007000600,Census Tract 6,Carbon County,Utah,1
+49009960100,Census Tract 9601,Daggett County,Utah,0
+49011125102,Census Tract 1251.02,Davis County,Utah,0
+49011125103,Census Tract 1251.03,Davis County,Utah,0
+49011125104,Census Tract 1251.04,Davis County,Utah,0
+49011125200,Census Tract 1252,Davis County,Utah,0
+49011125301,Census Tract 1253.01,Davis County,Utah,0
+49011125303,Census Tract 1253.03,Davis County,Utah,0
+49011125304,Census Tract 1253.04,Davis County,Utah,0
+49011125305,Census Tract 1253.05,Davis County,Utah,0
+49011125401,Census Tract 1254.01,Davis County,Utah,0
+49011125403,Census Tract 1254.03,Davis County,Utah,0
+49011125405,Census Tract 1254.05,Davis County,Utah,0
+49011125406,Census Tract 1254.06,Davis County,Utah,0
+49011125501,Census Tract 1255.01,Davis County,Utah,0
+49011125502,Census Tract 1255.02,Davis County,Utah,0
+49011125503,Census Tract 1255.03,Davis County,Utah,0
+49011125600,Census Tract 1256,Davis County,Utah,0
+49011125701,Census Tract 1257.01,Davis County,Utah,0
+49011125702,Census Tract 1257.02,Davis County,Utah,0
+49011125801,Census Tract 1258.01,Davis County,Utah,0
+49011125804,Census Tract 1258.04,Davis County,Utah,0
+49011125805,Census Tract 1258.05,Davis County,Utah,0
+49011125807,Census Tract 1258.07,Davis County,Utah,0
+49011125808,Census Tract 1258.08,Davis County,Utah,0
+49011125905,Census Tract 1259.05,Davis County,Utah,0
+49011125906,Census Tract 1259.06,Davis County,Utah,0
+49011125907,Census Tract 1259.07,Davis County,Utah,0
+49011125908,Census Tract 1259.08,Davis County,Utah,0
+49011126001,Census Tract 1260.01,Davis County,Utah,0
+49011126002,Census Tract 1260.02,Davis County,Utah,0
+49011126101,Census Tract 1261.01,Davis County,Utah,0
+49011126104,Census Tract 1261.04,Davis County,Utah,0
+49011126105,Census Tract 1261.05,Davis County,Utah,0
+49011126202,Census Tract 1262.02,Davis County,Utah,0
+49011126203,Census Tract 1262.03,Davis County,Utah,0
+49011126204,Census Tract 1262.04,Davis County,Utah,0
+49011126303,Census Tract 1263.03,Davis County,Utah,0
+49011126304,Census Tract 1263.04,Davis County,Utah,0
+49011126305,Census Tract 1263.05,Davis County,Utah,0
+49011126306,Census Tract 1263.06,Davis County,Utah,0
+49011126402,Census Tract 1264.02,Davis County,Utah,0
+49011126404,Census Tract 1264.04,Davis County,Utah,0
+49011126405,Census Tract 1264.05,Davis County,Utah,0
+49011126406,Census Tract 1264.06,Davis County,Utah,0
+49011126500,Census Tract 1265,Davis County,Utah,0
+49011126600,Census Tract 1266,Davis County,Utah,0
+49011126700,Census Tract 1267,Davis County,Utah,0
+49011126801,Census Tract 1268.01,Davis County,Utah,0
+49011126802,Census Tract 1268.02,Davis County,Utah,0
+49011126901,Census Tract 1269.01,Davis County,Utah,0
+49011126902,Census Tract 1269.02,Davis County,Utah,0
+49011127002,Census Tract 1270.02,Davis County,Utah,0
+49011127003,Census Tract 1270.03,Davis County,Utah,0
+49011127004,Census Tract 1270.04,Davis County,Utah,0
+49011127100,Census Tract 1271,Davis County,Utah,0
+49013940300,Census Tract 9403,Duchesne County,Utah,1
+49013940500,Census Tract 9405,Duchesne County,Utah,0
+49013940600,Census Tract 9406,Duchesne County,Utah,0
+49015976200,Census Tract 9762,Emery County,Utah,0
+49015976300,Census Tract 9763,Emery County,Utah,0
+49015976500,Census Tract 9765,Emery County,Utah,1
+49017000300,Census Tract 3,Garfield County,Utah,0
+49017000400,Census Tract 4,Garfield County,Utah,0
+49019000200,Census Tract 2,Grand County,Utah,0
+49019000300,Census Tract 3,Grand County,Utah,1
+49021110100,Census Tract 1101,Iron County,Utah,0
+49021110200,Census Tract 1102,Iron County,Utah,0
+49021110300,Census Tract 1103,Iron County,Utah,0
+49021110400,Census Tract 1104,Iron County,Utah,0
+49021110500,Census Tract 1105,Iron County,Utah,1
+49021110600,Census Tract 1106,Iron County,Utah,0
+49021110701,Census Tract 1107.01,Iron County,Utah,0
+49021110702,Census Tract 1107.02,Iron County,Utah,0
+49023010100,Census Tract 101,Juab County,Utah,0
+49023010200,Census Tract 102,Juab County,Utah,0
+49025130100,Census Tract 1301,Kane County,Utah,0
+49025130200,Census Tract 1302,Kane County,Utah,0
+49027974100,Census Tract 9741,Millard County,Utah,0
+49027974200,Census Tract 9742,Millard County,Utah,0
+49027974300,Census Tract 9743,Millard County,Utah,0
+49029970100,Census Tract 9701,Morgan County,Utah,0
+49029970200,Census Tract 9702,Morgan County,Utah,0
+49031960100,Census Tract 9601,Piute County,Utah,1
+49033950100,Census Tract 9501,Rich County,Utah,0
+49035100100,Census Tract 1001,Salt Lake County,Utah,0
+49035100200,Census Tract 1002,Salt Lake County,Utah,0
+49035100306,Census Tract 1003.06,Salt Lake County,Utah,0
+49035100307,Census Tract 1003.07,Salt Lake County,Utah,0
+49035100308,Census Tract 1003.08,Salt Lake County,Utah,0
+49035100500,Census Tract 1005,Salt Lake County,Utah,0
+49035100600,Census Tract 1006,Salt Lake County,Utah,0
+49035100700,Census Tract 1007,Salt Lake County,Utah,0
+49035100800,Census Tract 1008,Salt Lake County,Utah,0
+49035101000,Census Tract 1010,Salt Lake County,Utah,0
+49035101101,Census Tract 1011.01,Salt Lake County,Utah,0
+49035101102,Census Tract 1011.02,Salt Lake County,Utah,0
+49035101200,Census Tract 1012,Salt Lake County,Utah,0
+49035101400,Census Tract 1014,Salt Lake County,Utah,1
+49035101500,Census Tract 1015,Salt Lake County,Utah,1
+49035101600,Census Tract 1016,Salt Lake County,Utah,1
+49035101700,Census Tract 1017,Salt Lake County,Utah,0
+49035101800,Census Tract 1018,Salt Lake County,Utah,0
+49035101900,Census Tract 1019,Salt Lake County,Utah,0
+49035102000,Census Tract 1020,Salt Lake County,Utah,0
+49035102100,Census Tract 1021,Salt Lake County,Utah,0
+49035102300,Census Tract 1023,Salt Lake County,Utah,0
+49035102500,Census Tract 1025,Salt Lake County,Utah,1
+49035102600,Census Tract 1026,Salt Lake County,Utah,0
+49035102701,Census Tract 1027.01,Salt Lake County,Utah,1
+49035102702,Census Tract 1027.02,Salt Lake County,Utah,0
+49035102801,Census Tract 1028.01,Salt Lake County,Utah,0
+49035102802,Census Tract 1028.02,Salt Lake County,Utah,0
+49035102900,Census Tract 1029,Salt Lake County,Utah,1
+49035103000,Census Tract 1030,Salt Lake County,Utah,0
+49035103100,Census Tract 1031,Salt Lake County,Utah,0
+49035103200,Census Tract 1032,Salt Lake County,Utah,0
+49035103300,Census Tract 1033,Salt Lake County,Utah,0
+49035103400,Census Tract 1034,Salt Lake County,Utah,0
+49035103500,Census Tract 1035,Salt Lake County,Utah,0
+49035103600,Census Tract 1036,Salt Lake County,Utah,0
+49035103700,Census Tract 1037,Salt Lake County,Utah,0
+49035103800,Census Tract 1038,Salt Lake County,Utah,0
+49035103900,Census Tract 1039,Salt Lake County,Utah,0
+49035104000,Census Tract 1040,Salt Lake County,Utah,0
+49035104100,Census Tract 1041,Salt Lake County,Utah,0
+49035104200,Census Tract 1042,Salt Lake County,Utah,0
+49035104300,Census Tract 1043,Salt Lake County,Utah,0
+49035104400,Census Tract 1044,Salt Lake County,Utah,0
+49035104700,Census Tract 1047,Salt Lake County,Utah,0
+49035104800,Census Tract 1048,Salt Lake County,Utah,0
+49035104900,Census Tract 1049,Salt Lake County,Utah,0
+49035110102,Census Tract 1101.02,Salt Lake County,Utah,0
+49035110103,Census Tract 1101.03,Salt Lake County,Utah,0
+49035110104,Census Tract 1101.04,Salt Lake County,Utah,0
+49035110200,Census Tract 1102,Salt Lake County,Utah,0
+49035110300,Census Tract 1103,Salt Lake County,Utah,0
+49035110401,Census Tract 1104.01,Salt Lake County,Utah,0
+49035110402,Census Tract 1104.02,Salt Lake County,Utah,0
+49035110500,Census Tract 1105,Salt Lake County,Utah,0
+49035110600,Census Tract 1106,Salt Lake County,Utah,0
+49035110701,Census Tract 1107.01,Salt Lake County,Utah,0
+49035110702,Census Tract 1107.02,Salt Lake County,Utah,0
+49035110800,Census Tract 1108,Salt Lake County,Utah,0
+49035110900,Census Tract 1109,Salt Lake County,Utah,0
+49035111001,Census Tract 1110.01,Salt Lake County,Utah,0
+49035111002,Census Tract 1110.02,Salt Lake County,Utah,0
+49035111101,Census Tract 1111.01,Salt Lake County,Utah,0
+49035111102,Census Tract 1111.02,Salt Lake County,Utah,0
+49035111103,Census Tract 1111.03,Salt Lake County,Utah,0
+49035111201,Census Tract 1112.01,Salt Lake County,Utah,0
+49035111202,Census Tract 1112.02,Salt Lake County,Utah,0
+49035111302,Census Tract 1113.02,Salt Lake County,Utah,0
+49035111304,Census Tract 1113.04,Salt Lake County,Utah,0
+49035111305,Census Tract 1113.05,Salt Lake County,Utah,0
+49035111306,Census Tract 1113.06,Salt Lake County,Utah,0
+49035111400,Census Tract 1114,Salt Lake County,Utah,0
+49035111500,Census Tract 1115,Salt Lake County,Utah,0
+49035111600,Census Tract 1116,Salt Lake County,Utah,1
+49035111701,Census Tract 1117.01,Salt Lake County,Utah,0
+49035111702,Census Tract 1117.02,Salt Lake County,Utah,0
+49035111801,Census Tract 1118.01,Salt Lake County,Utah,0
+49035111802,Census Tract 1118.02,Salt Lake County,Utah,0
+49035111903,Census Tract 1119.03,Salt Lake County,Utah,0
+49035111904,Census Tract 1119.04,Salt Lake County,Utah,0
+49035111905,Census Tract 1119.05,Salt Lake County,Utah,1
+49035111906,Census Tract 1119.06,Salt Lake County,Utah,0
+49035112001,Census Tract 1120.01,Salt Lake County,Utah,0
+49035112002,Census Tract 1120.02,Salt Lake County,Utah,0
+49035112100,Census Tract 1121,Salt Lake County,Utah,1
+49035112201,Census Tract 1122.01,Salt Lake County,Utah,0
+49035112202,Census Tract 1122.02,Salt Lake County,Utah,0
+49035112301,Census Tract 1123.01,Salt Lake County,Utah,0
+49035112302,Census Tract 1123.02,Salt Lake County,Utah,0
+49035112402,Census Tract 1124.02,Salt Lake County,Utah,0
+49035112403,Census Tract 1124.03,Salt Lake County,Utah,1
+49035112404,Census Tract 1124.04,Salt Lake County,Utah,1
+49035112501,Census Tract 1125.01,Salt Lake County,Utah,0
+49035112502,Census Tract 1125.02,Salt Lake County,Utah,0
+49035112503,Census Tract 1125.03,Salt Lake County,Utah,0
+49035112604,Census Tract 1126.04,Salt Lake County,Utah,0
+49035112605,Census Tract 1126.05,Salt Lake County,Utah,0
+49035112608,Census Tract 1126.08,Salt Lake County,Utah,0
+49035112609,Census Tract 1126.09,Salt Lake County,Utah,0
+49035112610,Census Tract 1126.10,Salt Lake County,Utah,0
+49035112611,Census Tract 1126.11,Salt Lake County,Utah,0
+49035112612,Census Tract 1126.12,Salt Lake County,Utah,0
+49035112613,Census Tract 1126.13,Salt Lake County,Utah,0
+49035112614,Census Tract 1126.14,Salt Lake County,Utah,0
+49035112615,Census Tract 1126.15,Salt Lake County,Utah,0
+49035112616,Census Tract 1126.16,Salt Lake County,Utah,0
+49035112617,Census Tract 1126.17,Salt Lake County,Utah,0
+49035112618,Census Tract 1126.18,Salt Lake County,Utah,0
+49035112619,Census Tract 1126.19,Salt Lake County,Utah,0
+49035112700,Census Tract 1127,Salt Lake County,Utah,0
+49035112804,Census Tract 1128.04,Salt Lake County,Utah,0
+49035112805,Census Tract 1128.05,Salt Lake County,Utah,0
+49035112810,Census Tract 1128.10,Salt Lake County,Utah,0
+49035112812,Census Tract 1128.12,Salt Lake County,Utah,0
+49035112813,Census Tract 1128.13,Salt Lake County,Utah,0
+49035112814,Census Tract 1128.14,Salt Lake County,Utah,0
+49035112815,Census Tract 1128.15,Salt Lake County,Utah,0
+49035112816,Census Tract 1128.16,Salt Lake County,Utah,0
+49035112817,Census Tract 1128.17,Salt Lake County,Utah,0
+49035112818,Census Tract 1128.18,Salt Lake County,Utah,0
+49035112819,Census Tract 1128.19,Salt Lake County,Utah,0
+49035112820,Census Tract 1128.20,Salt Lake County,Utah,0
+49035112821,Census Tract 1128.21,Salt Lake County,Utah,0
+49035112822,Census Tract 1128.22,Salt Lake County,Utah,0
+49035112823,Census Tract 1128.23,Salt Lake County,Utah,0
+49035112904,Census Tract 1129.04,Salt Lake County,Utah,0
+49035112905,Census Tract 1129.05,Salt Lake County,Utah,0
+49035112907,Census Tract 1129.07,Salt Lake County,Utah,0
+49035112912,Census Tract 1129.12,Salt Lake County,Utah,0
+49035112913,Census Tract 1129.13,Salt Lake County,Utah,0
+49035112914,Census Tract 1129.14,Salt Lake County,Utah,0
+49035112916,Census Tract 1129.16,Salt Lake County,Utah,0
+49035112917,Census Tract 1129.17,Salt Lake County,Utah,0
+49035112918,Census Tract 1129.18,Salt Lake County,Utah,0
+49035112920,Census Tract 1129.20,Salt Lake County,Utah,0
+49035112921,Census Tract 1129.21,Salt Lake County,Utah,0
+49035113007,Census Tract 1130.07,Salt Lake County,Utah,0
+49035113008,Census Tract 1130.08,Salt Lake County,Utah,0
+49035113010,Census Tract 1130.10,Salt Lake County,Utah,0
+49035113011,Census Tract 1130.11,Salt Lake County,Utah,0
+49035113012,Census Tract 1130.12,Salt Lake County,Utah,0
+49035113013,Census Tract 1130.13,Salt Lake County,Utah,0
+49035113014,Census Tract 1130.14,Salt Lake County,Utah,0
+49035113016,Census Tract 1130.16,Salt Lake County,Utah,0
+49035113017,Census Tract 1130.17,Salt Lake County,Utah,0
+49035113019,Census Tract 1130.19,Salt Lake County,Utah,0
+49035113020,Census Tract 1130.20,Salt Lake County,Utah,0
+49035113101,Census Tract 1131.01,Salt Lake County,Utah,0
+49035113102,Census Tract 1131.02,Salt Lake County,Utah,0
+49035113105,Census Tract 1131.05,Salt Lake County,Utah,0
+49035113107,Census Tract 1131.07,Salt Lake County,Utah,0
+49035113108,Census Tract 1131.08,Salt Lake County,Utah,0
+49035113305,Census Tract 1133.05,Salt Lake County,Utah,0
+49035113306,Census Tract 1133.06,Salt Lake County,Utah,0
+49035113307,Census Tract 1133.07,Salt Lake County,Utah,0
+49035113308,Census Tract 1133.08,Salt Lake County,Utah,0
+49035113309,Census Tract 1133.09,Salt Lake County,Utah,0
+49035113310,Census Tract 1133.10,Salt Lake County,Utah,0
+49035113406,Census Tract 1134.06,Salt Lake County,Utah,0
+49035113407,Census Tract 1134.07,Salt Lake County,Utah,0
+49035113408,Census Tract 1134.08,Salt Lake County,Utah,0
+49035113409,Census Tract 1134.09,Salt Lake County,Utah,0
+49035113410,Census Tract 1134.10,Salt Lake County,Utah,0
+49035113411,Census Tract 1134.11,Salt Lake County,Utah,0
+49035113412,Census Tract 1134.12,Salt Lake County,Utah,0
+49035113413,Census Tract 1134.13,Salt Lake County,Utah,0
+49035113505,Census Tract 1135.05,Salt Lake County,Utah,0
+49035113509,Census Tract 1135.09,Salt Lake County,Utah,1
+49035113510,Census Tract 1135.10,Salt Lake County,Utah,0
+49035113511,Census Tract 1135.11,Salt Lake County,Utah,0
+49035113512,Census Tract 1135.12,Salt Lake County,Utah,1
+49035113513,Census Tract 1135.13,Salt Lake County,Utah,0
+49035113514,Census Tract 1135.14,Salt Lake County,Utah,1
+49035113515,Census Tract 1135.15,Salt Lake County,Utah,0
+49035113520,Census Tract 1135.20,Salt Lake County,Utah,0
+49035113521,Census Tract 1135.21,Salt Lake County,Utah,0
+49035113522,Census Tract 1135.22,Salt Lake County,Utah,0
+49035113523,Census Tract 1135.23,Salt Lake County,Utah,0
+49035113525,Census Tract 1135.25,Salt Lake County,Utah,0
+49035113526,Census Tract 1135.26,Salt Lake County,Utah,0
+49035113527,Census Tract 1135.27,Salt Lake County,Utah,0
+49035113528,Census Tract 1135.28,Salt Lake County,Utah,0
+49035113532,Census Tract 1135.32,Salt Lake County,Utah,0
+49035113533,Census Tract 1135.33,Salt Lake County,Utah,0
+49035113534,Census Tract 1135.34,Salt Lake County,Utah,0
+49035113535,Census Tract 1135.35,Salt Lake County,Utah,0
+49035113536,Census Tract 1135.36,Salt Lake County,Utah,0
+49035113537,Census Tract 1135.37,Salt Lake County,Utah,0
+49035113538,Census Tract 1135.38,Salt Lake County,Utah,0
+49035113539,Census Tract 1135.39,Salt Lake County,Utah,0
+49035113600,Census Tract 1136,Salt Lake County,Utah,0
+49035113701,Census Tract 1137.01,Salt Lake County,Utah,0
+49035113702,Census Tract 1137.02,Salt Lake County,Utah,0
+49035113801,Census Tract 1138.01,Salt Lake County,Utah,0
+49035113802,Census Tract 1138.02,Salt Lake County,Utah,0
+49035113803,Census Tract 1138.03,Salt Lake County,Utah,0
+49035113903,Census Tract 1139.03,Salt Lake County,Utah,0
+49035113904,Census Tract 1139.04,Salt Lake County,Utah,0
+49035113905,Census Tract 1139.05,Salt Lake County,Utah,0
+49035113906,Census Tract 1139.06,Salt Lake County,Utah,1
+49035113907,Census Tract 1139.07,Salt Lake County,Utah,0
+49035114000,Census Tract 1140,Salt Lake County,Utah,0
+49035114100,Census Tract 1141,Salt Lake County,Utah,0
+49035114200,Census Tract 1142,Salt Lake County,Utah,0
+49035114300,Census Tract 1143,Salt Lake County,Utah,0
+49035114500,Census Tract 1145,Salt Lake County,Utah,0
+49035114600,Census Tract 1146,Salt Lake County,Utah,0
+49035114700,Census Tract 1147,Salt Lake County,Utah,0
+49035114800,Census Tract 1148,Salt Lake County,Utah,0
+49035115106,Census Tract 1151.06,Salt Lake County,Utah,0
+49035115209,Census Tract 1152.09,Salt Lake County,Utah,0
+49037942000,Census Tract 9420,San Juan County,Utah,1
+49037942100,Census Tract 9421,San Juan County,Utah,1
+49037978100,Census Tract 9781,San Juan County,Utah,0
+49037978200,Census Tract 9782,San Juan County,Utah,0
+49039972100,Census Tract 9721,Sanpete County,Utah,0
+49039972200,Census Tract 9722,Sanpete County,Utah,0
+49039972300,Census Tract 9723,Sanpete County,Utah,0
+49039972400,Census Tract 9724,Sanpete County,Utah,0
+49039972500,Census Tract 9725,Sanpete County,Utah,0
+49041975100,Census Tract 9751,Sevier County,Utah,0
+49041975200,Census Tract 9752,Sevier County,Utah,0
+49041975300,Census Tract 9753,Sevier County,Utah,0
+49041975400,Census Tract 9754,Sevier County,Utah,0
+49041975500,Census Tract 9755,Sevier County,Utah,0
+49043964101,Census Tract 9641.01,Summit County,Utah,0
+49043964102,Census Tract 9641.02,Summit County,Utah,0
+49043964201,Census Tract 9642.01,Summit County,Utah,0
+49043964202,Census Tract 9642.02,Summit County,Utah,0
+49043964203,Census Tract 9642.03,Summit County,Utah,0
+49043964303,Census Tract 9643.03,Summit County,Utah,0
+49043964304,Census Tract 9643.04,Summit County,Utah,0
+49043964305,Census Tract 9643.05,Summit County,Utah,0
+49043964306,Census Tract 9643.06,Summit County,Utah,0
+49043964307,Census Tract 9643.07,Summit County,Utah,0
+49043964308,Census Tract 9643.08,Summit County,Utah,0
+49043964401,Census Tract 9644.01,Summit County,Utah,0
+49043964402,Census Tract 9644.02,Summit County,Utah,0
+49045130600,Census Tract 1306,Tooele County,Utah,1
+49045130701,Census Tract 1307.01,Tooele County,Utah,0
+49045130702,Census Tract 1307.02,Tooele County,Utah,0
+49045130703,Census Tract 1307.03,Tooele County,Utah,0
+49045130800,Census Tract 1308,Tooele County,Utah,0
+49045130900,Census Tract 1309,Tooele County,Utah,0
+49045131001,Census Tract 1310.01,Tooele County,Utah,0
+49045131002,Census Tract 1310.02,Tooele County,Utah,0
+49045131100,Census Tract 1311,Tooele County,Utah,1
+49045131200,Census Tract 1312,Tooele County,Utah,0
+49047940201,Census Tract 9402.01,Uintah County,Utah,0
+49047968200,Census Tract 9682,Uintah County,Utah,0
+49047968301,Census Tract 9683.01,Uintah County,Utah,0
+49047968302,Census Tract 9683.02,Uintah County,Utah,0
+49047968401,Census Tract 9684.01,Uintah County,Utah,0
+49047968402,Census Tract 9684.02,Uintah County,Utah,0
+49049000102,Census Tract 1.02,Utah County,Utah,0
+49049000103,Census Tract 1.03,Utah County,Utah,0
+49049000104,Census Tract 1.04,Utah County,Utah,0
+49049000105,Census Tract 1.05,Utah County,Utah,0
+49049000203,Census Tract 2.03,Utah County,Utah,0
+49049000204,Census Tract 2.04,Utah County,Utah,0
+49049000205,Census Tract 2.05,Utah County,Utah,0
+49049000206,Census Tract 2.06,Utah County,Utah,0
+49049000400,Census Tract 4,Utah County,Utah,0
+49049000504,Census Tract 5.04,Utah County,Utah,0
+49049000505,Census Tract 5.05,Utah County,Utah,0
+49049000506,Census Tract 5.06,Utah County,Utah,0
+49049000507,Census Tract 5.07,Utah County,Utah,0
+49049000508,Census Tract 5.08,Utah County,Utah,0
+49049000509,Census Tract 5.09,Utah County,Utah,0
+49049000601,Census Tract 6.01,Utah County,Utah,0
+49049000603,Census Tract 6.03,Utah County,Utah,0
+49049000604,Census Tract 6.04,Utah County,Utah,0
+49049000703,Census Tract 7.03,Utah County,Utah,0
+49049000706,Census Tract 7.06,Utah County,Utah,0
+49049000707,Census Tract 7.07,Utah County,Utah,0
+49049000708,Census Tract 7.08,Utah County,Utah,0
+49049000709,Census Tract 7.09,Utah County,Utah,0
+49049000710,Census Tract 7.10,Utah County,Utah,0
+49049000711,Census Tract 7.11,Utah County,Utah,0
+49049000801,Census Tract 8.01,Utah County,Utah,0
+49049000802,Census Tract 8.02,Utah County,Utah,0
+49049000901,Census Tract 9.01,Utah County,Utah,0
+49049000903,Census Tract 9.03,Utah County,Utah,0
+49049000904,Census Tract 9.04,Utah County,Utah,0
+49049001001,Census Tract 10.01,Utah County,Utah,0
+49049001002,Census Tract 10.02,Utah County,Utah,0
+49049001103,Census Tract 11.03,Utah County,Utah,0
+49049001105,Census Tract 11.05,Utah County,Utah,0
+49049001106,Census Tract 11.06,Utah County,Utah,0
+49049001107,Census Tract 11.07,Utah County,Utah,0
+49049001108,Census Tract 11.08,Utah County,Utah,0
+49049001201,Census Tract 12.01,Utah County,Utah,0
+49049001202,Census Tract 12.02,Utah County,Utah,0
+49049001300,Census Tract 13,Utah County,Utah,0
+49049001401,Census Tract 14.01,Utah County,Utah,0
+49049001402,Census Tract 14.02,Utah County,Utah,0
+49049001501,Census Tract 15.01,Utah County,Utah,0
+49049001503,Census Tract 15.03,Utah County,Utah,0
+49049001504,Census Tract 15.04,Utah County,Utah,0
+49049001601,Census Tract 16.01,Utah County,Utah,0
+49049001602,Census Tract 16.02,Utah County,Utah,0
+49049001603,Census Tract 16.03,Utah County,Utah,0
+49049001701,Census Tract 17.01,Utah County,Utah,0
+49049001702,Census Tract 17.02,Utah County,Utah,0
+49049001801,Census Tract 18.01,Utah County,Utah,0
+49049001802,Census Tract 18.02,Utah County,Utah,0
+49049001803,Census Tract 18.03,Utah County,Utah,0
+49049001900,Census Tract 19,Utah County,Utah,0
+49049002000,Census Tract 20,Utah County,Utah,0
+49049002101,Census Tract 21.01,Utah County,Utah,0
+49049002102,Census Tract 21.02,Utah County,Utah,0
+49049002201,Census Tract 22.01,Utah County,Utah,0
+49049002204,Census Tract 22.04,Utah County,Utah,0
+49049002205,Census Tract 22.05,Utah County,Utah,0
+49049002206,Census Tract 22.06,Utah County,Utah,0
+49049002207,Census Tract 22.07,Utah County,Utah,0
+49049002300,Census Tract 23,Utah County,Utah,0
+49049002400,Census Tract 24,Utah County,Utah,0
+49049002500,Census Tract 25,Utah County,Utah,0
+49049002701,Census Tract 27.01,Utah County,Utah,0
+49049002702,Census Tract 27.02,Utah County,Utah,0
+49049002801,Census Tract 28.01,Utah County,Utah,1
+49049002802,Census Tract 28.02,Utah County,Utah,0
+49049002901,Census Tract 29.01,Utah County,Utah,0
+49049002902,Census Tract 29.02,Utah County,Utah,0
+49049003001,Census Tract 30.01,Utah County,Utah,0
+49049003002,Census Tract 30.02,Utah County,Utah,0
+49049003103,Census Tract 31.03,Utah County,Utah,0
+49049003104,Census Tract 31.04,Utah County,Utah,0
+49049003105,Census Tract 31.05,Utah County,Utah,0
+49049003106,Census Tract 31.06,Utah County,Utah,0
+49049003201,Census Tract 32.01,Utah County,Utah,0
+49049003203,Census Tract 32.03,Utah County,Utah,0
+49049003204,Census Tract 32.04,Utah County,Utah,0
+49049003205,Census Tract 32.05,Utah County,Utah,0
+49049003300,Census Tract 33,Utah County,Utah,0
+49049003401,Census Tract 34.01,Utah County,Utah,0
+49049003402,Census Tract 34.02,Utah County,Utah,0
+49049003403,Census Tract 34.03,Utah County,Utah,0
+49049010103,Census Tract 101.03,Utah County,Utah,0
+49049010104,Census Tract 101.04,Utah County,Utah,0
+49049010105,Census Tract 101.05,Utah County,Utah,0
+49049010106,Census Tract 101.06,Utah County,Utah,0
+49049010107,Census Tract 101.07,Utah County,Utah,0
+49049010108,Census Tract 101.08,Utah County,Utah,0
+49049010109,Census Tract 101.09,Utah County,Utah,0
+49049010110,Census Tract 101.10,Utah County,Utah,0
+49049010111,Census Tract 101.11,Utah County,Utah,0
+49049010112,Census Tract 101.12,Utah County,Utah,0
+49049010113,Census Tract 101.13,Utah County,Utah,0
+49049010208,Census Tract 102.08,Utah County,Utah,0
+49049010209,Census Tract 102.09,Utah County,Utah,0
+49049010210,Census Tract 102.10,Utah County,Utah,0
+49049010211,Census Tract 102.11,Utah County,Utah,0
+49049010212,Census Tract 102.12,Utah County,Utah,0
+49049010213,Census Tract 102.13,Utah County,Utah,0
+49049010214,Census Tract 102.14,Utah County,Utah,0
+49049010215,Census Tract 102.15,Utah County,Utah,0
+49049010216,Census Tract 102.16,Utah County,Utah,0
+49049010217,Census Tract 102.17,Utah County,Utah,0
+49049010218,Census Tract 102.18,Utah County,Utah,0
+49049010219,Census Tract 102.19,Utah County,Utah,0
+49049010220,Census Tract 102.20,Utah County,Utah,0
+49049010303,Census Tract 103.03,Utah County,Utah,0
+49049010304,Census Tract 103.04,Utah County,Utah,0
+49049010305,Census Tract 103.05,Utah County,Utah,0
+49049010404,Census Tract 104.04,Utah County,Utah,0
+49049010405,Census Tract 104.05,Utah County,Utah,0
+49049010406,Census Tract 104.06,Utah County,Utah,0
+49049010407,Census Tract 104.07,Utah County,Utah,0
+49049010408,Census Tract 104.08,Utah County,Utah,0
+49049010409,Census Tract 104.09,Utah County,Utah,0
+49049010410,Census Tract 104.10,Utah County,Utah,0
+49049010411,Census Tract 104.11,Utah County,Utah,0
+49049010503,Census Tract 105.03,Utah County,Utah,0
+49049010504,Census Tract 105.04,Utah County,Utah,0
+49049010505,Census Tract 105.05,Utah County,Utah,0
+49049010506,Census Tract 105.06,Utah County,Utah,0
+49049010600,Census Tract 106,Utah County,Utah,0
+49049010700,Census Tract 107,Utah County,Utah,0
+49049010900,Census Tract 109,Utah County,Utah,0
+49051940500,Census Tract 9405,Wasatch County,Utah,0
+49051960100,Census Tract 9601,Wasatch County,Utah,0
+49051960200,Census Tract 9602,Wasatch County,Utah,0
+49051960400,Census Tract 9604,Wasatch County,Utah,0
+49053270100,Census Tract 2701,Washington County,Utah,0
+49053270200,Census Tract 2702,Washington County,Utah,0
+49053270300,Census Tract 2703,Washington County,Utah,0
+49053270400,Census Tract 2704,Washington County,Utah,0
+49053270500,Census Tract 2705,Washington County,Utah,0
+49053270600,Census Tract 2706,Washington County,Utah,0
+49053270700,Census Tract 2707,Washington County,Utah,0
+49053270801,Census Tract 2708.01,Washington County,Utah,0
+49053270802,Census Tract 2708.02,Washington County,Utah,0
+49053270901,Census Tract 2709.01,Washington County,Utah,0
+49053270902,Census Tract 2709.02,Washington County,Utah,0
+49053271000,Census Tract 2710,Washington County,Utah,0
+49053271100,Census Tract 2711,Washington County,Utah,1
+49053271200,Census Tract 2712,Washington County,Utah,0
+49053271300,Census Tract 2713,Washington County,Utah,0
+49053271400,Census Tract 2714,Washington County,Utah,0
+49053271500,Census Tract 2715,Washington County,Utah,0
+49053271600,Census Tract 2716,Washington County,Utah,0
+49053271701,Census Tract 2717.01,Washington County,Utah,0
+49053271702,Census Tract 2717.02,Washington County,Utah,0
+49053271800,Census Tract 2718,Washington County,Utah,0
+49055979100,Census Tract 9791,Wayne County,Utah,0
+49057200100,Census Tract 2001,Weber County,Utah,0
+49057200202,Census Tract 2002.02,Weber County,Utah,0
+49057200203,Census Tract 2002.03,Weber County,Utah,0
+49057200204,Census Tract 2002.04,Weber County,Utah,0
+49057200300,Census Tract 2003,Weber County,Utah,0
+49057200400,Census Tract 2004,Weber County,Utah,0
+49057200500,Census Tract 2005,Weber County,Utah,0
+49057200600,Census Tract 2006,Weber County,Utah,0
+49057200700,Census Tract 2007,Weber County,Utah,0
+49057200800,Census Tract 2008,Weber County,Utah,0
+49057200900,Census Tract 2009,Weber County,Utah,1
+49057201100,Census Tract 2011,Weber County,Utah,1
+49057201200,Census Tract 2012,Weber County,Utah,0
+49057201301,Census Tract 2013.01,Weber County,Utah,0
+49057201302,Census Tract 2013.02,Weber County,Utah,0
+49057201400,Census Tract 2014,Weber County,Utah,0
+49057201500,Census Tract 2015,Weber County,Utah,0
+49057201600,Census Tract 2016,Weber County,Utah,0
+49057201700,Census Tract 2017,Weber County,Utah,0
+49057201800,Census Tract 2018,Weber County,Utah,0
+49057201900,Census Tract 2019,Weber County,Utah,0
+49057202000,Census Tract 2020,Weber County,Utah,0
+49057210100,Census Tract 2101,Weber County,Utah,0
+49057210201,Census Tract 2102.01,Weber County,Utah,0
+49057210203,Census Tract 2102.03,Weber County,Utah,0
+49057210204,Census Tract 2102.04,Weber County,Utah,0
+49057210302,Census Tract 2103.02,Weber County,Utah,0
+49057210303,Census Tract 2103.03,Weber County,Utah,0
+49057210304,Census Tract 2103.04,Weber County,Utah,0
+49057210402,Census Tract 2104.02,Weber County,Utah,0
+49057210403,Census Tract 2104.03,Weber County,Utah,0
+49057210404,Census Tract 2104.04,Weber County,Utah,0
+49057210504,Census Tract 2105.04,Weber County,Utah,0
+49057210505,Census Tract 2105.05,Weber County,Utah,0
+49057210506,Census Tract 2105.06,Weber County,Utah,0
+49057210508,Census Tract 2105.08,Weber County,Utah,0
+49057210509,Census Tract 2105.09,Weber County,Utah,0
+49057210510,Census Tract 2105.10,Weber County,Utah,0
+49057210511,Census Tract 2105.11,Weber County,Utah,0
+49057210512,Census Tract 2105.12,Weber County,Utah,0
+49057210600,Census Tract 2106,Weber County,Utah,0
+49057210701,Census Tract 2107.01,Weber County,Utah,0
+49057210703,Census Tract 2107.03,Weber County,Utah,0
+49057210704,Census Tract 2107.04,Weber County,Utah,0
+49057210800,Census Tract 2108,Weber County,Utah,0
+49057210900,Census Tract 2109,Weber County,Utah,0
+49057211000,Census Tract 2110,Weber County,Utah,0
+49057211100,Census Tract 2111,Weber County,Utah,0
+49057211201,Census Tract 2112.01,Weber County,Utah,0
+49057211202,Census Tract 2112.02,Weber County,Utah,0
+56001962700,Census Tract 9627,Albany County,Wyoming,0
+56001962800,Census Tract 9628,Albany County,Wyoming,0
+56001962900,Census Tract 9629,Albany County,Wyoming,0
+56001963000,Census Tract 9630,Albany County,Wyoming,0
+56001963100,Census Tract 9631,Albany County,Wyoming,0
+56001963400,Census Tract 9634,Albany County,Wyoming,0
+56001963500,Census Tract 9635,Albany County,Wyoming,0
+56001963600,Census Tract 9636,Albany County,Wyoming,0
+56001963700,Census Tract 9637,Albany County,Wyoming,0
+56001963900,Census Tract 9639,Albany County,Wyoming,0
+56003962600,Census Tract 9626,Big Horn County,Wyoming,0
+56003962700,Census Tract 9627,Big Horn County,Wyoming,0
+56003962800,Census Tract 9628,Big Horn County,Wyoming,0
+56005000100,Census Tract 1,Campbell County,Wyoming,0
+56005000200,Census Tract 2,Campbell County,Wyoming,0
+56005000300,Census Tract 3,Campbell County,Wyoming,1
+56005000400,Census Tract 4,Campbell County,Wyoming,0
+56005000500,Census Tract 5,Campbell County,Wyoming,0
+56005000600,Census Tract 6,Campbell County,Wyoming,0
+56005000700,Census Tract 7,Campbell County,Wyoming,0
+56007967600,Census Tract 9676,Carbon County,Wyoming,1
+56007967700,Census Tract 9677,Carbon County,Wyoming,0
+56007967800,Census Tract 9678,Carbon County,Wyoming,0
+56007968000,Census Tract 9680,Carbon County,Wyoming,0
+56007968100,Census Tract 9681,Carbon County,Wyoming,1
+56009956400,Census Tract 9564,Converse County,Wyoming,0
+56009956500,Census Tract 9565,Converse County,Wyoming,0
+56009956600,Census Tract 9566,Converse County,Wyoming,0
+56009956700,Census Tract 9567,Converse County,Wyoming,0
+56011950200,Census Tract 9502,Crook County,Wyoming,0
+56011950300,Census Tract 9503,Crook County,Wyoming,0
+56013000100,Census Tract 1,Fremont County,Wyoming,0
+56013000200,Census Tract 2,Fremont County,Wyoming,0
+56013000300,Census Tract 3,Fremont County,Wyoming,0
+56013000400,Census Tract 4,Fremont County,Wyoming,0
+56013940100,Census Tract 9401,Fremont County,Wyoming,0
+56013940201,Census Tract 9402.01,Fremont County,Wyoming,0
+56013940202,Census Tract 9402.02,Fremont County,Wyoming,0
+56013940300,Census Tract 9403,Fremont County,Wyoming,0
+56013940400,Census Tract 9404,Fremont County,Wyoming,0
+56013940500,Census Tract 9405,Fremont County,Wyoming,0
+56015957700,Census Tract 9577,Goshen County,Wyoming,0
+56015957800,Census Tract 9578,Goshen County,Wyoming,0
+56015957900,Census Tract 9579,Goshen County,Wyoming,0
+56015958000,Census Tract 9580,Goshen County,Wyoming,0
+56017967800,Census Tract 9678,Hot Springs County,Wyoming,0
+56017967900,Census Tract 9679,Hot Springs County,Wyoming,0
+56019955100,Census Tract 9551,Johnson County,Wyoming,0
+56019955200,Census Tract 9552,Johnson County,Wyoming,0
+56021000200,Census Tract 2,Laramie County,Wyoming,0
+56021000300,Census Tract 3,Laramie County,Wyoming,0
+56021000401,Census Tract 4.01,Laramie County,Wyoming,0
+56021000402,Census Tract 4.02,Laramie County,Wyoming,0
+56021000501,Census Tract 5.01,Laramie County,Wyoming,0
+56021000600,Census Tract 6,Laramie County,Wyoming,0
+56021000700,Census Tract 7,Laramie County,Wyoming,1
+56021000800,Census Tract 8,Laramie County,Wyoming,0
+56021000900,Census Tract 9,Laramie County,Wyoming,0
+56021001000,Census Tract 10,Laramie County,Wyoming,0
+56021001100,Census Tract 11,Laramie County,Wyoming,0
+56021001200,Census Tract 12,Laramie County,Wyoming,0
+56021001300,Census Tract 13,Laramie County,Wyoming,0
+56021001401,Census Tract 14.01,Laramie County,Wyoming,0
+56021001402,Census Tract 14.02,Laramie County,Wyoming,0
+56021001501,Census Tract 15.01,Laramie County,Wyoming,0
+56021001502,Census Tract 15.02,Laramie County,Wyoming,0
+56021001901,Census Tract 19.01,Laramie County,Wyoming,0
+56021001902,Census Tract 19.02,Laramie County,Wyoming,0
+56021002000,Census Tract 20,Laramie County,Wyoming,0
+56023978000,Census Tract 9780,Lincoln County,Wyoming,0
+56023978100,Census Tract 9781,Lincoln County,Wyoming,0
+56023978200,Census Tract 9782,Lincoln County,Wyoming,0
+56023978400,Census Tract 9784,Lincoln County,Wyoming,0
+56025000200,Census Tract 2,Natrona County,Wyoming,1
+56025000300,Census Tract 3,Natrona County,Wyoming,0
+56025000400,Census Tract 4,Natrona County,Wyoming,0
+56025000501,Census Tract 5.01,Natrona County,Wyoming,0
+56025000502,Census Tract 5.02,Natrona County,Wyoming,0
+56025000600,Census Tract 6,Natrona County,Wyoming,0
+56025000700,Census Tract 7,Natrona County,Wyoming,0
+56025000800,Census Tract 8,Natrona County,Wyoming,0
+56025000901,Census Tract 9.01,Natrona County,Wyoming,0
+56025000902,Census Tract 9.02,Natrona County,Wyoming,0
+56025001000,Census Tract 10,Natrona County,Wyoming,0
+56025001100,Census Tract 11,Natrona County,Wyoming,0
+56025001200,Census Tract 12,Natrona County,Wyoming,0
+56025001401,Census Tract 14.01,Natrona County,Wyoming,0
+56025001602,Census Tract 16.02,Natrona County,Wyoming,0
+56025001603,Census Tract 16.03,Natrona County,Wyoming,0
+56025001700,Census Tract 17,Natrona County,Wyoming,0
+56025001800,Census Tract 18,Natrona County,Wyoming,0
+56027957200,Census Tract 9572,Niobrara County,Wyoming,0
+56029965100,Census Tract 9651,Park County,Wyoming,0
+56029965200,Census Tract 9652,Park County,Wyoming,0
+56029965300,Census Tract 9653,Park County,Wyoming,0
+56029965400,Census Tract 9654,Park County,Wyoming,0
+56029965500,Census Tract 9655,Park County,Wyoming,0
+56031959100,Census Tract 9591,Platte County,Wyoming,0
+56031959400,Census Tract 9594,Platte County,Wyoming,0
+56033000100,Census Tract 1,Sheridan County,Wyoming,0
+56033000200,Census Tract 2,Sheridan County,Wyoming,0
+56033000300,Census Tract 3,Sheridan County,Wyoming,0
+56033000400,Census Tract 4,Sheridan County,Wyoming,0
+56033000500,Census Tract 5,Sheridan County,Wyoming,0
+56033000600,Census Tract 6,Sheridan County,Wyoming,0
+56035000101,Census Tract 1.01,Sublette County,Wyoming,0
+56035000102,Census Tract 1.02,Sublette County,Wyoming,0
+56037970500,Census Tract 9705,Sweetwater County,Wyoming,0
+56037970601,Census Tract 9706.01,Sweetwater County,Wyoming,0
+56037970602,Census Tract 9706.02,Sweetwater County,Wyoming,0
+56037970700,Census Tract 9707,Sweetwater County,Wyoming,0
+56037970800,Census Tract 9708,Sweetwater County,Wyoming,1
+56037970901,Census Tract 9709.01,Sweetwater County,Wyoming,0
+56037970902,Census Tract 9709.02,Sweetwater County,Wyoming,0
+56037970903,Census Tract 9709.03,Sweetwater County,Wyoming,0
+56037971000,Census Tract 9710,Sweetwater County,Wyoming,0
+56037971100,Census Tract 9711,Sweetwater County,Wyoming,0
+56037971200,Census Tract 9712,Sweetwater County,Wyoming,0
+56037971600,Census Tract 9716,Sweetwater County,Wyoming,0
+56039967600,Census Tract 9676,Teton County,Wyoming,0
+56039967701,Census Tract 9677.01,Teton County,Wyoming,0
+56039967702,Census Tract 9677.02,Teton County,Wyoming,0
+56039967800,Census Tract 9678,Teton County,Wyoming,0
+56041975200,Census Tract 9752,Uinta County,Wyoming,0
+56041975300,Census Tract 9753,Uinta County,Wyoming,0
+56041975400,Census Tract 9754,Uinta County,Wyoming,1
+56043000200,Census Tract 2,Washakie County,Wyoming,0
+56043000301,Census Tract 3.01,Washakie County,Wyoming,0
+56043000302,Census Tract 3.02,Washakie County,Wyoming,0
+56045951100,Census Tract 9511,Weston County,Wyoming,0
+56045951300,Census Tract 9513,Weston County,Wyoming,0

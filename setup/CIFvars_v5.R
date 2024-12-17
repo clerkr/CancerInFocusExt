@@ -22,13 +22,16 @@ Sys.setenv(
     pathBivar = '/srv/external/ShinyCIFBivar/' #if not using CIF Bivariate, set equal to ""
 )
 
-
+print('before shapefiles')
 #run create shapefiles script
 # setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #change working directory to directory of this script
 setwd('/srv/external/setup/')
 source('cif_create_shapefiles_v5.R')
+print('after shapefiles')
 
+print('before facilities')
 #run geocode facilities script
 # setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #change working directory to directory of this script
 setwd('/srv/external/setup/')
 source('cif_geocode_facilities_v5.R')
+print('after facilities')

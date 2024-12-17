@@ -1,0 +1,2705 @@
+FIPS,County,State,measure,value
+16001,Ada County,Idaho,Total,508052.0
+16003,Adams County,Idaho,Total,4599.0
+16005,Bannock County,Idaho,Total,88457.0
+16007,Bear Lake County,Idaho,Total,6552.0
+16009,Benewah County,Idaho,Total,9913.0
+16011,Bingham County,Idaho,Total,48993.0
+16013,Blaine County,Idaho,Total,24579.0
+16015,Boise County,Idaho,Total,8045.0
+16017,Bonner County,Idaho,Total,49456.0
+16019,Bonneville County,Idaho,Total,127056.0
+16021,Boundary County,Idaho,Total,12695.0
+16023,Butte County,Idaho,Total,2654.0
+16025,Camas County,Idaho,Total,1155.0
+16027,Canyon County,Idaho,Total,242405.0
+16029,Caribou County,Idaho,Total,7118.0
+16031,Cassia County,Idaho,Total,25165.0
+16033,Clark County,Idaho,Total,776.0
+16035,Clearwater County,Idaho,Total,8921.0
+16037,Custer County,Idaho,Total,4411.0
+16039,Elmore County,Idaho,Total,29046.0
+16041,Franklin County,Idaho,Total,14715.0
+16043,Fremont County,Idaho,Total,13701.0
+16045,Gem County,Idaho,Total,19854.0
+16047,Gooding County,Idaho,Total,15740.0
+16049,Idaho County,Idaho,Total,17120.0
+16051,Jefferson County,Idaho,Total,32234.0
+16053,Jerome County,Idaho,Total,24788.0
+16055,Kootenai County,Idaho,Total,177736.0
+16057,Latah County,Idaho,Total,40315.0
+16059,Lemhi County,Idaho,Total,8166.0
+16061,Lewis County,Idaho,Total,3649.0
+16063,Lincoln County,Idaho,Total,5276.0
+16065,Madison County,Idaho,Total,53578.0
+16067,Minidoka County,Idaho,Total,21922.0
+16069,Nez Perce County,Idaho,Total,42477.0
+16071,Oneida County,Idaho,Total,4681.0
+16073,Owyhee County,Idaho,Total,12284.0
+16075,Payette County,Idaho,Total,26190.0
+16077,Power County,Idaho,Total,8018.0
+16079,Shoshone County,Idaho,Total,13580.0
+16081,Teton County,Idaho,Total,12101.0
+16083,Twin Falls County,Idaho,Total,92121.0
+16085,Valley County,Idaho,Total,12136.0
+16087,Washington County,Idaho,Total,10866.0
+30001,Beaverhead County,Montana,Total,9590.0
+30003,Big Horn County,Montana,Total,12963.0
+30005,Blaine County,Montana,Total,6997.0
+30007,Broadwater County,Montana,Total,7310.0
+30009,Carbon County,Montana,Total,10877.0
+30011,Carter County,Montana,Total,1361.0
+30013,Cascade County,Montana,Total,84601.0
+30015,Chouteau County,Montana,Total,5888.0
+30017,Custer County,Montana,Total,11938.0
+30019,Daniels County,Montana,Total,1524.0
+30021,Dawson County,Montana,Total,8874.0
+30023,Deer Lodge County,Montana,Total,9512.0
+30025,Fallon County,Montana,Total,2817.0
+30027,Fergus County,Montana,Total,11581.0
+30029,Flathead County,Montana,Total,108445.0
+30031,Gallatin County,Montana,Total,122194.0
+30033,Garfield County,Montana,Total,938.0
+30035,Glacier County,Montana,Total,13713.0
+30037,Golden Valley County,Montana,Total,840.0
+30039,Granite County,Montana,Total,3419.0
+30041,Hill County,Montana,Total,16260.0
+30043,Jefferson County,Montana,Total,12501.0
+30045,Judith Basin County,Montana,Total,2053.0
+30047,Lake County,Montana,Total,32073.0
+30049,Lewis And Clark County,Montana,Total,72580.0
+30051,Liberty County,Montana,Total,1968.0
+30053,Lincoln County,Montana,Total,20656.0
+30055,McCone County,Montana,Total,1818.0
+30057,Madison County,Montana,Total,8975.0
+30059,Meagher County,Montana,Total,1979.0
+30061,Mineral County,Montana,Total,4796.0
+30063,Missoula County,Montana,Total,119639.0
+30065,Musselshell County,Montana,Total,5068.0
+30067,Park County,Montana,Total,17484.0
+30069,Petroleum County,Montana,Total,401.0
+30071,Phillips County,Montana,Total,4224.0
+30073,Pondera County,Montana,Total,6012.0
+30075,Powder River County,Montana,Total,1762.0
+30077,Powell County,Montana,Total,7029.0
+30079,Prairie County,Montana,Total,1251.0
+30081,Ravalli County,Montana,Total,45807.0
+30083,Richland County,Montana,Total,11329.0
+30085,Roosevelt County,Montana,Total,10665.0
+30087,Rosebud County,Montana,Total,8236.0
+30089,Sanders County,Montana,Total,12936.0
+30091,Sheridan County,Montana,Total,3677.0
+30093,Silver Bow County,Montana,Total,35589.0
+30095,Stillwater County,Montana,Total,9052.0
+30097,Sweet Grass County,Montana,Total,3713.0
+30099,Teton County,Montana,Total,6291.0
+30101,Toole County,Montana,Total,5028.0
+30103,Treasure County,Montana,Total,761.0
+30105,Valley County,Montana,Total,7540.0
+30107,Wheatland County,Montana,Total,2049.0
+30109,Wibaux County,Montana,Total,1148.0
+30111,Yellowstone County,Montana,Total,167340.0
+32001,Churchill County,Nevada,Total,25614.0
+32003,Clark County,Nevada,Total,2293764.0
+32005,Douglas County,Nevada,Total,49624.0
+32007,Elko County,Nevada,Total,53852.0
+32009,Esmeralda County,Nevada,Total,962.0
+32011,Eureka County,Nevada,Total,1660.0
+32013,Humboldt County,Nevada,Total,17299.0
+32015,Lander County,Nevada,Total,5745.0
+32017,Lincoln County,Nevada,Total,4452.0
+32019,Lyon County,Nevada,Total,60630.0
+32021,Mineral County,Nevada,Total,4557.0
+32023,Nye County,Nevada,Total,53207.0
+32027,Pershing County,Nevada,Total,6505.0
+32029,Storey County,Nevada,Total,4139.0
+32031,Washoe County,Nevada,Total,491770.0
+32033,White Pine County,Nevada,Total,8856.0
+32510,Carson City,Nevada,Total,58364.0
+49001,Beaver County,Utah,Total,7172.0
+49003,Box Elder County,Utah,Total,59725.0
+49005,Cache County,Utah,Total,137031.0
+49007,Carbon County,Utah,Total,20446.0
+49009,Daggett County,Utah,Total,747.0
+49011,Davis County,Utah,Total,366742.0
+49013,Duchesne County,Utah,Total,19932.0
+49015,Emery County,Utah,Total,9968.0
+49017,Garfield County,Utah,Total,5170.0
+49019,Grand County,Utah,Total,9697.0
+49021,Iron County,Utah,Total,60201.0
+49023,Juab County,Utah,Total,12273.0
+49025,Kane County,Utah,Total,7996.0
+49027,Millard County,Utah,Total,13179.0
+49029,Morgan County,Utah,Total,12585.0
+49031,Piute County,Utah,Total,1705.0
+49033,Rich County,Utah,Total,2588.0
+49035,Salt Lake County,Utah,Total,1184689.0
+49037,San Juan County,Utah,Total,14466.0
+49039,Sanpete County,Utah,Total,29209.0
+49041,Sevier County,Utah,Total,21854.0
+49043,Summit County,Utah,Total,42709.0
+49045,Tooele County,Utah,Total,76648.0
+49047,Uintah County,Utah,Total,36458.0
+49049,Utah County,Utah,Total,683622.0
+49051,Wasatch County,Utah,Total,35808.0
+49053,Washington County,Utah,Total,189827.0
+49055,Wayne County,Utah,Total,2557.0
+49057,Weber County,Utah,Total,266183.0
+56001,Albany County,Wyoming,Total,37713.0
+56003,Big Horn County,Wyoming,Total,11737.0
+56005,Campbell County,Wyoming,Total,47018.0
+56007,Carbon County,Wyoming,Total,14549.0
+56009,Converse County,Wyoming,Total,13759.0
+56011,Crook County,Wyoming,Total,7339.0
+56013,Fremont County,Wyoming,Total,39472.0
+56015,Goshen County,Wyoming,Total,12587.0
+56017,Hot Springs County,Wyoming,Total,4618.0
+56019,Johnson County,Wyoming,Total,8602.0
+56021,Laramie County,Wyoming,Total,100661.0
+56023,Lincoln County,Wyoming,Total,20158.0
+56025,Natrona County,Wyoming,Total,79735.0
+56027,Niobrara County,Wyoming,Total,2415.0
+56029,Park County,Wyoming,Total,30109.0
+56031,Platte County,Wyoming,Total,8606.0
+56033,Sheridan County,Wyoming,Total,31585.0
+56035,Sublette County,Wyoming,Total,8806.0
+56037,Sweetwater County,Wyoming,Total,41786.0
+56039,Teton County,Wyoming,Total,23358.0
+56041,Uinta County,Wyoming,Total,20605.0
+56043,Washakie County,Wyoming,Total,7708.0
+56045,Weston County,Wyoming,Total,6835.0
+16001,Ada County,Idaho,Under 18,0.22452622959854504
+16003,Adams County,Idaho,Under 18,0.17134159599913024
+16005,Bannock County,Idaho,Under 18,0.25446262025616967
+16007,Bear Lake County,Idaho,Under 18,0.27106227106227104
+16009,Benewah County,Idaho,Under 18,0.22082114395238575
+16011,Bingham County,Idaho,Under 18,0.2973894229787929
+16013,Blaine County,Idaho,Under 18,0.19589893811790554
+16015,Boise County,Idaho,Under 18,0.1536357986326911
+16017,Bonner County,Idaho,Under 18,0.1962148172112585
+16019,Bonneville County,Idaho,Under 18,0.30191411660999873
+16021,Boundary County,Idaho,Under 18,0.23332020480504134
+16023,Butte County,Idaho,Under 18,0.26563677467972874
+16025,Camas County,Idaho,Under 18,0.3316017316017316
+16027,Canyon County,Idaho,Under 18,0.2715661805655824
+16029,Caribou County,Idaho,Under 18,0.27479629109300363
+16031,Cassia County,Idaho,Under 18,0.31225909000596064
+16033,Clark County,Idaho,Under 18,0.28865979381443296
+16035,Clearwater County,Idaho,Under 18,0.1530097522699249
+16037,Custer County,Idaho,Under 18,0.11131262752210383
+16039,Elmore County,Idaho,Under 18,0.24547269847827582
+16041,Franklin County,Idaho,Under 18,0.30941216445803604
+16043,Fremont County,Idaho,Under 18,0.24078534413546457
+16045,Gem County,Idaho,Under 18,0.22363251737685103
+16047,Gooding County,Idaho,Under 18,0.27121982210927575
+16049,Idaho County,Idaho,Under 18,0.19772196261682243
+16051,Jefferson County,Idaho,Under 18,0.32859713346156233
+16053,Jerome County,Idaho,Under 18,0.29990317895756013
+16055,Kootenai County,Idaho,Under 18,0.2256323986136742
+16057,Latah County,Idaho,Under 18,0.18913555748480715
+16059,Lemhi County,Idaho,Under 18,0.1830761694832231
+16061,Lewis County,Idaho,Under 18,0.21978624280624828
+16063,Lincoln County,Idaho,Under 18,0.260235026535254
+16065,Madison County,Idaho,Under 18,0.20532681324424204
+16067,Minidoka County,Idaho,Under 18,0.2922634796095247
+16069,Nez Perce County,Idaho,Under 18,0.21406879016879723
+16071,Oneida County,Idaho,Under 18,0.26703695791497545
+16073,Owyhee County,Idaho,Under 18,0.2497557798762618
+16075,Payette County,Idaho,Under 18,0.2565483008781978
+16077,Power County,Idaho,Under 18,0.3036916936891993
+16079,Shoshone County,Idaho,Under 18,0.20765832106038293
+16081,Teton County,Idaho,Under 18,0.23163374927691927
+16083,Twin Falls County,Idaho,Under 18,0.2671160755962267
+16085,Valley County,Idaho,Under 18,0.1838332234673698
+16087,Washington County,Idaho,Under 18,0.22473771397018222
+30001,Beaverhead County,Montana,Under 18,0.17382690302398332
+30003,Big Horn County,Montana,Under 18,0.3236905037414179
+30005,Blaine County,Montana,Under 18,0.2939831356295555
+30007,Broadwater County,Montana,Under 18,0.19097127222982216
+30009,Carbon County,Montana,Under 18,0.17394502160522202
+30011,Carter County,Montana,Under 18,0.17560617193240263
+30013,Cascade County,Montana,Under 18,0.2245836337631943
+30015,Chouteau County,Montana,Under 18,0.23216711956521738
+30017,Custer County,Montana,Under 18,0.1994471435751382
+30019,Daniels County,Montana,Under 18,0.20144356955380577
+30021,Dawson County,Montana,Under 18,0.210727969348659
+30023,Deer Lodge County,Montana,Under 18,0.12447434819175777
+30025,Fallon County,Montana,Under 18,0.2534611288604899
+30027,Fergus County,Montana,Under 18,0.2074950349710733
+30029,Flathead County,Montana,Under 18,0.21759417216100327
+30031,Gallatin County,Montana,Under 18,0.192308951339673
+30033,Garfield County,Montana,Under 18,0.23560767590618337
+30035,Glacier County,Montana,Under 18,0.2972361992270109
+30037,Golden Valley County,Montana,Under 18,0.14523809523809525
+30039,Granite County,Montana,Under 18,0.15121380520620065
+30041,Hill County,Montana,Under 18,0.28400984009840097
+30043,Jefferson County,Montana,Under 18,0.20206383489320853
+30045,Judith Basin County,Montana,Under 18,0.22211397954213347
+30047,Lake County,Montana,Under 18,0.2256415053159979
+30049,Lewis And Clark County,Montana,Under 18,0.21413612565445025
+30051,Liberty County,Montana,Under 18,0.29471544715447157
+30053,Lincoln County,Montana,Under 18,0.1803350116189001
+30055,McCone County,Montana,Under 18,0.18921892189218922
+30057,Madison County,Montana,Under 18,0.156991643454039
+30059,Meagher County,Montana,Under 18,0.11975745325922182
+30061,Mineral County,Montana,Under 18,0.20829858215179317
+30063,Missoula County,Montana,Under 18,0.18448833574336126
+30065,Musselshell County,Montana,Under 18,0.19554064719810577
+30067,Park County,Montana,Under 18,0.16981239990848776
+30069,Petroleum County,Montana,Under 18,0.13216957605985039
+30071,Phillips County,Montana,Under 18,0.23461174242424243
+30073,Pondera County,Montana,Under 18,0.23486360612109114
+30075,Powder River County,Montana,Under 18,0.1844494892167991
+30077,Powell County,Montana,Under 18,0.14667804808649879
+30079,Prairie County,Montana,Under 18,0.2158273381294964
+30081,Ravalli County,Montana,Under 18,0.1877660619555963
+30083,Richland County,Montana,Under 18,0.25280254214846853
+30085,Roosevelt County,Montana,Under 18,0.3335208626347867
+30087,Rosebud County,Montana,Under 18,0.28946090335114133
+30089,Sanders County,Montana,Under 18,0.17261904761904762
+30091,Sheridan County,Montana,Under 18,0.2153929834103889
+30093,Silver Bow County,Montana,Under 18,0.20607491078704093
+30095,Stillwater County,Montana,Under 18,0.21078214759169245
+30097,Sweet Grass County,Montana,Under 18,0.2038782655534608
+30099,Teton County,Montana,Under 18,0.2501986965506279
+30101,Toole County,Montana,Under 18,0.2018695306284805
+30103,Treasure County,Montana,Under 18,0.15768725361366623
+30105,Valley County,Montana,Under 18,0.2253315649867374
+30107,Wheatland County,Montana,Under 18,0.21864324060517326
+30109,Wibaux County,Montana,Under 18,0.2804878048780488
+30111,Yellowstone County,Montana,Under 18,0.23211425839607983
+32001,Churchill County,Nevada,Under 18,0.2253064730225658
+32003,Clark County,Nevada,Under 18,0.22537017757711778
+32005,Douglas County,Nevada,Under 18,0.15385700467515717
+32007,Elko County,Nevada,Under 18,0.2677337889029191
+32009,Esmeralda County,Nevada,Under 18,0.09147609147609148
+32011,Eureka County,Nevada,Under 18,0.20722891566265061
+32013,Humboldt County,Nevada,Under 18,0.26238510896583617
+32015,Lander County,Nevada,Under 18,0.2713664055700609
+32017,Lincoln County,Nevada,Under 18,0.22012578616352202
+32019,Lyon County,Nevada,Under 18,0.20761999010390897
+32021,Mineral County,Nevada,Under 18,0.22734254992319508
+32023,Nye County,Nevada,Under 18,0.16415133347115982
+32027,Pershing County,Nevada,Under 18,0.16848578016910068
+32029,Storey County,Nevada,Under 18,0.11597004107272288
+32031,Washoe County,Nevada,Under 18,0.2099355389714704
+32033,White Pine County,Nevada,Under 18,0.1860885275519422
+32510,Carson City,Nevada,Under 18,0.2016482763347269
+49001,Beaver County,Utah,Under 18,0.2992191857222532
+49003,Box Elder County,Utah,Under 18,0.3092172457095019
+49005,Cache County,Utah,Under 18,0.2965752275032657
+49007,Carbon County,Utah,Under 18,0.2572630343343441
+49009,Daggett County,Utah,Under 18,0.22623828647925034
+49011,Davis County,Utah,Under 18,0.30829302343336734
+49013,Duchesne County,Utah,Under 18,0.3241019466185029
+49015,Emery County,Utah,Under 18,0.2842094703049759
+49017,Garfield County,Utah,Under 18,0.21682785299806576
+49019,Grand County,Utah,Under 18,0.18418067443539238
+49021,Iron County,Utah,Under 18,0.27657347884586636
+49023,Juab County,Utah,Under 18,0.3370813981911513
+49025,Kane County,Utah,Under 18,0.22648824412206103
+49027,Millard County,Utah,Under 18,0.31390849078078764
+49029,Morgan County,Utah,Under 18,0.3404847040127135
+49031,Piute County,Utah,Under 18,0.1870967741935484
+49033,Rich County,Utah,Under 18,0.3230293663060278
+49035,Salt Lake County,Utah,Under 18,0.2585860086486833
+49037,San Juan County,Utah,Under 18,0.2794137978708696
+49039,Sanpete County,Utah,Under 18,0.24379472080523126
+49041,Sevier County,Utah,Under 18,0.28383819895671275
+49043,Summit County,Utah,Under 18,0.2376782411201386
+49045,Tooele County,Utah,Under 18,0.31523327418849806
+49047,Uintah County,Utah,Under 18,0.31907948872675407
+49049,Utah County,Utah,Under 18,0.32171433921085046
+49051,Wasatch County,Utah,Under 18,0.29571604110813227
+49053,Washington County,Utah,Under 18,0.24832083950123007
+49055,Wayne County,Utah,Under 18,0.23464998044583496
+49057,Weber County,Utah,Under 18,0.27085125646641595
+56001,Albany County,Wyoming,Under 18,0.15604698645029566
+56003,Big Horn County,Wyoming,Under 18,0.24546306551929795
+56005,Campbell County,Wyoming,Under 18,0.2705559572929516
+56007,Carbon County,Wyoming,Under 18,0.22895044332943845
+56009,Converse County,Wyoming,Under 18,0.2447852314848463
+56011,Crook County,Wyoming,Under 18,0.2433574056410955
+56013,Fremont County,Wyoming,Under 18,0.2462758411025537
+56015,Goshen County,Wyoming,Under 18,0.19567808055930722
+56017,Hot Springs County,Wyoming,Under 18,0.21632741446513643
+56019,Johnson County,Wyoming,Under 18,0.1962334340850965
+56021,Laramie County,Wyoming,Under 18,0.2271982197673379
+56023,Lincoln County,Wyoming,Under 18,0.2582597479908721
+56025,Natrona County,Wyoming,Under 18,0.23874082899604943
+56027,Niobrara County,Wyoming,Under 18,0.14699792960662525
+56029,Park County,Wyoming,Under 18,0.2079112557706998
+56031,Platte County,Wyoming,Under 18,0.20102254241227052
+56033,Sheridan County,Wyoming,Under 18,0.21519708722494854
+56035,Sublette County,Wyoming,Under 18,0.22121280944810356
+56037,Sweetwater County,Wyoming,Under 18,0.2527880151246829
+56039,Teton County,Wyoming,Under 18,0.1733453206610155
+56041,Uinta County,Wyoming,Under 18,0.277602523659306
+56043,Washakie County,Wyoming,Under 18,0.21587960560456668
+56045,Weston County,Wyoming,Under 18,0.1928310168251646
+16001,Ada County,Idaho,18 to 64,0.6180568130821255
+16003,Adams County,Idaho,18 to 64,0.5248967166775386
+16005,Bannock County,Idaho,18 to 64,0.5958149157217631
+16007,Bear Lake County,Idaho,18 to 64,0.5201465201465202
+16009,Benewah County,Idaho,18 to 64,0.5446383536769898
+16011,Bingham County,Idaho,18 to 64,0.554466964668422
+16013,Blaine County,Idaho,18 to 64,0.5857846128809147
+16015,Boise County,Idaho,18 to 64,0.5732753262896209
+16017,Bonner County,Idaho,18 to 64,0.5423002264639275
+16019,Bonneville County,Idaho,18 to 64,0.5615712756579776
+16021,Boundary County,Idaho,18 to 64,0.5311539976368649
+16023,Butte County,Idaho,18 to 64,0.5354182366239638
+16025,Camas County,Idaho,18 to 64,0.5194805194805194
+16027,Canyon County,Idaho,18 to 64,0.584893050885914
+16029,Caribou County,Idaho,18 to 64,0.5457993818488339
+16031,Cassia County,Idaho,18 to 64,0.5506457381283528
+16033,Clark County,Idaho,18 to 64,0.5798969072164949
+16035,Clearwater County,Idaho,18 to 64,0.561820423719314
+16037,Custer County,Idaho,18 to 64,0.5273180684652007
+16039,Elmore County,Idaho,18 to 64,0.6126833298905184
+16041,Franklin County,Idaho,18 to 64,0.5493034318722392
+16043,Fremont County,Idaho,18 to 64,0.5812714400408729
+16045,Gem County,Idaho,18 to 64,0.5491084919915382
+16047,Gooding County,Idaho,18 to 64,0.5470775095298602
+16049,Idaho County,Idaho,18 to 64,0.5163551401869159
+16051,Jefferson County,Idaho,18 to 64,0.5560898430228951
+16053,Jerome County,Idaho,18 to 64,0.5668468613845409
+16055,Kootenai County,Idaho,18 to 64,0.5774294459197912
+16057,Latah County,Idaho,18 to 64,0.6661540369589483
+16059,Lemhi County,Idaho,18 to 64,0.5126132745530247
+16061,Lewis County,Idaho,18 to 64,0.502329405316525
+16063,Lincoln County,Idaho,18 to 64,0.5849128127369219
+16065,Madison County,Idaho,18 to 64,0.7414983761991862
+16067,Minidoka County,Idaho,18 to 64,0.5506796825107199
+16069,Nez Perce County,Idaho,18 to 64,0.5803375944628858
+16071,Oneida County,Idaho,18 to 64,0.5383465071565905
+16073,Owyhee County,Idaho,18 to 64,0.5591826766525562
+16075,Payette County,Idaho,18 to 64,0.5507063764795723
+16077,Power County,Idaho,18 to 64,0.5397854826640059
+16079,Shoshone County,Idaho,18 to 64,0.5646539027982327
+16081,Teton County,Idaho,18 to 64,0.6335840013222048
+16083,Twin Falls County,Idaho,18 to 64,0.5685891381986735
+16085,Valley County,Idaho,18 to 64,0.5508404746209624
+16087,Washington County,Idaho,18 to 64,0.518498067366096
+30001,Beaverhead County,Montana,18 to 64,0.5891553701772679
+30003,Big Horn County,Montana,18 to 64,0.5395356013268533
+30005,Blaine County,Montana,18 to 64,0.5420894669143919
+30007,Broadwater County,Montana,18 to 64,0.5734610123119015
+30009,Carbon County,Montana,18 to 64,0.5539211179553185
+30011,Carter County,Montana,18 to 64,0.5231447465099192
+30013,Cascade County,Montana,18 to 64,0.5821089585229489
+30015,Chouteau County,Montana,18 to 64,0.5431385869565217
+30017,Custer County,Montana,18 to 64,0.5966661082258334
+30019,Daniels County,Montana,18 to 64,0.5091863517060368
+30021,Dawson County,Montana,18 to 64,0.5827135451881902
+30023,Deer Lodge County,Montana,18 to 64,0.6208999158957107
+30025,Fallon County,Montana,18 to 64,0.54419595314164
+30027,Fergus County,Montana,18 to 64,0.5458077886192902
+30029,Flathead County,Montana,18 to 64,0.5747521785236755
+30031,Gallatin County,Montana,18 to 64,0.6748694698594039
+30033,Garfield County,Montana,18 to 64,0.488272921108742
+30035,Glacier County,Montana,18 to 64,0.5742725880551302
+30037,Golden Valley County,Montana,18 to 64,0.5726190476190476
+30039,Granite County,Montana,18 to 64,0.5396314711904066
+30041,Hill County,Montana,18 to 64,0.5565805658056581
+30043,Jefferson County,Montana,18 to 64,0.5701143908487321
+30045,Judith Basin County,Montana,18 to 64,0.4943984413054067
+30047,Lake County,Montana,18 to 64,0.5385214978330684
+30049,Lewis And Clark County,Montana,18 to 64,0.5867456599614219
+30051,Liberty County,Montana,18 to 64,0.49898373983739835
+30053,Lincoln County,Montana,18 to 64,0.5224632068164213
+30055,McCone County,Montana,18 to 64,0.5236523652365237
+30057,Madison County,Montana,18 to 64,0.5374930362116992
+30059,Meagher County,Montana,18 to 64,0.5356240525517938
+30061,Mineral County,Montana,18 to 64,0.5108423686405338
+30063,Missoula County,Montana,18 to 64,0.6492448114745192
+30065,Musselshell County,Montana,18 to 64,0.5167719021310182
+30067,Park County,Montana,18 to 64,0.5883093113703958
+30069,Petroleum County,Montana,18 to 64,0.5885286783042394
+30071,Phillips County,Montana,18 to 64,0.5286458333333334
+30073,Pondera County,Montana,18 to 64,0.5494011976047904
+30075,Powder River County,Montana,18 to 64,0.49943246311010214
+30077,Powell County,Montana,18 to 64,0.6441883624982216
+30079,Prairie County,Montana,18 to 64,0.44524380495603516
+30081,Ravalli County,Montana,18 to 64,0.5475582334577684
+30083,Richland County,Montana,18 to 64,0.5756024362256157
+30085,Roosevelt County,Montana,18 to 64,0.5475855602437881
+30087,Rosebud County,Montana,18 to 64,0.5433462846041768
+30089,Sanders County,Montana,18 to 64,0.503865182436611
+30091,Sheridan County,Montana,18 to 64,0.5564318738101713
+30093,Silver Bow County,Montana,18 to 64,0.6014779847705751
+30095,Stillwater County,Montana,18 to 64,0.539659743703049
+30097,Sweet Grass County,Montana,18 to 64,0.5620791812550499
+30099,Teton County,Montana,18 to 64,0.5180416467970116
+30101,Toole County,Montana,18 to 64,0.6237072394590294
+30103,Treasure County,Montana,18 to 64,0.6162943495400789
+30105,Valley County,Montana,18 to 64,0.5315649867374005
+30107,Wheatland County,Montana,18 to 64,0.4924353343094192
+30109,Wibaux County,Montana,18 to 64,0.48257839721254353
+30111,Yellowstone County,Montana,18 to 64,0.5895123700250986
+32001,Churchill County,Nevada,18 to 64,0.5795658624189897
+32003,Clark County,Nevada,18 to 64,0.6188369858451
+32005,Douglas County,Nevada,18 to 64,0.5304892793809447
+32007,Elko County,Nevada,18 to 64,0.6050657357201218
+32009,Esmeralda County,Nevada,18 to 64,0.6434511434511434
+32011,Eureka County,Nevada,18 to 64,0.5614457831325301
+32013,Humboldt County,Nevada,18 to 64,0.576911960228915
+32015,Lander County,Nevada,18 to 64,0.596692776327241
+32017,Lincoln County,Nevada,18 to 64,0.5909703504043127
+32019,Lyon County,Nevada,18 to 64,0.5751937984496124
+32021,Mineral County,Nevada,18 to 64,0.5025235900811937
+32023,Nye County,Nevada,18 to 64,0.526321724585111
+32027,Pershing County,Nevada,18 to 64,0.6654880860876249
+32029,Storey County,Nevada,18 to 64,0.49359748731577674
+32031,Washoe County,Nevada,18 to 64,0.6170547207027676
+32033,White Pine County,Nevada,18 to 64,0.6149503161698283
+32510,Carson City,Nevada,18 to 64,0.5905523953121787
+49001,Beaver County,Utah,18 to 64,0.5535415504740658
+49003,Box Elder County,Utah,18 to 64,0.5623440770196735
+49005,Cache County,Utah,18 to 64,0.6045420379330224
+49007,Carbon County,Utah,18 to 64,0.554778440770811
+49009,Daggett County,Utah,18 to 64,0.5930388219544847
+49011,Davis County,Utah,18 to 64,0.584290863877058
+49013,Duchesne County,Utah,18 to 64,0.548314268512944
+49015,Emery County,Utah,18 to 64,0.536115569823435
+49017,Garfield County,Utah,18 to 64,0.5562862669245648
+49019,Grand County,Utah,18 to 64,0.6136949572032587
+49021,Iron County,Utah,18 to 64,0.5895583129848342
+49023,Juab County,Utah,18 to 64,0.5373584290719465
+49025,Kane County,Utah,18 to 64,0.5332666333166584
+49027,Millard County,Utah,18 to 64,0.5151377190985659
+49029,Morgan County,Utah,18 to 64,0.5387365911799762
+49031,Piute County,Utah,18 to 64,0.5290322580645161
+49033,Rich County,Utah,18 to 64,0.4652241112828439
+49035,Salt Lake County,Utah,18 to 64,0.6256561848721479
+49037,San Juan County,Utah,18 to 64,0.5586893405226048
+49039,Sanpete County,Utah,18 to 64,0.6126536341538567
+49041,Sevier County,Utah,18 to 64,0.5488697721240963
+49043,Summit County,Utah,18 to 64,0.6157016085602566
+49045,Tooele County,Utah,18 to 64,0.5943273144765682
+49047,Uintah County,Utah,18 to 64,0.5636348675187888
+49049,Utah County,Utah,18 to 64,0.6004443976349503
+49051,Wasatch County,Utah,18 to 64,0.5730563002680965
+49053,Washington County,Utah,18 to 64,0.5308254357915365
+49055,Wayne County,Utah,18 to 64,0.5346108721157606
+49057,Weber County,Utah,18 to 64,0.6075744882280236
+56001,Albany County,Wyoming,18 to 64,0.7132023440193037
+56003,Big Horn County,Wyoming,18 to 64,0.5391496975377013
+56005,Campbell County,Wyoming,18 to 64,0.6074056744225615
+56007,Carbon County,Wyoming,18 to 64,0.5812770637157193
+56009,Converse County,Wyoming,18 to 64,0.5753325096300603
+56011,Crook County,Wyoming,18 to 64,0.5339964572830086
+56013,Fremont County,Wyoming,18 to 64,0.5572557762464532
+56015,Goshen County,Wyoming,18 to 64,0.5701120203384444
+56017,Hot Springs County,Wyoming,18 to 64,0.5173235166738848
+56019,Johnson County,Wyoming,18 to 64,0.5372006510113927
+56021,Laramie County,Wyoming,18 to 64,0.6038584953457645
+56023,Lincoln County,Wyoming,18 to 64,0.555957932334557
+56025,Natrona County,Wyoming,18 to 64,0.597215777262181
+56027,Niobrara County,Wyoming,18 to 64,0.556935817805383
+56029,Park County,Wyoming,18 to 64,0.5431930651964529
+56031,Platte County,Wyoming,18 to 64,0.5374157564489891
+56033,Sheridan County,Wyoming,18 to 64,0.5640018996359031
+56035,Sublette County,Wyoming,18 to 64,0.5438337497161027
+56037,Sweetwater County,Wyoming,18 to 64,0.6059685061982483
+56039,Teton County,Wyoming,18 to 64,0.6516825070639609
+56041,Uinta County,Wyoming,18 to 64,0.5562727493326862
+56043,Washakie County,Wyoming,18 to 64,0.5485210171250648
+56045,Weston County,Wyoming,18 to 64,0.5926847110460863
+16001,Ada County,Idaho,Over 64,0.15741695731932953
+16003,Adams County,Idaho,Over 64,0.30376168732333114
+16005,Bannock County,Idaho,Over 64,0.1497224640220672
+16007,Bear Lake County,Idaho,Over 64,0.2087912087912088
+16009,Benewah County,Idaho,Over 64,0.23454050237062443
+16011,Bingham County,Idaho,Over 64,0.1481436123527851
+16013,Blaine County,Idaho,Over 64,0.21831644900117986
+16015,Boise County,Idaho,Over 64,0.27308887507768803
+16017,Bonner County,Idaho,Over 64,0.261484956324814
+16019,Bonneville County,Idaho,Over 64,0.13651460773202367
+16021,Boundary County,Idaho,Over 64,0.23552579755809375
+16023,Butte County,Idaho,Over 64,0.19894498869630747
+16025,Camas County,Idaho,Over 64,0.14891774891774892
+16027,Canyon County,Idaho,Over 64,0.14354076854850353
+16029,Caribou County,Idaho,Over 64,0.1794043270581624
+16031,Cassia County,Idaho,Over 64,0.13709517186568648
+16033,Clark County,Idaho,Over 64,0.13144329896907217
+16035,Clearwater County,Idaho,Over 64,0.28516982401076113
+16037,Custer County,Idaho,Over 64,0.3613693040126955
+16039,Elmore County,Idaho,Over 64,0.14184397163120568
+16041,Franklin County,Idaho,Over 64,0.14128440366972478
+16043,Fremont County,Idaho,Over 64,0.17794321582366251
+16045,Gem County,Idaho,Over 64,0.22725899063161076
+16047,Gooding County,Idaho,Over 64,0.18170266836086404
+16049,Idaho County,Idaho,Over 64,0.2859228971962617
+16051,Jefferson County,Idaho,Over 64,0.1153130235155426
+16053,Jerome County,Idaho,Over 64,0.133249959657899
+16055,Kootenai County,Idaho,Over 64,0.19693815546653465
+16057,Latah County,Idaho,Over 64,0.14471040555624456
+16059,Lemhi County,Idaho,Over 64,0.3043105559637521
+16061,Lewis County,Idaho,Over 64,0.27788435187722665
+16063,Lincoln County,Idaho,Over 64,0.15485216072782412
+16065,Madison County,Idaho,Over 64,0.05317481055657173
+16067,Minidoka County,Idaho,Over 64,0.1570568378797555
+16069,Nez Perce County,Idaho,Over 64,0.20559361536831697
+16071,Oneida County,Idaho,Over 64,0.1946165349284341
+16073,Owyhee County,Idaho,Over 64,0.19106154347118204
+16075,Payette County,Idaho,Over 64,0.19274532264222985
+16077,Power County,Idaho,Over 64,0.1565228236467947
+16079,Shoshone County,Idaho,Over 64,0.22768777614138438
+16081,Teton County,Idaho,Over 64,0.13478224940087596
+16083,Twin Falls County,Idaho,Over 64,0.16429478620509982
+16085,Valley County,Idaho,Over 64,0.2653263019116678
+16087,Washington County,Idaho,Over 64,0.2567642186637217
+30001,Beaverhead County,Montana,Over 64,0.2370177267987487
+30003,Big Horn County,Montana,Over 64,0.13677389493172876
+30005,Blaine County,Montana,Over 64,0.1639273974560526
+30007,Broadwater County,Montana,Over 64,0.23556771545827634
+30009,Carbon County,Montana,Over 64,0.2721338604394594
+30011,Carter County,Montana,Over 64,0.30124908155767816
+30013,Cascade County,Montana,Over 64,0.19330740771385682
+30015,Chouteau County,Montana,Over 64,0.22469429347826086
+30017,Custer County,Montana,Over 64,0.2038867481990283
+30019,Daniels County,Montana,Over 64,0.28937007874015747
+30021,Dawson County,Montana,Over 64,0.20655848546315078
+30023,Deer Lodge County,Montana,Over 64,0.2546257359125315
+30025,Fallon County,Montana,Over 64,0.20234291799787008
+30027,Fergus County,Montana,Over 64,0.24669717640963648
+30029,Flathead County,Montana,Over 64,0.20765364931532113
+30031,Gallatin County,Montana,Over 64,0.13282157880092313
+30033,Garfield County,Montana,Over 64,0.27611940298507465
+30035,Glacier County,Montana,Over 64,0.12849121271785896
+30037,Golden Valley County,Montana,Over 64,0.28214285714285714
+30039,Granite County,Montana,Over 64,0.3091547236033928
+30041,Hill County,Montana,Over 64,0.15940959409594097
+30043,Jefferson County,Montana,Over 64,0.22782177425805936
+30045,Judith Basin County,Montana,Over 64,0.2834875791524598
+30047,Lake County,Montana,Over 64,0.23583699685093382
+30049,Lewis And Clark County,Montana,Over 64,0.19911821438412786
+30051,Liberty County,Montana,Over 64,0.20630081300813008
+30053,Lincoln County,Montana,Over 64,0.2972017815646785
+30055,McCone County,Montana,Over 64,0.2871287128712871
+30057,Madison County,Montana,Over 64,0.3055153203342618
+30059,Meagher County,Montana,Over 64,0.3446184941889843
+30061,Mineral County,Montana,Over 64,0.2808590492076731
+30063,Missoula County,Montana,Over 64,0.16626685278211956
+30065,Musselshell County,Montana,Over 64,0.2876874506708761
+30067,Park County,Montana,Over 64,0.24187828872111644
+30069,Petroleum County,Montana,Over 64,0.2793017456359102
+30071,Phillips County,Montana,Over 64,0.23674242424242425
+30073,Pondera County,Montana,Over 64,0.21573519627411844
+30075,Powder River County,Montana,Over 64,0.31611804767309876
+30077,Powell County,Montana,Over 64,0.20913358941527957
+30079,Prairie County,Montana,Over 64,0.33892885691446845
+30081,Ravalli County,Montana,Over 64,0.26467570458663525
+30083,Richland County,Montana,Over 64,0.17159502162591578
+30085,Roosevelt County,Montana,Over 64,0.11889357712142522
+30087,Rosebud County,Montana,Over 64,0.1671928120446819
+30089,Sanders County,Montana,Over 64,0.3235157699443414
+30091,Sheridan County,Montana,Over 64,0.22817514277943976
+30093,Silver Bow County,Montana,Over 64,0.1924471044423839
+30095,Stillwater County,Montana,Over 64,0.24955810870525852
+30097,Sweet Grass County,Montana,Over 64,0.23404255319148937
+30099,Teton County,Montana,Over 64,0.2317596566523605
+30101,Toole County,Montana,Over 64,0.17442322991249007
+30103,Treasure County,Montana,Over 64,0.22601839684625494
+30105,Valley County,Montana,Over 64,0.24310344827586206
+30107,Wheatland County,Montana,Over 64,0.2889214250854075
+30109,Wibaux County,Montana,Over 64,0.23693379790940766
+30111,Yellowstone County,Montana,Over 64,0.17837337157882155
+32001,Churchill County,Nevada,Over 64,0.1951276645584446
+32003,Clark County,Nevada,Over 64,0.1557928365777822
+32005,Douglas County,Nevada,Over 64,0.3156537159438981
+32007,Elko County,Nevada,Over 64,0.12720047537695908
+32009,Esmeralda County,Nevada,Over 64,0.26507276507276506
+32011,Eureka County,Nevada,Over 64,0.23132530120481928
+32013,Humboldt County,Nevada,Over 64,0.16070293080524886
+32015,Lander County,Nevada,Over 64,0.131940818102698
+32017,Lincoln County,Nevada,Over 64,0.1889038634321653
+32019,Lyon County,Nevada,Over 64,0.21718621144647865
+32021,Mineral County,Nevada,Over 64,0.2701338599956111
+32023,Nye County,Nevada,Over 64,0.3095269419437292
+32027,Pershing County,Nevada,Over 64,0.1660261337432744
+32029,Storey County,Nevada,Over 64,0.39043247161150035
+32031,Washoe County,Nevada,Over 64,0.17300974032576205
+32033,White Pine County,Nevada,Over 64,0.19896115627822944
+32510,Carson City,Nevada,Over 64,0.20779932835309436
+49001,Beaver County,Utah,Over 64,0.147239263803681
+49003,Box Elder County,Utah,Over 64,0.1284386772708246
+49005,Cache County,Utah,Over 64,0.09888273456371185
+49007,Carbon County,Utah,Over 64,0.18795852489484496
+49009,Daggett County,Utah,Over 64,0.18072289156626506
+49011,Davis County,Utah,Over 64,0.10741611268957468
+49013,Duchesne County,Utah,Over 64,0.12758378486855307
+49015,Emery County,Utah,Over 64,0.17967495987158907
+49017,Garfield County,Utah,Over 64,0.22688588007736943
+49019,Grand County,Utah,Over 64,0.20212436836134887
+49021,Iron County,Utah,Over 64,0.1338682081692995
+49023,Juab County,Utah,Over 64,0.12556017273690215
+49025,Kane County,Utah,Over 64,0.24024512256128064
+49027,Millard County,Utah,Over 64,0.1709537901206465
+49029,Morgan County,Utah,Over 64,0.12077870480731029
+49031,Piute County,Utah,Over 64,0.2838709677419355
+49033,Rich County,Utah,Over 64,0.2117465224111283
+49035,Salt Lake County,Utah,Over 64,0.11575780647916879
+49037,San Juan County,Utah,Over 64,0.16189686160652564
+49039,Sanpete County,Utah,Over 64,0.14355164504091206
+49041,Sevier County,Utah,Over 64,0.16729202891919098
+49043,Summit County,Utah,Over 64,0.14662015031960476
+49045,Tooele County,Utah,Over 64,0.09043941133493372
+49047,Uintah County,Utah,Over 64,0.11728564375445719
+49049,Utah County,Utah,Over 64,0.07784126315419924
+49051,Wasatch County,Utah,Over 64,0.13122765862377123
+49053,Washington County,Utah,Over 64,0.22085372470723344
+49055,Wayne County,Utah,Over 64,0.23073914743840437
+49057,Weber County,Utah,Over 64,0.12157425530556046
+56001,Albany County,Wyoming,Over 64,0.13075066953040065
+56003,Big Horn County,Wyoming,Over 64,0.21538723694300077
+56005,Campbell County,Wyoming,Over 64,0.12203836828448679
+56007,Carbon County,Wyoming,Over 64,0.18977249295484225
+56009,Converse County,Wyoming,Over 64,0.1798822588850934
+56011,Crook County,Wyoming,Over 64,0.2226461370758959
+56013,Fremont County,Wyoming,Over 64,0.19646838265099312
+56015,Goshen County,Wyoming,Over 64,0.23420989910224835
+56017,Hot Springs County,Wyoming,Over 64,0.26634906886097875
+56019,Johnson County,Wyoming,Over 64,0.26656591490351084
+56021,Laramie County,Wyoming,Over 64,0.1689432848868976
+56023,Lincoln County,Wyoming,Over 64,0.1857823196745709
+56025,Natrona County,Wyoming,Over 64,0.1640433937417696
+56027,Niobrara County,Wyoming,Over 64,0.29606625258799174
+56029,Park County,Wyoming,Over 64,0.24889567903284732
+56031,Platte County,Wyoming,Over 64,0.2615617011387404
+56033,Sheridan County,Wyoming,Over 64,0.22080101313914832
+56035,Sublette County,Wyoming,Over 64,0.23495344083579378
+56037,Sweetwater County,Wyoming,Over 64,0.14124347867706888
+56039,Teton County,Wyoming,Over 64,0.17497217227502354
+56041,Uinta County,Wyoming,Over 64,0.16612472700800776
+56043,Washakie County,Wyoming,Over 64,0.23559937727036845
+56045,Weston County,Wyoming,Over 64,0.2144842721287491
+16001,Ada County,Idaho,White,0.8163711588577547
+16003,Adams County,Idaho,White,0.888019134594477
+16005,Bannock County,Idaho,White,0.8106989836869891
+16007,Bear Lake County,Idaho,White,0.9311660561660562
+16009,Benewah County,Idaho,White,0.8419247452839705
+16011,Bingham County,Idaho,White,0.7412895719796706
+16013,Blaine County,Idaho,White,0.7272875218682615
+16015,Boise County,Idaho,White,0.8512119328775637
+16017,Bonner County,Idaho,White,0.9014073115496603
+16019,Bonneville County,Idaho,White,0.8075100742979474
+16021,Boundary County,Idaho,White,0.8696337140606538
+16023,Butte County,Idaho,White,0.8831951770911831
+16025,Camas County,Idaho,White,0.7619047619047619
+16027,Canyon County,Idaho,White,0.676632082671562
+16029,Caribou County,Idaho,White,0.907839280696825
+16031,Cassia County,Idaho,White,0.6524935426187165
+16033,Clark County,Idaho,White,0.5927835051546392
+16035,Clearwater County,Idaho,White,0.8844299966371483
+16037,Custer County,Idaho,White,0.8941283155746996
+16039,Elmore County,Idaho,White,0.7055016181229773
+16041,Franklin County,Idaho,White,0.8975874957526334
+16043,Fremont County,Idaho,White,0.8349755492299832
+16045,Gem County,Idaho,White,0.840082603001914
+16047,Gooding County,Idaho,White,0.6406607369758577
+16049,Idaho County,Idaho,White,0.8986565420560748
+16051,Jefferson County,Idaho,White,0.8607371098839735
+16053,Jerome County,Idaho,White,0.5753187025980313
+16055,Kootenai County,Idaho,White,0.8629878021335013
+16057,Latah County,Idaho,White,0.8559097110256728
+16059,Lemhi County,Idaho,White,0.916972814107274
+16061,Lewis County,Idaho,White,0.822143052891203
+16063,Lincoln County,Idaho,White,0.6328658074298711
+16065,Madison County,Idaho,White,0.844955018851021
+16067,Minidoka County,Idaho,White,0.5968433537086032
+16069,Nez Perce County,Idaho,White,0.8611483861854651
+16071,Oneida County,Idaho,White,0.9224524674214911
+16073,Owyhee County,Idaho,White,0.6887821556496255
+16075,Payette County,Idaho,White,0.7632684230622375
+16077,Power County,Idaho,White,0.6093788974806685
+16079,Shoshone County,Idaho,White,0.8929307805596466
+16081,Teton County,Idaho,White,0.7976200314023635
+16083,Twin Falls County,Idaho,White,0.7617047144516451
+16085,Valley County,Idaho,White,0.9396011865524061
+16087,Washington County,Idaho,White,0.7854776366648261
+30001,Beaverhead County,Montana,White,0.8965589155370177
+30003,Big Horn County,Montana,White,0.27038494175730926
+30005,Blaine County,Montana,White,0.4416178362155209
+30007,Broadwater County,Montana,White,0.8979480164158686
+30009,Carbon County,Montana,White,0.9158775397628023
+30011,Carter County,Montana,White,0.919911829537105
+30013,Cascade County,Montana,White,0.8321651044313897
+30015,Chouteau County,Montana,White,0.7583220108695652
+30017,Custer County,Montana,White,0.8947897470263025
+30019,Daniels County,Montana,White,0.8956692913385826
+30021,Dawson County,Montana,White,0.908834798287131
+30023,Deer Lodge County,Montana,White,0.8988645920941968
+30025,Fallon County,Montana,White,0.9275825346112886
+30027,Fergus County,Montana,White,0.9274674035057422
+30029,Flathead County,Montana,White,0.9066715846742588
+30031,Gallatin County,Montana,White,0.882661996497373
+30033,Garfield County,Montana,White,0.9776119402985075
+30035,Glacier County,Montana,White,0.2932254065485306
+30037,Golden Valley County,Montana,White,0.8892857142857142
+30039,Granite County,Montana,White,0.9251243053524423
+30041,Hill County,Montana,White,0.6774907749077491
+30043,Jefferson County,Montana,White,0.9130469562435005
+30045,Judith Basin County,Montana,White,0.9142717973697029
+30047,Lake County,Montana,White,0.6449038131761918
+30049,Lewis And Clark County,Montana,White,0.8920501515569027
+30051,Liberty County,Montana,White,0.959349593495935
+30053,Lincoln County,Montana,White,0.9080170410534469
+30055,McCone County,Montana,White,0.9125412541254125
+30057,Madison County,Montana,White,0.9154317548746518
+30059,Meagher County,Montana,White,0.9242041435068217
+30061,Mineral County,Montana,White,0.896371976647206
+30063,Missoula County,Montana,White,0.8578389989886241
+30065,Musselshell County,Montana,White,0.8770718232044199
+30067,Park County,Montana,White,0.9171814230153283
+30069,Petroleum County,Montana,White,0.9925187032418953
+30071,Phillips County,Montana,White,0.8193655303030303
+30073,Pondera County,Montana,White,0.7897538256819694
+30075,Powder River County,Montana,White,0.8723041997729852
+30077,Powell County,Montana,White,0.8743775786029307
+30079,Prairie County,Montana,White,0.8936850519584333
+30081,Ravalli County,Montana,White,0.8922872050123344
+30083,Richland County,Montana,White,0.8760702621590608
+30085,Roosevelt County,Montana,White,0.3294889826535396
+30087,Rosebud County,Montana,White,0.5267119961146187
+30089,Sanders County,Montana,White,0.8904607297464441
+30091,Sheridan County,Montana,White,0.8923035082948055
+30093,Silver Bow County,Montana,White,0.8926353648599287
+30095,Stillwater County,Montana,White,0.922779496243924
+30097,Sweet Grass County,Montana,White,0.9057366011311608
+30099,Teton County,Montana,White,0.9187728501033222
+30101,Toole County,Montana,White,0.830151153540175
+30103,Treasure County,Montana,White,0.9290407358738502
+30105,Valley County,Montana,White,0.8477453580901857
+30107,Wheatland County,Montana,White,0.9463152757442655
+30109,Wibaux County,Montana,White,0.9050522648083623
+30111,Yellowstone County,Montana,White,0.839345046014103
+32001,Churchill County,Nevada,White,0.7149605684391348
+32003,Clark County,Nevada,White,0.3938766150310145
+32005,Douglas County,Nevada,White,0.7815774625181364
+32007,Elko County,Nevada,White,0.6271447671395677
+32009,Esmeralda County,Nevada,White,0.6517671517671517
+32011,Eureka County,Nevada,White,0.8325301204819278
+32013,Humboldt County,Nevada,White,0.6471472339441586
+32015,Lander County,Nevada,White,0.6979982593559617
+32017,Lincoln County,Nevada,White,0.8472596585804133
+32019,Lyon County,Nevada,White,0.7171862114464786
+32021,Mineral County,Nevada,White,0.564845292955892
+32023,Nye County,Nevada,White,0.7029526190162948
+32027,Pershing County,Nevada,White,0.6455034588777864
+32029,Storey County,Nevada,White,0.8448900700652332
+32031,Washoe County,Nevada,White,0.5972710820098827
+32033,White Pine County,Nevada,White,0.7166892502258356
+32510,Carson City,Nevada,White,0.6316907682818176
+49001,Beaver County,Utah,White,0.8409090909090909
+49003,Box Elder County,Utah,White,0.8624863959815823
+49005,Cache County,Utah,White,0.8193839350220024
+49007,Carbon County,Utah,White,0.8232417098699012
+49009,Daggett County,Utah,White,0.9223560910307899
+49011,Davis County,Utah,White,0.806387051387624
+49013,Duchesne County,Utah,White,0.8533012241621513
+49015,Emery County,Utah,White,0.8948635634028892
+49017,Garfield County,Utah,White,0.8934235976789169
+49019,Grand County,Utah,White,0.7869444157987007
+49021,Iron County,Utah,White,0.8382751117091078
+49023,Juab County,Utah,White,0.9099649637415465
+49025,Kane County,Utah,White,0.8871935967983992
+49027,Millard County,Utah,White,0.8195614234767433
+49029,Morgan County,Utah,White,0.9272149384187525
+49031,Piute County,Utah,White,0.9548387096774194
+49033,Rich County,Utah,White,0.8945131375579598
+49035,Salt Lake County,Utah,White,0.6788735271450989
+49037,San Juan County,Utah,White,0.4490529517489285
+49039,Sanpete County,Utah,White,0.844910815159711
+49041,Sevier County,Utah,White,0.91319666880205
+49043,Summit County,Utah,White,0.8322601793532979
+49045,Tooele County,Utah,White,0.7915275023483979
+49047,Uintah County,Utah,White,0.8038564924022162
+49049,Utah County,Utah,White,0.7889550072993555
+49051,Wasatch County,Utah,White,0.8154043789097408
+49053,Washington County,Utah,White,0.8181554784092885
+49055,Wayne County,Utah,White,0.9100508408290966
+49057,Weber County,Utah,White,0.7455735339972875
+56001,Albany County,Wyoming,White,0.8032773844562883
+56003,Big Horn County,Wyoming,White,0.856181306977933
+56005,Campbell County,Wyoming,White,0.8516100216938194
+56007,Carbon County,Wyoming,White,0.7632139665956423
+56009,Converse County,Wyoming,White,0.8819681662911549
+56011,Crook County,Wyoming,White,0.9325521188172775
+56013,Fremont County,Wyoming,White,0.6968483988650183
+56015,Goshen County,Wyoming,White,0.8504012075951378
+56017,Hot Springs County,Wyoming,White,0.8893460372455608
+56019,Johnson County,Wyoming,White,0.90153452685422
+56021,Laramie County,Wyoming,White,0.7593407575923148
+56023,Lincoln County,Wyoming,White,0.9115983728544499
+56025,Natrona County,Wyoming,White,0.8509061265441776
+56027,Niobrara County,Wyoming,White,0.8906832298136645
+56029,Park County,Wyoming,White,0.8829917964728154
+56031,Platte County,Wyoming,White,0.8561468742737625
+56033,Sheridan County,Wyoming,White,0.8974513218299826
+56035,Sublette County,Wyoming,White,0.8999545764251646
+56037,Sweetwater County,Wyoming,White,0.7719571148231466
+56039,Teton County,Wyoming,White,0.7886377258326912
+56041,Uinta County,Wyoming,White,0.8656636738655666
+56043,Washakie County,Wyoming,White,0.8118837571354437
+56045,Weston County,Wyoming,White,0.8532553035844916
+16001,Ada County,Idaho,Black,0.01222315825939077
+16003,Adams County,Idaho,Black,0.0023918243096325287
+16005,Bannock County,Idaho,Black,0.00820737759589405
+16007,Bear Lake County,Idaho,Black,0.0027472527472527475
+16009,Benewah County,Idaho,Black,0.007364067386260466
+16011,Bingham County,Idaho,Black,0.002714673524789256
+16013,Blaine County,Idaho,Black,0.004231254322795882
+16015,Boise County,Idaho,Black,0.002113113735239279
+16017,Bonner County,Idaho,Black,0.0026083791653186673
+16019,Bonneville County,Idaho,Black,0.0033056290139780883
+16021,Boundary County,Idaho,Black,0.007404489956675857
+16023,Butte County,Idaho,Black,0.0
+16025,Camas County,Idaho,Black,0.0
+16027,Canyon County,Idaho,Black,0.006138487242424867
+16029,Caribou County,Idaho,Black,0.0
+16031,Cassia County,Idaho,Black,0.0008344923504867872
+16033,Clark County,Idaho,Black,0.0
+16035,Clearwater County,Idaho,Black,0.0020177110189440644
+16037,Custer County,Idaho,Black,0.002720471548401723
+16039,Elmore County,Idaho,Black,0.027301521724161674
+16041,Franklin County,Idaho,Black,0.0
+16043,Fremont County,Idaho,Black,0.0028465075541931244
+16045,Gem County,Idaho,Black,0.0018636043114737585
+16047,Gooding County,Idaho,Black,0.0006353240152477764
+16049,Idaho County,Idaho,Black,0.0009345794392523365
+16051,Jefferson County,Idaho,Black,0.0005894397220326363
+16053,Jerome County,Idaho,Black,0.0009278683233822818
+16055,Kootenai County,Idaho,Black,0.0029988297249853714
+16057,Latah County,Idaho,Black,0.010417958576212328
+16059,Lemhi County,Idaho,Black,0.0001224589762429586
+16061,Lewis County,Idaho,Black,0.016990956426418197
+16063,Lincoln County,Idaho,Black,0.006444275966641395
+16065,Madison County,Idaho,Black,0.009182873567509053
+16067,Minidoka County,Idaho,Black,0.00305629048444485
+16069,Nez Perce County,Idaho,Black,0.0007298067189302446
+16071,Oneida County,Idaho,Black,0.003631702627643666
+16073,Owyhee County,Idaho,Black,0.0048029957668511885
+16075,Payette County,Idaho,Black,0.0008400152730049637
+16077,Power County,Idaho,Black,0.008979795460214518
+16079,Shoshone County,Idaho,Black,0.0093519882179676
+16081,Teton County,Idaho,Black,0.0
+16083,Twin Falls County,Idaho,Black,0.00682797624862952
+16085,Valley County,Idaho,Black,0.0004943968358602505
+16087,Washington County,Idaho,Black,0.0011043622308117063
+30001,Beaverhead County,Montana,Black,0.005630865484880084
+30003,Big Horn County,Montana,Black,0.0
+30005,Blaine County,Montana,Black,0.004430470201514935
+30007,Broadwater County,Montana,Black,0.0036935704514363885
+30009,Carbon County,Montana,Black,0.004596855750666544
+30011,Carter County,Montana,Black,0.0007347538574577516
+30013,Cascade County,Montana,Black,0.014456093899599296
+30015,Chouteau County,Montana,Black,0.001358695652173913
+30017,Custer County,Montana,Black,0.0035181772491204555
+30019,Daniels County,Montana,Black,0.0026246719160104987
+30021,Dawson County,Montana,Black,0.000450755014649538
+30023,Deer Lodge County,Montana,Black,0.003153910849453322
+30025,Fallon County,Montana,Black,0.0003549875754348598
+30027,Fergus County,Montana,Black,0.006389776357827476
+30029,Flathead County,Montana,Black,0.0023145373230669926
+30031,Gallatin County,Montana,Black,0.004852938769497684
+30033,Garfield County,Montana,Black,0.009594882729211088
+30035,Glacier County,Montana,Black,0.0016772405746372056
+30037,Golden Valley County,Montana,Black,0.007142857142857143
+30039,Granite County,Montana,Black,0.007312079555425563
+30041,Hill County,Montana,Black,0.002091020910209102
+30043,Jefferson County,Montana,Black,0.0011199104071674265
+30045,Judith Basin County,Montana,Black,0.0
+30047,Lake County,Montana,Black,0.002088984504100022
+30049,Lewis And Clark County,Montana,Black,0.005524937999448884
+30051,Liberty County,Montana,Black,0.0
+30053,Lincoln County,Montana,Black,0.0007261812548412084
+30055,McCone County,Montana,Black,0.0
+30057,Madison County,Montana,Black,0.0
+30059,Meagher County,Montana,Black,0.008590197069226882
+30061,Mineral County,Montana,Black,0.006672226855713094
+30063,Missoula County,Montana,Black,0.005951236636882622
+30065,Musselshell County,Montana,Black,0.0
+30067,Park County,Montana,Black,0.0018874399450926561
+30069,Petroleum County,Montana,Black,0.0
+30071,Phillips County,Montana,Black,0.003787878787878788
+30073,Pondera County,Montana,Black,0.00033266799733865603
+30075,Powder River County,Montana,Black,0.0
+30077,Powell County,Montana,Black,0.012377294067434912
+30079,Prairie County,Montana,Black,0.0
+30081,Ravalli County,Montana,Black,0.002357718252668806
+30083,Richland County,Montana,Black,0.0024715332332950835
+30085,Roosevelt County,Montana,Black,0.0012189404594467885
+30087,Rosebud County,Montana,Black,0.001699854298203011
+30089,Sanders County,Montana,Black,0.005256648113790971
+30091,Sheridan County,Montana,Black,0.0
+30093,Silver Bow County,Montana,Black,0.0012082385006603163
+30095,Stillwater County,Montana,Black,0.0009942554131683605
+30097,Sweet Grass County,Montana,Black,0.013466199838405602
+30099,Teton County,Montana,Black,0.003814973772055317
+30101,Toole County,Montana,Black,0.018496420047732696
+30103,Treasure County,Montana,Black,0.0
+30105,Valley County,Montana,Black,0.00610079575596817
+30107,Wheatland County,Montana,Black,0.013177159590043924
+30109,Wibaux County,Montana,Black,0.008710801393728223
+30111,Yellowstone County,Montana,Black,0.004924106609298434
+32001,Churchill County,Nevada,Black,0.018115093308346996
+32003,Clark County,Nevada,Black,0.11664975123857554
+32005,Douglas County,Nevada,Black,0.0007053038852168306
+32007,Elko County,Nevada,Black,0.008467652083488078
+32009,Esmeralda County,Nevada,Black,0.0031185031185031187
+32011,Eureka County,Nevada,Black,0.0012048192771084338
+32013,Humboldt County,Nevada,Black,0.00682120353777675
+32015,Lander County,Nevada,Black,0.001392515230635335
+32017,Lincoln County,Nevada,Black,0.04177897574123989
+32019,Lyon County,Nevada,Black,0.009846610588817417
+32021,Mineral County,Nevada,Black,0.028966425279789335
+32023,Nye County,Nevada,Black,0.025316217790892177
+32027,Pershing County,Nevada,Black,0.0415065334358186
+32029,Storey County,Nevada,Black,0.019328340178787148
+32031,Washoe County,Nevada,Black,0.022947719462350285
+32033,White Pine County,Nevada,Black,0.06797651309846432
+32510,Carson City,Nevada,Black,0.019258446987869233
+49001,Beaver County,Utah,Black,0.0015337423312883436
+49003,Box Elder County,Utah,Black,0.0034993721222268733
+49005,Cache County,Utah,Black,0.006567856908290825
+49007,Carbon County,Utah,Black,0.005233297466497114
+49009,Daggett County,Utah,Black,0.0
+49011,Davis County,Utah,Black,0.011433105561948181
+49013,Duchesne County,Utah,Black,0.0007525586995785671
+49015,Emery County,Utah,Black,0.0004012841091492777
+49017,Garfield County,Utah,Black,0.0007736943907156673
+49019,Grand County,Utah,Black,0.00020624935547076416
+49021,Iron County,Utah,Black,0.006312187505190943
+49023,Juab County,Utah,Black,0.00651837366577039
+49025,Kane County,Utah,Black,0.0022511255627813906
+49027,Millard County,Utah,Black,0.002124592154184688
+49029,Morgan County,Utah,Black,0.0015891934843067143
+49031,Piute County,Utah,Black,0.0011730205278592375
+49033,Rich County,Utah,Black,0.0
+49035,Salt Lake County,Utah,Black,0.01650390946484689
+49037,San Juan County,Utah,Black,0.0006912760956726117
+49039,Sanpete County,Utah,Black,0.008832893971036324
+49041,Sevier County,Utah,Black,0.0019676031847716663
+49043,Summit County,Utah,Black,0.0038867685967828793
+49045,Tooele County,Utah,Black,0.008141112618724558
+49047,Uintah County,Utah,Black,0.004964616819353777
+49049,Utah County,Utah,Black,0.005987226859287735
+49051,Wasatch County,Utah,Black,0.0005585344057193923
+49053,Washington County,Utah,Black,0.0046621397377612245
+49055,Wayne County,Utah,Black,0.0
+49057,Weber County,Utah,Black,0.010526592607341565
+56001,Albany County,Wyoming,Black,0.010367777689390926
+56003,Big Horn County,Wyoming,Black,0.0051972394990201926
+56005,Campbell County,Wyoming,Black,0.003488025862435663
+56007,Carbon County,Wyoming,Black,0.013265516530345729
+56009,Converse County,Wyoming,Black,0.0023257504179082784
+56011,Crook County,Wyoming,Black,0.0
+56013,Fremont County,Wyoming,Black,0.005320226996351845
+56015,Goshen County,Wyoming,Black,0.006911893223166759
+56017,Hot Springs County,Wyoming,Black,0.0
+56019,Johnson County,Wyoming,Black,0.00023250406882120437
+56021,Laramie County,Wyoming,Black,0.020981313517648346
+56023,Lincoln County,Wyoming,Black,0.0002976485762476436
+56025,Natrona County,Wyoming,Black,0.005969774879287641
+56027,Niobrara County,Wyoming,Black,0.014078674948240166
+56029,Park County,Wyoming,Black,0.003454116709289581
+56031,Platte County,Wyoming,Black,0.0037183360446200325
+56033,Sheridan County,Wyoming,Black,0.004179198986860852
+56035,Sublette County,Wyoming,Black,0.0002271178741766977
+56037,Sweetwater County,Wyoming,Black,0.011439238022304121
+56039,Teton County,Wyoming,Black,0.005822416302765648
+56041,Uinta County,Wyoming,Black,0.0025721912157243387
+56043,Washakie County,Wyoming,Black,0.0018162947586922678
+56045,Weston County,Wyoming,Black,0.0005852231163130944
+16001,Ada County,Idaho,AIAN,0.003115822789793171
+16003,Adams County,Idaho,AIAN,0.010437051532941943
+16005,Bannock County,Idaho,AIAN,0.02259855070825373
+16007,Bear Lake County,Idaho,AIAN,0.007631257631257631
+16009,Benewah County,Idaho,AIAN,0.07444769494603047
+16011,Bingham County,Idaho,AIAN,0.04837425754699651
+16013,Blaine County,Idaho,AIAN,0.009398266813133162
+16015,Boise County,Idaho,AIAN,0.00944686140459913
+16017,Bonner County,Idaho,AIAN,0.004832578453574895
+16019,Bonneville County,Idaho,AIAN,0.0037385090039037906
+16021,Boundary County,Idaho,AIAN,0.01551792044111855
+16023,Butte County,Idaho,AIAN,0.00037678975131876413
+16025,Camas County,Idaho,AIAN,0.006926406926406926
+16027,Canyon County,Idaho,AIAN,0.002697964150904478
+16029,Caribou County,Idaho,AIAN,0.0016858668165214948
+16031,Cassia County,Idaho,AIAN,0.001867673355851381
+16033,Clark County,Idaho,AIAN,0.001288659793814433
+16035,Clearwater County,Idaho,AIAN,0.012666741396704406
+16037,Custer County,Idaho,AIAN,0.004080707322602585
+16039,Elmore County,Idaho,AIAN,0.006059354127935
+16041,Franklin County,Idaho,AIAN,0.0014271151885830785
+16043,Fremont County,Idaho,AIAN,0.008539522662579374
+16045,Gem County,Idaho,AIAN,0.003878311675229173
+16047,Gooding County,Idaho,AIAN,0.015501905972045744
+16049,Idaho County,Idaho,AIAN,0.02272196261682243
+16051,Jefferson County,Idaho,AIAN,0.0055841657876776075
+16053,Jerome County,Idaho,AIAN,0.0011295788284653866
+16055,Kootenai County,Idaho,AIAN,0.007190439753342035
+16057,Latah County,Idaho,AIAN,0.005432221257596428
+16059,Lemhi County,Idaho,AIAN,0.007714915503306392
+16061,Lewis County,Idaho,AIAN,0.014524527267744588
+16063,Lincoln County,Idaho,AIAN,0.005875663381349507
+16065,Madison County,Idaho,AIAN,0.003042293478666617
+16067,Minidoka County,Idaho,AIAN,0.006066964693002463
+16069,Nez Perce County,Idaho,AIAN,0.0431292228735551
+16071,Oneida County,Idaho,AIAN,0.002563554795983764
+16073,Owyhee County,Idaho,AIAN,0.026619993487463366
+16075,Payette County,Idaho,AIAN,0.0031691485299732724
+16077,Power County,Idaho,AIAN,0.009478672985781991
+16079,Shoshone County,Idaho,AIAN,0.009720176730486009
+16081,Teton County,Idaho,AIAN,0.006032559292620444
+16083,Twin Falls County,Idaho,AIAN,0.0021167811899566874
+16085,Valley County,Idaho,AIAN,8.239947264337508e-05
+16087,Washington County,Idaho,AIAN,0.0011963924167126818
+30001,Beaverhead County,Montana,AIAN,0.016579770594369134
+30003,Big Horn County,Montana,AIAN,0.653398133148191
+30005,Blaine County,Montana,AIAN,0.4897813348577962
+30007,Broadwater County,Montana,AIAN,0.01039671682626539
+30009,Carbon County,Montana,AIAN,0.0034936103705065736
+30011,Carter County,Montana,AIAN,0.0073475385745775165
+30013,Cascade County,Montana,AIAN,0.03388848831574095
+30015,Chouteau County,Montana,AIAN,0.1649116847826087
+30017,Custer County,Montana,AIAN,0.012481152621879711
+30019,Daniels County,Montana,AIAN,0.03083989501312336
+30021,Dawson County,Montana,AIAN,0.012959206671174216
+30023,Deer Lodge County,Montana,AIAN,0.01703111858704794
+30025,Fallon County,Montana,AIAN,0.024139155129570464
+30027,Fergus County,Montana,AIAN,0.018910284086002937
+30029,Flathead County,Montana,AIAN,0.00895384757250219
+30031,Gallatin County,Montana,AIAN,0.00618688315301897
+30033,Garfield County,Montana,AIAN,0.006396588486140725
+30035,Glacier County,Montana,AIAN,0.6313716910960403
+30037,Golden Valley County,Montana,AIAN,0.004761904761904762
+30039,Granite County,Montana,AIAN,0.022228721848493713
+30041,Hill County,Montana,AIAN,0.22687576875768758
+30043,Jefferson County,Montana,AIAN,0.012079033677305815
+30045,Judith Basin County,Montana,AIAN,0.012177301509985387
+30047,Lake County,Montana,AIAN,0.20141552084307673
+30049,Lewis And Clark County,Montana,AIAN,0.008817856158721412
+30051,Liberty County,Montana,AIAN,0.014227642276422764
+30053,Lincoln County,Montana,AIAN,0.013119674670797832
+30055,McCone County,Montana,AIAN,0.03685368536853685
+30057,Madison County,Montana,AIAN,0.0032311977715877437
+30059,Meagher County,Montana,AIAN,0.027286508337544216
+30061,Mineral County,Montana,AIAN,0.013344453711426188
+30063,Missoula County,Montana,AIAN,0.019433462332516988
+30065,Musselshell County,Montana,AIAN,0.02387529597474349
+30067,Park County,Montana,AIAN,0.006463051933196065
+30069,Petroleum County,Montana,AIAN,0.0
+30071,Phillips County,Montana,AIAN,0.0712594696969697
+30073,Pondera County,Montana,AIAN,0.15984697272122422
+30075,Powder River County,Montana,AIAN,0.016458569807037457
+30077,Powell County,Montana,AIAN,0.04139991463935126
+30079,Prairie County,Montana,AIAN,0.0007993605115907274
+30081,Ravalli County,Montana,AIAN,0.0053485275176283105
+30083,Richland County,Montana,AIAN,0.0024715332332950835
+30085,Roosevelt County,Montana,AIAN,0.5721518987341773
+30087,Rosebud County,Montana,AIAN,0.38440990772219524
+30089,Sanders County,Montana,AIAN,0.02373222016079159
+30091,Sheridan County,Montana,AIAN,0.016589611096002176
+30093,Silver Bow County,Montana,AIAN,0.014133580600747422
+30095,Stillwater County,Montana,AIAN,0.003535130357931949
+30097,Sweet Grass County,Montana,AIAN,0.016428763802854834
+30099,Teton County,Montana,AIAN,0.019392783341281195
+30101,Toole County,Montana,AIAN,0.056881463802704854
+30103,Treasure County,Montana,AIAN,0.001314060446780552
+30105,Valley County,Montana,AIAN,0.07519893899204244
+30107,Wheatland County,Montana,AIAN,0.004880429477794046
+30109,Wibaux County,Montana,AIAN,0.0
+30111,Yellowstone County,Montana,AIAN,0.03815585036452731
+32001,Churchill County,Nevada,AIAN,0.030959631451549934
+32003,Clark County,Nevada,AIAN,0.0034088075320739186
+32005,Douglas County,Nevada,AIAN,0.011002740609382557
+32007,Elko County,Nevada,AIAN,0.038197281438015304
+32009,Esmeralda County,Nevada,AIAN,0.015592515592515593
+32011,Eureka County,Nevada,AIAN,0.023493975903614458
+32013,Humboldt County,Nevada,AIAN,0.028903404821087924
+32015,Lander County,Nevada,AIAN,0.02228024369016536
+32017,Lincoln County,Nevada,AIAN,0.03571428571428571
+32019,Lyon County,Nevada,AIAN,0.015949200065973942
+32021,Mineral County,Nevada,AIAN,0.15909589642308536
+32023,Nye County,Nevada,AIAN,0.009904711786043189
+32027,Pershing County,Nevada,AIAN,0.026902382782475018
+32029,Storey County,Nevada,AIAN,0.0
+32031,Washoe County,Nevada,AIAN,0.008703255586961384
+32033,White Pine County,Nevada,AIAN,0.03387533875338753
+32510,Carson City,Nevada,AIAN,0.014512370639435269
+49001,Beaver County,Utah,AIAN,0.0008365867261572784
+49003,Box Elder County,Utah,AIAN,0.00416910841356216
+49005,Cache County,Utah,AIAN,0.0007516547350599499
+49007,Carbon County,Utah,AIAN,0.005771300009781865
+49009,Daggett County,Utah,AIAN,0.014725568942436412
+49011,Davis County,Utah,AIAN,0.0030293776006020583
+49013,Duchesne County,Utah,AIAN,0.03486855308047361
+49015,Emery County,Utah,AIAN,0.007624398073836276
+49017,Garfield County,Utah,AIAN,0.019342359767891684
+49019,Grand County,Utah,AIAN,0.039393626894915955
+49021,Iron County,Utah,AIAN,0.012258932575870832
+49023,Juab County,Utah,AIAN,0.010510877536054754
+49025,Kane County,Utah,AIAN,0.02088544272136068
+49027,Millard County,Utah,AIAN,0.013582214128537825
+49029,Morgan County,Utah,AIAN,0.0014302741358760429
+49031,Piute County,Utah,AIAN,0.0
+49033,Rich County,Utah,AIAN,0.004250386398763524
+49035,Salt Lake County,Utah,AIAN,0.004859503211391344
+49037,San Juan County,Utah,AIAN,0.4526475874464261
+49039,Sanpete County,Utah,AIAN,0.0060255400732650895
+49041,Sevier County,Utah,AIAN,0.0043927885055367434
+49043,Summit County,Utah,AIAN,0.0006321852536936009
+49045,Tooele County,Utah,AIAN,0.0022570712869220333
+49047,Uintah County,Utah,AIAN,0.05104503812606287
+49049,Utah County,Utah,AIAN,0.0024706636123471744
+49051,Wasatch County,Utah,AIAN,0.0023458445040214475
+49053,Washington County,Utah,AIAN,0.006653426541008392
+49055,Wayne County,Utah,AIAN,0.0
+49057,Weber County,Utah,AIAN,0.003749300293407167
+56001,Albany County,Wyoming,AIAN,0.0031023784901758012
+56003,Big Horn County,Wyoming,AIAN,0.003919229786146374
+56005,Campbell County,Wyoming,AIAN,0.007635373686673189
+56007,Carbon County,Wyoming,AIAN,0.007835590074919239
+56009,Converse County,Wyoming,AIAN,0.0011628752089541392
+56011,Crook County,Wyoming,AIAN,0.0016351001498841804
+56013,Fremont County,Wyoming,AIAN,0.17802492906364004
+56015,Goshen County,Wyoming,AIAN,0.008024151902756812
+56017,Hot Springs County,Wyoming,AIAN,0.010177566045907319
+56019,Johnson County,Wyoming,AIAN,0.016624040920716114
+56021,Laramie County,Wyoming,AIAN,0.005453949394502339
+56023,Lincoln County,Wyoming,AIAN,0.002331580513939875
+56025,Natrona County,Wyoming,AIAN,0.003887878597855396
+56027,Niobrara County,Wyoming,AIAN,0.01904761904761905
+56029,Park County,Wyoming,AIAN,0.0017934836759772826
+56031,Platte County,Wyoming,AIAN,0.0036021380432256565
+56033,Sheridan County,Wyoming,AIAN,0.0110178882380877
+56035,Sublette County,Wyoming,AIAN,0.0
+56037,Sweetwater County,Wyoming,AIAN,0.006437562820083282
+56039,Teton County,Wyoming,AIAN,0.0017980991523246853
+56041,Uinta County,Wyoming,AIAN,0.0001941276389225916
+56043,Washakie County,Wyoming,AIAN,0.0020757654385054488
+56045,Weston County,Wyoming,AIAN,0.01623994147768837
+16001,Ada County,Idaho,Asian,0.025056490280522467
+16003,Adams County,Idaho,Asian,0.0
+16005,Bannock County,Idaho,Asian,0.014752930802536826
+16007,Bear Lake County,Idaho,Asian,0.0025946275946275945
+16009,Benewah County,Idaho,Asian,0.00040351054171290223
+16011,Bingham County,Idaho,Asian,0.004102626905884514
+16013,Blaine County,Idaho,Asian,0.00516701249033728
+16015,Boise County,Idaho,Asian,0.01528899937849596
+16017,Bonner County,Idaho,Asian,0.006167098026528632
+16019,Bonneville County,Idaho,Asian,0.008350648532930362
+16021,Boundary County,Idaho,Asian,0.015833005120126035
+16023,Butte County,Idaho,Asian,0.0
+16025,Camas County,Idaho,Asian,0.0
+16027,Canyon County,Idaho,Asian,0.007949505992038117
+16029,Caribou County,Idaho,Asian,0.0004214667041303737
+16031,Cassia County,Idaho,Asian,0.0029405920921915358
+16033,Clark County,Idaho,Asian,0.0
+16035,Clearwater County,Idaho,Asian,0.009752269924896311
+16037,Custer County,Idaho,Asian,0.026524597596916798
+16039,Elmore County,Idaho,Asian,0.026957240239619915
+16041,Franklin County,Idaho,Asian,0.00027183146449201494
+16043,Fremont County,Idaho,Asian,0.0005109116122910736
+16045,Gem County,Idaho,Asian,0.0023169134683187266
+16047,Gooding County,Idaho,Asian,0.007369758576874206
+16049,Idaho County,Idaho,Asian,0.004964953271028037
+16051,Jefferson County,Idaho,Asian,0.0006514860085623875
+16053,Jerome County,Idaho,Asian,0.0010892367274487654
+16055,Kootenai County,Idaho,Asian,0.007522392762299141
+16057,Latah County,Idaho,Asian,0.020662284509487785
+16059,Lemhi County,Idaho,Asian,0.0007347538574577516
+16061,Lewis County,Idaho,Asian,0.009043573581803233
+16063,Lincoln County,Idaho,Asian,0.004359363153904473
+16065,Madison County,Idaho,Asian,0.01440889917503453
+16067,Minidoka County,Idaho,Asian,0.002189581242587355
+16069,Nez Perce County,Idaho,Asian,0.008310379734915366
+16071,Oneida County,Idaho,Asian,0.0
+16073,Owyhee County,Idaho,Asian,0.001058287202865516
+16075,Payette County,Idaho,Asian,0.005345551737304314
+16077,Power County,Idaho,Asian,0.0
+16079,Shoshone County,Idaho,Asian,0.0029455081001472753
+16081,Teton County,Idaho,Asian,0.0004958267911742831
+16083,Twin Falls County,Idaho,Asian,0.0129612140554271
+16085,Valley County,Idaho,Asian,0.0005767963085036256
+16087,Washington County,Idaho,Asian,0.0022087244616234127
+30001,Beaverhead County,Montana,Asian,0.0026068821689259644
+30003,Big Horn County,Montana,Asian,0.002005708555118414
+30005,Blaine County,Montana,Asian,0.0
+30007,Broadwater County,Montana,Asian,0.004240766073871409
+30009,Carbon County,Montana,Asian,0.004688792865679875
+30011,Carter County,Montana,Asian,0.0
+30013,Cascade County,Montana,Asian,0.01132374321816527
+30015,Chouteau County,Montana,Asian,0.001188858695652174
+30017,Custer County,Montana,Asian,0.004020773998994806
+30019,Daniels County,Montana,Asian,0.00853018372703412
+30021,Dawson County,Montana,Asian,0.0003380662609871535
+30023,Deer Lodge County,Montana,Asian,0.006938603868797309
+30025,Fallon County,Montana,Asian,0.0
+30027,Fergus County,Montana,Asian,0.008807529574302737
+30029,Flathead County,Montana,Asian,0.008520448153441837
+30031,Gallatin County,Montana,Asian,0.012611093834394488
+30033,Garfield County,Montana,Asian,0.0
+30035,Glacier County,Montana,Asian,0.005833880259607672
+30037,Golden Valley County,Montana,Asian,0.0
+30039,Granite County,Montana,Asian,0.006434630008774495
+30041,Hill County,Montana,Asian,0.002029520295202952
+30043,Jefferson County,Montana,Asian,0.004079673626109911
+30045,Judith Basin County,Montana,Asian,0.0
+30047,Lake County,Montana,Asian,0.004895083091697066
+30049,Lewis And Clark County,Montana,Asian,0.006420501515569027
+30051,Liberty County,Montana,Asian,0.0
+30053,Lincoln County,Montana,Asian,0.0022753679318357864
+30055,McCone County,Montana,Asian,0.026402640264026403
+30057,Madison County,Montana,Asian,0.008022284122562675
+30059,Meagher County,Montana,Asian,0.003031834259727135
+30061,Mineral County,Montana,Asian,0.0037531276063386154
+30063,Missoula County,Montana,Asian,0.01592290139503005
+30065,Musselshell County,Montana,Asian,0.0
+30067,Park County,Montana,Asian,0.0030313429421185084
+30069,Petroleum County,Montana,Asian,0.007481296758104738
+30071,Phillips County,Montana,Asian,0.0
+30073,Pondera County,Montana,Asian,0.0026613439787092482
+30075,Powder River County,Montana,Asian,0.01532349602724177
+30077,Powell County,Montana,Asian,0.018921610470906246
+30079,Prairie County,Montana,Asian,0.03916866506794564
+30081,Ravalli County,Montana,Asian,0.005435850415875303
+30083,Richland County,Montana,Asian,0.0027363403654338423
+30085,Roosevelt County,Montana,Asian,0.007969995311767463
+30087,Rosebud County,Montana,Asian,0.005099562894609034
+30089,Sanders County,Montana,Asian,0.0037105751391465678
+30091,Sheridan County,Montana,Asian,0.004351373402230079
+30093,Silver Bow County,Montana,Asian,0.003203236955238978
+30095,Stillwater County,Montana,Asian,0.003645603181617322
+30097,Sweet Grass County,Montana,Asian,0.0
+30099,Teton County,Montana,Asian,0.0
+30101,Toole County,Montana,Asian,0.007159904534606206
+30103,Treasure County,Montana,Asian,0.013140604467805518
+30105,Valley County,Montana,Asian,0.0005305039787798408
+30107,Wheatland County,Montana,Asian,0.0
+30109,Wibaux County,Montana,Asian,0.0008710801393728223
+30111,Yellowstone County,Montana,Asian,0.00773275965100992
+32001,Churchill County,Nevada,Asian,0.02119934410869056
+32003,Clark County,Nevada,Asian,0.10246433373267695
+32005,Douglas County,Nevada,Asian,0.026378365307109464
+32007,Elko County,Nevada,Asian,0.0136299487484216
+32009,Esmeralda County,Nevada,Asian,0.013513513513513514
+32011,Eureka County,Nevada,Asian,0.03313253012048193
+32013,Humboldt County,Nevada,Asian,0.013468986646626973
+32015,Lander County,Nevada,Asian,0.002959094865100087
+32017,Lincoln County,Nevada,Asian,0.0
+32019,Lyon County,Nevada,Asian,0.013689592610918688
+32021,Mineral County,Nevada,Asian,0.0006583278472679394
+32023,Nye County,Nevada,Asian,0.019621478376905293
+32027,Pershing County,Nevada,Asian,0.011529592621060722
+32029,Storey County,Nevada,Asian,0.010147378593863252
+32031,Washoe County,Nevada,Asian,0.054096427191573294
+32033,White Pine County,Nevada,Asian,0.006097560975609756
+32510,Carson City,Nevada,Asian,0.025889246795970117
+49001,Beaver County,Utah,Asian,0.0
+49003,Box Elder County,Utah,Asian,0.007367099204688154
+49005,Cache County,Utah,Asian,0.018433785055936246
+49007,Carbon County,Utah,Asian,0.003081287293358114
+49009,Daggett County,Utah,Asian,0.0
+49011,Davis County,Utah,Asian,0.018836130031466263
+49013,Duchesne County,Utah,Asian,0.005217740317078065
+49015,Emery County,Utah,Asian,0.0
+49017,Garfield County,Utah,Asian,0.0
+49019,Grand County,Utah,Asian,0.011034340517685882
+49021,Iron County,Utah,Asian,0.009933389810800485
+49023,Juab County,Utah,Asian,0.0
+49025,Kane County,Utah,Asian,0.001375687843921961
+49027,Millard County,Utah,Asian,0.017072615524698385
+49029,Morgan County,Utah,Asian,0.0018275725069527215
+49031,Piute County,Utah,Asian,0.0
+49033,Rich County,Utah,Asian,0.0
+49035,Salt Lake County,Utah,Asian,0.04064695460158742
+49037,San Juan County,Utah,Asian,0.004977187888842804
+49039,Sanpete County,Utah,Asian,0.00852476976274436
+49041,Sevier County,Utah,Asian,0.002928525670357829
+49043,Summit County,Utah,Asian,0.017232901730314453
+49045,Tooele County,Utah,Asian,0.007175660160734788
+49047,Uintah County,Utah,Asian,0.007268637884689231
+49049,Utah County,Utah,Asian,0.014342721562500915
+49051,Wasatch County,Utah,Asian,0.014047140303842716
+49053,Washington County,Utah,Asian,0.010493765375842214
+49055,Wayne County,Utah,Asian,0.0
+49057,Weber County,Utah,Asian,0.014373570062701225
+56001,Albany County,Wyoming,Asian,0.03701641343833691
+56003,Big Horn County,Wyoming,Asian,0.007668058277242907
+56005,Campbell County,Wyoming,Asian,0.0016802075800757157
+56007,Carbon County,Wyoming,Asian,0.007010791119664582
+56009,Converse County,Wyoming,Asian,0.0
+56011,Crook County,Wyoming,Asian,0.005450333832947268
+56013,Fremont County,Wyoming,Asian,0.004382853668423186
+56015,Goshen County,Wyoming,Asian,0.00023834114562643998
+56017,Hot Springs County,Wyoming,Asian,0.0023819835426591596
+56019,Johnson County,Wyoming,Asian,0.005231341548477098
+56021,Laramie County,Wyoming,Asian,0.010242298407526251
+56023,Lincoln County,Wyoming,Asian,0.0033237424347653537
+56025,Natrona County,Wyoming,Asian,0.005568445475638051
+56027,Niobrara County,Wyoming,Asian,0.0
+56029,Park County,Wyoming,Asian,0.003719817994619549
+56031,Platte County,Wyoming,Asian,0.0
+56033,Sheridan County,Wyoming,Asian,0.010131391483299034
+56035,Sublette County,Wyoming,Asian,0.0
+56037,Sweetwater County,Wyoming,Asian,0.006293974058297037
+56039,Teton County,Wyoming,Asian,0.014127921911122528
+56041,Uinta County,Wyoming,Asian,0.0022324678476098037
+56043,Washakie County,Wyoming,Asian,0.003243383497664764
+56045,Weston County,Wyoming,Asian,0.007168983174835406
+16001,Ada County,Idaho,NHOPI,0.0017163597427035028
+16003,Adams County,Idaho,NHOPI,0.0
+16005,Bannock County,Idaho,NHOPI,0.0030071107995975448
+16007,Bear Lake County,Idaho,NHOPI,0.0
+16009,Benewah County,Idaho,NHOPI,0.0019166750731362857
+16011,Bingham County,Idaho,NHOPI,0.00044904374094258365
+16013,Blaine County,Idaho,NHOPI,4.068513771919118e-05
+16015,Boise County,Idaho,NHOPI,0.0
+16017,Bonner County,Idaho,NHOPI,0.00044483985765124553
+16019,Bonneville County,Idaho,NHOPI,0.0015347563279183981
+16021,Boundary County,Idaho,NHOPI,0.0005513981882630957
+16023,Butte County,Idaho,NHOPI,0.003014318010550113
+16025,Camas County,Idaho,NHOPI,0.0
+16027,Canyon County,Idaho,NHOPI,0.0017078855634165963
+16029,Caribou County,Idaho,NHOPI,0.0
+16031,Cassia County,Idaho,NHOPI,0.00015895092390224517
+16033,Clark County,Idaho,NHOPI,0.0
+16035,Clearwater County,Idaho,NHOPI,0.0001120950566080036
+16037,Custer County,Idaho,NHOPI,0.0
+16039,Elmore County,Idaho,NHOPI,0.0035460992907801418
+16041,Franklin County,Idaho,NHOPI,0.0011552837240910636
+16043,Fremont County,Idaho,NHOPI,0.00080286110502883
+16045,Gem County,Idaho,NHOPI,0.0
+16047,Gooding County,Idaho,NHOPI,0.0
+16049,Idaho County,Idaho,NHOPI,0.0
+16051,Jefferson County,Idaho,NHOPI,0.00015511571632437798
+16053,Jerome County,Idaho,NHOPI,0.0010085525254155236
+16055,Kootenai County,Idaho,NHOPI,0.0002925687536571094
+16057,Latah County,Idaho,NHOPI,0.0021332010417958575
+16059,Lemhi County,Idaho,NHOPI,0.0033063923585598823
+16061,Lewis County,Idaho,NHOPI,0.0
+16063,Lincoln County,Idaho,NHOPI,0.0
+16065,Madison County,Idaho,NHOPI,0.003471574153570495
+16067,Minidoka County,Idaho,NHOPI,0.0
+16069,Nez Perce County,Idaho,NHOPI,0.0021658780045671774
+16071,Oneida County,Idaho,NHOPI,0.0
+16073,Owyhee County,Idaho,NHOPI,0.0
+16075,Payette County,Idaho,NHOPI,0.00015273004963726612
+16077,Power County,Idaho,NHOPI,0.0
+16079,Shoshone County,Idaho,NHOPI,0.0022827687776141386
+16081,Teton County,Idaho,NHOPI,0.0
+16083,Twin Falls County,Idaho,NHOPI,0.00287665136071037
+16085,Valley County,Idaho,NHOPI,0.0005767963085036256
+16087,Washington County,Idaho,NHOPI,0.002300754647524388
+30001,Beaverhead County,Montana,NHOPI,0.00010427528675703858
+30003,Big Horn County,Montana,NHOPI,0.0
+30005,Blaine County,Montana,NHOPI,0.0
+30007,Broadwater County,Montana,NHOPI,0.0
+30009,Carbon County,Montana,NHOPI,0.0009193711501333088
+30011,Carter County,Montana,NHOPI,0.0
+30013,Cascade County,Montana,NHOPI,0.00011820191250694436
+30015,Chouteau County,Montana,NHOPI,0.0
+30017,Custer County,Montana,NHOPI,0.0010051934997487016
+30019,Daniels County,Montana,NHOPI,0.0
+30021,Dawson County,Montana,NHOPI,0.0032679738562091504
+30023,Deer Lodge County,Montana,NHOPI,0.0008410428931875525
+30025,Fallon County,Montana,NHOPI,0.0
+30027,Fergus County,Montana,NHOPI,0.0
+30029,Flathead County,Montana,NHOPI,0.0
+30031,Gallatin County,Montana,NHOPI,1.6367415748727435e-05
+30033,Garfield County,Montana,NHOPI,0.0
+30035,Glacier County,Montana,NHOPI,0.001968934587617589
+30037,Golden Valley County,Montana,NHOPI,0.0011904761904761906
+30039,Granite County,Montana,NHOPI,0.0002924831822170225
+30041,Hill County,Montana,NHOPI,0.00036900369003690036
+30043,Jefferson County,Montana,NHOPI,0.0
+30045,Judith Basin County,Montana,NHOPI,0.0
+30047,Lake County,Montana,NHOPI,0.0008418295762791133
+30049,Lewis And Clark County,Montana,NHOPI,0.0
+30051,Liberty County,Montana,NHOPI,0.0
+30053,Lincoln County,Montana,NHOPI,0.0014039504260263361
+30055,McCone County,Montana,NHOPI,0.0
+30057,Madison County,Montana,NHOPI,0.0
+30059,Meagher County,Montana,NHOPI,0.0
+30061,Mineral County,Montana,NHOPI,0.0
+30063,Missoula County,Montana,NHOPI,0.0006937537090748
+30065,Musselshell County,Montana,NHOPI,0.0
+30067,Park County,Montana,NHOPI,0.0
+30069,Petroleum County,Montana,NHOPI,0.0
+30071,Phillips County,Montana,NHOPI,0.004024621212121212
+30073,Pondera County,Montana,NHOPI,0.0
+30075,Powder River County,Montana,NHOPI,0.0
+30077,Powell County,Montana,NHOPI,0.0
+30079,Prairie County,Montana,NHOPI,0.0
+30081,Ravalli County,Montana,NHOPI,0.00015281507193223742
+30083,Richland County,Montana,NHOPI,0.008650366316532793
+30085,Roosevelt County,Montana,NHOPI,0.00018752930145335208
+30087,Rosebud County,Montana,NHOPI,0.00012141816415735794
+30089,Sanders County,Montana,NHOPI,0.0012368583797155227
+30091,Sheridan County,Montana,NHOPI,0.003263530051672559
+30093,Silver Bow County,Montana,NHOPI,0.00022478855826238444
+30095,Stillwater County,Montana,NHOPI,0.0
+30097,Sweet Grass County,Montana,NHOPI,0.0
+30099,Teton County,Montana,NHOPI,0.0
+30101,Toole County,Montana,NHOPI,0.0
+30103,Treasure County,Montana,NHOPI,0.0
+30105,Valley County,Montana,NHOPI,0.0
+30107,Wheatland County,Montana,NHOPI,0.0
+30109,Wibaux County,Montana,NHOPI,0.0
+30111,Yellowstone County,Montana,NHOPI,0.00044221345763117005
+32001,Churchill County,Nevada,NHOPI,0.002459592410400562
+32003,Clark County,Nevada,NHOPI,0.007441044501526748
+32005,Douglas County,Nevada,NHOPI,0.0010881831371916814
+32007,Elko County,Nevada,NHOPI,0.0014855529971031717
+32009,Esmeralda County,Nevada,NHOPI,0.0
+32011,Eureka County,Nevada,NHOPI,0.0
+32013,Humboldt County,Nevada,NHOPI,0.0011561361928435169
+32015,Lander County,Nevada,NHOPI,0.0
+32017,Lincoln County,Nevada,NHOPI,0.0004492362982929021
+32019,Lyon County,Nevada,NHOPI,0.0010885700148441366
+32021,Mineral County,Nevada,NHOPI,0.0
+32023,Nye County,Nevada,NHOPI,0.0049805476722987576
+32027,Pershing County,Nevada,NHOPI,0.0007686395080707148
+32029,Storey County,Nevada,NHOPI,0.0
+32031,Washoe County,Nevada,NHOPI,0.0064318685564389855
+32033,White Pine County,Nevada,NHOPI,0.0
+32510,Carson City,Nevada,NHOPI,0.00044548009046672607
+49001,Beaver County,Utah,NHOPI,0.0013943112102621305
+49003,Box Elder County,Utah,NHOPI,0.002076182503139389
+49005,Cache County,Utah,NHOPI,0.0038020593880216886
+49007,Carbon County,Utah,NHOPI,0.0034236525481756825
+49009,Daggett County,Utah,NHOPI,0.0
+49011,Davis County,Utah,NHOPI,0.008090156022489924
+49013,Duchesne County,Utah,NHOPI,0.004716034517359021
+49015,Emery County,Utah,NHOPI,0.005417335473515248
+49017,Garfield County,Utah,NHOPI,0.004835589941972921
+49019,Grand County,Utah,NHOPI,0.014231205527482726
+49021,Iron County,Utah,NHOPI,0.003189315792096477
+49023,Juab County,Utah,NHOPI,8.147967082212988e-05
+49025,Kane County,Utah,NHOPI,0.0008754377188594297
+49027,Millard County,Utah,NHOPI,0.0014416875331967525
+49029,Morgan County,Utah,NHOPI,0.0038140643623361145
+49031,Piute County,Utah,NHOPI,0.0
+49033,Rich County,Utah,NHOPI,0.0
+49035,Salt Lake County,Utah,NHOPI,0.015048675221935884
+49037,San Juan County,Utah,NHOPI,0.0040785289644684085
+49039,Sanpete County,Utah,NHOPI,0.004690335170666575
+49041,Sevier County,Utah,NHOPI,0.0018760867575729843
+49043,Summit County,Utah,NHOPI,0.0014985131939403873
+49045,Tooele County,Utah,NHOPI,0.008584698883206347
+49047,Uintah County,Utah,NHOPI,0.0011520105326677272
+49049,Utah County,Utah,NHOPI,0.00788447416847322
+49051,Wasatch County,Utah,NHOPI,0.0011729222520107238
+49053,Washington County,Utah,NHOPI,0.006611282904960832
+49055,Wayne County,Utah,NHOPI,0.0
+49057,Weber County,Utah,NHOPI,0.002152654376876059
+56001,Albany County,Wyoming,NHOPI,0.001193222496221462
+56003,Big Horn County,Wyoming,NHOPI,0.0032376246059470054
+56005,Campbell County,Wyoming,NHOPI,0.00023395295418775789
+56007,Carbon County,Wyoming,NHOPI,0.0
+56009,Converse County,Wyoming,NHOPI,0.0
+56011,Crook County,Wyoming,NHOPI,0.0
+56013,Fremont County,Wyoming,NHOPI,0.000861370085123632
+56015,Goshen County,Wyoming,NHOPI,0.004210693572733773
+56017,Hot Springs County,Wyoming,NHOPI,0.0
+56019,Johnson County,Wyoming,NHOPI,0.0
+56021,Laramie County,Wyoming,NHOPI,0.001112645413814685
+56023,Lincoln County,Wyoming,NHOPI,0.0
+56025,Natrona County,Wyoming,NHOPI,0.0
+56027,Niobrara County,Wyoming,NHOPI,0.007039337474120083
+56029,Park County,Wyoming,NHOPI,0.0
+56031,Platte County,Wyoming,NHOPI,0.0033697420404369045
+56033,Sheridan County,Wyoming,NHOPI,0.0
+56035,Sublette County,Wyoming,NHOPI,0.0
+56037,Sweetwater County,Wyoming,NHOPI,2.3931460297707365e-05
+56039,Teton County,Wyoming,NHOPI,0.0
+56041,Uinta County,Wyoming,NHOPI,0.0
+56043,Washakie County,Wyoming,NHOPI,0.0
+56045,Weston County,Wyoming,NHOPI,0.0057059253840526705
+16001,Ada County,Idaho,Hispanic,0.09505129396203538
+16003,Adams County,Idaho,Hispanic,0.045662100456621
+16005,Bannock County,Idaho,Hispanic,0.09587709282476231
+16007,Bear Lake County,Idaho,Hispanic,0.03724053724053724
+16009,Benewah County,Idaho,Hispanic,0.03581156057702008
+16011,Bingham County,Idaho,Hispanic,0.175923091053824
+16013,Blaine County,Idaho,Hispanic,0.21241710403189715
+16015,Boise County,Idaho,Hispanic,0.04760720944686141
+16017,Bonner County,Idaho,Hispanic,0.036476868327402136
+16019,Bonneville County,Idaho,Hispanic,0.14160685052260422
+16021,Boundary County,Idaho,Hispanic,0.05561244584482079
+16023,Butte County,Idaho,Hispanic,0.07761868877166542
+16025,Camas County,Idaho,Hispanic,0.141991341991342
+16027,Canyon County,Idaho,Hispanic,0.2576597017388255
+16029,Caribou County,Idaho,Hispanic,0.056055071649339705
+16031,Cassia County,Idaho,Hispanic,0.2943771110669581
+16033,Clark County,Idaho,Hispanic,0.30670103092783507
+16035,Clearwater County,Idaho,Hispanic,0.04248402645443336
+16037,Custer County,Idaho,Hispanic,0.029698481070052143
+16039,Elmore County,Idaho,Hispanic,0.17981821937616194
+16041,Franklin County,Idaho,Hispanic,0.07291879034998301
+16043,Fremont County,Idaho,Hispanic,0.12086708999343114
+16045,Gem County,Idaho,Hispanic,0.09328095094187569
+16047,Gooding County,Idaho,Hispanic,0.30978398983481575
+16049,Idaho County,Idaho,Hispanic,0.037908878504672894
+16051,Jefferson County,Idaho,Hispanic,0.10811565427809146
+16053,Jerome County,Idaho,Hispanic,0.38454090689043086
+16055,Kootenai County,Idaho,Hispanic,0.05436715128055093
+16057,Latah County,Idaho,Hispanic,0.05102319236016371
+16059,Lemhi County,Idaho,Hispanic,0.018123928483957875
+16061,Lewis County,Idaho,Hispanic,0.040559057275966016
+16063,Lincoln County,Idaho,Hispanic,0.32012888551933283
+16065,Madison County,Idaho,Hispanic,0.0971107544141252
+16067,Minidoka County,Idaho,Hispanic,0.36684609068515645
+16069,Nez Perce County,Idaho,Hispanic,0.04268192198130753
+16071,Oneida County,Idaho,Hispanic,0.043580431531723994
+16073,Owyhee County,Idaho,Hispanic,0.2482090524259199
+16075,Payette County,Idaho,Hispanic,0.17521954944635357
+16077,Power County,Idaho,Hispanic,0.3379895235719631
+16079,Shoshone County,Idaho,Hispanic,0.03954344624447717
+16081,Teton County,Idaho,Hispanic,0.17097760515659863
+16083,Twin Falls County,Idaho,Hispanic,0.17531290368102823
+16085,Valley County,Idaho,Hispanic,0.051005273566249176
+16087,Washington County,Idaho,Hispanic,0.1602245536535984
+30001,Beaverhead County,Montana,Hispanic,0.04921793534932221
+30003,Big Horn County,Montana,Hispanic,0.04566844094731158
+30005,Blaine County,Montana,Hispanic,0.027440331570673146
+30007,Broadwater County,Montana,Hispanic,0.017920656634746922
+30009,Carbon County,Montana,Hispanic,0.028592442769145906
+30011,Carter County,Montana,Hispanic,0.02351212343864805
+30013,Cascade County,Montana,Hispanic,0.05062587912672427
+30015,Chouteau County,Montana,Hispanic,0.030230978260869564
+30017,Custer County,Montana,Hispanic,0.0330876193667281
+30019,Daniels County,Montana,Hispanic,0.015748031496062992
+30021,Dawson County,Montana,Hispanic,0.03380662609871535
+30023,Deer Lodge County,Montana,Hispanic,0.0336417157275021
+30025,Fallon County,Montana,Hispanic,0.0056798012069577564
+30027,Fergus County,Montana,Hispanic,0.022105172264916675
+30029,Flathead County,Montana,Hispanic,0.03504080409424132
+30031,Gallatin County,Montana,Hispanic,0.05132821578800923
+30033,Garfield County,Montana,Hispanic,0.0
+30035,Glacier County,Montana,Hispanic,0.027565084226646247
+30037,Golden Valley County,Montana,Hispanic,0.06547619047619048
+30039,Granite County,Montana,Hispanic,0.019303890026323486
+30041,Hill County,Montana,Hispanic,0.03388683886838868
+30043,Jefferson County,Montana,Hispanic,0.027117830573554116
+30045,Judith Basin County,Montana,Hispanic,0.05893813930832927
+30047,Lake County,Montana,Hispanic,0.04171733233560939
+30049,Lewis And Clark County,Montana,Hispanic,0.03899145770184624
+30051,Liberty County,Montana,Hispanic,0.0
+30053,Lincoln County,Montana,Hispanic,0.029725019364833464
+30055,McCone County,Montana,Hispanic,0.0
+30057,Madison County,Montana,Hispanic,0.03532033426183844
+30059,Meagher County,Montana,Hispanic,0.03183425972713492
+30061,Mineral County,Montana,Hispanic,0.034820683903252714
+30063,Missoula County,Montana,Hispanic,0.049331739650114094
+30065,Musselshell County,Montana,Hispanic,0.03689818468823994
+30067,Park County,Montana,Hispanic,0.03357355296270876
+30069,Petroleum County,Montana,Hispanic,0.0
+30071,Phillips County,Montana,Hispanic,0.013731060606060606
+30073,Pondera County,Montana,Hispanic,0.022787757817697936
+30075,Powder River County,Montana,Hispanic,0.0170261066969353
+30077,Powell County,Montana,Hispanic,0.022762839664248115
+30079,Prairie County,Montana,Hispanic,0.007993605115907274
+30081,Ravalli County,Montana,Hispanic,0.039731918702381734
+30083,Richland County,Montana,Hispanic,0.0548150763527231
+30085,Roosevelt County,Montana,Hispanic,0.027097984060009378
+30087,Rosebud County,Montana,Hispanic,0.034604176784847014
+30089,Sanders County,Montana,Hispanic,0.03339517625231911
+30091,Sheridan County,Montana,Hispanic,0.04514549904813707
+30093,Silver Bow County,Montana,Hispanic,0.046053555874006016
+30095,Stillwater County,Montana,Hispanic,0.033694211224038886
+30097,Sweet Grass County,Montana,Hispanic,0.017775383786695395
+30099,Teton County,Montana,Hispanic,0.018756954379271974
+30101,Toole County,Montana,Hispanic,0.04315831344470963
+30103,Treasure County,Montana,Hispanic,0.056504599211563734
+30105,Valley County,Montana,Hispanic,0.02559681697612732
+30107,Wheatland County,Montana,Hispanic,0.026842362127867253
+30109,Wibaux County,Montana,Hispanic,0.06010452961672474
+30111,Yellowstone County,Montana,Hispanic,0.06404326520855742
+32001,Churchill County,Nevada,Hispanic,0.14820020301397674
+32003,Clark County,Nevada,Hispanic,0.3144774266227912
+32005,Douglas County,Nevada,Hispanic,0.1275390939867806
+32007,Elko County,Nevada,Hispanic,0.2566478496620367
+32009,Esmeralda County,Nevada,Hispanic,0.26403326403326405
+32011,Eureka County,Nevada,Hispanic,0.029518072289156625
+32013,Humboldt County,Nevada,Hispanic,0.26880166483611767
+32015,Lander County,Nevada,Hispanic,0.22036553524804178
+32017,Lincoln County,Nevada,Hispanic,0.05278526504941599
+32019,Lyon County,Nevada,Hispanic,0.18688767936665018
+32021,Mineral County,Nevada,Hispanic,0.18191792846170726
+32023,Nye County,Nevada,Hispanic,0.16409494991260548
+32027,Pershing County,Nevada,Hispanic,0.23274404304381247
+32029,Storey County,Nevada,Hispanic,0.07030683740033825
+32031,Washoe County,Nevada,Hispanic,0.2563556133965065
+32033,White Pine County,Nevada,Hispanic,0.16384372177055104
+32510,Carson City,Nevada,Hispanic,0.2588067987115345
+49001,Beaver County,Utah,Hispanic,0.1473786949247072
+49003,Box Elder County,Utah,Hispanic,0.09927166178317287
+49005,Cache County,Utah,Hispanic,0.11534616254716086
+49007,Carbon County,Utah,Hispanic,0.13210407903746454
+49009,Daggett County,Utah,Hispanic,0.029451137884872823
+49011,Davis County,Utah,Hispanic,0.11256687262435172
+49013,Duchesne County,Utah,Hispanic,0.07104154124021674
+49015,Emery County,Utah,Hispanic,0.07323434991974317
+49017,Garfield County,Utah,Hispanic,0.06982591876208898
+49019,Grand County,Utah,Hispanic,0.12498710941528307
+49021,Iron County,Utah,Hispanic,0.10082888988555007
+49023,Juab County,Utah,Hispanic,0.05222846899698525
+49025,Kane County,Utah,Hispanic,0.048024012006003
+49027,Millard County,Utah,Hispanic,0.1331664010926474
+49029,Morgan County,Utah,Hispanic,0.028843861740166864
+49031,Piute County,Utah,Hispanic,0.04398826979472141
+49033,Rich County,Utah,Hispanic,0.0695517774343122
+49035,Salt Lake County,Utah,Hispanic,0.19976044345815652
+49037,San Juan County,Utah,Hispanic,0.05557859809207798
+49039,Sanpete County,Utah,Hispanic,0.10465952274983738
+49041,Sevier County,Utah,Hispanic,0.05211860528964949
+49043,Summit County,Utah,Hispanic,0.11149874733662694
+49045,Tooele County,Utah,Hispanic,0.14249556413735517
+49047,Uintah County,Utah,Hispanic,0.08417905535136322
+49049,Utah County,Utah,Hispanic,0.13856634221836045
+49051,Wasatch County,Utah,Hispanic,0.14371090259159963
+49053,Washington County,Utah,Hispanic,0.1174543136645472
+49055,Wayne County,Utah,Hispanic,0.03832616347281971
+49057,Weber County,Utah,Hispanic,0.18917060819060572
+56001,Albany County,Wyoming,Hispanic,0.10529525627767614
+56003,Big Horn County,Wyoming,Hispanic,0.09559512652296158
+56005,Campbell County,Wyoming,Hispanic,0.09375132927814879
+56007,Carbon County,Wyoming,Hispanic,0.18008110523060003
+56009,Converse County,Wyoming,Hispanic,0.08074714732175303
+56011,Crook County,Wyoming,Hispanic,0.019757460144433848
+56013,Fremont County,Wyoming,Hispanic,0.06736420753952169
+56015,Goshen County,Wyoming,Hispanic,0.10105664574561055
+56017,Hot Springs County,Wyoming,Hispanic,0.03919445647466436
+56019,Johnson County,Wyoming,Hispanic,0.042315740525459195
+56021,Laramie County,Wyoming,Hispanic,0.15651543298794965
+56023,Lincoln County,Wyoming,Hispanic,0.052286933227502726
+56025,Natrona County,Wyoming,Hispanic,0.09256913526055058
+56027,Niobrara County,Wyoming,Hispanic,0.05134575569358178
+56029,Park County,Wyoming,Hispanic,0.059184961307250324
+56031,Platte County,Wyoming,Hispanic,0.08505693702068325
+56033,Sheridan County,Wyoming,Hispanic,0.048219091340826345
+56035,Sublette County,Wyoming,Hispanic,0.07279127867363161
+56037,Sweetwater County,Wyoming,Hispanic,0.1657014311013258
+56039,Teton County,Wyoming,Hispanic,0.14748694237520335
+56041,Uinta County,Wyoming,Hispanic,0.09910215966998301
+56043,Washakie County,Wyoming,Hispanic,0.14102231447846394
+56045,Weston County,Wyoming,Hispanic,0.03482077542062911
+16001,Ada County,Idaho,Other_Races,0.04646571610779999
+16003,Adams County,Idaho,Other_Races,0.05348988910632746
+16005,Bannock County,Idaho,Other_Races,0.04485795358196638
+16007,Bear Lake County,Idaho,Other_Races,0.01862026862026862
+16009,Benewah County,Idaho,Other_Races,0.038131746191869265
+16011,Bingham County,Idaho,Other_Races,0.027146735247892555
+16013,Blaine County,Idaho,Other_Races,0.04145815533585581
+16015,Boise County,Idaho,Other_Races,0.07433188315724053
+16017,Bonner County,Idaho,Other_Races,0.04806292461986412
+16019,Bonneville County,Idaho,Other_Races,0.03395353230071779
+16021,Boundary County,Idaho,Other_Races,0.035447026388341865
+16023,Butte County,Idaho,Other_Races,0.03579502637528259
+16025,Camas County,Idaho,Other_Races,0.08917748917748917
+16027,Canyon County,Idaho,Other_Races,0.04721437264082837
+16029,Caribou County,Idaho,Other_Races,0.03399831413318348
+16031,Cassia County,Idaho,Other_Races,0.047327637591893505
+16033,Clark County,Idaho,Other_Races,0.09922680412371133
+16035,Clearwater County,Idaho,Other_Races,0.048537159511265554
+16037,Custer County,Idaho,Other_Races,0.042847426887327136
+16039,Elmore County,Idaho,Other_Races,0.05081594711836397
+16041,Franklin County,Idaho,Other_Races,0.026639483520217465
+16043,Fremont County,Idaho,Other_Races,0.031457557842493246
+16045,Gem County,Idaho,Other_Races,0.058577616601188674
+16047,Gooding County,Idaho,Other_Races,0.026048284625158832
+16049,Idaho County,Idaho,Other_Races,0.034813084112149534
+16051,Jefferson County,Idaho,Other_Races,0.02416702860333809
+16053,Jerome County,Idaho,Other_Races,0.03598515410682589
+16055,Kootenai County,Idaho,Other_Races,0.06464081559166404
+16057,Latah County,Idaho,Other_Races,0.05442143122907107
+16059,Lemhi County,Idaho,Other_Races,0.05302473671320108
+16061,Lewis County,Idaho,Other_Races,0.0967388325568649
+16063,Lincoln County,Idaho,Other_Races,0.030326004548900682
+16065,Madison County,Idaho,Other_Races,0.027828586360073165
+16067,Minidoka County,Idaho,Other_Races,0.02499771918620564
+16069,Nez Perce County,Idaho,Other_Races,0.041834404501259505
+16071,Oneida County,Idaho,Other_Races,0.027771843623157447
+16073,Owyhee County,Idaho,Other_Races,0.030527515467274502
+16075,Payette County,Idaho,Other_Races,0.05200458190148912
+16077,Power County,Idaho,Other_Races,0.034173110501371916
+16079,Shoshone County,Idaho,Other_Races,0.043225331369661266
+16081,Teton County,Idaho,Other_Races,0.024873977357243202
+16083,Twin Falls County,Idaho,Other_Races,0.03819975901260299
+16085,Valley County,Idaho,Other_Races,0.007663150955833883
+16087,Washington County,Idaho,Other_Races,0.047487575924903366
+30001,Beaverhead County,Montana,Other_Races,0.02930135557872784
+30003,Big Horn County,Montana,Other_Races,0.028542775592069736
+30005,Blaine County,Montana,Other_Races,0.03673002715449478
+30007,Broadwater County,Montana,Other_Races,0.06580027359781122
+30009,Carbon County,Montana,Other_Races,0.041831387331065555
+30011,Carter County,Montana,Other_Races,0.048493754592211606
+30013,Cascade County,Montana,Other_Races,0.05742248909587357
+30015,Chouteau County,Montana,Other_Races,0.04398777173913043
+30017,Custer County,Montana,Other_Races,0.05109733623722566
+30019,Daniels County,Montana,Other_Races,0.046587926509186355
+30021,Dawson County,Montana,Other_Races,0.040342573811133646
+30023,Deer Lodge County,Montana,Other_Races,0.03952901597981497
+30025,Fallon County,Montana,Other_Races,0.042243521476748314
+30027,Fergus County,Montana,Other_Races,0.016319834211208015
+30029,Flathead County,Montana,Other_Races,0.03849877818248882
+30031,Gallatin County,Montana,Other_Races,0.04234250454195787
+30033,Garfield County,Montana,Other_Races,0.006396588486140725
+30035,Glacier County,Montana,Other_Races,0.03835776270692044
+30037,Golden Valley County,Montana,Other_Races,0.03214285714285714
+30039,Granite County,Montana,Other_Races,0.019303890026323486
+30041,Hill County,Montana,Other_Races,0.05725707257072571
+30043,Jefferson County,Montana,Other_Races,0.042556595472362214
+30045,Judith Basin County,Montana,Other_Races,0.014612761811982464
+30047,Lake County,Montana,Other_Races,0.10413743647304587
+30049,Lewis And Clark County,Montana,Other_Races,0.04819509506751171
+30051,Liberty County,Montana,Other_Races,0.026422764227642278
+30053,Lincoln County,Montana,Other_Races,0.04473276529821844
+30055,McCone County,Montana,Other_Races,0.0242024202420242
+30057,Madison County,Montana,Other_Races,0.03799442896935933
+30059,Meagher County,Montana,Other_Races,0.005053057099545225
+30061,Mineral County,Montana,Other_Races,0.045037531276063386
+30063,Missoula County,Montana,Other_Races,0.05082790728775734
+30065,Musselshell County,Montana,Other_Races,0.062154696132596686
+30067,Park County,Montana,Other_Races,0.03786318920155571
+30069,Petroleum County,Montana,Other_Races,0.0
+30071,Phillips County,Montana,Other_Races,0.08783143939393939
+30073,Pondera County,Montana,Other_Races,0.024617431803060547
+30075,Powder River County,Montana,Other_Races,0.07888762769580022
+30077,Powell County,Montana,Other_Races,0.030160762555128753
+30079,Prairie County,Montana,Other_Races,0.058353317346123104
+30081,Ravalli County,Montana,Other_Races,0.054685965027179255
+30083,Richland County,Montana,Other_Races,0.05278488833965928
+30085,Roosevelt County,Montana,Other_Races,0.06188466947960619
+30087,Rosebud County,Montana,Other_Races,0.0473530840213696
+30089,Sanders County,Montana,Other_Races,0.04220779220779221
+30091,Sheridan County,Montana,Other_Races,0.03834647810715257
+30093,Silver Bow County,Montana,Other_Races,0.04254123465115626
+30095,Stillwater County,Montana,Other_Races,0.03535130357931949
+30097,Sweet Grass County,Montana,Other_Races,0.04659305144088338
+30099,Teton County,Montana,Other_Races,0.0392624384040693
+30101,Toole County,Montana,Other_Races,0.0441527446300716
+30103,Treasure County,Montana,Other_Races,0.0
+30105,Valley County,Montana,Other_Races,0.04482758620689655
+30107,Wheatland County,Montana,Other_Races,0.008784773060029283
+30109,Wibaux County,Montana,Other_Races,0.025261324041811847
+30111,Yellowstone County,Montana,Other_Races,0.04535675869487271
+32001,Churchill County,Nevada,Other_Races,0.06410556726790037
+32003,Clark County,Nevada,Other_Races,0.06168202134134113
+32005,Douglas County,Nevada,Other_Races,0.05170885055618249
+32007,Elko County,Nevada,Other_Races,0.05442694793136745
+32009,Esmeralda County,Nevada,Other_Races,0.05197505197505198
+32011,Eureka County,Nevada,Other_Races,0.08012048192771085
+32013,Humboldt County,Nevada,Other_Races,0.03370137002138852
+32015,Lander County,Nevada,Other_Races,0.05500435161009574
+32017,Lincoln County,Nevada,Other_Races,0.0220125786163522
+32019,Lyon County,Nevada,Other_Races,0.055352135906317004
+32021,Mineral County,Nevada,Other_Races,0.06451612903225806
+32023,Nye County,Nevada,Other_Races,0.07312947544496025
+32027,Pershing County,Nevada,Other_Races,0.04104534973097617
+32029,Storey County,Nevada,Other_Races,0.05532737376177821
+32031,Washoe County,Nevada,Other_Races,0.05419403379628688
+32033,White Pine County,Nevada,Other_Races,0.011517615176151762
+32510,Carson City,Nevada,Other_Races,0.049396888492906584
+49001,Beaver County,Utah,Other_Races,0.007947573898494143
+49003,Box Elder County,Utah,Other_Races,0.021130179991628296
+49005,Cache County,Utah,Other_Races,0.03571454634352811
+49007,Carbon County,Utah,Other_Races,0.027144673774821482
+49009,Daggett County,Utah,Other_Races,0.03346720214190094
+49011,Davis County,Utah,Other_Races,0.03965730677151785
+49013,Duchesne County,Utah,Other_Races,0.030102347983142687
+49015,Emery County,Utah,Other_Races,0.018459069020866775
+49017,Garfield County,Utah,Other_Races,0.011798839458413927
+49019,Grand County,Utah,Other_Races,0.02320305249046097
+49021,Iron County,Utah,Other_Races,0.029202172721383365
+49023,Juab County,Utah,Other_Races,0.020695836388820988
+49025,Kane County,Utah,Other_Races,0.03939469734867434
+49027,Millard County,Utah,Other_Races,0.013051066089991653
+49029,Morgan County,Utah,Other_Races,0.03528009535160906
+49031,Piute County,Utah,Other_Races,0.0
+49033,Rich County,Utah,Other_Races,0.03168469860896445
+49035,Salt Lake County,Utah,Other_Races,0.04430698689698309
+49037,San Juan County,Utah,Other_Races,0.032973869763583574
+49039,Sanpete County,Utah,Other_Races,0.022356123112739223
+49041,Sevier County,Utah,Other_Races,0.023519721790061315
+49043,Summit County,Utah,Other_Races,0.03299070453534384
+49045,Tooele County,Utah,Other_Races,0.039818390564659224
+49047,Uintah County,Utah,Other_Races,0.04753414888364694
+49049,Utah County,Utah,Other_Races,0.041793564279675025
+49051,Wasatch County,Utah,Other_Races,0.022760277033065237
+49053,Washington County,Utah,Other_Races,0.03596959336659169
+49055,Wayne County,Utah,Other_Races,0.05162299569808369
+49057,Weber County,Utah,Other_Races,0.034453740471780694
+56001,Albany County,Wyoming,Other_Races,0.03974756715191048
+56003,Big Horn County,Wyoming,Other_Races,0.028201414330748915
+56005,Campbell County,Wyoming,Other_Races,0.04160108894465949
+56007,Carbon County,Wyoming,Other_Races,0.028593030448828098
+56009,Converse County,Wyoming,Other_Races,0.03379606076022967
+56011,Crook County,Wyoming,Other_Races,0.04060498705545715
+56013,Fremont County,Wyoming,Other_Races,0.047198013781921365
+56015,Goshen County,Wyoming,Other_Races,0.029157066814967825
+56017,Hot Springs County,Wyoming,Other_Races,0.058899956691208316
+56019,Johnson County,Wyoming,Other_Races,0.03406184608230644
+56021,Laramie County,Wyoming,Other_Races,0.04635360268624393
+56023,Lincoln County,Wyoming,Other_Races,0.030161722393094552
+56025,Natrona County,Wyoming,Other_Races,0.04109863924249075
+56027,Niobrara County,Wyoming,Other_Races,0.01780538302277433
+56029,Park County,Wyoming,Other_Races,0.04885582384004783
+56031,Platte County,Wyoming,Other_Races,0.04810597257727167
+56033,Sheridan County,Wyoming,Other_Races,0.029001108120943486
+56035,Sublette County,Wyoming,Other_Races,0.02702702702702703
+56037,Sweetwater County,Wyoming,Other_Races,0.03814674771454554
+56039,Teton County,Wyoming,Other_Races,0.042126894425892625
+56041,Uinta County,Wyoming,Other_Races,0.03023537976219364
+56043,Washakie County,Wyoming,Other_Races,0.03995848469122989
+56045,Weston County,Wyoming,Other_Races,0.08222384784198976
+16001,Ada County,Idaho,Below 9th grade,0.017058808373959768
+16003,Adams County,Idaho,Below 9th grade,0.01113895850737956
+16005,Bannock County,Idaho,Below 9th grade,0.013882274082305834
+16007,Bear Lake County,Idaho,Below 9th grade,0.0030416471689284044
+16009,Benewah County,Idaho,Below 9th grade,0.023357870894677238
+16011,Bingham County,Idaho,Below 9th grade,0.04973238921578405
+16013,Blaine County,Idaho,Below 9th grade,0.05143654114365411
+16015,Boise County,Idaho,Below 9th grade,0.004706620646375902
+16017,Bonner County,Idaho,Below 9th grade,0.021717457494678415
+16019,Bonneville County,Idaho,Below 9th grade,0.030437572180161684
+16021,Boundary County,Idaho,Below 9th grade,0.04332459240679512
+16023,Butte County,Idaho,Below 9th grade,0.03722504230118443
+16025,Camas County,Idaho,Below 9th grade,0.10040705563093623
+16027,Canyon County,Idaho,Below 9th grade,0.05414085202930679
+16029,Caribou County,Idaho,Below 9th grade,0.02576419213973799
+16031,Cassia County,Idaho,Below 9th grade,0.06550043399879815
+16033,Clark County,Idaho,Below 9th grade,0.04219409282700422
+16035,Clearwater County,Idaho,Below 9th grade,0.01382228490832158
+16037,Custer County,Idaho,Below 9th grade,0.00135464643727987
+16039,Elmore County,Idaho,Below 9th grade,0.06409007253437263
+16041,Franklin County,Idaho,Below 9th grade,0.004983576849020274
+16043,Fremont County,Idaho,Below 9th grade,0.038320775026910656
+16045,Gem County,Idaho,Below 9th grade,0.027017342697434426
+16047,Gooding County,Idaho,Below 9th grade,0.06618591326681814
+16049,Idaho County,Idaho,Below 9th grade,0.02195121951219512
+16051,Jefferson County,Idaho,Below 9th grade,0.027602776294714363
+16053,Jerome County,Idaho,Below 9th grade,0.14384191176470587
+16055,Kootenai County,Idaho,Below 9th grade,0.015831917144964246
+16057,Latah County,Idaho,Below 9th grade,0.010605932561480605
+16059,Lemhi County,Idaho,Below 9th grade,0.008949287371561154
+16061,Lewis County,Idaho,Below 9th grade,0.030109145652992095
+16063,Lincoln County,Idaho,Below 9th grade,0.09254498714652956
+16065,Madison County,Idaho,Below 9th grade,0.0098126178068522
+16067,Minidoka County,Idaho,Below 9th grade,0.0895007342143906
+16069,Nez Perce County,Idaho,Below 9th grade,0.023814328960645812
+16071,Oneida County,Idaho,Below 9th grade,0.008242664029014177
+16073,Owyhee County,Idaho,Below 9th grade,0.1364244858220762
+16075,Payette County,Idaho,Below 9th grade,0.0461827926335595
+16077,Power County,Idaho,Below 9th grade,0.05950479233226837
+16079,Shoshone County,Idaho,Below 9th grade,0.02045385163325532
+16081,Teton County,Idaho,Below 9th grade,0.04292452830188679
+16083,Twin Falls County,Idaho,Below 9th grade,0.04712956431186805
+16085,Valley County,Idaho,Below 9th grade,0.019701302828090246
+16087,Washington County,Idaho,Below 9th grade,0.05562844397795854
+30001,Beaverhead County,Montana,Below 9th grade,0.016951672862453533
+30003,Big Horn County,Montana,Below 9th grade,0.02953755680299385
+30005,Blaine County,Montana,Below 9th grade,0.033287101248266296
+30007,Broadwater County,Montana,Below 9th grade,0.041879096868171886
+30009,Carbon County,Montana,Below 9th grade,0.014338630660771897
+30011,Carter County,Montana,Below 9th grade,0.00392156862745098
+30013,Cascade County,Montana,Below 9th grade,0.022078816038547583
+30015,Chouteau County,Montana,Below 9th grade,0.015180722891566266
+30017,Custer County,Montana,Below 9th grade,0.019879097884212972
+30019,Daniels County,Montana,Below 9th grade,0.009674582233948988
+30021,Dawson County,Montana,Below 9th grade,0.021610372979029933
+30023,Deer Lodge County,Montana,Below 9th grade,0.01767343708783962
+30025,Fallon County,Montana,Below 9th grade,0.002717391304347826
+30027,Fergus County,Montana,Below 9th grade,0.016621478250618885
+30029,Flathead County,Montana,Below 9th grade,0.00857496008652212
+30031,Gallatin County,Montana,Below 9th grade,0.010181266974041559
+30033,Garfield County,Montana,Below 9th grade,0.012012012012012012
+30035,Glacier County,Montana,Below 9th grade,0.05000601033778098
+30037,Golden Valley County,Montana,Below 9th grade,0.041791044776119404
+30039,Granite County,Montana,Below 9th grade,0.011292834890965732
+30041,Hill County,Montana,Below 9th grade,0.019355482390501846
+30043,Jefferson County,Montana,Below 9th grade,0.025587979094076656
+30045,Judith Basin County,Montana,Below 9th grade,0.02086137281292059
+30047,Lake County,Montana,Below 9th grade,0.023013941137419783
+30049,Lewis And Clark County,Montana,Below 9th grade,0.009064616937440557
+30051,Liberty County,Montana,Below 9th grade,0.11720510894064613
+30053,Lincoln County,Montana,Below 9th grade,0.02412818096135721
+30055,McCone County,Montana,Below 9th grade,0.00881057268722467
+30057,Madison County,Montana,Below 9th grade,0.009910802775024777
+30059,Meagher County,Montana,Below 9th grade,0.02612671456564337
+30061,Mineral County,Montana,Below 9th grade,0.017812413025327024
+30063,Missoula County,Montana,Below 9th grade,0.0114832187036722
+30065,Musselshell County,Montana,Below 9th grade,0.024921301154249738
+30067,Park County,Montana,Below 9th grade,0.006033848417954378
+30069,Petroleum County,Montana,Below 9th grade,0.0
+30071,Phillips County,Montana,Below 9th grade,0.012203166226912929
+30073,Pondera County,Montana,Below 9th grade,0.07507218479307026
+30075,Powder River County,Montana,Below 9th grade,0.015625
+30077,Powell County,Montana,Below 9th grade,0.01917510853835022
+30079,Prairie County,Montana,Below 9th grade,0.025183630640083946
+30081,Ravalli County,Montana,Below 9th grade,0.016272403509279904
+30083,Richland County,Montana,Below 9th grade,0.006078224101479916
+30085,Roosevelt County,Montana,Below 9th grade,0.0267188009123493
+30087,Rosebud County,Montana,Below 9th grade,0.028665504551617278
+30089,Sanders County,Montana,Below 9th grade,0.029560129136400323
+30091,Sheridan County,Montana,Below 9th grade,0.01776937618147448
+30093,Silver Bow County,Montana,Below 9th grade,0.02194151663043924
+30095,Stillwater County,Montana,Below 9th grade,0.02758411639890876
+30097,Sweet Grass County,Montana,Below 9th grade,0.003409090909090909
+30099,Teton County,Montana,Below 9th grade,0.05068588700302255
+30101,Toole County,Montana,Below 9th grade,0.0440771349862259
+30103,Treasure County,Montana,Below 9th grade,0.004942339373970346
+30105,Valley County,Montana,Below 9th grade,0.011325659116227255
+30107,Wheatland County,Montana,Below 9th grade,0.0313124583610926
+30109,Wibaux County,Montana,Below 9th grade,0.0025575447570332483
+30111,Yellowstone County,Montana,Below 9th grade,0.01435585163595989
+32001,Churchill County,Nevada,Below 9th grade,0.019566933573925794
+32003,Clark County,Nevada,Below 9th grade,0.0572259405844851
+32005,Douglas County,Nevada,Below 9th grade,0.021685396121601305
+32007,Elko County,Nevada,Below 9th grade,0.056830195148432815
+32009,Esmeralda County,Nevada,Below 9th grade,0.017361111111111112
+32011,Eureka County,Nevada,Below 9th grade,0.02333931777378815
+32013,Humboldt County,Nevada,Below 9th grade,0.04931868131868132
+32015,Lander County,Nevada,Below 9th grade,0.01595060457936712
+32017,Lincoln County,Nevada,Below 9th grade,0.014701282452299031
+32019,Lyon County,Nevada,Below 9th grade,0.040290545908523434
+32021,Mineral County,Nevada,Below 9th grade,0.023794996949359364
+32023,Nye County,Nevada,Below 9th grade,0.04555984555984556
+32027,Pershing County,Nevada,Below 9th grade,0.02913800080938891
+32029,Storey County,Nevada,Below 9th grade,0.003882915173237754
+32031,Washoe County,Nevada,Below 9th grade,0.050340936082450334
+32033,White Pine County,Nevada,Below 9th grade,0.01635899744859673
+32510,Carson City,Nevada,Below 9th grade,0.03289146055159003
+49001,Beaver County,Utah,Below 9th grade,0.03494440662582256
+49003,Box Elder County,Utah,Below 9th grade,0.026400156114967523
+49005,Cache County,Utah,Below 9th grade,0.024796656122910078
+49007,Carbon County,Utah,Below 9th grade,0.023978486591469336
+49009,Daggett County,Utah,Below 9th grade,0.021611001964636542
+49011,Davis County,Utah,Below 9th grade,0.013454366400102127
+49013,Duchesne County,Utah,Below 9th grade,0.022102697705689553
+49015,Emery County,Utah,Below 9th grade,0.027459595167111252
+49017,Garfield County,Utah,Below 9th grade,0.015143320713899405
+49019,Grand County,Utah,Below 9th grade,0.01638631090487239
+49021,Iron County,Utah,Below 9th grade,0.021550838251269855
+49023,Juab County,Utah,Below 9th grade,0.010157367668097281
+49025,Kane County,Utah,Below 9th grade,0.0041739130434782605
+49027,Millard County,Utah,Below 9th grade,0.029411764705882353
+49029,Morgan County,Utah,Below 9th grade,0.009931458945307036
+49031,Piute County,Utah,Below 9th grade,0.04819277108433735
+49033,Rich County,Utah,Below 9th grade,0.028089887640449437
+49035,Salt Lake County,Utah,Below 9th grade,0.035807494878648226
+49037,San Juan County,Utah,Below 9th grade,0.06181287861790442
+49039,Sanpete County,Utah,Below 9th grade,0.032187147688838784
+49041,Sevier County,Utah,Below 9th grade,0.028045510544242338
+49043,Summit County,Utah,Below 9th grade,0.02311062053740816
+49045,Tooele County,Utah,Below 9th grade,0.023793801725655924
+49047,Uintah County,Utah,Below 9th grade,0.01546344165435746
+49049,Utah County,Utah,Below 9th grade,0.01903934587906102
+49051,Wasatch County,Utah,Below 9th grade,0.025725802799039812
+49053,Washington County,Utah,Below 9th grade,0.018220853020048524
+49055,Wayne County,Utah,Below 9th grade,0.004972375690607734
+49057,Weber County,Utah,Below 9th grade,0.02852505603348335
+56001,Albany County,Wyoming,Below 9th grade,0.01216089803554724
+56003,Big Horn County,Wyoming,Below 9th grade,0.03659141652195485
+56005,Campbell County,Wyoming,Below 9th grade,0.03126927947527357
+56007,Carbon County,Wyoming,Below 9th grade,0.029793510324483775
+56009,Converse County,Wyoming,Below 9th grade,0.023055058427202863
+56011,Crook County,Wyoming,Below 9th grade,0.006850655705617537
+56013,Fremont County,Wyoming,Below 9th grade,0.011311364150516551
+56015,Goshen County,Wyoming,Below 9th grade,0.023809523809523808
+56017,Hot Springs County,Wyoming,Below 9th grade,0.011117788461538462
+56019,Johnson County,Wyoming,Below 9th grade,0.030298223350253808
+56021,Laramie County,Wyoming,Below 9th grade,0.018791264601320468
+56023,Lincoln County,Wyoming,Below 9th grade,0.009786607799852833
+56025,Natrona County,Wyoming,Below 9th grade,0.01558651619306694
+56027,Niobrara County,Wyoming,Below 9th grade,0.012532637075718016
+56029,Park County,Wyoming,Below 9th grade,0.007520878512434827
+56031,Platte County,Wyoming,Below 9th grade,0.03229246001523229
+56033,Sheridan County,Wyoming,Below 9th grade,0.00987665355738291
+56035,Sublette County,Wyoming,Below 9th grade,0.00632211158526948
+56037,Sweetwater County,Wyoming,Below 9th grade,0.02905149051490515
+56039,Teton County,Wyoming,Below 9th grade,0.023670286828181564
+56041,Uinta County,Wyoming,Below 9th grade,0.02218570254724733
+56043,Washakie County,Wyoming,Below 9th grade,0.03144882748591165
+56045,Weston County,Wyoming,Below 9th grade,0.007905138339920948
+16001,Ada County,Idaho,High School,0.9129053220390414
+16003,Adams County,Idaho,High School,0.874129768866611
+16005,Bannock County,Idaho,High School,0.892557901606957
+16007,Bear Lake County,Idaho,High School,0.8869911090313524
+16009,Benewah County,Idaho,High School,0.8154020385050963
+16011,Bingham County,Idaho,High School,0.8310229048236428
+16013,Blaine County,Idaho,High School,0.8727475592747559
+16015,Boise County,Idaho,High School,0.8881393159711327
+16017,Bonner County,Idaho,High School,0.860965160455905
+16019,Bonneville County,Idaho,High School,0.8706916463492879
+16021,Boundary County,Idaho,High School,0.799566754075932
+16023,Butte County,Idaho,High School,0.8183869148336154
+16025,Camas County,Idaho,High School,0.8371777476255088
+16027,Canyon County,Idaho,High School,0.8185163274195331
+16029,Caribou County,Idaho,High School,0.8323144104803494
+16031,Cassia County,Idaho,High School,0.8125125191961007
+16033,Clark County,Idaho,High School,0.7172995780590717
+16035,Clearwater County,Idaho,High School,0.840620592383639
+16037,Custer County,Idaho,High School,0.8840422649688431
+16039,Elmore County,Idaho,High School,0.8209375338313305
+16041,Franklin County,Idaho,High School,0.9139200362441953
+16043,Fremont County,Idaho,High School,0.8495156081808396
+16045,Gem County,Idaho,High School,0.8234914719793608
+16047,Gooding County,Idaho,High School,0.7688432282920084
+16049,Idaho County,Idaho,High School,0.8822187254130606
+16051,Jefferson County,Idaho,High School,0.8902295782167645
+16053,Jerome County,Idaho,High School,0.6975446428571429
+16055,Kootenai County,Idaho,High School,0.8889841921313367
+16057,Latah County,Idaho,High School,0.9260120003380377
+16059,Lemhi County,Idaho,High School,0.8937686443486907
+16061,Lewis County,Idaho,High School,0.8253669552126458
+16063,Lincoln County,Idaho,High School,0.7766352470722651
+16065,Madison County,Idaho,High School,0.9494955094799867
+16067,Minidoka County,Idaho,High School,0.7536710719530103
+16069,Nez Perce County,Idaho,High School,0.8794820047090481
+16071,Oneida County,Idaho,High School,0.8766897461259479
+16073,Owyhee County,Idaho,High School,0.7014725568942436
+16075,Payette County,Idaho,High School,0.8175494612007526
+16077,Power County,Idaho,High School,0.8476437699680511
+16079,Shoshone County,Idaho,High School,0.8128625216240969
+16081,Teton County,Idaho,High School,0.8998820754716981
+16083,Twin Falls County,Idaho,High School,0.828395310557963
+16085,Valley County,Idaho,High School,0.8896303357695159
+16087,Washington County,Idaho,High School,0.8401994227236945
+30001,Beaverhead County,Montana,High School,0.8883271375464684
+30003,Big Horn County,Montana,High School,0.8282544774124566
+30005,Blaine County,Montana,High School,0.8585298196948682
+30007,Broadwater County,Montana,High School,0.8634377276037873
+30009,Carbon County,Montana,High School,0.9140877046242084
+30011,Carter County,Montana,High School,0.8931372549019608
+30013,Cascade County,Montana,High School,0.8803992428153502
+30015,Chouteau County,Montana,High School,0.8751807228915662
+30017,Custer County,Montana,High School,0.9058358521274122
+30019,Daniels County,Montana,High School,0.9182058047493403
+30021,Dawson County,Montana,High School,0.8925884424523771
+30023,Deer Lodge County,Montana,High School,0.8607227644420997
+30025,Fallon County,Montana,High School,0.966304347826087
+30027,Fergus County,Montana,High School,0.8654956972769068
+30029,Flathead County,Montana,High School,0.9085723850234331
+30031,Gallatin County,Montana,High School,0.9473631023811028
+30033,Garfield County,Montana,High School,0.9174174174174174
+30035,Glacier County,Montana,High School,0.8035821613174661
+30037,Golden Valley County,Montana,High School,0.8686567164179104
+30039,Granite County,Montana,High School,0.8769470404984424
+30041,Hill County,Montana,High School,0.8583258505437493
+30043,Jefferson County,Montana,High School,0.8980836236933798
+30045,Judith Basin County,Montana,High School,0.9098250336473755
+30047,Lake County,Montana,High School,0.8857269307368887
+30049,Lewis And Clark County,Montana,High School,0.9040159940992644
+30051,Liberty County,Montana,High School,0.7588279489105936
+30053,Lincoln County,Montana,High School,0.8525290606346214
+30055,McCone County,Montana,High School,0.9280469897209985
+30057,Madison County,Montana,High School,0.9266600594648167
+30059,Meagher County,Montana,High School,0.9288047028086218
+30061,Mineral County,Montana,High School,0.8591706095185082
+30063,Missoula County,Montana,High School,0.9348433664665711
+30065,Musselshell County,Montana,High School,0.8596537250786989
+30067,Park County,Montana,High School,0.9321559970566593
+30069,Petroleum County,Montana,High School,0.9634146341463414
+30071,Phillips County,Montana,High School,0.8951187335092349
+30073,Pondera County,Montana,High School,0.8346968238691049
+30075,Powder River County,Montana,High School,0.8720238095238095
+30077,Powell County,Montana,High School,0.7351664254703328
+30079,Prairie County,Montana,High School,0.838405036726128
+30081,Ravalli County,Montana,High School,0.8951848741928946
+30083,Richland County,Montana,High School,0.8971987315010571
+30085,Roosevelt County,Montana,High School,0.8724340175953079
+30087,Rosebud County,Montana,High School,0.8535735037768739
+30089,Sanders County,Montana,High School,0.8570419693301049
+30091,Sheridan County,Montana,High School,0.8419659735349716
+30093,Silver Bow County,Montana,High School,0.8688020342041586
+30095,Stillwater County,Montana,High School,0.8895119733252501
+30097,Sweet Grass County,Montana,High School,0.918939393939394
+30099,Teton County,Montana,High School,0.8723552662171588
+30101,Toole County,Montana,High School,0.78099173553719
+30103,Treasure County,Montana,High School,0.9077429983525536
+30105,Valley County,Montana,High School,0.9205347196435202
+30107,Wheatland County,Montana,High School,0.9027315123251166
+30109,Wibaux County,Montana,High School,0.9258312020460358
+30111,Yellowstone County,Montana,High School,0.8967766559106207
+32001,Churchill County,Nevada,High School,0.8483703620164655
+32003,Clark County,Nevada,High School,0.8280929856387284
+32005,Douglas County,Nevada,High School,0.8953443926305328
+32007,Elko County,Nevada,High School,0.8189376839338267
+32009,Esmeralda County,Nevada,High School,0.7326388888888888
+32011,Eureka County,Nevada,High School,0.9021543985637342
+32013,Humboldt County,Nevada,High School,0.806945054945055
+32015,Lander County,Nevada,High School,0.7921276048366349
+32017,Lincoln County,Nevada,High School,0.8439161714106975
+32019,Lyon County,Nevada,High School,0.8135739416638293
+32021,Mineral County,Nevada,High School,0.8160463697376449
+32023,Nye County,Nevada,High School,0.8119449806949807
+32027,Pershing County,Nevada,High School,0.7788344799676244
+32029,Storey County,Nevada,High School,0.8870967741935484
+32031,Washoe County,Nevada,High School,0.8479343965981705
+32033,White Pine County,Nevada,High School,0.8171994597028366
+32510,Carson City,Nevada,High School,0.8382223908558419
+49001,Beaver County,Utah,High School,0.9076469253460404
+49003,Box Elder County,Utah,High School,0.8891026177134733
+49005,Cache County,Utah,High School,0.9184929959331225
+49007,Carbon County,Utah,High School,0.8654664973481736
+49009,Daggett County,Utah,High School,0.8919449901768173
+49011,Davis County,Utah,High School,0.9351400147719916
+49013,Duchesne County,Utah,High School,0.8558702411967393
+49015,Emery County,Utah,High School,0.900674721481249
+49017,Garfield County,Utah,High School,0.9340183883180098
+49019,Grand County,Utah,High School,0.9015371229698376
+49021,Iron County,Utah,High School,0.8928623858598315
+49023,Juab County,Utah,High School,0.9021459227467811
+49025,Kane County,Utah,High School,0.9017391304347826
+49027,Millard County,Utah,High School,0.8637506284565108
+49029,Morgan County,Utah,High School,0.9506224646803749
+49031,Piute County,Utah,High School,0.8450946643717728
+49033,Rich County,Utah,High School,0.949438202247191
+49035,Salt Lake County,Utah,High School,0.8860699231731659
+49037,San Juan County,Utah,High School,0.838231994615212
+49039,Sanpete County,Utah,High School,0.8722096956031568
+49041,Sevier County,Utah,High School,0.8877454888035365
+49043,Summit County,Utah,High School,0.9323238246352317
+49045,Tooele County,Utah,High School,0.887238070082761
+49047,Uintah County,Utah,High School,0.839134047267356
+49049,Utah County,Utah,High School,0.9274979644728845
+49051,Wasatch County,Utah,High School,0.9438833280492775
+49053,Washington County,Utah,High School,0.9160946877793386
+49055,Wayne County,Utah,High School,0.93646408839779
+49057,Weber County,Utah,High School,0.8855965708102709
+56001,Albany County,Wyoming,High School,0.9382132834424696
+56003,Big Horn County,Wyoming,High School,0.8268419746961052
+56005,Campbell County,Wyoming,High School,0.8713186349319739
+56007,Carbon County,Wyoming,High School,0.8344149459193707
+56009,Converse County,Wyoming,High School,0.8726181703337194
+56011,Crook County,Wyoming,High School,0.913681738109219
+56013,Fremont County,Wyoming,High School,0.8704094713822487
+56015,Goshen County,Wyoming,High School,0.8633733867378727
+56017,Hot Springs County,Wyoming,High School,0.9110576923076923
+56019,Johnson County,Wyoming,High School,0.8689720812182741
+56021,Laramie County,Wyoming,High School,0.8937096423129943
+56023,Lincoln County,Wyoming,High School,0.8934510669610007
+56025,Natrona County,Wyoming,High School,0.8784141454986583
+56027,Niobrara County,Wyoming,High School,0.8616187989556136
+56029,Park County,Wyoming,High School,0.9215613897476123
+56031,Platte County,Wyoming,High School,0.8632140137090633
+56033,Sheridan County,Wyoming,High School,0.9103950661422953
+56035,Sublette County,Wyoming,High School,0.929666508613877
+56037,Sweetwater County,Wyoming,High School,0.8472628726287262
+56039,Teton County,Wyoming,High School,0.961292119186856
+56041,Uinta County,Wyoming,High School,0.8714424441622469
+56043,Washakie County,Wyoming,High School,0.8820214506453372
+56045,Weston County,Wyoming,High School,0.8557312252964426
+16001,Ada County,Idaho,College,0.43900881996788055
+16003,Adams County,Idaho,College,0.21303258145363407
+16005,Bannock County,Idaho,College,0.3020585278086469
+16007,Bear Lake County,Idaho,College,0.2033224145999064
+16009,Benewah County,Idaho,College,0.19804643261608154
+16011,Bingham County,Idaho,College,0.2078720787207872
+16013,Blaine County,Idaho,College,0.4552859135285914
+16015,Boise County,Idaho,College,0.2994979604643866
+16017,Bonner County,Idaho,College,0.2893056341443699
+16019,Bonneville County,Idaho,College,0.3221352495829591
+16021,Boundary County,Idaho,College,0.1957587504275453
+16023,Butte County,Idaho,College,0.13818386914833616
+16025,Camas County,Idaho,College,0.27408412483039346
+16027,Canyon County,Idaho,College,0.22830432775758835
+16029,Caribou County,Idaho,College,0.15524017467248907
+16031,Cassia County,Idaho,College,0.20898711357414704
+16033,Clark County,Idaho,College,0.1729957805907173
+16035,Clearwater County,Idaho,College,0.19449929478138223
+16037,Custer County,Idaho,College,0.2519642373340558
+16039,Elmore County,Idaho,College,0.21202771462596082
+16041,Franklin County,Idaho,College,0.2147468569486918
+16043,Fremont County,Idaho,College,0.21754574811625405
+16045,Gem County,Idaho,College,0.22280349720510248
+16047,Gooding County,Idaho,College,0.17050281537093748
+16049,Idaho County,Idaho,College,0.2199842643587726
+16051,Jefferson County,Idaho,College,0.27180993059263214
+16053,Jerome County,Idaho,College,0.13360031512605042
+16055,Kootenai County,Idaho,College,0.28759579311892775
+16057,Latah County,Idaho,College,0.44899856333981236
+16059,Lemhi County,Idaho,College,0.2292011932383162
+16061,Lewis County,Idaho,College,0.19984945427173503
+16063,Lincoln County,Idaho,College,0.11625249928591831
+16065,Madison County,Idaho,College,0.40320434637986474
+16067,Minidoka County,Idaho,College,0.1683553597650514
+16069,Nez Perce County,Idaho,College,0.2675748402287252
+16071,Oneida County,Idaho,College,0.26178700956149026
+16073,Owyhee County,Idaho,College,0.1367895825727151
+16075,Payette County,Idaho,College,0.19630537658931524
+16077,Power County,Idaho,College,0.1667332268370607
+16079,Shoshone County,Idaho,College,0.1152945965197924
+16081,Teton County,Idaho,College,0.48254716981132073
+16083,Twin Falls County,Idaho,College,0.23003795895058618
+16085,Valley County,Idaho,College,0.3535642410761572
+16087,Washington County,Idaho,College,0.19036998163211755
+30001,Beaverhead County,Montana,College,0.355092936802974
+30003,Big Horn County,Montana,College,0.2087677091686715
+30005,Blaine County,Montana,College,0.2584373555247342
+30007,Broadwater County,Montana,College,0.2634741442097597
+30009,Carbon County,Montana,College,0.30278408411996655
+30011,Carter County,Montana,College,0.20294117647058824
+30013,Cascade County,Montana,College,0.2873687833419377
+30015,Chouteau County,Montana,College,0.22626506024096385
+30017,Custer County,Montana,College,0.2979539641943734
+30019,Daniels County,Montana,College,0.2752858399296394
+30021,Dawson County,Montana,College,0.2553225548263166
+30023,Deer Lodge County,Montana,College,0.22276444209970983
+30025,Fallon County,Montana,College,0.16521739130434782
+30027,Fergus County,Montana,College,0.23765177413650831
+30029,Flathead County,Montana,College,0.36034145336560747
+30031,Gallatin County,Montana,College,0.5314217141413503
+30033,Garfield County,Montana,College,0.2132132132132132
+30035,Glacier County,Montana,College,0.18055054694073808
+30037,Golden Valley County,Montana,College,0.18955223880597014
+30039,Granite County,Montana,College,0.31230529595015577
+30041,Hill County,Montana,College,0.25581163324353984
+30043,Jefferson County,Montana,College,0.32676393728222997
+30045,Judith Basin County,Montana,College,0.28263795423956933
+30047,Lake County,Montana,College,0.3051560079663642
+30049,Lewis And Clark County,Montana,College,0.4281138997263146
+30051,Liberty County,Montana,College,0.2734785875281743
+30053,Lincoln County,Montana,College,0.18045868677348414
+30055,McCone County,Montana,College,0.21365638766519823
+30057,Madison County,Montana,College,0.3433385247062155
+30059,Meagher County,Montana,College,0.28543435662965383
+30061,Mineral County,Montana,College,0.2657946006123017
+30063,Missoula County,Montana,College,0.45893989841300703
+30065,Musselshell County,Montana,College,0.2193074501573977
+30067,Park County,Montana,College,0.3808682855040471
+30069,Petroleum County,Montana,College,0.27134146341463417
+30071,Phillips County,Montana,College,0.20613456464379948
+30073,Pondera County,Montana,College,0.1951395572666025
+30075,Powder River County,Montana,College,0.25223214285714285
+30077,Powell County,Montana,College,0.19030390738060782
+30079,Prairie County,Montana,College,0.20041972717733472
+30081,Ravalli County,Montana,College,0.2978255204563222
+30083,Richland County,Montana,College,0.19410676532769555
+30085,Roosevelt County,Montana,College,0.19859889214727924
+30087,Rosebud County,Montana,College,0.18884369552585706
+30089,Sanders County,Montana,College,0.21559725585149314
+30091,Sheridan County,Montana,College,0.24650283553875235
+30093,Silver Bow County,Montana,College,0.27707829225279906
+30095,Stillwater County,Montana,College,0.2976659593816308
+30097,Sweet Grass County,Montana,College,0.23068181818181818
+30099,Teton County,Montana,College,0.25877702859800045
+30101,Toole County,Montana,College,0.21515151515151515
+30103,Treasure County,Montana,College,0.32784184514003295
+30105,Valley County,Montana,College,0.21518752320831785
+30107,Wheatland County,Montana,College,0.17788141239173885
+30109,Wibaux County,Montana,College,0.25831202046035806
+30111,Yellowstone County,Montana,College,0.339223135907845
+32001,Churchill County,Nevada,College,0.18608322995376114
+32003,Clark County,Nevada,College,0.2730858178753908
+32005,Douglas County,Nevada,College,0.3205157607726219
+32007,Elko County,Nevada,College,0.1753764393268379
+32009,Esmeralda County,Nevada,College,0.24074074074074073
+32011,Eureka County,Nevada,College,0.1813285457809695
+32013,Humboldt County,Nevada,College,0.19797802197802197
+32015,Lander County,Nevada,College,0.16568047337278108
+32017,Lincoln County,Nevada,College,0.18986549890522364
+32019,Lyon County,Nevada,College,0.17205765520372263
+32021,Mineral County,Nevada,College,0.11470408785845028
+32023,Nye County,Nevada,College,0.12673745173745174
+32027,Pershing County,Nevada,College,0.09348441926345609
+32029,Storey County,Nevada,College,0.3163082437275986
+32031,Washoe County,Nevada,College,0.3318290047678912
+32033,White Pine County,Nevada,College,0.1415278403121717
+32510,Carson City,Nevada,College,0.2450615380967061
+49001,Beaver County,Utah,College,0.2273655547991831
+49003,Box Elder County,Utah,College,0.26712386050012543
+49005,Cache County,Utah,College,0.4042448034342521
+49007,Carbon County,Utah,College,0.18413386120863523
+49009,Daggett County,Utah,College,0.11591355599214145
+49011,Davis County,Utah,College,0.38689396080862976
+49013,Duchesne County,Utah,College,0.1700142869148668
+49015,Emery County,Utah,College,0.1716616977875412
+49017,Garfield County,Utah,College,0.32017306652244454
+49019,Grand County,Utah,College,0.3473027842227378
+49021,Iron County,Utah,College,0.3030623330103644
+49023,Juab County,Utah,College,0.2022889842632332
+49025,Kane County,Utah,College,0.3213913043478261
+49027,Millard County,Utah,College,0.230517848164907
+49029,Morgan County,Utah,College,0.3884459364946146
+49031,Piute County,Utah,College,0.1901893287435456
+49033,Rich County,Utah,College,0.24469413233458176
+49035,Salt Lake County,Utah,College,0.38630205614732704
+49037,San Juan County,Utah,College,0.20237828135517164
+49039,Sanpete County,Utah,College,0.23179255918827507
+49041,Sevier County,Utah,College,0.23059642003043698
+49043,Summit County,Utah,College,0.5806974578317409
+49045,Tooele County,Utah,College,0.23201708047191408
+49047,Uintah County,Utah,College,0.16834379615952733
+49049,Utah County,Utah,College,0.4383636655542941
+49051,Wasatch County,Utah,College,0.47719552515965397
+49053,Washington County,Utah,College,0.3328757502234708
+49055,Wayne County,Utah,College,0.25193370165745854
+49057,Weber County,Utah,College,0.28049440259686215
+56001,Albany County,Wyoming,College,0.5550982226379794
+56003,Big Horn County,Wyoming,College,0.2088811709253287
+56005,Campbell County,Wyoming,College,0.22213202584667338
+56007,Carbon County,Wyoming,College,0.2279252704031465
+56009,Converse County,Wyoming,College,0.2287609222023371
+56011,Crook County,Wyoming,College,0.23996868271677432
+56013,Fremont County,Wyoming,College,0.2525450569338662
+56015,Goshen County,Wyoming,College,0.24610591900311526
+56017,Hot Springs County,Wyoming,College,0.26382211538461536
+56019,Johnson County,Wyoming,College,0.3031408629441624
+56021,Laramie County,Wyoming,College,0.32040919973880866
+56023,Lincoln County,Wyoming,College,0.24120676968359087
+56025,Natrona County,Wyoming,College,0.2737014299893394
+56027,Niobrara County,Wyoming,College,0.195822454308094
+56029,Park County,Wyoming,College,0.3495593595718175
+56031,Platte County,Wyoming,College,0.19512566641279513
+56033,Sheridan County,Wyoming,College,0.3337504469074008
+56035,Sublette County,Wyoming,College,0.3108898372056267
+56037,Sweetwater County,Wyoming,College,0.20375790424570914
+56039,Teton County,Wyoming,College,0.6121971595655806
+56041,Uinta County,Wyoming,College,0.21319190259206694
+56043,Washakie County,Wyoming,College,0.22032357753135792
+56045,Weston County,Wyoming,College,0.18043478260869567
+16001,Ada County,Idaho,Advanced Degree,0.15355217693754455
+16003,Adams County,Idaho,Advanced Degree,0.0782511835143414
+16005,Bannock County,Idaho,Advanced Degree,0.10664832160307633
+16007,Bear Lake County,Idaho,Advanced Degree,0.06364061768834815
+16009,Benewah County,Idaho,Advanced Degree,0.06724235560588901
+16011,Bingham County,Idaho,Advanced Degree,0.05884112895183006
+16013,Blaine County,Idaho,Advanced Degree,0.12463040446304044
+16015,Boise County,Idaho,Advanced Degree,0.0961719485409476
+16017,Bonner County,Idaho,Advanced Degree,0.10023441920620807
+16019,Bonneville County,Idaho,Advanced Degree,0.10001283202874374
+16021,Boundary County,Idaho,Advanced Degree,0.07741420590582601
+16023,Butte County,Idaho,Advanced Degree,0.03778905809362662
+16025,Camas County,Idaho,Advanced Degree,0.08955223880597014
+16027,Canyon County,Idaho,Advanced Degree,0.06654488008789437
+16029,Caribou County,Idaho,Advanced Degree,0.05786026200873363
+16031,Cassia County,Idaho,Advanced Degree,0.06970688388862924
+16033,Clark County,Idaho,Advanced Degree,0.035864978902953586
+16035,Clearwater County,Idaho,Advanced Degree,0.06191819464033851
+16037,Custer County,Idaho,Advanced Degree,0.03874288810620428
+16039,Elmore County,Idaho,Advanced Degree,0.0540218685720472
+16041,Franklin County,Idaho,Advanced Degree,0.06274776305357345
+16043,Fremont County,Idaho,Advanced Degree,0.048654467168998926
+16045,Gem County,Idaho,Advanced Degree,0.04959151497778415
+16047,Gooding County,Idaho,Advanced Degree,0.05996246172083374
+16049,Idaho County,Idaho,Advanced Degree,0.05759244689221086
+16051,Jefferson County,Idaho,Advanced Degree,0.0783235451147891
+16053,Jerome County,Idaho,Advanced Degree,0.043198529411764705
+16055,Kootenai County,Idaho,Advanced Degree,0.09770898130631353
+16057,Latah County,Idaho,Advanced Degree,0.1775542973041494
+16059,Lemhi County,Idaho,Advanced Degree,0.08717268810076234
+16061,Lewis County,Idaho,Advanced Degree,0.05457282649604817
+16063,Lincoln County,Idaho,Advanced Degree,0.04655812624964296
+16065,Madison County,Idaho,Advanced Degree,0.11930369220534427
+16067,Minidoka County,Idaho,Advanced Degree,0.0709985315712188
+16069,Nez Perce County,Idaho,Advanced Degree,0.08688193743693239
+16071,Oneida County,Idaho,Advanced Degree,0.0840751730959446
+16073,Owyhee County,Idaho,Advanced Degree,0.04356821224291104
+16075,Payette County,Idaho,Advanced Degree,0.058669251382632986
+16077,Power County,Idaho,Advanced Degree,0.046126198083067095
+16079,Shoshone County,Idaho,Advanced Degree,0.04121298463417116
+16081,Teton County,Idaho,Advanced Degree,0.14056603773584905
+16083,Twin Falls County,Idaho,Advanced Degree,0.09081594947764453
+16085,Valley County,Idaho,Advanced Degree,0.09967164495286517
+16087,Washington County,Idaho,Advanced Degree,0.06415638939910785
+30001,Beaverhead County,Montana,Advanced Degree,0.11048327137546468
+30003,Big Horn County,Montana,Advanced Degree,0.08086073242448544
+30005,Blaine County,Montana,Advanced Degree,0.08414239482200647
+30007,Broadwater County,Montana,Advanced Degree,0.04989075018208303
+30009,Carbon County,Montana,Advanced Degree,0.12187836061656111
+30011,Carter County,Montana,Advanced Degree,0.0392156862745098
+30013,Cascade County,Montana,Advanced Degree,0.10464636035105834
+30015,Chouteau County,Montana,Advanced Degree,0.06409638554216868
+30017,Custer County,Montana,Advanced Degree,0.07707509881422925
+30019,Daniels County,Montana,Advanced Degree,0.06508355321020229
+30021,Dawson County,Montana,Advanced Degree,0.09620617896590364
+30023,Deer Lodge County,Montana,Advanced Degree,0.06752835663413348
+30025,Fallon County,Montana,Advanced Degree,0.021195652173913043
+30027,Fergus County,Montana,Advanced Degree,0.050453848874219026
+30029,Flathead County,Montana,Advanced Degree,0.11809239326363496
+30031,Gallatin County,Montana,Advanced Degree,0.1989894524095244
+30033,Garfield County,Montana,Advanced Degree,0.05405405405405406
+30035,Glacier County,Montana,Advanced Degree,0.0752494290179108
+30037,Golden Valley County,Montana,Advanced Degree,0.04626865671641791
+30039,Granite County,Montana,Advanced Degree,0.04789719626168224
+30041,Hill County,Montana,Advanced Degree,0.0710366157836975
+30043,Jefferson County,Montana,Advanced Degree,0.11487369337979095
+30045,Judith Basin County,Montana,Advanced Degree,0.05383580080753701
+30047,Lake County,Montana,Advanced Degree,0.1040938260677141
+30049,Lewis And Clark County,Montana,Advanced Degree,0.14953706399580738
+30051,Liberty County,Montana,Advanced Degree,0.049586776859504134
+30053,Lincoln County,Montana,Advanced Degree,0.05447690857681432
+30055,McCone County,Montana,Advanced Degree,0.05286343612334802
+30057,Madison County,Montana,Advanced Degree,0.09061305394308368
+30059,Meagher County,Montana,Advanced Degree,0.062050947093403
+30061,Mineral County,Montana,Advanced Degree,0.0665182298914556
+30063,Missoula County,Montana,Advanced Degree,0.1737672248280555
+30065,Musselshell County,Montana,Advanced Degree,0.05456453305351522
+30067,Park County,Montana,Advanced Degree,0.11655629139072848
+30069,Petroleum County,Montana,Advanced Degree,0.09451219512195122
+30071,Phillips County,Montana,Advanced Degree,0.04782321899736148
+30073,Pondera County,Montana,Advanced Degree,0.034167468719923
+30075,Powder River County,Montana,Advanced Degree,0.09821428571428571
+30077,Powell County,Montana,Advanced Degree,0.051917510853835024
+30079,Prairie County,Montana,Advanced Degree,0.08184679958027283
+30081,Ravalli County,Montana,Advanced Degree,0.10944783854996092
+30083,Richland County,Montana,Advanced Degree,0.03924418604651163
+30085,Roosevelt County,Montana,Advanced Degree,0.05848810687520365
+30087,Rosebud County,Montana,Advanced Degree,0.06604687197365873
+30089,Sanders County,Montana,Advanced Degree,0.061037126715092815
+30091,Sheridan County,Montana,Advanced Degree,0.07032136105860114
+30093,Silver Bow County,Montana,Advanced Degree,0.09506623467169749
+30095,Stillwater County,Montana,Advanced Degree,0.08608669293725371
+30097,Sweet Grass County,Montana,Advanced Degree,0.06325757575757576
+30099,Teton County,Montana,Advanced Degree,0.07672634271099744
+30101,Toole County,Montana,Advanced Degree,0.08925619834710743
+30103,Treasure County,Montana,Advanced Degree,0.04118616144975288
+30105,Valley County,Montana,Advanced Degree,0.03713330857779428
+30107,Wheatland County,Montana,Advanced Degree,0.03664223850766156
+30109,Wibaux County,Montana,Advanced Degree,0.04859335038363171
+30111,Yellowstone County,Montana,Advanced Degree,0.10670171055827347
+32001,Churchill County,Nevada,Advanced Degree,0.051990526671929625
+32003,Clark County,Nevada,Advanced Degree,0.09332220650316757
+32005,Douglas County,Nevada,Advanced Degree,0.11339601967229825
+32007,Elko County,Nevada,Advanced Degree,0.06494471270607732
+32009,Esmeralda County,Nevada,Advanced Degree,0.07291666666666667
+32011,Eureka County,Nevada,Advanced Degree,0.06463195691202872
+32013,Humboldt County,Nevada,Advanced Degree,0.054857142857142854
+32015,Lander County,Nevada,Advanced Degree,0.09698996655518395
+32017,Lincoln County,Nevada,Advanced Degree,0.07381920550516109
+32019,Lyon County,Nevada,Advanced Degree,0.048144364998297585
+32021,Mineral County,Nevada,Advanced Degree,0.014032946918852958
+32023,Nye County,Nevada,Advanced Degree,0.0402992277992278
+32027,Pershing County,Nevada,Advanced Degree,0.049979765277215704
+32029,Storey County,Nevada,Advanced Degree,0.1627837514934289
+32031,Washoe County,Nevada,Advanced Degree,0.13077230567801962
+32033,White Pine County,Nevada,Advanced Degree,0.030166591625393965
+32510,Carson City,Nevada,Advanced Degree,0.08866703028290925
+49001,Beaver County,Utah,Advanced Degree,0.04901293396868618
+49003,Box Elder County,Utah,Advanced Degree,0.07858715954392127
+49005,Cache County,Utah,Advanced Degree,0.1471418888386805
+49007,Carbon County,Utah,Advanced Degree,0.05796668409651154
+49009,Daggett County,Utah,Advanced Degree,0.03536345776031434
+49011,Davis County,Utah,Advanced Degree,0.13118805110014864
+49013,Duchesne County,Utah,Advanced Degree,0.05092864946634171
+49015,Emery County,Utah,Advanced Degree,0.0640200847324651
+49017,Garfield County,Utah,Advanced Degree,0.09356408869659276
+49019,Grand County,Utah,Advanced Degree,0.12659512761020883
+49021,Iron County,Utah,Advanced Degree,0.0985055345136381
+49023,Juab County,Utah,Advanced Degree,0.05765379113018598
+49025,Kane County,Utah,Advanced Degree,0.09582608695652174
+49027,Millard County,Utah,Advanced Degree,0.048139768728004025
+49029,Morgan County,Utah,Advanced Degree,0.1433766960414044
+49031,Piute County,Utah,Advanced Degree,0.07314974182444062
+49033,Rich County,Utah,Advanced Degree,0.07865168539325842
+49035,Salt Lake County,Utah,Advanced Degree,0.14034077645201143
+49037,San Juan County,Utah,Advanced Degree,0.06921696208211801
+49039,Sanpete County,Utah,Advanced Degree,0.10028184892897407
+49041,Sevier County,Utah,Advanced Degree,0.07217914341618958
+49043,Summit County,Utah,Advanced Degree,0.2221379048670277
+49045,Tooele County,Utah,Advanced Degree,0.07855696425427011
+49047,Uintah County,Utah,Advanced Degree,0.046482644017725255
+49049,Utah County,Utah,Advanced Degree,0.13392048256327335
+49051,Wasatch County,Utah,Advanced Degree,0.16880293491553058
+49053,Washington County,Utah,Advanced Degree,0.12639669263184777
+49055,Wayne County,Utah,Advanced Degree,0.06519337016574586
+49057,Weber County,Utah,Advanced Degree,0.08514116870686016
+56001,Albany County,Wyoming,Advanced Degree,0.2697380729653882
+56003,Big Horn County,Wyoming,Advanced Degree,0.062267427437360454
+56005,Campbell County,Wyoming,Advanced Degree,0.08120920868915804
+56007,Carbon County,Wyoming,Advanced Degree,0.05132743362831858
+56009,Converse County,Wyoming,Advanced Degree,0.09769449415727971
+56011,Crook County,Wyoming,Advanced Degree,0.03914660403210021
+56013,Fremont County,Wyoming,Advanced Degree,0.10112359550561797
+56015,Goshen County,Wyoming,Advanced Degree,0.09991099243435692
+56017,Hot Springs County,Wyoming,Advanced Degree,0.08353365384615384
+56019,Johnson County,Wyoming,Advanced Degree,0.11960659898477158
+56021,Laramie County,Wyoming,Advanced Degree,0.122397155916709
+56023,Lincoln County,Wyoming,Advanced Degree,0.07748344370860927
+56025,Natrona County,Wyoming,Advanced Degree,0.10434510899533139
+56027,Niobrara County,Wyoming,Advanced Degree,0.03289817232375979
+56029,Park County,Wyoming,Advanced Degree,0.12333317953213677
+56031,Platte County,Wyoming,Advanced Degree,0.08423457730388423
+56033,Sheridan County,Wyoming,Advanced Degree,0.122273864855202
+56035,Sublette County,Wyoming,Advanced Degree,0.10305041883989252
+56037,Sweetwater County,Wyoming,Advanced Degree,0.07194218608852755
+56039,Teton County,Wyoming,Advanced Degree,0.20579225842383736
+56041,Uinta County,Wyoming,Advanced Degree,0.05901247478897438
+56043,Washakie County,Wyoming,Advanced Degree,0.07216869660061807
+56045,Weston County,Wyoming,Advanced Degree,0.046245059288537546
+16001,Ada County,Idaho,Urban_Percentage,0.944341743995054
+16003,Adams County,Idaho,Urban_Percentage,0.0
+16005,Bannock County,Idaho,Urban_Percentage,0.829839803259096
+16007,Bear Lake County,Idaho,Urban_Percentage,0.0
+16009,Benewah County,Idaho,Urban_Percentage,0.0
+16011,Bingham County,Idaho,Urban_Percentage,0.40298383063844
+16013,Blaine County,Idaho,Urban_Percentage,0.757292353328939
+16015,Boise County,Idaho,Urban_Percentage,0.0
+16017,Bonner County,Idaho,Urban_Percentage,0.27221396731055
+16019,Bonneville County,Idaho,Urban_Percentage,0.848084927882288
+16021,Boundary County,Idaho,Urban_Percentage,0.0
+16023,Butte County,Idaho,Urban_Percentage,0.0
+16025,Camas County,Idaho,Urban_Percentage,0.0
+16027,Canyon County,Idaho,Urban_Percentage,0.8127301443067
+16029,Caribou County,Idaho,Urban_Percentage,0.0
+16031,Cassia County,Idaho,Urban_Percentage,0.496856621374975
+16033,Clark County,Idaho,Urban_Percentage,0.0
+16035,Clearwater County,Idaho,Urban_Percentage,0.0
+16037,Custer County,Idaho,Urban_Percentage,0.0
+16039,Elmore County,Idaho,Urban_Percentage,0.620909788599735
+16041,Franklin County,Idaho,Urban_Percentage,0.0
+16043,Fremont County,Idaho,Urban_Percentage,0.0
+16045,Gem County,Idaho,Urban_Percentage,0.531977200230089
+16047,Gooding County,Idaho,Urban_Percentage,0.0
+16049,Idaho County,Idaho,Urban_Percentage,0.0
+16051,Jefferson County,Idaho,Urban_Percentage,0.332880126897802
+16053,Jerome County,Idaho,Urban_Percentage,0.511820769897265
+16055,Kootenai County,Idaho,Urban_Percentage,0.764883696502142
+16057,Latah County,Idaho,Urban_Percentage,0.655768403471923
+16059,Lemhi County,Idaho,Urban_Percentage,0.0
+16061,Lewis County,Idaho,Urban_Percentage,0.0
+16063,Lincoln County,Idaho,Urban_Percentage,0.0
+16065,Madison County,Idaho,Urban_Percentage,0.781093493092435
+16067,Minidoka County,Idaho,Urban_Percentage,0.556378105769676
+16069,Nez Perce County,Idaho,Urban_Percentage,0.810905203136137
+16071,Oneida County,Idaho,Urban_Percentage,0.0
+16073,Owyhee County,Idaho,Urban_Percentage,0.0
+16075,Payette County,Idaho,Urban_Percentage,0.587567950839045
+16077,Power County,Idaho,Urban_Percentage,0.0
+16079,Shoshone County,Idaho,Urban_Percentage,0.0
+16081,Teton County,Idaho,Urban_Percentage,0.0
+16083,Twin Falls County,Idaho,Urban_Percentage,0.653088421473469
+16085,Valley County,Idaho,Urban_Percentage,0.314575174527499
+16087,Washington County,Idaho,Urban_Percentage,0.524190476190476
+30001,Beaverhead County,Montana,Urban_Percentage,0.472628321417138
+30003,Big Horn County,Montana,Urban_Percentage,0.0
+30005,Blaine County,Montana,Urban_Percentage,0.0
+30007,Broadwater County,Montana,Urban_Percentage,0.0
+30009,Carbon County,Montana,Urban_Percentage,0.0
+30011,Carter County,Montana,Urban_Percentage,0.0
+30013,Cascade County,Montana,Urban_Percentage,0.794856303456773
+30015,Chouteau County,Montana,Urban_Percentage,0.0
+30017,Custer County,Montana,Urban_Percentage,0.777534338923064
+30019,Daniels County,Montana,Urban_Percentage,0.0
+30021,Dawson County,Montana,Urban_Percentage,0.746644295302013
+30023,Deer Lodge County,Montana,Urban_Percentage,0.710858719881117
+30025,Fallon County,Montana,Urban_Percentage,0.0
+30027,Fergus County,Montana,Urban_Percentage,0.526297396470383
+30029,Flathead County,Montana,Urban_Percentage,0.485046522993187
+30031,Gallatin County,Montana,Urban_Percentage,0.652437794216543
+30033,Garfield County,Montana,Urban_Percentage,0.0
+30035,Glacier County,Montana,Urban_Percentage,0.0
+30037,Golden Valley County,Montana,Urban_Percentage,0.0
+30039,Granite County,Montana,Urban_Percentage,0.0
+30041,Hill County,Montana,Urban_Percentage,0.602489423017965
+30043,Jefferson County,Montana,Urban_Percentage,0.0
+30045,Judith Basin County,Montana,Urban_Percentage,0.0
+30047,Lake County,Montana,Urban_Percentage,0.178711376630051
+30049,Lewis And Clark County,Montana,Urban_Percentage,
+30051,Liberty County,Montana,Urban_Percentage,0.0
+30053,Lincoln County,Montana,Urban_Percentage,0.220612898307669
+30055,McCone County,Montana,Urban_Percentage,0.0
+30057,Madison County,Montana,Urban_Percentage,0.0
+30059,Meagher County,Montana,Urban_Percentage,0.0
+30061,Mineral County,Montana,Urban_Percentage,0.0
+30063,Missoula County,Montana,Urban_Percentage,0.74718033954648
+30065,Musselshell County,Montana,Urban_Percentage,0.0
+30067,Park County,Montana,Urban_Percentage,0.543889244372055
+30069,Petroleum County,Montana,Urban_Percentage,0.0
+30071,Phillips County,Montana,Urban_Percentage,0.0
+30073,Pondera County,Montana,Urban_Percentage,0.0
+30075,Powder River County,Montana,Urban_Percentage,0.0
+30077,Powell County,Montana,Urban_Percentage,0.0
+30079,Prairie County,Montana,Urban_Percentage,0.0
+30081,Ravalli County,Montana,Urban_Percentage,0.155521347398922
+30083,Richland County,Montana,Urban_Percentage,0.567574623618484
+30085,Roosevelt County,Montana,Urban_Percentage,0.0
+30087,Rosebud County,Montana,Urban_Percentage,0.0
+30089,Sanders County,Montana,Urban_Percentage,0.0
+30091,Sheridan County,Montana,Urban_Percentage,0.0
+30093,Silver Bow County,Montana,Urban_Percentage,0.86124156775681
+30095,Stillwater County,Montana,Urban_Percentage,0.0
+30097,Sweet Grass County,Montana,Urban_Percentage,0.0
+30099,Teton County,Montana,Urban_Percentage,0.0
+30101,Toole County,Montana,Urban_Percentage,0.0
+30103,Treasure County,Montana,Urban_Percentage,0.0
+30105,Valley County,Montana,Urban_Percentage,0.0
+30107,Wheatland County,Montana,Urban_Percentage,0.0
+30109,Wibaux County,Montana,Urban_Percentage,0.0
+30111,Yellowstone County,Montana,Urban_Percentage,0.835155495929728
+32001,Churchill County,Nevada,Urban_Percentage,0.656568427653237
+32003,Clark County,Nevada,Urban_Percentage,0.987310750438873
+32005,Douglas County,Nevada,Urban_Percentage,0.702695602974458
+32007,Elko County,Nevada,Urban_Percentage,0.482011843134334
+32009,Esmeralda County,Nevada,Urban_Percentage,0.0
+32011,Eureka County,Nevada,Urban_Percentage,0.0
+32013,Humboldt County,Nevada,Urban_Percentage,0.610124385305178
+32015,Lander County,Nevada,Urban_Percentage,0.0
+32017,Lincoln County,Nevada,Urban_Percentage,0.0
+32019,Lyon County,Nevada,Urban_Percentage,0.553743563771419
+32021,Mineral County,Nevada,Urban_Percentage,0.0
+32023,Nye County,Nevada,Urban_Percentage,0.726832199414627
+32027,Pershing County,Nevada,Urban_Percentage,0.0
+32029,Storey County,Nevada,Urban_Percentage,0.108674463937622
+32031,Washoe County,Nevada,Urban_Percentage,0.958282972792975
+32033,White Pine County,Nevada,Urban_Percentage,0.490638766519824
+32510,Carson City,Nevada,Urban_Percentage,
+49001,Beaver County,Utah,Urban_Percentage,0.0
+49003,Box Elder County,Utah,Urban_Percentage,0.682620608330732
+49005,Cache County,Utah,Urban_Percentage,0.855603286420235
+49007,Carbon County,Utah,Urban_Percentage,0.653831079757006
+49009,Daggett County,Utah,Urban_Percentage,0.0
+49011,Davis County,Utah,Urban_Percentage,0.991634475665809
+49013,Duchesne County,Utah,Urban_Percentage,0.319503980404164
+49015,Emery County,Utah,Urban_Percentage,0.0
+49017,Garfield County,Utah,Urban_Percentage,0.0
+49019,Grand County,Utah,Urban_Percentage,0.820457131037336
+49021,Iron County,Utah,Urban_Percentage,0.713906683656548
+49023,Juab County,Utah,Urban_Percentage,0.537077889020872
+49025,Kane County,Utah,Urban_Percentage,0.0
+49027,Millard County,Utah,Urban_Percentage,0.0
+49029,Morgan County,Utah,Urban_Percentage,0.0
+49031,Piute County,Utah,Urban_Percentage,0.0
+49033,Rich County,Utah,Urban_Percentage,0.0
+49035,Salt Lake County,Utah,Urban_Percentage,0.993085776865068
+49037,San Juan County,Utah,Urban_Percentage,0.0
+49039,Sanpete County,Utah,Urban_Percentage,0.177550374512079
+49041,Sevier County,Utah,Urban_Percentage,0.389973050831707
+49043,Summit County,Utah,Urban_Percentage,0.553580281889652
+49045,Tooele County,Utah,Urban_Percentage,0.802525516520399
+49047,Uintah County,Utah,Urban_Percentage,0.55235822571589
+49049,Utah County,Utah,Urban_Percentage,0.957708458763207
+49051,Wasatch County,Utah,Urban_Percentage,0.721398183281591
+49053,Washington County,Utah,Urban_Percentage,0.851341531736919
+49055,Wayne County,Utah,Urban_Percentage,0.0
+49057,Weber County,Utah,Urban_Percentage,0.944085759067664
+56001,Albany County,Wyoming,Urban_Percentage,0.870366373495926
+56003,Big Horn County,Wyoming,Urban_Percentage,0.0
+56005,Campbell County,Wyoming,Urban_Percentage,0.731978054693148
+56007,Carbon County,Wyoming,Urban_Percentage,0.529682878172938
+56009,Converse County,Wyoming,Urban_Percentage,0.472547451094466
+56011,Crook County,Wyoming,Urban_Percentage,0.0
+56013,Fremont County,Wyoming,Urban_Percentage,0.464163735535505
+56015,Goshen County,Wyoming,Urban_Percentage,0.514962393983037
+56017,Hot Springs County,Wyoming,Urban_Percentage,0.0
+56019,Johnson County,Wyoming,Urban_Percentage,0.534627678465727
+56021,Laramie County,Wyoming,Urban_Percentage,0.788463069086278
+56023,Lincoln County,Wyoming,Urban_Percentage,0.0
+56025,Natrona County,Wyoming,Urban_Percentage,0.847364142330061
+56027,Niobrara County,Wyoming,Urban_Percentage,0.0
+56029,Park County,Wyoming,Urban_Percentage,0.55644072373751
+56031,Platte County,Wyoming,Urban_Percentage,0.0
+56033,Sheridan County,Wyoming,Urban_Percentage,0.62837553766049
+56035,Sublette County,Wyoming,Urban_Percentage,0.0
+56037,Sweetwater County,Wyoming,Urban_Percentage,0.892458364875095
+56039,Teton County,Wyoming,Urban_Percentage,0.461188976040461
+56041,Uinta County,Wyoming,Urban_Percentage,0.558239608801956
+56043,Washakie County,Wyoming,Urban_Percentage,0.636174365647365
+56045,Weston County,Wyoming,Urban_Percentage,0.0
