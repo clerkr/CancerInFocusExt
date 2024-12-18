@@ -2,6 +2,12 @@
 
 #### Prod Env ####
 
+rm -rf old
+mv huntsman_catchment_data old
+mkdir huntsman_catchment_data
+
+Rscript setup/download.R
+
 docker build -t setup -f setup/Dockerfile .
 
 docker run \
@@ -11,6 +17,10 @@ docker run \
     -v /srv/external/huntsman_catchment_data:/srv/external/huntsman_catchment_data \
     -v /srv/external/setup:/srv/external/setup \
     setup
+
+
+sh setup/SHAPE/rebuild_shape.sh
+sh setup/SHAPE/shape.sh
 
 #### Dev Env ####
 
