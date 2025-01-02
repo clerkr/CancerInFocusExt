@@ -279,3 +279,86 @@ UFW_R_download,Unlicensed Fixed Wireless Download Speed for Residential,int,"FCC
 4G_MINUP,4G Minimum Upload Speed,int,"FCC, DEC 2023"
 5G_MINDOWN,5G Minimum Download Speed,int,"FCC, DEC 2023"
 5G_MINUP,5G Minimum Upload Speed,int,"FCC, DEC 2023"
+everLookedForInformationAboutCancer,Ever looked for information about cancer,pct,Health Information National Trends Survey
+neverLookedForInformationAboutCancer,Never looked for information about cancer,pct,Health Information National Trends Survey
+lowConfidenceInGettingAdviceOrInformationAboutCancer,Low confidence in getting advice or information about cancer,pct,Health Information National Trends Survey
+wouldLookForInformationAboutCancerFromWrittenMaterials,Would look for information about cancer from written materials,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromADoctorALot,Trust information about cancer from a doctor a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromADoctorAModerateAmount,Trust information about cancer from a doctor a moderate amount,pct,Health Information National Trends Survey
+dontTrustInformationAboutCancerFromADoctor,Don't trust information about cancer from a doctor,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromCharitableOrganizationsALot,Trust information about cancer from charitable organizations a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromCharitableOrganizationsAModerateAmount,Trust information about cancer from charitable organizations a moderate amount,pct,Health Information National Trends Survey
+dontTrustInformationAboutCancerFromCharitableOrganizations,Don't trust information about cancer from charitable organizations,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromFamilyOrFriendsALot,Trust information about cancer from family or friends a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromFamilyOrFriendsAModerateAmount,Trust information about cancer from family or friends a moderate amount,pct,Health Information National Trends Survey
+dontTrustInformationAboutCancerFromFamilyOrFriends,Don't trust information about cancer from family or friends,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromReligiousOrganizationsAModerateAmount,Trust information about cancer from religious organizations a moderate amount,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromTheInternetALot,Trust information about cancer from the internet a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromTheInternetAModerateAmount,Trust information about cancer from the internet a moderate amount,pct,Health Information National Trends Survey
+dontTrustInformationAboutCancerFromTheInternet,Don't trust information about cancer from the internet,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromTheRadioALot,Trust information about cancer from the radio a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromTheTelevisionALot,Trust information about cancer from the television a lot,pct,Health Information National Trends Survey
+feelLikeEverythingCausesCancer,Feel like everything causes cancer,pct,Health Information National Trends Survey
+dontFeelLikeEverythingCausesCancer,Don't feel like everything causes cancer,pct,Health Information National Trends Survey
+feelTheresNotMuchThatCanBeDoneToLowerChancesOfGettingCancer,Feel there's not much that can be done to lower chances of getting cancer,pct,Health Information National Trends Survey
+feelTheresSomethingThatCanBeDoneToLowerChancesOfGettingCancer,Feel there's something that can be done to lower chances of getting cancer,pct,Health Information National Trends Survey
+feelThereAreSoManyRecommendationsAboutPreventingCancerItsHardToKnowWhichOnesToFollow,Feel there are so many recommendations about preventing cancer it's hard to know which ones to follow,pct,Health Information National Trends Survey
+feelThereArentTooManyRecommendationsAboutPreventingCancerToKnowWhichOnesToFollow,Feel there aren't too many recommendations about preventing cancer to know which ones to follow,pct,Health Information National Trends Survey
+wouldChangeBehaviorsIfAGeneticTestShowedHighRiskForCancer,Would change behaviors if a genetic test showed high risk for cancer,pct,Health Information National Trends Survey
+wouldNotChangeBehaviorsIfAGeneticTestShowedHighRiskForCancer,Would not change behaviors if a genetic test showed high risk for cancer,pct,Health Information National Trends Survey
+notWorriedAboutDelayingOrAvoidingCancerScreeningTestBecauseOfCovidInTheLastYear,Not worried about delaying or avoiding cancer screening test because of COVID in the last year,pct,Health Information National Trends Survey
+hadPapTestInTheLastThreeYears,Had Pap test in the last three years,pct,Health Information National Trends Survey
+hadPapTestMoreThanThreeYearsAgo,Had Pap test more than three years ago,pct,Health Information National Trends Survey
+neverHadAPapTest,Never had a Pap test,pct,Health Information National Trends Survey
+heardOfHpv,Heard of HPV,pct,Health Information National Trends Survey
+haventHeardOfHpv,Haven't heard of HPV,pct,Health Information National Trends Survey
+thinkHpvCanCauseAnalCancer,Think HPV can cause anal cancer,pct,Health Information National Trends Survey
+thinkHpvCanCauseCervicalCancer,Think HPV can cause cervical cancer,pct,Health Information National Trends Survey
+thinkHpvCanCauseOralCancer,Think HPV can cause oral cancer,pct,Health Information National Trends Survey
+thinkHpvCanCausePenileCancer,Think HPV can cause penile cancer,pct,Health Information National Trends Survey
+dontThinkHpvCanCauseAnalCancer,Don't think HPV can cause anal cancer,pct,Health Information National Trends Survey
+dontThinkHpvCanCauseCervicalCancer,Don't think HPV can cause cervical cancer,pct,Health Information National Trends Survey
+dontThinkHpvCanCauseOralCancer,Don't think HPV can cause oral cancer,pct,Health Information National Trends Survey
+dontThinkHpvCanCausePenileCancer,Don't think HPV can cause penile cancer,pct,Health Information National Trends Survey
+heardOfHpvShot,Heard of HPV shot,pct,Health Information National Trends Survey
+haventHeardOfHpvShot,Haven't heard of HPV shot,pct,Health Information National Trends Survey
+everInvitedToParticipateInAClinicalTrial,Ever invited to participate in a clinical trial,pct,Health Information National Trends Survey
+neverInvitedToParticipateInAClinicalTrial,Never invited to participate in a clinical trial,pct,Health Information National Trends Survey
+heardOfClinicaltrialsGov,Heard of clinicaltrials.gov,pct,Health Information National Trends Survey
+neverHeardOfClinicaltrialsGov,Never heard of clinicaltrials.gov,pct,Health Information National Trends Survey
+wouldLookForInformationAboutClinicalTrialsFromDiseaseSpecificPatientSupportGroups,Would look for information about clinical trials from disease-specific patient support groups,pct,Health Information National Trends Survey
+talkedToDoctorAboutHavingATestToCheckForLungCancerInTheLastYear,Talked to doctor about having a test to check for lung cancer in the last year,pct,Health Information National Trends Survey
+haventTalkedToDoctorAboutHavingATestToCheckForLungCancerInTheLastYear,Haven't talked to doctor about having a test to check for lung cancer in the last year,pct,Health Information National Trends Survey
+botheredByFeelingDownDepressedOrHopelessInTheLastTwoWeeks,"Bothered by feeling down, depressed, or hopeless in the last two weeks",pct,Health Information National Trends Survey
+notBotheredByFeelingDownDepressedOrHopelessInTheLastTwoWeeks,"Not bothered by feeling down, depressed, or hopeless in the last two weeks",pct,Health Information National Trends Survey
+botheredByFeelingNervousAnxiousOrOnEdgeInTheLastTwoWeeks,"Bothered by feeling nervous, anxious, or on edge in the last two weeks",pct,Health Information National Trends Survey
+notBotheredByFeelingNervousAnxiousOrOnEdgeInTheLastTwoWeeks,"Not bothered by feeling nervous, anxious, or on edge in the last two weeks",pct,Health Information National Trends Survey
+botheredByLittleInterestOrPleasureInDoingThingsInTheLastTwoWeeks,Bothered by little interest or pleasure in doing things in the last two weeks,pct,Health Information National Trends Survey
+notBotheredByLittleInterestOrPleasureInDoingThingsInTheLastTwoWeeks,Not bothered by little interest or pleasure in doing things in the last two weeks,pct,Health Information National Trends Survey
+botheredByNotBeingAbleToStopOrControlWorryingInTheLastTwoWeeks,Bothered by not being able to stop or control worrying in the last two weeks,pct,Health Information National Trends Survey
+notBotheredByNotBeingAbleToStopOrControlWorryingInTheLastTwoWeeks,Not bothered by not being able to stop or control worrying in the last two weeks,pct,Health Information National Trends Survey
+haveFriendsOrFamilyToTalkToAboutHealth,Have friends or family to talk to about health,pct,Health Information National Trends Survey
+dontHaveFriendsOrFamilyToTalkToAboutHealth,Don't have friends or family to talk to about health,pct,Health Information National Trends Survey
+everToldByHealthProfessionalHaveDepressionOrAnxiety,Ever told by health professional have depression or anxiety,pct,Health Information National Trends Survey
+neverToldByHealthProfessionalHaveDepressionOrAnxiety,Never told by health professional have depression or anxiety,pct,Health Information National Trends Survey
+feelStronglyThatLifeHasMeaning,Feel strongly that life has meaning,pct,Health Information National Trends Survey
+feelStronglyThatLifeHasPurpose,Feel strongly that life has purpose,pct,Health Information National Trends Survey
+stronglyFeelIsolatedEvenWhenPeopleAreAround,Strongly feel isolated even when people are around,pct,Health Information National Trends Survey
+doctorRecommendedReducingExposureToIndoorTanningDevices,Doctor recommended reducing exposure to indoor tanning devices,pct,Health Information National Trends Survey
+doctorDidNotGiveRecommendationForReducingExposureToIndoorTanningDevices,Doctor did not give recommendation for reducing exposure to indoor tanning devices,pct,Health Information National Trends Survey
+thinkAfterMonthsOfNotGoingOutInTheSunBeingInTheSunForAnHourWithNoProtectionWouldCauseSevereSunburn,"Think after months of not going out in the sun, being in the sun for an hour with no protection would cause severe sunburn",pct,Health Information National Trends Survey
+ableToAffordBalancedMealsInTheLastYear,Able to afford balanced meals in the last year,pct,Health Information National Trends Survey
+notAbleToAffordBalancedMealsInTheLastYear,Not able to afford balanced meals in the last year,pct,Health Information National Trends Survey
+ableToGetToMedicalAppointmentsWorkOrThingsNeededForDailyLivingWithoutTransportationIssues,"Able to get to medical appointments, work, or things needed for daily living without transportation issues",pct,Health Information National Trends Survey
+unableToGetToMedicalAppointmentsWorkOrThingsNeededForDailyLivingBecauseOfLackOfReliableTransportation,"Unable to get to medical appointments, work, or things needed for daily living because of lack of reliable transportation",pct,Health Information National Trends Survey
+cutTheSizeOfMealsOrSkippedMealsBecauseOfMoneyInTheLastYear,Cut the size of meals or skipped meals because of money in the last year,pct,Health Information National Trends Survey
+didNotCutTheSizeOfMealsOrSkipMealsBecauseOfMoneyInTheLastYear,Did not cut the size of meals or skip meals because of money in the last year,pct,Health Information National Trends Survey
+worriedAboutBeingForcedToMove,Worried about being forced to move,pct,Health Information National Trends Survey
+notWorriedAboutBeingForcedToMove,Not worried about being forced to move,pct,Health Information National Trends Survey
+everUsedECig,Ever used e-cig,pct,Health Information National Trends Survey
+neverUsedECig,Never used e-cig,pct,Health Information National Trends Survey
+thinkSmokelessTobaccoIsLessHarmfulThanCigarettes,Think smokeless tobacco is less harmful than cigarettes,pct,Health Information National Trends Survey
+thinkSmokelessTobaccoIsTheSameOrMoreHarmfulThanCigarettes,Think smokeless tobacco is the same or more harmful than cigarettes,pct,Health Information National Trends Survey
+thinkECigsAreMoreHarmfulThanCigarettes,Think e-cigs are more harmful than cigarettes,pct,Health Information National Trends Survey
+thinkNicotineIsTheMainSubstanceInTobaccoThatMakesPeopleWantToSmoke,Think nicotine is the main substance in tobacco that makes people want to smoke,pct,Health Information National Trends Survey
+thinkNicotineIsNotTheMainSubstanceInTobaccoThatMakesPeopleWantToSmoke,Think nicotine is not the main substance in tobacco that makes people want to smoke,pct,Health Information National Trends Survey

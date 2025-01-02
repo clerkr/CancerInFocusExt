@@ -14,8 +14,8 @@ AWS_FIPS = ['16', '30', '32', '49', '56', 16, 30, 32, 49, 56]
 
 # Set options
 OPTIONS = {}
-# OPTIONS['datasets'] = ['AQI', 'Radon', 'BRFSS', 'FCC']
-OPTIONS['datasets'] = ['AQI', 'BRFSS', 'FCC']
+# OPTIONS['datasets'] = ['AQI', 'Radon', 'BRFSS', 'FCC', 'HINTS']
+OPTIONS['datasets'] = ['HINTS']
 
 # %%
 
@@ -1152,7 +1152,7 @@ if 'HINTS' in OPTIONS['datasets']:
     hints_tbco = hints_tbco.merge(aws_state_fips, how='outer', on='state')
 
     # Only keep the columns we want
-    hints_tbco = hints_tbco.drop(['idTobacco', 'stateAbbreviation'], axis='columns')
+    hints_tbco = hints_tbco.drop(['idTobacco', 'stateAbbreviation', 'currentSmokers', 'formerSmokers', 'neverSmoked', 'everSmokedAtLeast100Cigarettes', 'haventEverSmokedAtLeast100Cigarettes', 'neverUsedECigs'], axis='columns')
 
     # Create long data and rename columns
     hints_tbco_long = pd.melt(hints_tbco, id_vars=['state', 'fips'], var_name='measure', value_name='value')
