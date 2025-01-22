@@ -1,0 +1,846 @@
+"FIPS","County","State","measure","value"
+16001,"Ada County","Idaho","pctBB_1000_10",0.0928
+16003,"Adams County","Idaho","pctBB_1000_10",0.1921
+16005,"Bannock County","Idaho","pctBB_1000_10",0.4607
+16007,"Bear Lake County","Idaho","pctBB_1000_10",0.2682
+16009,"Benewah County","Idaho","pctBB_1000_10",0.0513
+16011,"Bingham County","Idaho","pctBB_1000_10",0.0607
+16013,"Blaine County","Idaho","pctBB_1000_10",0.0498
+16015,"Boise County","Idaho","pctBB_1000_10",0.0271
+16017,"Bonner County","Idaho","pctBB_1000_10",0.2941
+16019,"Bonneville County","Idaho","pctBB_1000_10",0.3779
+16021,"Boundary County","Idaho","pctBB_1000_10",0.3073
+16023,"Butte County","Idaho","pctBB_1000_10",0.4771
+16025,"Camas County","Idaho","pctBB_1000_10",0
+16027,"Canyon County","Idaho","pctBB_1000_10",0.1964
+16029,"Caribou County","Idaho","pctBB_1000_10",0.0632
+16031,"Cassia County","Idaho","pctBB_1000_10",0.708
+16033,"Clark County","Idaho","pctBB_1000_10",0
+16035,"Clearwater County","Idaho","pctBB_1000_10",0.3353
+16037,"Custer County","Idaho","pctBB_1000_10",0.5257
+16039,"Elmore County","Idaho","pctBB_1000_10",0.2056
+16041,"Franklin County","Idaho","pctBB_1000_10",0.1287
+16043,"Fremont County","Idaho","pctBB_1000_10",0.4426
+16045,"Gem County","Idaho","pctBB_1000_10",0
+16047,"Gooding County","Idaho","pctBB_1000_10",1e-04
+16049,"Idaho County","Idaho","pctBB_1000_10",0.0441
+16051,"Jefferson County","Idaho","pctBB_1000_10",0.6123
+16053,"Jerome County","Idaho","pctBB_1000_10",0.3891
+16055,"Kootenai County","Idaho","pctBB_1000_10",0.6489
+16057,"Latah County","Idaho","pctBB_1000_10",0.4775
+16059,"Lemhi County","Idaho","pctBB_1000_10",0.4006
+16061,"Lewis County","Idaho","pctBB_1000_10",4e-04
+16063,"Lincoln County","Idaho","pctBB_1000_10",0.0061
+16065,"Madison County","Idaho","pctBB_1000_10",0.6573
+16067,"Minidoka County","Idaho","pctBB_1000_10",0.4828
+16069,"Nez Perce County","Idaho","pctBB_1000_10",0.11
+16071,"Oneida County","Idaho","pctBB_1000_10",0.89
+16073,"Owyhee County","Idaho","pctBB_1000_10",0.0023
+16075,"Payette County","Idaho","pctBB_1000_10",0.3848
+16077,"Power County","Idaho","pctBB_1000_10",0.6553
+16079,"Shoshone County","Idaho","pctBB_1000_10",0.3714
+16081,"Teton County","Idaho","pctBB_1000_10",0.667
+16083,"Twin Falls County","Idaho","pctBB_1000_10",0.3166
+16085,"Valley County","Idaho","pctBB_1000_10",0
+16087,"Washington County","Idaho","pctBB_1000_10",0.0345
+30001,"Beaverhead County","Montana","pctBB_1000_10",0.3685
+30003,"Big Horn County","Montana","pctBB_1000_10",0.3753
+30005,"Blaine County","Montana","pctBB_1000_10",0
+30007,"Broadwater County","Montana","pctBB_1000_10",0.0537
+30009,"Carbon County","Montana","pctBB_1000_10",0.0192
+30011,"Carter County","Montana","pctBB_1000_10",0.4669
+30013,"Cascade County","Montana","pctBB_1000_10",0.2379
+30015,"Chouteau County","Montana","pctBB_1000_10",0.1447
+30017,"Custer County","Montana","pctBB_1000_10",0.0632
+30019,"Daniels County","Montana","pctBB_1000_10",0.9285
+30021,"Dawson County","Montana","pctBB_1000_10",0.1884
+30023,"Deer Lodge County","Montana","pctBB_1000_10",0.1873
+30025,"Fallon County","Montana","pctBB_1000_10",0.814
+30027,"Fergus County","Montana","pctBB_1000_10",0.1346
+30029,"Flathead County","Montana","pctBB_1000_10",0.155
+30031,"Gallatin County","Montana","pctBB_1000_10",0.7508
+30033,"Garfield County","Montana","pctBB_1000_10",0.4108
+30035,"Glacier County","Montana","pctBB_1000_10",0
+30037,"Golden Valley County","Montana","pctBB_1000_10",0.7332
+30039,"Granite County","Montana","pctBB_1000_10",0.8137
+30041,"Hill County","Montana","pctBB_1000_10",1e-04
+30043,"Jefferson County","Montana","pctBB_1000_10",0.0271
+30045,"Judith Basin County","Montana","pctBB_1000_10",0.1815
+30047,"Lake County","Montana","pctBB_1000_10",0.0885
+30049,"Lewis and Clark County","Montana","pctBB_1000_10",0.0945
+30051,"Liberty County","Montana","pctBB_1000_10",0.0183
+30053,"Lincoln County","Montana","pctBB_1000_10",0.5865
+30055,"McCone County","Montana","pctBB_1000_10",0.5843
+30057,"Madison County","Montana","pctBB_1000_10",0.8552
+30059,"Meagher County","Montana","pctBB_1000_10",0
+30061,"Mineral County","Montana","pctBB_1000_10",0.0117
+30063,"Missoula County","Montana","pctBB_1000_10",0.5526
+30065,"Musselshell County","Montana","pctBB_1000_10",0.7959
+30067,"Park County","Montana","pctBB_1000_10",0
+30069,"Petroleum County","Montana","pctBB_1000_10",0.4664
+30071,"Phillips County","Montana","pctBB_1000_10",0.0102
+30073,"Pondera County","Montana","pctBB_1000_10",0.344
+30075,"Powder River County","Montana","pctBB_1000_10",0.4397
+30077,"Powell County","Montana","pctBB_1000_10",0.1083
+30079,"Prairie County","Montana","pctBB_1000_10",0.8056
+30081,"Ravalli County","Montana","pctBB_1000_10",0.1137
+30083,"Richland County","Montana","pctBB_1000_10",0.332
+30085,"Roosevelt County","Montana","pctBB_1000_10",0.6963
+30087,"Rosebud County","Montana","pctBB_1000_10",0.4651
+30089,"Sanders County","Montana","pctBB_1000_10",0.6476
+30091,"Sheridan County","Montana","pctBB_1000_10",0.7949
+30093,"Silver Bow County","Montana","pctBB_1000_10",0.0169
+30095,"Stillwater County","Montana","pctBB_1000_10",0.0488
+30097,"Sweet Grass County","Montana","pctBB_1000_10",0
+30099,"Teton County","Montana","pctBB_1000_10",0.8939
+30101,"Toole County","Montana","pctBB_1000_10",0.0292
+30103,"Treasure County","Montana","pctBB_1000_10",0.1519
+30105,"Valley County","Montana","pctBB_1000_10",0.5023
+30107,"Wheatland County","Montana","pctBB_1000_10",0.0045
+30109,"Wibaux County","Montana","pctBB_1000_10",0.9407
+30111,"Yellowstone County","Montana","pctBB_1000_10",0.2228
+32001,"Churchill County","Nevada","pctBB_1000_10",0.8082
+32003,"Clark County","Nevada","pctBB_1000_10",0.6941
+32005,"Douglas County","Nevada","pctBB_1000_10",0.8752
+32007,"Elko County","Nevada","pctBB_1000_10",0.605
+32009,"Esmeralda County","Nevada","pctBB_1000_10",0.004
+32011,"Eureka County","Nevada","pctBB_1000_10",0
+32013,"Humboldt County","Nevada","pctBB_1000_10",0.1467
+32015,"Lander County","Nevada","pctBB_1000_10",0
+32017,"Lincoln County","Nevada","pctBB_1000_10",0
+32019,"Lyon County","Nevada","pctBB_1000_10",0.7748
+32021,"Mineral County","Nevada","pctBB_1000_10",0.6248
+32023,"Nye County","Nevada","pctBB_1000_10",0.1438
+32027,"Pershing County","Nevada","pctBB_1000_10",0
+32029,"Storey County","Nevada","pctBB_1000_10",0.266
+32031,"Washoe County","Nevada","pctBB_1000_10",0.9594
+32033,"White Pine County","Nevada","pctBB_1000_10",0.0023
+32510,"Carson City","Nevada","pctBB_1000_10",0.922
+49001,"Beaver County","Utah","pctBB_1000_10",0.3416
+49003,"Box Elder County","Utah","pctBB_1000_10",0.8501
+49005,"Cache County","Utah","pctBB_1000_10",0.1833
+49007,"Carbon County","Utah","pctBB_1000_10",0.8368
+49009,"Daggett County","Utah","pctBB_1000_10",0.4126
+49011,"Davis County","Utah","pctBB_1000_10",0.8592
+49013,"Duchesne County","Utah","pctBB_1000_10",0.5295
+49015,"Emery County","Utah","pctBB_1000_10",0.8067
+49017,"Garfield County","Utah","pctBB_1000_10",0.6141
+49019,"Grand County","Utah","pctBB_1000_10",0.8716
+49021,"Iron County","Utah","pctBB_1000_10",0.7029
+49023,"Juab County","Utah","pctBB_1000_10",0.5569
+49025,"Kane County","Utah","pctBB_1000_10",0.4622
+49027,"Millard County","Utah","pctBB_1000_10",0.2419
+49029,"Morgan County","Utah","pctBB_1000_10",0.6048
+49031,"Piute County","Utah","pctBB_1000_10",0.6596
+49033,"Rich County","Utah","pctBB_1000_10",0.2705
+49035,"Salt Lake County","Utah","pctBB_1000_10",0.8675
+49037,"San Juan County","Utah","pctBB_1000_10",0.4215
+49039,"Sanpete County","Utah","pctBB_1000_10",0.5412
+49041,"Sevier County","Utah","pctBB_1000_10",0.5553
+49043,"Summit County","Utah","pctBB_1000_10",0.6743
+49045,"Tooele County","Utah","pctBB_1000_10",0.8948
+49047,"Uintah County","Utah","pctBB_1000_10",0.8025
+49049,"Utah County","Utah","pctBB_1000_10",0.7153
+49051,"Wasatch County","Utah","pctBB_1000_10",0.4846
+49053,"Washington County","Utah","pctBB_1000_10",0.4053
+49055,"Wayne County","Utah","pctBB_1000_10",0.7484
+49057,"Weber County","Utah","pctBB_1000_10",0.5506
+56001,"Albany County","Wyoming","pctBB_1000_10",0.4011
+56003,"Big Horn County","Wyoming","pctBB_1000_10",0.3606
+56005,"Campbell County","Wyoming","pctBB_1000_10",0.2097
+56007,"Carbon County","Wyoming","pctBB_1000_10",0.1232
+56009,"Converse County","Wyoming","pctBB_1000_10",0.4319
+56011,"Crook County","Wyoming","pctBB_1000_10",0.2185
+56013,"Fremont County","Wyoming","pctBB_1000_10",0.0933
+56015,"Goshen County","Wyoming","pctBB_1000_10",0.2767
+56017,"Hot Springs County","Wyoming","pctBB_1000_10",0.7072
+56019,"Johnson County","Wyoming","pctBB_1000_10",0.0484
+56021,"Laramie County","Wyoming","pctBB_1000_10",0.2865
+56023,"Lincoln County","Wyoming","pctBB_1000_10",0.6941
+56025,"Natrona County","Wyoming","pctBB_1000_10",0.334
+56027,"Niobrara County","Wyoming","pctBB_1000_10",0.573
+56029,"Park County","Wyoming","pctBB_1000_10",0.5884
+56031,"Platte County","Wyoming","pctBB_1000_10",0.0436
+56033,"Sheridan County","Wyoming","pctBB_1000_10",0.3806
+56035,"Sublette County","Wyoming","pctBB_1000_10",0.2118
+56037,"Sweetwater County","Wyoming","pctBB_1000_10",0.0276
+56039,"Teton County","Wyoming","pctBB_1000_10",0.3782
+56041,"Uinta County","Wyoming","pctBB_1000_10",0.1297
+56043,"Washakie County","Wyoming","pctBB_1000_10",0.837
+56045,"Weston County","Wyoming","pctBB_1000_10",0.4517
+16001,"Ada County","Idaho","pctBB_100_20",1
+16003,"Adams County","Idaho","pctBB_100_20",1
+16005,"Bannock County","Idaho","pctBB_100_20",1
+16007,"Bear Lake County","Idaho","pctBB_100_20",1
+16009,"Benewah County","Idaho","pctBB_100_20",1
+16011,"Bingham County","Idaho","pctBB_100_20",1
+16013,"Blaine County","Idaho","pctBB_100_20",1
+16015,"Boise County","Idaho","pctBB_100_20",0.9998
+16017,"Bonner County","Idaho","pctBB_100_20",1
+16019,"Bonneville County","Idaho","pctBB_100_20",1
+16021,"Boundary County","Idaho","pctBB_100_20",1
+16023,"Butte County","Idaho","pctBB_100_20",1
+16025,"Camas County","Idaho","pctBB_100_20",1
+16027,"Canyon County","Idaho","pctBB_100_20",1
+16029,"Caribou County","Idaho","pctBB_100_20",1
+16031,"Cassia County","Idaho","pctBB_100_20",1
+16033,"Clark County","Idaho","pctBB_100_20",1
+16035,"Clearwater County","Idaho","pctBB_100_20",1
+16037,"Custer County","Idaho","pctBB_100_20",1
+16039,"Elmore County","Idaho","pctBB_100_20",1
+16041,"Franklin County","Idaho","pctBB_100_20",1
+16043,"Fremont County","Idaho","pctBB_100_20",1
+16045,"Gem County","Idaho","pctBB_100_20",1
+16047,"Gooding County","Idaho","pctBB_100_20",1
+16049,"Idaho County","Idaho","pctBB_100_20",1
+16051,"Jefferson County","Idaho","pctBB_100_20",1
+16053,"Jerome County","Idaho","pctBB_100_20",1
+16055,"Kootenai County","Idaho","pctBB_100_20",1
+16057,"Latah County","Idaho","pctBB_100_20",1
+16059,"Lemhi County","Idaho","pctBB_100_20",1
+16061,"Lewis County","Idaho","pctBB_100_20",1
+16063,"Lincoln County","Idaho","pctBB_100_20",1
+16065,"Madison County","Idaho","pctBB_100_20",1
+16067,"Minidoka County","Idaho","pctBB_100_20",1
+16069,"Nez Perce County","Idaho","pctBB_100_20",1
+16071,"Oneida County","Idaho","pctBB_100_20",1
+16073,"Owyhee County","Idaho","pctBB_100_20",1
+16075,"Payette County","Idaho","pctBB_100_20",1
+16077,"Power County","Idaho","pctBB_100_20",1
+16079,"Shoshone County","Idaho","pctBB_100_20",1
+16081,"Teton County","Idaho","pctBB_100_20",1
+16083,"Twin Falls County","Idaho","pctBB_100_20",1
+16085,"Valley County","Idaho","pctBB_100_20",1
+16087,"Washington County","Idaho","pctBB_100_20",1
+30001,"Beaverhead County","Montana","pctBB_100_20",1
+30003,"Big Horn County","Montana","pctBB_100_20",1
+30005,"Blaine County","Montana","pctBB_100_20",1
+30007,"Broadwater County","Montana","pctBB_100_20",0.9997
+30009,"Carbon County","Montana","pctBB_100_20",1
+30011,"Carter County","Montana","pctBB_100_20",1
+30013,"Cascade County","Montana","pctBB_100_20",1
+30015,"Chouteau County","Montana","pctBB_100_20",1
+30017,"Custer County","Montana","pctBB_100_20",1
+30019,"Daniels County","Montana","pctBB_100_20",1
+30021,"Dawson County","Montana","pctBB_100_20",1
+30023,"Deer Lodge County","Montana","pctBB_100_20",1
+30025,"Fallon County","Montana","pctBB_100_20",1
+30027,"Fergus County","Montana","pctBB_100_20",1
+30029,"Flathead County","Montana","pctBB_100_20",1
+30031,"Gallatin County","Montana","pctBB_100_20",1
+30033,"Garfield County","Montana","pctBB_100_20",1
+30035,"Glacier County","Montana","pctBB_100_20",1
+30037,"Golden Valley County","Montana","pctBB_100_20",1
+30039,"Granite County","Montana","pctBB_100_20",1
+30041,"Hill County","Montana","pctBB_100_20",0.9999
+30043,"Jefferson County","Montana","pctBB_100_20",1
+30045,"Judith Basin County","Montana","pctBB_100_20",1
+30047,"Lake County","Montana","pctBB_100_20",1
+30049,"Lewis and Clark County","Montana","pctBB_100_20",1
+30051,"Liberty County","Montana","pctBB_100_20",1
+30053,"Lincoln County","Montana","pctBB_100_20",1
+30055,"McCone County","Montana","pctBB_100_20",1
+30057,"Madison County","Montana","pctBB_100_20",1
+30059,"Meagher County","Montana","pctBB_100_20",1
+30061,"Mineral County","Montana","pctBB_100_20",1
+30063,"Missoula County","Montana","pctBB_100_20",1
+30065,"Musselshell County","Montana","pctBB_100_20",1
+30067,"Park County","Montana","pctBB_100_20",1
+30069,"Petroleum County","Montana","pctBB_100_20",1
+30071,"Phillips County","Montana","pctBB_100_20",1
+30073,"Pondera County","Montana","pctBB_100_20",1
+30075,"Powder River County","Montana","pctBB_100_20",1
+30077,"Powell County","Montana","pctBB_100_20",1
+30079,"Prairie County","Montana","pctBB_100_20",1
+30081,"Ravalli County","Montana","pctBB_100_20",1
+30083,"Richland County","Montana","pctBB_100_20",1
+30085,"Roosevelt County","Montana","pctBB_100_20",1
+30087,"Rosebud County","Montana","pctBB_100_20",1
+30089,"Sanders County","Montana","pctBB_100_20",1
+30091,"Sheridan County","Montana","pctBB_100_20",1
+30093,"Silver Bow County","Montana","pctBB_100_20",1
+30095,"Stillwater County","Montana","pctBB_100_20",1
+30097,"Sweet Grass County","Montana","pctBB_100_20",1
+30099,"Teton County","Montana","pctBB_100_20",1
+30101,"Toole County","Montana","pctBB_100_20",1
+30103,"Treasure County","Montana","pctBB_100_20",1
+30105,"Valley County","Montana","pctBB_100_20",1
+30107,"Wheatland County","Montana","pctBB_100_20",1
+30109,"Wibaux County","Montana","pctBB_100_20",1
+30111,"Yellowstone County","Montana","pctBB_100_20",1
+32001,"Churchill County","Nevada","pctBB_100_20",1
+32003,"Clark County","Nevada","pctBB_100_20",1
+32005,"Douglas County","Nevada","pctBB_100_20",1
+32007,"Elko County","Nevada","pctBB_100_20",1
+32009,"Esmeralda County","Nevada","pctBB_100_20",1
+32011,"Eureka County","Nevada","pctBB_100_20",1
+32013,"Humboldt County","Nevada","pctBB_100_20",1
+32015,"Lander County","Nevada","pctBB_100_20",1
+32017,"Lincoln County","Nevada","pctBB_100_20",1
+32019,"Lyon County","Nevada","pctBB_100_20",1
+32021,"Mineral County","Nevada","pctBB_100_20",1
+32023,"Nye County","Nevada","pctBB_100_20",1
+32027,"Pershing County","Nevada","pctBB_100_20",1
+32029,"Storey County","Nevada","pctBB_100_20",1
+32031,"Washoe County","Nevada","pctBB_100_20",1
+32033,"White Pine County","Nevada","pctBB_100_20",1
+32510,"Carson City","Nevada","pctBB_100_20",1
+49001,"Beaver County","Utah","pctBB_100_20",1
+49003,"Box Elder County","Utah","pctBB_100_20",1
+49005,"Cache County","Utah","pctBB_100_20",1
+49007,"Carbon County","Utah","pctBB_100_20",1
+49009,"Daggett County","Utah","pctBB_100_20",1
+49011,"Davis County","Utah","pctBB_100_20",1
+49013,"Duchesne County","Utah","pctBB_100_20",1
+49015,"Emery County","Utah","pctBB_100_20",1
+49017,"Garfield County","Utah","pctBB_100_20",1
+49019,"Grand County","Utah","pctBB_100_20",1
+49021,"Iron County","Utah","pctBB_100_20",1
+49023,"Juab County","Utah","pctBB_100_20",1
+49025,"Kane County","Utah","pctBB_100_20",1
+49027,"Millard County","Utah","pctBB_100_20",1
+49029,"Morgan County","Utah","pctBB_100_20",1
+49031,"Piute County","Utah","pctBB_100_20",1
+49033,"Rich County","Utah","pctBB_100_20",1
+49035,"Salt Lake County","Utah","pctBB_100_20",1
+49037,"San Juan County","Utah","pctBB_100_20",1
+49039,"Sanpete County","Utah","pctBB_100_20",1
+49041,"Sevier County","Utah","pctBB_100_20",1
+49043,"Summit County","Utah","pctBB_100_20",1
+49045,"Tooele County","Utah","pctBB_100_20",1
+49047,"Uintah County","Utah","pctBB_100_20",1
+49049,"Utah County","Utah","pctBB_100_20",1
+49051,"Wasatch County","Utah","pctBB_100_20",1
+49053,"Washington County","Utah","pctBB_100_20",1
+49055,"Wayne County","Utah","pctBB_100_20",1
+49057,"Weber County","Utah","pctBB_100_20",1
+56001,"Albany County","Wyoming","pctBB_100_20",1
+56003,"Big Horn County","Wyoming","pctBB_100_20",1
+56005,"Campbell County","Wyoming","pctBB_100_20",1
+56007,"Carbon County","Wyoming","pctBB_100_20",1
+56009,"Converse County","Wyoming","pctBB_100_20",1
+56011,"Crook County","Wyoming","pctBB_100_20",1
+56013,"Fremont County","Wyoming","pctBB_100_20",1
+56015,"Goshen County","Wyoming","pctBB_100_20",1
+56017,"Hot Springs County","Wyoming","pctBB_100_20",1
+56019,"Johnson County","Wyoming","pctBB_100_20",1
+56021,"Laramie County","Wyoming","pctBB_100_20",1
+56023,"Lincoln County","Wyoming","pctBB_100_20",1
+56025,"Natrona County","Wyoming","pctBB_100_20",1
+56027,"Niobrara County","Wyoming","pctBB_100_20",1
+56029,"Park County","Wyoming","pctBB_100_20",1
+56031,"Platte County","Wyoming","pctBB_100_20",1
+56033,"Sheridan County","Wyoming","pctBB_100_20",1
+56035,"Sublette County","Wyoming","pctBB_100_20",1
+56037,"Sweetwater County","Wyoming","pctBB_100_20",1
+56039,"Teton County","Wyoming","pctBB_100_20",1
+56041,"Uinta County","Wyoming","pctBB_100_20",1
+56043,"Washakie County","Wyoming","pctBB_100_20",1
+56045,"Weston County","Wyoming","pctBB_100_20",1
+16001,"Ada County","Idaho","pct5G_7_1",0.8918
+16003,"Adams County","Idaho","pct5G_7_1",0.3203
+16005,"Bannock County","Idaho","pct5G_7_1",0.6536
+16007,"Bear Lake County","Idaho","pct5G_7_1",0.43
+16009,"Benewah County","Idaho","pct5G_7_1",0.3353
+16011,"Bingham County","Idaho","pct5G_7_1",0.6762
+16013,"Blaine County","Idaho","pct5G_7_1",0.2814
+16015,"Boise County","Idaho","pct5G_7_1",0.172
+16017,"Bonner County","Idaho","pct5G_7_1",0.4077
+16019,"Bonneville County","Idaho","pct5G_7_1",0.5194
+16021,"Boundary County","Idaho","pct5G_7_1",0.3095
+16023,"Butte County","Idaho","pct5G_7_1",0.422
+16025,"Camas County","Idaho","pct5G_7_1",0.3468
+16027,"Canyon County","Idaho","pct5G_7_1",0.9881
+16029,"Caribou County","Idaho","pct5G_7_1",0.2128
+16031,"Cassia County","Idaho","pct5G_7_1",0.615
+16033,"Clark County","Idaho","pct5G_7_1",0.2775
+16035,"Clearwater County","Idaho","pct5G_7_1",0.0802
+16037,"Custer County","Idaho","pct5G_7_1",0.0558
+16039,"Elmore County","Idaho","pct5G_7_1",0.4919
+16041,"Franklin County","Idaho","pct5G_7_1",0.4633
+16043,"Fremont County","Idaho","pct5G_7_1",0.6392
+16045,"Gem County","Idaho","pct5G_7_1",0.6158
+16047,"Gooding County","Idaho","pct5G_7_1",0.8785
+16049,"Idaho County","Idaho","pct5G_7_1",0.0865
+16051,"Jefferson County","Idaho","pct5G_7_1",0.8622
+16053,"Jerome County","Idaho","pct5G_7_1",0.9667
+16055,"Kootenai County","Idaho","pct5G_7_1",0.6185
+16057,"Latah County","Idaho","pct5G_7_1",0.5667
+16059,"Lemhi County","Idaho","pct5G_7_1",0.1704
+16061,"Lewis County","Idaho","pct5G_7_1",0.739
+16063,"Lincoln County","Idaho","pct5G_7_1",0.7698
+16065,"Madison County","Idaho","pct5G_7_1",0.8686
+16067,"Minidoka County","Idaho","pct5G_7_1",0.5481
+16069,"Nez Perce County","Idaho","pct5G_7_1",0.556
+16071,"Oneida County","Idaho","pct5G_7_1",0.4885
+16073,"Owyhee County","Idaho","pct5G_7_1",0.2756
+16075,"Payette County","Idaho","pct5G_7_1",0.8008
+16077,"Power County","Idaho","pct5G_7_1",0.5672
+16079,"Shoshone County","Idaho","pct5G_7_1",0.1199
+16081,"Teton County","Idaho","pct5G_7_1",0.8549
+16083,"Twin Falls County","Idaho","pct5G_7_1",0.692
+16085,"Valley County","Idaho","pct5G_7_1",0.1433
+16087,"Washington County","Idaho","pct5G_7_1",0.4397
+30001,"Beaverhead County","Montana","pct5G_7_1",0.1662
+30003,"Big Horn County","Montana","pct5G_7_1",0.3652
+30005,"Blaine County","Montana","pct5G_7_1",0.3368
+30007,"Broadwater County","Montana","pct5G_7_1",0.6615
+30009,"Carbon County","Montana","pct5G_7_1",0.6132
+30011,"Carter County","Montana","pct5G_7_1",0.0568
+30013,"Cascade County","Montana","pct5G_7_1",0.6595
+30015,"Chouteau County","Montana","pct5G_7_1",0.4936
+30017,"Custer County","Montana","pct5G_7_1",0.2859
+30019,"Daniels County","Montana","pct5G_7_1",0.042
+30021,"Dawson County","Montana","pct5G_7_1",0.44
+30023,"Deer Lodge County","Montana","pct5G_7_1",0.4622
+30025,"Fallon County","Montana","pct5G_7_1",0.5051
+30027,"Fergus County","Montana","pct5G_7_1",0.367
+30029,"Flathead County","Montana","pct5G_7_1",0.2911
+30031,"Gallatin County","Montana","pct5G_7_1",0.5394
+30033,"Garfield County","Montana","pct5G_7_1",0.1758
+30035,"Glacier County","Montana","pct5G_7_1",0.3784
+30037,"Golden Valley County","Montana","pct5G_7_1",0.5498
+30039,"Granite County","Montana","pct5G_7_1",0.3594
+30041,"Hill County","Montana","pct5G_7_1",0.5232
+30043,"Jefferson County","Montana","pct5G_7_1",0.599
+30045,"Judith Basin County","Montana","pct5G_7_1",0.4721
+30047,"Lake County","Montana","pct5G_7_1",0.6538
+30049,"Lewis and Clark County","Montana","pct5G_7_1",0.3577
+30051,"Liberty County","Montana","pct5G_7_1",0.6346
+30053,"Lincoln County","Montana","pct5G_7_1",0.1922
+30055,"McCone County","Montana","pct5G_7_1",0.2855
+30057,"Madison County","Montana","pct5G_7_1",0.4657
+30059,"Meagher County","Montana","pct5G_7_1",0.1972
+30061,"Mineral County","Montana","pct5G_7_1",0.2925
+30063,"Missoula County","Montana","pct5G_7_1",0.4263
+30065,"Musselshell County","Montana","pct5G_7_1",0.583
+30067,"Park County","Montana","pct5G_7_1",0.3877
+30069,"Petroleum County","Montana","pct5G_7_1",0.3133
+30071,"Phillips County","Montana","pct5G_7_1",0.2413
+30073,"Pondera County","Montana","pct5G_7_1",0.6655
+30075,"Powder River County","Montana","pct5G_7_1",0.1215
+30077,"Powell County","Montana","pct5G_7_1",0.3134
+30079,"Prairie County","Montana","pct5G_7_1",0.2348
+30081,"Ravalli County","Montana","pct5G_7_1",0.2889
+30083,"Richland County","Montana","pct5G_7_1",0.3809
+30085,"Roosevelt County","Montana","pct5G_7_1",0.5849
+30087,"Rosebud County","Montana","pct5G_7_1",0.3947
+30089,"Sanders County","Montana","pct5G_7_1",0.297
+30091,"Sheridan County","Montana","pct5G_7_1",0.3976
+30093,"Silver Bow County","Montana","pct5G_7_1",0.6342
+30095,"Stillwater County","Montana","pct5G_7_1",0.5006
+30097,"Sweet Grass County","Montana","pct5G_7_1",0.5218
+30099,"Teton County","Montana","pct5G_7_1",0.5907
+30101,"Toole County","Montana","pct5G_7_1",0.76
+30103,"Treasure County","Montana","pct5G_7_1",0.5221
+30105,"Valley County","Montana","pct5G_7_1",0.3108
+30107,"Wheatland County","Montana","pct5G_7_1",0.5194
+30109,"Wibaux County","Montana","pct5G_7_1",0.3559
+30111,"Yellowstone County","Montana","pct5G_7_1",0.7788
+32001,"Churchill County","Nevada","pct5G_7_1",0.2608
+32003,"Clark County","Nevada","pct5G_7_1",0.6222
+32005,"Douglas County","Nevada","pct5G_7_1",0.7462
+32007,"Elko County","Nevada","pct5G_7_1",0.3953
+32009,"Esmeralda County","Nevada","pct5G_7_1",0.3057
+32011,"Eureka County","Nevada","pct5G_7_1",0.3757
+32013,"Humboldt County","Nevada","pct5G_7_1",0.2175
+32015,"Lander County","Nevada","pct5G_7_1",0.3215
+32017,"Lincoln County","Nevada","pct5G_7_1",0.1793
+32019,"Lyon County","Nevada","pct5G_7_1",0.6195
+32021,"Mineral County","Nevada","pct5G_7_1",0.2342
+32023,"Nye County","Nevada","pct5G_7_1",0.2383
+32027,"Pershing County","Nevada","pct5G_7_1",0.2713
+32029,"Storey County","Nevada","pct5G_7_1",0.8406
+32031,"Washoe County","Nevada","pct5G_7_1",0.2739
+32033,"White Pine County","Nevada","pct5G_7_1",0.5559
+32510,"Carson City","Nevada","pct5G_7_1",0.9263
+49001,"Beaver County","Utah","pct5G_7_1",0.633
+49003,"Box Elder County","Utah","pct5G_7_1",0.625
+49005,"Cache County","Utah","pct5G_7_1",0.5447
+49007,"Carbon County","Utah","pct5G_7_1",0.5165
+49009,"Daggett County","Utah","pct5G_7_1",0.3683
+49011,"Davis County","Utah","pct5G_7_1",0.9111
+49013,"Duchesne County","Utah","pct5G_7_1",0.4731
+49015,"Emery County","Utah","pct5G_7_1",0.5176
+49017,"Garfield County","Utah","pct5G_7_1",0.3569
+49019,"Grand County","Utah","pct5G_7_1",0.5071
+49021,"Iron County","Utah","pct5G_7_1",0.7305
+49023,"Juab County","Utah","pct5G_7_1",0.3778
+49025,"Kane County","Utah","pct5G_7_1",0.3434
+49027,"Millard County","Utah","pct5G_7_1",0.4381
+49029,"Morgan County","Utah","pct5G_7_1",0.4313
+49031,"Piute County","Utah","pct5G_7_1",0.4078
+49033,"Rich County","Utah","pct5G_7_1",0.5768
+49035,"Salt Lake County","Utah","pct5G_7_1",0.9298
+49037,"San Juan County","Utah","pct5G_7_1",0.2283
+49039,"Sanpete County","Utah","pct5G_7_1",0.6563
+49041,"Sevier County","Utah","pct5G_7_1",0.5197
+49043,"Summit County","Utah","pct5G_7_1",0.3255
+49045,"Tooele County","Utah","pct5G_7_1",0.6342
+49047,"Uintah County","Utah","pct5G_7_1",0.6134
+49049,"Utah County","Utah","pct5G_7_1",0.7461
+49051,"Wasatch County","Utah","pct5G_7_1",0.4946
+49053,"Washington County","Utah","pct5G_7_1",0.7928
+49055,"Wayne County","Utah","pct5G_7_1",0.3355
+49057,"Weber County","Utah","pct5G_7_1",0.7184
+56001,"Albany County","Wyoming","pct5G_7_1",0.5209
+56003,"Big Horn County","Wyoming","pct5G_7_1",0.3683
+56005,"Campbell County","Wyoming","pct5G_7_1",0.47
+56007,"Carbon County","Wyoming","pct5G_7_1",0.23
+56009,"Converse County","Wyoming","pct5G_7_1",0.3989
+56011,"Crook County","Wyoming","pct5G_7_1",0.3493
+56013,"Fremont County","Wyoming","pct5G_7_1",0.1514
+56015,"Goshen County","Wyoming","pct5G_7_1",0.576
+56017,"Hot Springs County","Wyoming","pct5G_7_1",0.169
+56019,"Johnson County","Wyoming","pct5G_7_1",0.4382
+56021,"Laramie County","Wyoming","pct5G_7_1",0.7341
+56023,"Lincoln County","Wyoming","pct5G_7_1",0.1521
+56025,"Natrona County","Wyoming","pct5G_7_1",0.5212
+56027,"Niobrara County","Wyoming","pct5G_7_1",0.2741
+56029,"Park County","Wyoming","pct5G_7_1",0.2214
+56031,"Platte County","Wyoming","pct5G_7_1",0.6611
+56033,"Sheridan County","Wyoming","pct5G_7_1",0.3858
+56035,"Sublette County","Wyoming","pct5G_7_1",0.2008
+56037,"Sweetwater County","Wyoming","pct5G_7_1",0.2098
+56039,"Teton County","Wyoming","pct5G_7_1",0.1126
+56041,"Uinta County","Wyoming","pct5G_7_1",0.3105
+56043,"Washakie County","Wyoming","pct5G_7_1",0.1755
+56045,"Weston County","Wyoming","pct5G_7_1",0.4197
+16001,"Ada County","Idaho","pct5G_35_3",0.8124
+16003,"Adams County","Idaho","pct5G_35_3",0.2565
+16005,"Bannock County","Idaho","pct5G_35_3",0.5714
+16007,"Bear Lake County","Idaho","pct5G_35_3",0.3687
+16009,"Benewah County","Idaho","pct5G_35_3",0.272
+16011,"Bingham County","Idaho","pct5G_35_3",0.5361
+16013,"Blaine County","Idaho","pct5G_35_3",0.1965
+16015,"Boise County","Idaho","pct5G_35_3",0.1249
+16017,"Bonner County","Idaho","pct5G_35_3",0.3182
+16019,"Bonneville County","Idaho","pct5G_35_3",0.4231
+16021,"Boundary County","Idaho","pct5G_35_3",0.2505
+16023,"Butte County","Idaho","pct5G_35_3",0.3298
+16025,"Camas County","Idaho","pct5G_35_3",0.2869
+16027,"Canyon County","Idaho","pct5G_35_3",0.959
+16029,"Caribou County","Idaho","pct5G_35_3",0.1603
+16031,"Cassia County","Idaho","pct5G_35_3",0.5598
+16033,"Clark County","Idaho","pct5G_35_3",0.1772
+16035,"Clearwater County","Idaho","pct5G_35_3",0.0566
+16037,"Custer County","Idaho","pct5G_35_3",0.0457
+16039,"Elmore County","Idaho","pct5G_35_3",0.4405
+16041,"Franklin County","Idaho","pct5G_35_3",0.4111
+16043,"Fremont County","Idaho","pct5G_35_3",0.4617
+16045,"Gem County","Idaho","pct5G_35_3",0.4985
+16047,"Gooding County","Idaho","pct5G_35_3",0.791
+16049,"Idaho County","Idaho","pct5G_35_3",0.0675
+16051,"Jefferson County","Idaho","pct5G_35_3",0.6474
+16053,"Jerome County","Idaho","pct5G_35_3",0.8616
+16055,"Kootenai County","Idaho","pct5G_35_3",0.4942
+16057,"Latah County","Idaho","pct5G_35_3",0.4644
+16059,"Lemhi County","Idaho","pct5G_35_3",0.1414
+16061,"Lewis County","Idaho","pct5G_35_3",0.6448
+16063,"Lincoln County","Idaho","pct5G_35_3",0.5403
+16065,"Madison County","Idaho","pct5G_35_3",0.772
+16067,"Minidoka County","Idaho","pct5G_35_3",0.4558
+16069,"Nez Perce County","Idaho","pct5G_35_3",0.4569
+16071,"Oneida County","Idaho","pct5G_35_3",0.4533
+16073,"Owyhee County","Idaho","pct5G_35_3",0.1879
+16075,"Payette County","Idaho","pct5G_35_3",0.6845
+16077,"Power County","Idaho","pct5G_35_3",0.4537
+16079,"Shoshone County","Idaho","pct5G_35_3",0.0849
+16081,"Teton County","Idaho","pct5G_35_3",0.7437
+16083,"Twin Falls County","Idaho","pct5G_35_3",0.5771
+16085,"Valley County","Idaho","pct5G_35_3",0.1126
+16087,"Washington County","Idaho","pct5G_35_3",0.3529
+30001,"Beaverhead County","Montana","pct5G_35_3",0.1249
+30003,"Big Horn County","Montana","pct5G_35_3",0.2725
+30005,"Blaine County","Montana","pct5G_35_3",0.2135
+30007,"Broadwater County","Montana","pct5G_35_3",0.5145
+30009,"Carbon County","Montana","pct5G_35_3",0.4764
+30011,"Carter County","Montana","pct5G_35_3",0.0435
+30013,"Cascade County","Montana","pct5G_35_3",0.5186
+30015,"Chouteau County","Montana","pct5G_35_3",0.3401
+30017,"Custer County","Montana","pct5G_35_3",0.1943
+30019,"Daniels County","Montana","pct5G_35_3",0.0084
+30021,"Dawson County","Montana","pct5G_35_3",0.2735
+30023,"Deer Lodge County","Montana","pct5G_35_3",0.4178
+30025,"Fallon County","Montana","pct5G_35_3",0.4343
+30027,"Fergus County","Montana","pct5G_35_3",0.2306
+30029,"Flathead County","Montana","pct5G_35_3",0.256
+30031,"Gallatin County","Montana","pct5G_35_3",0.4352
+30033,"Garfield County","Montana","pct5G_35_3",0.103
+30035,"Glacier County","Montana","pct5G_35_3",0.2815
+30037,"Golden Valley County","Montana","pct5G_35_3",0.4308
+30039,"Granite County","Montana","pct5G_35_3",0.2738
+30041,"Hill County","Montana","pct5G_35_3",0.3614
+30043,"Jefferson County","Montana","pct5G_35_3",0.4946
+30045,"Judith Basin County","Montana","pct5G_35_3",0.3277
+30047,"Lake County","Montana","pct5G_35_3",0.5473
+30049,"Lewis and Clark County","Montana","pct5G_35_3",0.2688
+30051,"Liberty County","Montana","pct5G_35_3",0.4781
+30053,"Lincoln County","Montana","pct5G_35_3",0.1728
+30055,"McCone County","Montana","pct5G_35_3",0.1584
+30057,"Madison County","Montana","pct5G_35_3",0.3883
+30059,"Meagher County","Montana","pct5G_35_3",0.1526
+30061,"Mineral County","Montana","pct5G_35_3",0.2088
+30063,"Missoula County","Montana","pct5G_35_3",0.3245
+30065,"Musselshell County","Montana","pct5G_35_3",0.4747
+30067,"Park County","Montana","pct5G_35_3",0.3252
+30069,"Petroleum County","Montana","pct5G_35_3",0.1604
+30071,"Phillips County","Montana","pct5G_35_3",0.1419
+30073,"Pondera County","Montana","pct5G_35_3",0.5422
+30075,"Powder River County","Montana","pct5G_35_3",0.0648
+30077,"Powell County","Montana","pct5G_35_3",0.238
+30079,"Prairie County","Montana","pct5G_35_3",0.1392
+30081,"Ravalli County","Montana","pct5G_35_3",0.2209
+30083,"Richland County","Montana","pct5G_35_3",0.2406
+30085,"Roosevelt County","Montana","pct5G_35_3",0.3815
+30087,"Rosebud County","Montana","pct5G_35_3",0.2538
+30089,"Sanders County","Montana","pct5G_35_3",0.2321
+30091,"Sheridan County","Montana","pct5G_35_3",0.2957
+30093,"Silver Bow County","Montana","pct5G_35_3",0.5302
+30095,"Stillwater County","Montana","pct5G_35_3",0.3911
+30097,"Sweet Grass County","Montana","pct5G_35_3",0.4417
+30099,"Teton County","Montana","pct5G_35_3",0.4535
+30101,"Toole County","Montana","pct5G_35_3",0.5095
+30103,"Treasure County","Montana","pct5G_35_3",0.3832
+30105,"Valley County","Montana","pct5G_35_3",0.204
+30107,"Wheatland County","Montana","pct5G_35_3",0.3445
+30109,"Wibaux County","Montana","pct5G_35_3",0.2783
+30111,"Yellowstone County","Montana","pct5G_35_3",0.6209
+32001,"Churchill County","Nevada","pct5G_35_3",0.2081
+32003,"Clark County","Nevada","pct5G_35_3",0.5654
+32005,"Douglas County","Nevada","pct5G_35_3",0.6686
+32007,"Elko County","Nevada","pct5G_35_3",0.2723
+32009,"Esmeralda County","Nevada","pct5G_35_3",0.2344
+32011,"Eureka County","Nevada","pct5G_35_3",0.2944
+32013,"Humboldt County","Nevada","pct5G_35_3",0.1646
+32015,"Lander County","Nevada","pct5G_35_3",0.2829
+32017,"Lincoln County","Nevada","pct5G_35_3",0.147
+32019,"Lyon County","Nevada","pct5G_35_3",0.5375
+32021,"Mineral County","Nevada","pct5G_35_3",0.183
+32023,"Nye County","Nevada","pct5G_35_3",0.1824
+32027,"Pershing County","Nevada","pct5G_35_3",0.227
+32029,"Storey County","Nevada","pct5G_35_3",0.7103
+32031,"Washoe County","Nevada","pct5G_35_3",0.2239
+32033,"White Pine County","Nevada","pct5G_35_3",0.3432
+32510,"Carson City","Nevada","pct5G_35_3",0.8591
+49001,"Beaver County","Utah","pct5G_35_3",0.5838
+49003,"Box Elder County","Utah","pct5G_35_3",0.5042
+49005,"Cache County","Utah","pct5G_35_3",0.4895
+49007,"Carbon County","Utah","pct5G_35_3",0.4149
+49009,"Daggett County","Utah","pct5G_35_3",0.2952
+49011,"Davis County","Utah","pct5G_35_3",0.778
+49013,"Duchesne County","Utah","pct5G_35_3",0.3272
+49015,"Emery County","Utah","pct5G_35_3",0.3991
+49017,"Garfield County","Utah","pct5G_35_3",0.2939
+49019,"Grand County","Utah","pct5G_35_3",0.3725
+49021,"Iron County","Utah","pct5G_35_3",0.5777
+49023,"Juab County","Utah","pct5G_35_3",0.3107
+49025,"Kane County","Utah","pct5G_35_3",0.253
+49027,"Millard County","Utah","pct5G_35_3",0.3518
+49029,"Morgan County","Utah","pct5G_35_3",0.3175
+49031,"Piute County","Utah","pct5G_35_3",0.328
+49033,"Rich County","Utah","pct5G_35_3",0.5219
+49035,"Salt Lake County","Utah","pct5G_35_3",0.8541
+49037,"San Juan County","Utah","pct5G_35_3",0.2116
+49039,"Sanpete County","Utah","pct5G_35_3",0.5853
+49041,"Sevier County","Utah","pct5G_35_3",0.4432
+49043,"Summit County","Utah","pct5G_35_3",0.2675
+49045,"Tooele County","Utah","pct5G_35_3",0.5465
+49047,"Uintah County","Utah","pct5G_35_3",0.4103
+49049,"Utah County","Utah","pct5G_35_3",0.6666
+49051,"Wasatch County","Utah","pct5G_35_3",0.421
+49053,"Washington County","Utah","pct5G_35_3",0.65
+49055,"Wayne County","Utah","pct5G_35_3",0.2655
+49057,"Weber County","Utah","pct5G_35_3",0.5918
+56001,"Albany County","Wyoming","pct5G_35_3",0.3658
+56003,"Big Horn County","Wyoming","pct5G_35_3",0.2646
+56005,"Campbell County","Wyoming","pct5G_35_3",0.2999
+56007,"Carbon County","Wyoming","pct5G_35_3",0.1634
+56009,"Converse County","Wyoming","pct5G_35_3",0.2946
+56011,"Crook County","Wyoming","pct5G_35_3",0.2776
+56013,"Fremont County","Wyoming","pct5G_35_3",0.092
+56015,"Goshen County","Wyoming","pct5G_35_3",0.3821
+56017,"Hot Springs County","Wyoming","pct5G_35_3",0.1099
+56019,"Johnson County","Wyoming","pct5G_35_3",0.2577
+56021,"Laramie County","Wyoming","pct5G_35_3",0.5826
+56023,"Lincoln County","Wyoming","pct5G_35_3",0.1208
+56025,"Natrona County","Wyoming","pct5G_35_3",0.3408
+56027,"Niobrara County","Wyoming","pct5G_35_3",0.2254
+56029,"Park County","Wyoming","pct5G_35_3",0.148
+56031,"Platte County","Wyoming","pct5G_35_3",0.4811
+56033,"Sheridan County","Wyoming","pct5G_35_3",0.2519
+56035,"Sublette County","Wyoming","pct5G_35_3",0.1243
+56037,"Sweetwater County","Wyoming","pct5G_35_3",0.123
+56039,"Teton County","Wyoming","pct5G_35_3",0.0846
+56041,"Uinta County","Wyoming","pct5G_35_3",0.2053
+56043,"Washakie County","Wyoming","pct5G_35_3",0.1176
+56045,"Weston County","Wyoming","pct5G_35_3",0.2876
+16001,"Ada County","Idaho","LILATracts_Vehicle",0.05011957290579
+16003,"Adams County","Idaho","LILATracts_Vehicle",0
+16005,"Bannock County","Idaho","LILATracts_Vehicle",0
+16007,"Bear Lake County","Idaho","LILATracts_Vehicle",0
+16009,"Benewah County","Idaho","LILATracts_Vehicle",0
+16011,"Bingham County","Idaho","LILATracts_Vehicle",0
+16013,"Blaine County","Idaho","LILATracts_Vehicle",0
+16015,"Boise County","Idaho","LILATracts_Vehicle",0
+16017,"Bonner County","Idaho","LILATracts_Vehicle",0.065672514619883
+16019,"Bonneville County","Idaho","LILATracts_Vehicle",0.190832400556936
+16021,"Boundary County","Idaho","LILATracts_Vehicle",0
+16023,"Butte County","Idaho","LILATracts_Vehicle",0
+16025,"Camas County","Idaho","LILATracts_Vehicle",1
+16027,"Canyon County","Idaho","LILATracts_Vehicle",0.180334570152821
+16029,"Caribou County","Idaho","LILATracts_Vehicle",0
+16031,"Cassia County","Idaho","LILATracts_Vehicle",0
+16033,"Clark County","Idaho","LILATracts_Vehicle",1
+16035,"Clearwater County","Idaho","LILATracts_Vehicle",0
+16037,"Custer County","Idaho","LILATracts_Vehicle",0
+16039,"Elmore County","Idaho","LILATracts_Vehicle",0.11439842209073
+16041,"Franklin County","Idaho","LILATracts_Vehicle",0
+16043,"Fremont County","Idaho","LILATracts_Vehicle",0
+16045,"Gem County","Idaho","LILATracts_Vehicle",0.32963818321786
+16047,"Gooding County","Idaho","LILATracts_Vehicle",0
+16049,"Idaho County","Idaho","LILATracts_Vehicle",0.498683055311677
+16051,"Jefferson County","Idaho","LILATracts_Vehicle",0
+16053,"Jerome County","Idaho","LILATracts_Vehicle",0
+16055,"Kootenai County","Idaho","LILATracts_Vehicle",0.0415313653136531
+16057,"Latah County","Idaho","LILATracts_Vehicle",0
+16059,"Lemhi County","Idaho","LILATracts_Vehicle",0
+16061,"Lewis County","Idaho","LILATracts_Vehicle",0
+16063,"Lincoln County","Idaho","LILATracts_Vehicle",0
+16065,"Madison County","Idaho","LILATracts_Vehicle",0.311092262746207
+16067,"Minidoka County","Idaho","LILATracts_Vehicle",0
+16069,"Nez Perce County","Idaho","LILATracts_Vehicle",0
+16071,"Oneida County","Idaho","LILATracts_Vehicle",0
+16073,"Owyhee County","Idaho","LILATracts_Vehicle",0.358684985279686
+16075,"Payette County","Idaho","LILATracts_Vehicle",0
+16077,"Power County","Idaho","LILATracts_Vehicle",0
+16079,"Shoshone County","Idaho","LILATracts_Vehicle",0
+16081,"Teton County","Idaho","LILATracts_Vehicle",0
+16083,"Twin Falls County","Idaho","LILATracts_Vehicle",0.141655076495132
+16085,"Valley County","Idaho","LILATracts_Vehicle",0
+16087,"Washington County","Idaho","LILATracts_Vehicle",0.369112543381259
+30001,"Beaverhead County","Montana","LILATracts_Vehicle",0
+30003,"Big Horn County","Montana","LILATracts_Vehicle",0.120629370629371
+30005,"Blaine County","Montana","LILATracts_Vehicle",0.169707254985151
+30007,"Broadwater County","Montana","LILATracts_Vehicle",0
+30009,"Carbon County","Montana","LILATracts_Vehicle",0
+30011,"Carter County","Montana","LILATracts_Vehicle",0
+30013,"Cascade County","Montana","LILATracts_Vehicle",0.148481173651986
+30015,"Chouteau County","Montana","LILATracts_Vehicle",0.589363557105493
+30017,"Custer County","Montana","LILATracts_Vehicle",0
+30019,"Daniels County","Montana","LILATracts_Vehicle",0
+30021,"Dawson County","Montana","LILATracts_Vehicle",0
+30023,"Deer Lodge County","Montana","LILATracts_Vehicle",0.341961174713788
+30025,"Fallon County","Montana","LILATracts_Vehicle",0
+30027,"Fergus County","Montana","LILATracts_Vehicle",0.596587566189449
+30029,"Flathead County","Montana","LILATracts_Vehicle",0
+30031,"Gallatin County","Montana","LILATracts_Vehicle",0
+30033,"Garfield County","Montana","LILATracts_Vehicle",0
+30035,"Glacier County","Montana","LILATracts_Vehicle",0.291217610639762
+30037,"Golden Valley County","Montana","LILATracts_Vehicle",1
+30039,"Granite County","Montana","LILATracts_Vehicle",0
+30041,"Hill County","Montana","LILATracts_Vehicle",0
+30043,"Jefferson County","Montana","LILATracts_Vehicle",0
+30045,"Judith Basin County","Montana","LILATracts_Vehicle",0
+30047,"Lake County","Montana","LILATracts_Vehicle",0
+30049,"Lewis and Clark County","Montana","LILATracts_Vehicle",0.0705027346969356
+30051,"Liberty County","Montana","LILATracts_Vehicle",0
+30053,"Lincoln County","Montana","LILATracts_Vehicle",0
+30055,"McCone County","Montana","LILATracts_Vehicle",0
+30057,"Madison County","Montana","LILATracts_Vehicle",0
+30059,"Meagher County","Montana","LILATracts_Vehicle",1
+30061,"Mineral County","Montana","LILATracts_Vehicle",0.500784929356358
+30063,"Missoula County","Montana","LILATracts_Vehicle",0.111570787789052
+30065,"Musselshell County","Montana","LILATracts_Vehicle",0
+30067,"Park County","Montana","LILATracts_Vehicle",0
+30069,"Petroleum County","Montana","LILATracts_Vehicle",0
+30071,"Phillips County","Montana","LILATracts_Vehicle",0
+30073,"Pondera County","Montana","LILATracts_Vehicle",0
+30075,"Powder River County","Montana","LILATracts_Vehicle",0
+30077,"Powell County","Montana","LILATracts_Vehicle",0
+30079,"Prairie County","Montana","LILATracts_Vehicle",0
+30081,"Ravalli County","Montana","LILATracts_Vehicle",0.157444044174098
+30083,"Richland County","Montana","LILATracts_Vehicle",0
+30085,"Roosevelt County","Montana","LILATracts_Vehicle",0.369265409513088
+30087,"Rosebud County","Montana","LILATracts_Vehicle",0
+30089,"Sanders County","Montana","LILATracts_Vehicle",0.52489748096075
+30091,"Sheridan County","Montana","LILATracts_Vehicle",0
+30093,"Silver Bow County","Montana","LILATracts_Vehicle",0.137422984195017
+30095,"Stillwater County","Montana","LILATracts_Vehicle",0
+30097,"Sweet Grass County","Montana","LILATracts_Vehicle",0
+30099,"Teton County","Montana","LILATracts_Vehicle",0
+30101,"Toole County","Montana","LILATracts_Vehicle",0
+30103,"Treasure County","Montana","LILATracts_Vehicle",1
+30105,"Valley County","Montana","LILATracts_Vehicle",0
+30107,"Wheatland County","Montana","LILATracts_Vehicle",0
+30109,"Wibaux County","Montana","LILATracts_Vehicle",1
+30111,"Yellowstone County","Montana","LILATracts_Vehicle",0.0573081487341772
+32001,"Churchill County","Nevada","LILATracts_Vehicle",0.219625685037742
+32003,"Clark County","Nevada","LILATracts_Vehicle",0.121294723672531
+32005,"Douglas County","Nevada","LILATracts_Vehicle",0
+32007,"Elko County","Nevada","LILATracts_Vehicle",0.0596835225318197
+32009,"Esmeralda County","Nevada","LILATracts_Vehicle",1
+32011,"Eureka County","Nevada","LILATracts_Vehicle",0
+32013,"Humboldt County","Nevada","LILATracts_Vehicle",0
+32015,"Lander County","Nevada","LILATracts_Vehicle",0
+32017,"Lincoln County","Nevada","LILATracts_Vehicle",0
+32019,"Lyon County","Nevada","LILATracts_Vehicle",0.111066235864297
+32021,"Mineral County","Nevada","LILATracts_Vehicle",0
+32023,"Nye County","Nevada","LILATracts_Vehicle",0.198258651286602
+32027,"Pershing County","Nevada","LILATracts_Vehicle",0
+32029,"Storey County","Nevada","LILATracts_Vehicle",0
+32031,"Washoe County","Nevada","LILATracts_Vehicle",0.138370705741993
+32033,"White Pine County","Nevada","LILATracts_Vehicle",0
+32510,"Carson City","Nevada","LILATracts_Vehicle",0
+49001,"Beaver County","Utah","LILATracts_Vehicle",0
+49003,"Box Elder County","Utah","LILATracts_Vehicle",0.159297546394321
+49005,"Cache County","Utah","LILATracts_Vehicle",0.0488739127930419
+49007,"Carbon County","Utah","LILATracts_Vehicle",0.208573577337679
+49009,"Daggett County","Utah","LILATracts_Vehicle",0
+49011,"Davis County","Utah","LILATracts_Vehicle",0
+49013,"Duchesne County","Utah","LILATracts_Vehicle",0.218390804597701
+49015,"Emery County","Utah","LILATracts_Vehicle",0.321007502679528
+49017,"Garfield County","Utah","LILATracts_Vehicle",0
+49019,"Grand County","Utah","LILATracts_Vehicle",0.522499357161224
+49021,"Iron County","Utah","LILATracts_Vehicle",0.209293036879244
+49023,"Juab County","Utah","LILATracts_Vehicle",0
+49025,"Kane County","Utah","LILATracts_Vehicle",0
+49027,"Millard County","Utah","LILATracts_Vehicle",0
+49029,"Morgan County","Utah","LILATracts_Vehicle",0
+49031,"Piute County","Utah","LILATracts_Vehicle",1
+49033,"Rich County","Utah","LILATracts_Vehicle",0
+49035,"Salt Lake County","Utah","LILATracts_Vehicle",0.0799685951281587
+49037,"San Juan County","Utah","LILATracts_Vehicle",0.373140954495006
+49039,"Sanpete County","Utah","LILATracts_Vehicle",0
+49041,"Sevier County","Utah","LILATracts_Vehicle",0
+49043,"Summit County","Utah","LILATracts_Vehicle",0
+49045,"Tooele County","Utah","LILATracts_Vehicle",0.18724611874687
+49047,"Uintah County","Utah","LILATracts_Vehicle",0
+49049,"Utah County","Utah","LILATracts_Vehicle",0.00855606605880428
+49051,"Wasatch County","Utah","LILATracts_Vehicle",0
+49053,"Washington County","Utah","LILATracts_Vehicle",0.0762507014287564
+49055,"Wayne County","Utah","LILATracts_Vehicle",0
+49057,"Weber County","Utah","LILATracts_Vehicle",0.0322293899527607
+56001,"Albany County","Wyoming","LILATracts_Vehicle",0
+56003,"Big Horn County","Wyoming","LILATracts_Vehicle",0
+56005,"Campbell County","Wyoming","LILATracts_Vehicle",0.125669694852085
+56007,"Carbon County","Wyoming","LILATracts_Vehicle",0.216812773951158
+56009,"Converse County","Wyoming","LILATracts_Vehicle",0
+56011,"Crook County","Wyoming","LILATracts_Vehicle",0
+56013,"Fremont County","Wyoming","LILATracts_Vehicle",0
+56015,"Goshen County","Wyoming","LILATracts_Vehicle",0
+56017,"Hot Springs County","Wyoming","LILATracts_Vehicle",0
+56019,"Johnson County","Wyoming","LILATracts_Vehicle",0
+56021,"Laramie County","Wyoming","LILATracts_Vehicle",0.0583617202469661
+56023,"Lincoln County","Wyoming","LILATracts_Vehicle",0
+56025,"Natrona County","Wyoming","LILATracts_Vehicle",0.0669584530964202
+56027,"Niobrara County","Wyoming","LILATracts_Vehicle",0
+56029,"Park County","Wyoming","LILATracts_Vehicle",0
+56031,"Platte County","Wyoming","LILATracts_Vehicle",0
+56033,"Sheridan County","Wyoming","LILATracts_Vehicle",0
+56035,"Sublette County","Wyoming","LILATracts_Vehicle",0
+56037,"Sweetwater County","Wyoming","LILATracts_Vehicle",0.137541729893778
+56039,"Teton County","Wyoming","LILATracts_Vehicle",0
+56041,"Uinta County","Wyoming","LILATracts_Vehicle",0.343244653103808
+56043,"Washakie County","Wyoming","LILATracts_Vehicle",0
+56045,"Weston County","Wyoming","LILATracts_Vehicle",0

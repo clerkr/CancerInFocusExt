@@ -15,7 +15,9 @@ AWS_FIPS = ['16', '30', '32', '49', '56', 16, 30, 32, 49, 56]
 # Set options
 OPTIONS = {}
 # OPTIONS['datasets'] = ['AQI', 'Radon', 'BRFSS', 'FCC', 'HINTS']
-OPTIONS['datasets'] = ['Census']
+# OPTIONS['datasets'] = ['Census']
+OPTIONS['datasets'] = ['AQI', 'FCC']
+print('pull shape')
 
 # %%
 
@@ -103,7 +105,7 @@ if 'HPV' in OPTIONS['datasets']:
 
 # Close the connection
 conn.close()
-
+print('pulled data from database')
 # %%
 
 # ----- State FIPS -----
@@ -1199,42 +1201,44 @@ if 'HINTS' in OPTIONS['datasets']:
 
 # --- HPV ---
 
-# Filter to area we serve
-hpv = hpv[[x in AWS for x in hpv['Geography']]]
+if 'HPV' in OPTIONS['datasets']:
 
-# Add FIPS
-hpv = hpv.merge(aws_state_fips, how='outer', on='state')
+    # Filter to area we serve
+    hpv = hpv[[x in AWS for x in hpv['Geography']]]
 
-# Only keep the columns we want
-hpv = hpv.drop(['idTobacco', 'stateAbbreviation', 'currentSmokers', 'formerSmokers', 'neverSmoked', 'everSmokedAtLeast100Cigarettes', 'haventEverSmokedAtLeast100Cigarettes', 'neverUsedECigs'], axis='columns')
+    # Add FIPS
+    hpv = hpv.merge(aws_state_fips, how='outer', on='state')
 
-# Create long data and rename columns
-hpv_long = pd.melt(hpv, id_vars=['state', 'fips'], var_name='measure', value_name='value')
-hpv_long.columns = ['State', 'GEOID', 'measure', 'value']
+    # Only keep the columns we want
+    hpv = hpv.drop(['idTobacco', 'stateAbbreviation', 'currentSmokers', 'formerSmokers', 'neverSmoked', 'everSmokedAtLeast100Cigarettes', 'haventEverSmokedAtLeast100Cigarettes', 'neverUsedECigs'], axis='columns')
 
-# Create columns for category, race/ethnicity, and sex
-hpv_long['cat'] = 'Screening & Risk Factors'
-hpv_long['RE'] = pd.NA
-hpv_long['Sex'] = pd.NA
+    # Create long data and rename columns
+    hpv_long = pd.melt(hpv, id_vars=['state', 'fips'], var_name='measure', value_name='value')
+    hpv_long.columns = ['State', 'GEOID', 'measure', 'value']
 
-# Create measure definitions column
-hpv_long['def'] = hpv_long['measure'].apply(lambda x: hints_defs[x])
+    # Create columns for category, race/ethnicity, and sex
+    hpv_long['cat'] = 'Screening & Risk Factors'
+    hpv_long['RE'] = pd.NA
+    hpv_long['Sex'] = pd.NA
 
-# Create format column
-hpv_long['fmt'] = hpv_long['measure'].apply(lambda x: hints_fmt[x])
+    # Create measure definitions column
+    hpv_long['def'] = hpv_long['measure'].apply(lambda x: hints_defs[x])
 
-# Create data source column
-hpv_long['source'] = 'Health Information National Trends Survey'
+    # Create format column
+    hpv_long['fmt'] = hpv_long['measure'].apply(lambda x: hints_fmt[x])
 
-# Create label column
-hpv_long['lbl'] = hpv_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
+    # Create data source column
+    hpv_long['source'] = 'Health Information National Trends Survey'
 
-# Reorder columns
-hpv_long = hpv_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
+    # Create label column
+    hpv_long['lbl'] = hpv_long['value'].apply(lambda x: f'{x * 100:.1f}%' if not pd.isna(x) else x)
 
-# Append to county column
-hpv_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+    # Reorder columns
+    hpv_long = hpv_long[["cat","GEOID","State","measure","value","RE","Sex","def","fmt","source","lbl"]]
 
-# Add measures to measure dictionary
-measures = hpv_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
-# measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')
+    # Append to county column
+    hpv_long.to_csv('ShinyCIF/www/data/all_state.csv', index=False, quoting=csv.QUOTE_NONNUMERIC, na_rep="NA", header=False, mode='a')
+
+    # Add measures to measure dictionary
+    measures = hpv_long[['measure', 'def', 'fmt', 'source']].drop_duplicates()
+    # measures.to_csv('ShinyCIF/www/measure_dictionary_v5.csv', index=False, na_rep="NA", header=False, mode='a')

@@ -2,13 +2,15 @@
 
 #### Prod Env ####
 
+cd /srv/external/
+
 rm -rf old
 mv huntsman_catchment_data old
 mkdir huntsman_catchment_data
 
 Rscript setup/download.R
 
-docker build -t setup -f setup/Dockerfile .
+docker build -t setup-ext -f setup/Dockerfile .
 
 docker run \
     -v /srv/external/ShinyCIF:/srv/external/ShinyCIF \
@@ -16,11 +18,13 @@ docker run \
     -v /srv/external/ShinyCIFBivar:/srv/external/ShinyCIFBivar \
     -v /srv/external/huntsman_catchment_data:/srv/external/huntsman_catchment_data \
     -v /srv/external/setup:/srv/external/setup \
-    setup
+    setup-ext
 
 
 sh setup/SHAPE/rebuild_shape.sh
 sh setup/SHAPE/shape.sh
+
+echo "Setup complete"
 
 #### Dev Env ####
 

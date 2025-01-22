@@ -1,0 +1,1860 @@
+"FIPS","County","State","measure","value"
+16001,"Ada County","Idaho","Gini Coefficient",0.4516
+16003,"Adams County","Idaho","Gini Coefficient",0.4807
+16005,"Bannock County","Idaho","Gini Coefficient",0.4405
+16007,"Bear Lake County","Idaho","Gini Coefficient",0.4129
+16009,"Benewah County","Idaho","Gini Coefficient",0.4618
+16011,"Bingham County","Idaho","Gini Coefficient",0.4241
+16013,"Blaine County","Idaho","Gini Coefficient",0.4802
+16015,"Boise County","Idaho","Gini Coefficient",0.3601
+16017,"Bonner County","Idaho","Gini Coefficient",0.4701
+16019,"Bonneville County","Idaho","Gini Coefficient",0.4279
+16021,"Boundary County","Idaho","Gini Coefficient",0.4194
+16023,"Butte County","Idaho","Gini Coefficient",0.4652
+16025,"Camas County","Idaho","Gini Coefficient",0.429
+16027,"Canyon County","Idaho","Gini Coefficient",0.3945
+16029,"Caribou County","Idaho","Gini Coefficient",0.3877
+16031,"Cassia County","Idaho","Gini Coefficient",0.4433
+16033,"Clark County","Idaho","Gini Coefficient",0.3236
+16035,"Clearwater County","Idaho","Gini Coefficient",0.4263
+16037,"Custer County","Idaho","Gini Coefficient",0.3954
+16039,"Elmore County","Idaho","Gini Coefficient",0.4206
+16041,"Franklin County","Idaho","Gini Coefficient",0.4213
+16043,"Fremont County","Idaho","Gini Coefficient",0.4173
+16045,"Gem County","Idaho","Gini Coefficient",0.4339
+16047,"Gooding County","Idaho","Gini Coefficient",0.4414
+16049,"Idaho County","Idaho","Gini Coefficient",0.4282
+16051,"Jefferson County","Idaho","Gini Coefficient",0.3746
+16053,"Jerome County","Idaho","Gini Coefficient",0.4368
+16055,"Kootenai County","Idaho","Gini Coefficient",0.427
+16057,"Latah County","Idaho","Gini Coefficient",0.4611
+16059,"Lemhi County","Idaho","Gini Coefficient",0.4945
+16061,"Lewis County","Idaho","Gini Coefficient",0.4724
+16063,"Lincoln County","Idaho","Gini Coefficient",0.3876
+16065,"Madison County","Idaho","Gini Coefficient",0.5121
+16067,"Minidoka County","Idaho","Gini Coefficient",0.4301
+16069,"Nez Perce County","Idaho","Gini Coefficient",0.4529
+16071,"Oneida County","Idaho","Gini Coefficient",0.4038
+16073,"Owyhee County","Idaho","Gini Coefficient",0.3911
+16075,"Payette County","Idaho","Gini Coefficient",0.3891
+16077,"Power County","Idaho","Gini Coefficient",0.3551
+16079,"Shoshone County","Idaho","Gini Coefficient",0.4079
+16081,"Teton County","Idaho","Gini Coefficient",0.4147
+16083,"Twin Falls County","Idaho","Gini Coefficient",0.4363
+16085,"Valley County","Idaho","Gini Coefficient",0.5103
+16087,"Washington County","Idaho","Gini Coefficient",0.4367
+30001,"Beaverhead County","Montana","Gini Coefficient",0.4357
+30003,"Big Horn County","Montana","Gini Coefficient",0.4325
+30005,"Blaine County","Montana","Gini Coefficient",0.4686
+30007,"Broadwater County","Montana","Gini Coefficient",0.4199
+30009,"Carbon County","Montana","Gini Coefficient",0.4626
+30011,"Carter County","Montana","Gini Coefficient",0.3892
+30013,"Cascade County","Montana","Gini Coefficient",0.4435
+30015,"Chouteau County","Montana","Gini Coefficient",0.4419
+30017,"Custer County","Montana","Gini Coefficient",0.4456
+30019,"Daniels County","Montana","Gini Coefficient",0.3843
+30021,"Dawson County","Montana","Gini Coefficient",0.3993
+30023,"Deer Lodge County","Montana","Gini Coefficient",0.4252
+30025,"Fallon County","Montana","Gini Coefficient",0.4872
+30027,"Fergus County","Montana","Gini Coefficient",0.4323
+30029,"Flathead County","Montana","Gini Coefficient",0.4495
+30031,"Gallatin County","Montana","Gini Coefficient",0.4724
+30033,"Garfield County","Montana","Gini Coefficient",0.4626
+30035,"Glacier County","Montana","Gini Coefficient",0.4841
+30037,"Golden Valley County","Montana","Gini Coefficient",0.4541
+30039,"Granite County","Montana","Gini Coefficient",0.4768
+30041,"Hill County","Montana","Gini Coefficient",0.4428
+30043,"Jefferson County","Montana","Gini Coefficient",0.432
+30045,"Judith Basin County","Montana","Gini Coefficient",0.5063
+30047,"Lake County","Montana","Gini Coefficient",0.4879
+30049,"Lewis And Clark County","Montana","Gini Coefficient",0.443
+30051,"Liberty County","Montana","Gini Coefficient",0.4998
+30053,"Lincoln County","Montana","Gini Coefficient",0.4437
+30055,"McCone County","Montana","Gini Coefficient",0.3877
+30057,"Madison County","Montana","Gini Coefficient",0.4127
+30059,"Meagher County","Montana","Gini Coefficient",0.4441
+30061,"Mineral County","Montana","Gini Coefficient",0.452
+30063,"Missoula County","Montana","Gini Coefficient",0.472
+30065,"Musselshell County","Montana","Gini Coefficient",0.4738
+30067,"Park County","Montana","Gini Coefficient",0.4793
+30069,"Petroleum County","Montana","Gini Coefficient",0.4207
+30071,"Phillips County","Montana","Gini Coefficient",0.4401
+30073,"Pondera County","Montana","Gini Coefficient",0.4503
+30075,"Powder River County","Montana","Gini Coefficient",0.47
+30077,"Powell County","Montana","Gini Coefficient",0.4452
+30079,"Prairie County","Montana","Gini Coefficient",0.522
+30081,"Ravalli County","Montana","Gini Coefficient",0.4385
+30083,"Richland County","Montana","Gini Coefficient",0.4563
+30085,"Roosevelt County","Montana","Gini Coefficient",0.4663
+30087,"Rosebud County","Montana","Gini Coefficient",0.4553
+30089,"Sanders County","Montana","Gini Coefficient",0.4487
+30091,"Sheridan County","Montana","Gini Coefficient",0.5003
+30093,"Silver Bow County","Montana","Gini Coefficient",0.4847
+30095,"Stillwater County","Montana","Gini Coefficient",0.4601
+30097,"Sweet Grass County","Montana","Gini Coefficient",0.4571
+30099,"Teton County","Montana","Gini Coefficient",0.4151
+30101,"Toole County","Montana","Gini Coefficient",0.4462
+30103,"Treasure County","Montana","Gini Coefficient",0.4859
+30105,"Valley County","Montana","Gini Coefficient",0.384
+30107,"Wheatland County","Montana","Gini Coefficient",0.4987
+30109,"Wibaux County","Montana","Gini Coefficient",0.4149
+30111,"Yellowstone County","Montana","Gini Coefficient",0.4582
+32001,"Churchill County","Nevada","Gini Coefficient",0.4278
+32003,"Clark County","Nevada","Gini Coefficient",0.4697
+32005,"Douglas County","Nevada","Gini Coefficient",0.4723
+32007,"Elko County","Nevada","Gini Coefficient",0.4229
+32009,"Esmeralda County","Nevada","Gini Coefficient",0.4779
+32011,"Eureka County","Nevada","Gini Coefficient",0.3868
+32013,"Humboldt County","Nevada","Gini Coefficient",0.4368
+32015,"Lander County","Nevada","Gini Coefficient",0.4184
+32017,"Lincoln County","Nevada","Gini Coefficient",0.3908
+32019,"Lyon County","Nevada","Gini Coefficient",0.4121
+32021,"Mineral County","Nevada","Gini Coefficient",0.4095
+32023,"Nye County","Nevada","Gini Coefficient",0.4427
+32027,"Pershing County","Nevada","Gini Coefficient",0.3923
+32029,"Storey County","Nevada","Gini Coefficient",0.4186
+32031,"Washoe County","Nevada","Gini Coefficient",0.4661
+32033,"White Pine County","Nevada","Gini Coefficient",0.3571
+32510,"Carson City","Nevada","Gini Coefficient",0.4464
+49001,"Beaver County","Utah","Gini Coefficient",0.3437
+49003,"Box Elder County","Utah","Gini Coefficient",0.3973
+49005,"Cache County","Utah","Gini Coefficient",0.4316
+49007,"Carbon County","Utah","Gini Coefficient",0.4393
+49009,"Daggett County","Utah","Gini Coefficient",0.4086
+49011,"Davis County","Utah","Gini Coefficient",0.3909
+49013,"Duchesne County","Utah","Gini Coefficient",0.4246
+49015,"Emery County","Utah","Gini Coefficient",0.3824
+49017,"Garfield County","Utah","Gini Coefficient",0.4577
+49019,"Grand County","Utah","Gini Coefficient",0.4801
+49021,"Iron County","Utah","Gini Coefficient",0.429
+49023,"Juab County","Utah","Gini Coefficient",0.3742
+49025,"Kane County","Utah","Gini Coefficient",0.4395
+49027,"Millard County","Utah","Gini Coefficient",0.36
+49029,"Morgan County","Utah","Gini Coefficient",0.3649
+49031,"Piute County","Utah","Gini Coefficient",0.4586
+49033,"Rich County","Utah","Gini Coefficient",0.3736
+49035,"Salt Lake County","Utah","Gini Coefficient",0.4297
+49037,"San Juan County","Utah","Gini Coefficient",0.4614
+49039,"Sanpete County","Utah","Gini Coefficient",0.4095
+49041,"Sevier County","Utah","Gini Coefficient",0.3874
+49043,"Summit County","Utah","Gini Coefficient",0.5026
+49045,"Tooele County","Utah","Gini Coefficient",0.3883
+49047,"Uintah County","Utah","Gini Coefficient",0.4507
+49049,"Utah County","Utah","Gini Coefficient",0.4143
+49051,"Wasatch County","Utah","Gini Coefficient",0.4683
+49053,"Washington County","Utah","Gini Coefficient",0.4513
+49055,"Wayne County","Utah","Gini Coefficient",0.3855
+49057,"Weber County","Utah","Gini Coefficient",0.3985
+56001,"Albany County","Wyoming","Gini Coefficient",0.4861
+56003,"Big Horn County","Wyoming","Gini Coefficient",0.4191
+56005,"Campbell County","Wyoming","Gini Coefficient",0.3918
+56007,"Carbon County","Wyoming","Gini Coefficient",0.4181
+56009,"Converse County","Wyoming","Gini Coefficient",0.4106
+56011,"Crook County","Wyoming","Gini Coefficient",0.3738
+56013,"Fremont County","Wyoming","Gini Coefficient",0.4204
+56015,"Goshen County","Wyoming","Gini Coefficient",0.4571
+56017,"Hot Springs County","Wyoming","Gini Coefficient",0.3999
+56019,"Johnson County","Wyoming","Gini Coefficient",0.4534
+56021,"Laramie County","Wyoming","Gini Coefficient",0.4364
+56023,"Lincoln County","Wyoming","Gini Coefficient",0.3843
+56025,"Natrona County","Wyoming","Gini Coefficient",0.4456
+56027,"Niobrara County","Wyoming","Gini Coefficient",0.49
+56029,"Park County","Wyoming","Gini Coefficient",0.4511
+56031,"Platte County","Wyoming","Gini Coefficient",0.421
+56033,"Sheridan County","Wyoming","Gini Coefficient",0.4425
+56035,"Sublette County","Wyoming","Gini Coefficient",0.5435
+56037,"Sweetwater County","Wyoming","Gini Coefficient",0.4411
+56039,"Teton County","Wyoming","Gini Coefficient",0.5222
+56041,"Uinta County","Wyoming","Gini Coefficient",0.3647
+56043,"Washakie County","Wyoming","Gini Coefficient",0.4231
+56045,"Weston County","Wyoming","Gini Coefficient",0.4291
+16001,"Ada County","Idaho","Economic Segregation",0.116542958820539
+16003,"Adams County","Idaho","Economic Segregation",-0.0702054794520548
+16005,"Bannock County","Idaho","Economic Segregation",-0.0925314937012598
+16007,"Bear Lake County","Idaho","Economic Segregation",-0.0632582322357019
+16009,"Benewah County","Idaho","Economic Segregation",-0.118149824032177
+16011,"Bingham County","Idaho","Economic Segregation",0.00743331875819851
+16013,"Blaine County","Idaho","Economic Segregation",0.0877621665648544
+16015,"Boise County","Idaho","Economic Segregation",0.00766174801362089
+16017,"Bonner County","Idaho","Economic Segregation",-0.0755650798510128
+16019,"Bonneville County","Idaho","Economic Segregation",0.0148462354188759
+16021,"Boundary County","Idaho","Economic Segregation",-0.160910031023785
+16023,"Butte County","Idaho","Economic Segregation",-0.236971484759095
+16025,"Camas County","Idaho","Economic Segregation",-0.0530973451327434
+16027,"Canyon County","Idaho","Economic Segregation",-0.0273580807105619
+16029,"Caribou County","Idaho","Economic Segregation",-0.0958847736625514
+16031,"Cassia County","Idaho","Economic Segregation",-0.0725904345714979
+16033,"Clark County","Idaho","Economic Segregation",-0.214285714285714
+16035,"Clearwater County","Idaho","Economic Segregation",-0.161190676776186
+16037,"Custer County","Idaho","Economic Segregation",-0.177961717537506
+16039,"Elmore County","Idaho","Economic Segregation",-0.106102507374631
+16041,"Franklin County","Idaho","Economic Segregation",-0.00410677618069815
+16043,"Fremont County","Idaho","Economic Segregation",-0.0410563692853972
+16045,"Gem County","Idaho","Economic Segregation",-0.0418579530110721
+16047,"Gooding County","Idaho","Economic Segregation",-0.129716981132075
+16049,"Idaho County","Idaho","Economic Segregation",-0.14923100350236
+16051,"Jefferson County","Idaho","Economic Segregation",0.00959692898272553
+16053,"Jerome County","Idaho","Economic Segregation",-0.052573798487436
+16055,"Kootenai County","Idaho","Economic Segregation",0.0155707339661959
+16057,"Latah County","Idaho","Economic Segregation",-0.0918545273383983
+16059,"Lemhi County","Idaho","Economic Segregation",-0.244179104477612
+16061,"Lewis County","Idaho","Economic Segregation",-0.238680465717982
+16063,"Lincoln County","Idaho","Economic Segregation",-0.0974945533769063
+16065,"Madison County","Idaho","Economic Segregation",-0.132415088433245
+16067,"Minidoka County","Idaho","Economic Segregation",-0.0816483235218838
+16069,"Nez Perce County","Idaho","Economic Segregation",-0.0671884057971014
+16071,"Oneida County","Idaho","Economic Segregation",-0.0559006211180124
+16073,"Owyhee County","Idaho","Economic Segregation",-0.152306967984934
+16075,"Payette County","Idaho","Economic Segregation",-0.0476742959603417
+16077,"Power County","Idaho","Economic Segregation",-0.101181683899557
+16079,"Shoshone County","Idaho","Economic Segregation",-0.221341785525621
+16081,"Teton County","Idaho","Economic Segregation",0.13732779357096
+16083,"Twin Falls County","Idaho","Economic Segregation",-0.0794703939608398
+16085,"Valley County","Idaho","Economic Segregation",-0.0206458443620963
+16087,"Washington County","Idaho","Economic Segregation",-0.188554658840792
+30001,"Beaverhead County","Montana","Economic Segregation",-0.14753700558117
+30003,"Big Horn County","Montana","Economic Segregation",-0.202655107017069
+30005,"Blaine County","Montana","Economic Segregation",-0.200696560731389
+30007,"Broadwater County","Montana","Economic Segregation",-0.0287396121883657
+30009,"Carbon County","Montana","Economic Segregation",-0.0511026293469042
+30011,"Carter County","Montana","Economic Segregation",-0.247078464106845
+30013,"Cascade County","Montana","Economic Segregation",-0.0775158268641325
+30015,"Chouteau County","Montana","Economic Segregation",-0.11754068716094
+30017,"Custer County","Montana","Economic Segregation",-0.0939730372720063
+30019,"Daniels County","Montana","Economic Segregation",-0.11731843575419
+30021,"Dawson County","Montana","Economic Segregation",-0.0522911051212938
+30023,"Deer Lodge County","Montana","Economic Segregation",-0.192543859649123
+30025,"Fallon County","Montana","Economic Segregation",-0.0698689956331878
+30027,"Fergus County","Montana","Economic Segregation",-0.140576923076923
+30029,"Flathead County","Montana","Economic Segregation",-0.0194408740359897
+30031,"Gallatin County","Montana","Economic Segregation",0.103935559952829
+30033,"Garfield County","Montana","Economic Segregation",-0.113022113022113
+30035,"Glacier County","Montana","Economic Segregation",-0.268327743172017
+30037,"Golden Valley County","Montana","Economic Segregation",-0.154696132596685
+30039,"Granite County","Montana","Economic Segregation",-0.156363636363636
+30041,"Hill County","Montana","Economic Segregation",-0.139094121426277
+30043,"Jefferson County","Montana","Economic Segregation",0.0899795501022495
+30045,"Judith Basin County","Montana","Economic Segregation",-0.0859977949283352
+30047,"Lake County","Montana","Economic Segregation",-0.126981519507187
+30049,"Lewis And Clark County","Montana","Economic Segregation",0.0239438916979286
+30051,"Liberty County","Montana","Economic Segregation",-0.205839416058394
+30053,"Lincoln County","Montana","Economic Segregation",-0.24734703093249
+30055,"McCone County","Montana","Economic Segregation",0.0110024449877751
+30057,"Madison County","Montana","Economic Segregation",-0.045638671347556
+30059,"Meagher County","Montana","Economic Segregation",-0.16164994425864
+30061,"Mineral County","Montana","Economic Segregation",-0.0712945590994371
+30063,"Missoula County","Montana","Economic Segregation",-0.0236435459509701
+30065,"Musselshell County","Montana","Economic Segregation",-0.131862975129047
+30067,"Park County","Montana","Economic Segregation",-0.0623713213031367
+30069,"Petroleum County","Montana","Economic Segregation",-0.105
+30071,"Phillips County","Montana","Economic Segregation",-0.146975692481628
+30073,"Pondera County","Montana","Economic Segregation",-0.154910714285714
+30075,"Powder River County","Montana","Economic Segregation",-0.0252454417952314
+30077,"Powell County","Montana","Economic Segregation",-0.129471890971039
+30079,"Prairie County","Montana","Economic Segregation",-0.286538461538462
+30081,"Ravalli County","Montana","Economic Segregation",-0.0241226902390969
+30083,"Richland County","Montana","Economic Segregation",-0.0284444444444444
+30085,"Roosevelt County","Montana","Economic Segregation",-0.223226238286479
+30087,"Rosebud County","Montana","Economic Segregation",-0.165852069077876
+30089,"Sanders County","Montana","Economic Segregation",-0.207225380524482
+30091,"Sheridan County","Montana","Economic Segregation",-0.0585034013605442
+30093,"Silver Bow County","Montana","Economic Segregation",-0.185052453248192
+30095,"Stillwater County","Montana","Economic Segregation",0.0783148100284311
+30097,"Sweet Grass County","Montana","Economic Segregation",-0.0521042084168337
+30099,"Teton County","Montana","Economic Segregation",-0.110114192495922
+30101,"Toole County","Montana","Economic Segregation",-0.0992868897421832
+30103,"Treasure County","Montana","Economic Segregation",-0.0575916230366492
+30105,"Valley County","Montana","Economic Segregation",-0.0811359026369168
+30107,"Wheatland County","Montana","Economic Segregation",-0.230057803468208
+30109,"Wibaux County","Montana","Economic Segregation",-0.0192307692307692
+30111,"Yellowstone County","Montana","Economic Segregation",0.0106103476151981
+32001,"Churchill County","Nevada","Economic Segregation",-0.0387541118421053
+32003,"Clark County","Nevada","Economic Segregation",-0.00339517901101988
+32005,"Douglas County","Nevada","Economic Segregation",0.0876943496397421
+32007,"Elko County","Nevada","Economic Segregation",0.0227156451447867
+32009,"Esmeralda County","Nevada","Economic Segregation",-0.39553752535497
+32011,"Eureka County","Nevada","Economic Segregation",-0.0603174603174603
+32013,"Humboldt County","Nevada","Economic Segregation",-0.0210090038587966
+32015,"Lander County","Nevada","Economic Segregation",0.0235191637630662
+32017,"Lincoln County","Nevada","Economic Segregation",-0.017220172201722
+32019,"Lyon County","Nevada","Economic Segregation",-0.00888016052597874
+32021,"Mineral County","Nevada","Economic Segregation",-0.222863741339492
+32023,"Nye County","Nevada","Economic Segregation",-0.123957526318188
+32027,"Pershing County","Nevada","Economic Segregation",-0.0487276664861938
+32029,"Storey County","Nevada","Economic Segregation",0.130202774813234
+32031,"Washoe County","Nevada","Economic Segregation",0.0722646570443224
+32033,"White Pine County","Nevada","Economic Segregation",-0.123862635749927
+32510,"Carson City","Nevada","Economic Segregation",-0.0436749534923051
+49001,"Beaver County","Utah","Economic Segregation",0.020536462699078
+49003,"Box Elder County","Utah","Economic Segregation",0.00678851174934726
+49005,"Cache County","Utah","Economic Segregation",0.0226355582355397
+49007,"Carbon County","Utah","Economic Segregation",-0.181727533341643
+49009,"Daggett County","Utah","Economic Segregation",-0.0877862595419847
+49011,"Davis County","Utah","Economic Segregation",0.210204579939655
+49013,"Duchesne County","Utah","Economic Segregation",-0.0402144772117962
+49015,"Emery County","Utah","Economic Segregation",-0.0565927654609102
+49017,"Garfield County","Utah","Economic Segregation",-0.137148495313271
+49019,"Grand County","Utah","Economic Segregation",-0.11576354679803
+49021,"Iron County","Utah","Economic Segregation",-0.0569742598433208
+49023,"Juab County","Utah","Economic Segregation",0.0567092651757189
+49025,"Kane County","Utah","Economic Segregation",-0.0297619047619048
+49027,"Millard County","Utah","Economic Segregation",-0.0412467775955003
+49029,"Morgan County","Utah","Economic Segregation",0.312621359223301
+49031,"Piute County","Utah","Economic Segregation",-0.326278659611993
+49033,"Rich County","Utah","Economic Segregation",-0.0171358629130967
+49035,"Salt Lake County","Utah","Economic Segregation",0.141326343230378
+49037,"San Juan County","Utah","Economic Segregation",-0.160215053763441
+49039,"Sanpete County","Utah","Economic Segregation",-0.0520118884316415
+49041,"Sevier County","Utah","Economic Segregation",-0.0511294467739754
+49043,"Summit County","Utah","Economic Segregation",0.374456033708641
+49045,"Tooele County","Utah","Economic Segregation",0.149501084598698
+49047,"Uintah County","Utah","Economic Segregation",-0.0641541038525963
+49049,"Utah County","Utah","Economic Segregation",0.151460619012076
+49051,"Wasatch County","Utah","Economic Segregation",0.282352941176471
+49053,"Washington County","Utah","Economic Segregation",0.0363152703470126
+49055,"Wayne County","Utah","Economic Segregation",-0.102304147465438
+49057,"Weber County","Utah","Economic Segregation",0.075449633471571
+56001,"Albany County","Wyoming","Economic Segregation",-0.134023722078391
+56003,"Big Horn County","Wyoming","Economic Segregation",-0.106265779205876
+56005,"Campbell County","Wyoming","Economic Segregation",0.0675093685329157
+56007,"Carbon County","Wyoming","Economic Segregation",-0.0664401019541206
+56009,"Converse County","Wyoming","Economic Segregation",0.0261082880672858
+56011,"Crook County","Wyoming","Economic Segregation",-0.0141819439640263
+56013,"Fremont County","Wyoming","Economic Segregation",-0.0948008102633356
+56015,"Goshen County","Wyoming","Economic Segregation",-0.156342766673263
+56017,"Hot Springs County","Wyoming","Economic Segregation",-0.128427128427128
+56019,"Johnson County","Wyoming","Economic Segregation",-0.0755294718040316
+56021,"Laramie County","Wyoming","Economic Segregation",0.0102580994282757
+56023,"Lincoln County","Wyoming","Economic Segregation",0.0895579268292683
+56025,"Natrona County","Wyoming","Economic Segregation",-0.0118071203244705
+56027,"Niobrara County","Wyoming","Economic Segregation",-0.249780893952673
+56029,"Park County","Wyoming","Economic Segregation",-0.0457546096061917
+56031,"Platte County","Wyoming","Economic Segregation",-0.0683518184163013
+56033,"Sheridan County","Wyoming","Economic Segregation",-0.0493525712171661
+56035,"Sublette County","Wyoming","Economic Segregation",0.0295778435063189
+56037,"Sweetwater County","Wyoming","Economic Segregation",-0.0159520844452351
+56039,"Teton County","Wyoming","Economic Segregation",0.266226153682191
+56041,"Uinta County","Wyoming","Economic Segregation",-0.0169808797967643
+56043,"Washakie County","Wyoming","Economic Segregation",-0.102721685689201
+56045,"Weston County","Wyoming","Economic Segregation",-0.0446623093681917
+16001,"Ada County","Idaho","Racial Economic Segregation",0.213568886629385
+16003,"Adams County","Idaho","Racial Economic Segregation",0.128995433789954
+16005,"Bannock County","Idaho","Racial Economic Segregation",0.111757648470306
+16007,"Bear Lake County","Idaho","Racial Economic Segregation",0.133448873483536
+16009,"Benewah County","Idaho","Racial Economic Segregation",0.0864756158873806
+16011,"Bingham County","Idaho","Racial Economic Segregation",0.146667499531514
+16013,"Blaine County","Idaho","Racial Economic Segregation",0.198432091223783
+16015,"Boise County","Idaho","Racial Economic Segregation",0.122020431328036
+16017,"Bonner County","Idaho","Racial Economic Segregation",0.127404459411194
+16019,"Bonneville County","Idaho","Racial Economic Segregation",0.166927935820001
+16021,"Boundary County","Idaho","Racial Economic Segregation",0.0901758014477766
+16023,"Butte County","Idaho","Racial Economic Segregation",0.0462143559488692
+16025,"Camas County","Idaho","Racial Economic Segregation",0.100294985250737
+16027,"Canyon County","Idaho","Racial Economic Segregation",0.102046727167407
+16029,"Caribou County","Idaho","Racial Economic Segregation",0.102880658436214
+16031,"Cassia County","Idaho","Racial Economic Segregation",0.0984462248118475
+16033,"Clark County","Idaho","Racial Economic Segregation",0.0238095238095238
+16035,"Clearwater County","Idaho","Racial Economic Segregation",0.089862398202752
+16037,"Custer County","Idaho","Racial Economic Segregation",0.0724262803931712
+16039,"Elmore County","Idaho","Racial Economic Segregation",0.077617994100295
+16041,"Franklin County","Idaho","Racial Economic Segregation",0.153388090349076
+16043,"Fremont County","Idaho","Racial Economic Segregation",0.113182423435419
+16045,"Gem County","Idaho","Racial Economic Segregation",0.111936267890899
+16047,"Gooding County","Idaho","Racial Economic Segregation",0.0693033381712627
+16049,"Idaho County","Idaho","Racial Economic Segregation",0.0765950966955992
+16051,"Jefferson County","Idaho","Racial Economic Segregation",0.141327406808769
+16053,"Jerome County","Idaho","Racial Economic Segregation",0.101488167845816
+16055,"Kootenai County","Idaho","Racial Economic Segregation",0.158644940958555
+16057,"Latah County","Idaho","Racial Economic Segregation",0.111034998131772
+16059,"Lemhi County","Idaho","Racial Economic Segregation",0.088955223880597
+16061,"Lewis County","Idaho","Racial Economic Segregation",0.0523932729624838
+16063,"Lincoln County","Idaho","Racial Economic Segregation",0.0773420479302832
+16065,"Madison County","Idaho","Racial Economic Segregation",0.100328689935827
+16067,"Minidoka County","Idaho","Racial Economic Segregation",0.103532121832608
+16069,"Nez Perce County","Idaho","Racial Economic Segregation",0.141101449275362
+16071,"Oneida County","Idaho","Racial Economic Segregation",0.119565217391304
+16073,"Owyhee County","Idaho","Racial Economic Segregation",0.0529661016949153
+16075,"Payette County","Idaho","Racial Economic Segregation",0.101044193650459
+16077,"Power County","Idaho","Racial Economic Segregation",0.0576070901033973
+16079,"Shoshone County","Idaho","Racial Economic Segregation",0.0524740271174503
+16081,"Teton County","Idaho","Racial Economic Segregation",0.249507981631314
+16083,"Twin Falls County","Idaho","Racial Economic Segregation",0.110403397027601
+16085,"Valley County","Idaho","Racial Economic Segregation",0.205134992059291
+16087,"Washington County","Idaho","Racial Economic Segregation",0.0816825629738322
+30001,"Beaverhead County","Montana","Racial Economic Segregation",0.0822615869934482
+30003,"Big Horn County","Montana","Racial Economic Segregation",0.0476835545922514
+30005,"Blaine County","Montana","Racial Economic Segregation",0.0809751850239443
+30007,"Broadwater County","Montana","Racial Economic Segregation",0.163781163434903
+30009,"Carbon County","Montana","Racial Economic Segregation",0.146734520780322
+30011,"Carter County","Montana","Racial Economic Segregation",0.0434056761268781
+30013,"Cascade County","Montana","Racial Economic Segregation",0.114354464464751
+30015,"Chouteau County","Montana","Racial Economic Segregation",0.0854430379746835
+30017,"Custer County","Montana","Racial Economic Segregation",0.109833465503569
+30019,"Daniels County","Montana","Racial Economic Segregation",0.0656424581005587
+30021,"Dawson County","Montana","Racial Economic Segregation",0.116172506738544
+30023,"Deer Lodge County","Montana","Racial Economic Segregation",0.0598684210526316
+30025,"Fallon County","Montana","Racial Economic Segregation",0.165065502183406
+30027,"Fergus County","Montana","Racial Economic Segregation",0.0928846153846154
+30029,"Flathead County","Montana","Racial Economic Segregation",0.154562982005141
+30031,"Gallatin County","Montana","Racial Economic Segregation",0.224340908636645
+30033,"Garfield County","Montana","Racial Economic Segregation",0.147420147420147
+30035,"Glacier County","Montana","Racial Economic Segregation",0.060134163871586
+30037,"Golden Valley County","Montana","Racial Economic Segregation",0.0801104972375691
+30039,"Granite County","Montana","Racial Economic Segregation",0.0858181818181818
+30041,"Hill County","Montana","Racial Economic Segregation",0.0828782524895599
+30043,"Jefferson County","Montana","Racial Economic Segregation",0.230674846625767
+30045,"Judith Basin County","Montana","Racial Economic Segregation",0.156560088202867
+30047,"Lake County","Montana","Racial Economic Segregation",0.100041067761807
+30049,"Lewis And Clark County","Montana","Racial Economic Segregation",0.175044854020551
+30051,"Liberty County","Montana","Racial Economic Segregation",0.0832116788321168
+30053,"Lincoln County","Montana","Racial Economic Segregation",0.0678482727477986
+30055,"McCone County","Montana","Racial Economic Segregation",0.145476772616137
+30057,"Madison County","Montana","Racial Economic Segregation",0.113691601404267
+30059,"Meagher County","Montana","Racial Economic Segregation",0.100334448160535
+30061,"Mineral County","Montana","Racial Economic Segregation",0.134146341463415
+30063,"Missoula County","Montana","Racial Economic Segregation",0.157178265752682
+30065,"Musselshell County","Montana","Racial Economic Segregation",0.0994838104176443
+30067,"Park County","Montana","Racial Economic Segregation",0.147511202615962
+30069,"Petroleum County","Montana","Racial Economic Segregation",0.1
+30071,"Phillips County","Montana","Racial Economic Segregation",0.0864895421141888
+30073,"Pondera County","Montana","Racial Economic Segregation",0.0933035714285714
+30075,"Powder River County","Montana","Racial Economic Segregation",0.115007012622721
+30077,"Powell County","Montana","Racial Economic Segregation",0.0741056218057922
+30079,"Prairie County","Montana","Racial Economic Segregation",0.0788461538461538
+30081,"Ravalli County","Montana","Racial Economic Segregation",0.142712604505032
+30083,"Richland County","Montana","Racial Economic Segregation",0.141111111111111
+30085,"Roosevelt County","Montana","Racial Economic Segregation",0.0689424364123159
+30087,"Rosebud County","Montana","Racial Economic Segregation",0.0814597588791137
+30089,"Sanders County","Montana","Racial Economic Segregation",0.0599669906473501
+30091,"Sheridan County","Montana","Racial Economic Segregation",0.150340136054422
+30093,"Silver Bow County","Montana","Racial Economic Segregation",0.08138398384049
+30095,"Stillwater County","Montana","Racial Economic Segregation",0.223313517704833
+30097,"Sweet Grass County","Montana","Racial Economic Segregation",0.0961923847695391
+30099,"Teton County","Montana","Racial Economic Segregation",0.0848287112561175
+30101,"Toole County","Montana","Racial Economic Segregation",0.125068568294021
+30103,"Treasure County","Montana","Racial Economic Segregation",0.115183246073298
+30105,"Valley County","Montana","Racial Economic Segregation",0.0875591615956728
+30107,"Wheatland County","Montana","Racial Economic Segregation",0.114450867052023
+30109,"Wibaux County","Montana","Racial Economic Segregation",0.147435897435897
+30111,"Yellowstone County","Montana","Racial Economic Segregation",0.165434807714517
+32001,"Churchill County","Nevada","Racial Economic Segregation",0.125925164473684
+32003,"Clark County","Nevada","Racial Economic Segregation",0.0810806983424163
+32005,"Douglas County","Nevada","Racial Economic Segregation",0.221368979901403
+32007,"Elko County","Nevada","Racial Economic Segregation",0.163665200040929
+32009,"Esmeralda County","Nevada","Racial Economic Segregation",0.0425963488843813
+32011,"Eureka County","Nevada","Racial Economic Segregation",0.0968253968253968
+32013,"Humboldt County","Nevada","Racial Economic Segregation",0.119908532228098
+32015,"Lander County","Nevada","Racial Economic Segregation",0.179442508710801
+32017,"Lincoln County","Nevada","Racial Economic Segregation",0.123616236162362
+32019,"Lyon County","Nevada","Racial Economic Segregation",0.127908466037655
+32021,"Mineral County","Nevada","Racial Economic Segregation",0.0109699769053118
+32023,"Nye County","Nevada","Racial Economic Segregation",0.0862689696030625
+32027,"Pershing County","Nevada","Racial Economic Segregation",0.116404981050352
+32029,"Storey County","Nevada","Racial Economic Segregation",0.231590181430096
+32031,"Washoe County","Nevada","Racial Economic Segregation",0.171955549878656
+32033,"White Pine County","Nevada","Racial Economic Segregation",0.0736718520692692
+32510,"Carson City","Nevada","Racial Economic Segregation",0.118806020632505
+49001,"Beaver County","Utah","Racial Economic Segregation",0.151718357082984
+49003,"Box Elder County","Utah","Racial Economic Segregation",0.14402088772846
+49005,"Cache County","Utah","Racial Economic Segregation",0.13885152372559
+49007,"Carbon County","Utah","Racial Economic Segregation",0.0911130499813037
+49009,"Daggett County","Utah","Racial Economic Segregation",0.0877862595419847
+49011,"Davis County","Utah","Racial Economic Segregation",0.274866142281598
+49013,"Duchesne County","Utah","Racial Economic Segregation",0.141048555257671
+49015,"Emery County","Utah","Racial Economic Segregation",0.115810968494749
+49017,"Garfield County","Utah","Racial Economic Segregation",0.101134681795757
+49019,"Grand County","Utah","Racial Economic Segregation",0.123152709359606
+49021,"Iron County","Utah","Racial Economic Segregation",0.119645945670974
+49023,"Juab County","Utah","Racial Economic Segregation",0.194888178913738
+49025,"Kane County","Utah","Racial Economic Segregation",0.12562656641604
+49027,"Millard County","Utah","Racial Economic Segregation",0.109913288024373
+49029,"Morgan County","Utah","Racial Economic Segregation",0.345076282940361
+49031,"Piute County","Utah","Racial Economic Segregation",0.091710758377425
+49033,"Rich County","Utah","Racial Economic Segregation",0.145654834761322
+49035,"Salt Lake County","Utah","Racial Economic Segregation",0.215456961177563
+49037,"San Juan County","Utah","Racial Economic Segregation",0.0518279569892473
+49039,"Sanpete County","Utah","Racial Economic Segregation",0.120713305898491
+49041,"Sevier County","Utah","Racial Economic Segregation",0.126470986067902
+49043,"Summit County","Utah","Racial Economic Segregation",0.423568418871313
+49045,"Tooele County","Utah","Racial Economic Segregation",0.21058568329718
+49047,"Uintah County","Utah","Racial Economic Segregation",0.112981574539363
+49049,"Utah County","Utah","Racial Economic Segregation",0.2288678029877
+49051,"Wasatch County","Utah","Racial Economic Segregation",0.338589904046725
+49053,"Washington County","Utah","Racial Economic Segregation",0.169814986400454
+49055,"Wayne County","Utah","Racial Economic Segregation",0.0866359447004608
+49057,"Weber County","Utah","Racial Economic Segregation",0.177709440949401
+56001,"Albany County","Wyoming","Racial Economic Segregation",0.121319766391715
+56003,"Big Horn County","Wyoming","Racial Economic Segregation",0.101904980491164
+56005,"Campbell County","Wyoming","Racial Economic Segregation",0.200626433245707
+56007,"Carbon County","Wyoming","Racial Economic Segregation",0.117757009345794
+56009,"Converse County","Wyoming","Racial Economic Segregation",0.17417206938847
+56011,"Crook County","Wyoming","Racial Economic Segregation",0.10826703562781
+56013,"Fremont County","Wyoming","Racial Economic Segregation",0.087305874409183
+56015,"Goshen County","Wyoming","Racial Economic Segregation",0.0949930734217297
+56017,"Hot Springs County","Wyoming","Racial Economic Segregation",0.0909090909090909
+56019,"Johnson County","Wyoming","Racial Economic Segregation",0.159734626180148
+56021,"Laramie County","Wyoming","Racial Economic Segregation",0.158341764110769
+56023,"Lincoln County","Wyoming","Racial Economic Segregation",0.223323170731707
+56025,"Natrona County","Wyoming","Racial Economic Segregation",0.152651344449452
+56027,"Niobrara County","Wyoming","Racial Economic Segregation",0.084136722173532
+56029,"Park County","Wyoming","Racial Economic Segregation",0.146748615221185
+56031,"Platte County","Wyoming","Racial Economic Segregation",0.144699509930359
+56033,"Sheridan County","Wyoming","Racial Economic Segregation",0.140584535701073
+56035,"Sublette County","Wyoming","Racial Economic Segregation",0.168862597472439
+56037,"Sweetwater County","Wyoming","Racial Economic Segregation",0.143450157148787
+56039,"Teton County","Wyoming","Racial Economic Segregation",0.350314398380049
+56041,"Uinta County","Wyoming","Racial Economic Segregation",0.129830191202032
+56043,"Washakie County","Wyoming","Racial Economic Segregation",0.109160081943225
+56045,"Weston County","Wyoming","Racial Economic Segregation",0.143427741466957
+16001,"Ada County","Idaho","Racial Segregation",0.804148000598364
+16003,"Adams County","Idaho","Racial Segregation",0.885627310284845
+16005,"Bannock County","Idaho","Racial Segregation",0.802491606091095
+16007,"Bear Lake County","Idaho","Racial Segregation",0.928418803418803
+16009,"Benewah County","Idaho","Racial Segregation",0.83456067789771
+16011,"Bingham County","Idaho","Racial Segregation",0.738574898454881
+16013,"Blaine County","Idaho","Racial Segregation",0.723056267545466
+16015,"Boise County","Idaho","Racial Segregation",0.849098819142324
+16017,"Bonner County","Idaho","Racial Segregation",0.898798932384342
+16019,"Bonneville County","Idaho","Racial Segregation",0.804204445283969
+16021,"Boundary County","Idaho","Racial Segregation",0.862229224103978
+16023,"Butte County","Idaho","Racial Segregation",0.883195177091183
+16025,"Camas County","Idaho","Racial Segregation",0.761904761904762
+16027,"Canyon County","Idaho","Racial Segregation",0.670493595429137
+16029,"Caribou County","Idaho","Racial Segregation",0.907839280696825
+16031,"Cassia County","Idaho","Racial Segregation",0.65165905026823
+16033,"Clark County","Idaho","Racial Segregation",0.592783505154639
+16035,"Clearwater County","Idaho","Racial Segregation",0.882412285618204
+16037,"Custer County","Idaho","Racial Segregation",0.891407844026298
+16039,"Elmore County","Idaho","Racial Segregation",0.678200096398816
+16041,"Franklin County","Idaho","Racial Segregation",0.897587495752633
+16043,"Fremont County","Idaho","Racial Segregation",0.83212904167579
+16045,"Gem County","Idaho","Racial Segregation",0.83821899869044
+16047,"Gooding County","Idaho","Racial Segregation",0.64002541296061
+16049,"Idaho County","Idaho","Racial Segregation",0.897721962616822
+16051,"Jefferson County","Idaho","Racial Segregation",0.860147670161941
+16053,"Jerome County","Idaho","Racial Segregation",0.574390834274649
+16055,"Kootenai County","Idaho","Racial Segregation",0.859988972408516
+16057,"Latah County","Idaho","Racial Segregation",0.845491752449461
+16059,"Lemhi County","Idaho","Racial Segregation",0.916850355131031
+16061,"Lewis County","Idaho","Racial Segregation",0.805152096464785
+16063,"Lincoln County","Idaho","Racial Segregation",0.62642153146323
+16065,"Madison County","Idaho","Racial Segregation",0.835772145283512
+16067,"Minidoka County","Idaho","Racial Segregation",0.593787063224158
+16069,"Nez Perce County","Idaho","Racial Segregation",0.860418579466535
+16071,"Oneida County","Idaho","Racial Segregation",0.918820764793847
+16073,"Owyhee County","Idaho","Racial Segregation",0.683979159882774
+16075,"Payette County","Idaho","Racial Segregation",0.762428407789232
+16077,"Power County","Idaho","Racial Segregation",0.600399102020454
+16079,"Shoshone County","Idaho","Racial Segregation",0.883578792341679
+16081,"Teton County","Idaho","Racial Segregation",0.797620031402363
+16083,"Twin Falls County","Idaho","Racial Segregation",0.754876738203016
+16085,"Valley County","Idaho","Racial Segregation",0.939106789716546
+16087,"Washington County","Idaho","Racial Segregation",0.784373274434014
+30001,"Beaverhead County","Montana","Racial Segregation",0.890928050052138
+30003,"Big Horn County","Montana","Racial Segregation",0.270384941757309
+30005,"Blaine County","Montana","Racial Segregation",0.437187366014006
+30007,"Broadwater County","Montana","Racial Segregation",0.894254445964432
+30009,"Carbon County","Montana","Racial Segregation",0.911280684012136
+30011,"Carter County","Montana","Racial Segregation",0.919177075679647
+30013,"Cascade County","Montana","Racial Segregation",0.81770901053179
+30015,"Chouteau County","Montana","Racial Segregation",0.756963315217391
+30017,"Custer County","Montana","Racial Segregation",0.891271569777182
+30019,"Daniels County","Montana","Racial Segregation",0.893044619422572
+30021,"Dawson County","Montana","Racial Segregation",0.908384043272481
+30023,"Deer Lodge County","Montana","Racial Segregation",0.895710681244744
+30025,"Fallon County","Montana","Racial Segregation",0.927227547035854
+30027,"Fergus County","Montana","Racial Segregation",0.921077627147915
+30029,"Flathead County","Montana","Racial Segregation",0.904357047351192
+30031,"Gallatin County","Montana","Racial Segregation",0.877809057727875
+30033,"Garfield County","Montana","Racial Segregation",0.968017057569296
+30035,"Glacier County","Montana","Racial Segregation",0.291548165973893
+30037,"Golden Valley County","Montana","Racial Segregation",0.882142857142857
+30039,"Granite County","Montana","Racial Segregation",0.917812225797017
+30041,"Hill County","Montana","Racial Segregation",0.67539975399754
+30043,"Jefferson County","Montana","Racial Segregation",0.911927045836333
+30045,"Judith Basin County","Montana","Racial Segregation",0.914271797369703
+30047,"Lake County","Montana","Racial Segregation",0.642814828672092
+30049,"Lewis And Clark County","Montana","Racial Segregation",0.886525213557454
+30051,"Liberty County","Montana","Racial Segregation",0.959349593495935
+30053,"Lincoln County","Montana","Racial Segregation",0.907290859798606
+30055,"McCone County","Montana","Racial Segregation",0.912541254125413
+30057,"Madison County","Montana","Racial Segregation",0.915431754874652
+30059,"Meagher County","Montana","Racial Segregation",0.915613946437595
+30061,"Mineral County","Montana","Racial Segregation",0.889699749791493
+30063,"Missoula County","Montana","Racial Segregation",0.851887762351741
+30065,"Musselshell County","Montana","Racial Segregation",0.87707182320442
+30067,"Park County","Montana","Racial Segregation",0.915293983070236
+30069,"Petroleum County","Montana","Racial Segregation",0.992518703241895
+30071,"Phillips County","Montana","Racial Segregation",0.815577651515151
+30073,"Pondera County","Montana","Racial Segregation",0.789421157684631
+30075,"Powder River County","Montana","Racial Segregation",0.872304199772985
+30077,"Powell County","Montana","Racial Segregation",0.862000284535496
+30079,"Prairie County","Montana","Racial Segregation",0.893685051958433
+30081,"Ravalli County","Montana","Racial Segregation",0.889929486759666
+30083,"Richland County","Montana","Racial Segregation",0.873598728925766
+30085,"Roosevelt County","Montana","Racial Segregation",0.328270042194093
+30087,"Rosebud County","Montana","Racial Segregation",0.525012141816416
+30089,"Sanders County","Montana","Racial Segregation",0.885204081632653
+30091,"Sheridan County","Montana","Racial Segregation",0.892303508294806
+30093,"Silver Bow County","Montana","Racial Segregation",0.891427126359268
+30095,"Stillwater County","Montana","Racial Segregation",0.921785240830756
+30097,"Sweet Grass County","Montana","Racial Segregation",0.892270401292755
+30099,"Teton County","Montana","Racial Segregation",0.914957876331267
+30101,"Toole County","Montana","Racial Segregation",0.811654733492442
+30103,"Treasure County","Montana","Racial Segregation",0.92904073587385
+30105,"Valley County","Montana","Racial Segregation",0.841644562334217
+30107,"Wheatland County","Montana","Racial Segregation",0.933138116154222
+30109,"Wibaux County","Montana","Racial Segregation",0.896341463414634
+30111,"Yellowstone County","Montana","Racial Segregation",0.834420939404805
+32001,"Churchill County","Nevada","Racial Segregation",0.696845475130788
+32003,"Clark County","Nevada","Racial Segregation",0.277226863792439
+32005,"Douglas County","Nevada","Racial Segregation",0.78087215863292
+32007,"Elko County","Nevada","Racial Segregation",0.61867711505608
+32009,"Esmeralda County","Nevada","Racial Segregation",0.648648648648649
+32011,"Eureka County","Nevada","Racial Segregation",0.831325301204819
+32013,"Humboldt County","Nevada","Racial Segregation",0.640326030406382
+32015,"Lander County","Nevada","Racial Segregation",0.696605744125326
+32017,"Lincoln County","Nevada","Racial Segregation",0.805480682839173
+32019,"Lyon County","Nevada","Racial Segregation",0.707339600857661
+32021,"Mineral County","Nevada","Racial Segregation",0.535878867676103
+32023,"Nye County","Nevada","Racial Segregation",0.677636401225403
+32027,"Pershing County","Nevada","Racial Segregation",0.603996925441968
+32029,"Storey County","Nevada","Racial Segregation",0.825561729886446
+32031,"Washoe County","Nevada","Racial Segregation",0.574323362547532
+32033,"White Pine County","Nevada","Racial Segregation",0.648712737127371
+32510,"Carson City","Nevada","Racial Segregation",0.612432321293948
+49001,"Beaver County","Utah","Racial Segregation",0.839375348577803
+49003,"Box Elder County","Utah","Racial Segregation",0.858987023859355
+49005,"Cache County","Utah","Racial Segregation",0.812816078113711
+49007,"Carbon County","Utah","Racial Segregation",0.818008412403404
+49009,"Daggett County","Utah","Racial Segregation",0.92235609103079
+49011,"Davis County","Utah","Racial Segregation",0.794953945825676
+49013,"Duchesne County","Utah","Racial Segregation",0.852548665462573
+49015,"Emery County","Utah","Racial Segregation",0.89446227929374
+49017,"Garfield County","Utah","Racial Segregation",0.892649903288201
+49019,"Grand County","Utah","Racial Segregation",0.78673816644323
+49021,"Iron County","Utah","Racial Segregation",0.831962924203917
+49023,"Juab County","Utah","Racial Segregation",0.903446590075776
+49025,"Kane County","Utah","Racial Segregation",0.884942471235618
+49027,"Millard County","Utah","Racial Segregation",0.817436831322559
+49029,"Morgan County","Utah","Racial Segregation",0.925625744934446
+49031,"Piute County","Utah","Racial Segregation",0.95366568914956
+49033,"Rich County","Utah","Racial Segregation",0.89451313755796
+49035,"Salt Lake County","Utah","Racial Segregation",0.662369617680252
+49037,"San Juan County","Utah","Racial Segregation",0.448361675653256
+49039,"Sanpete County","Utah","Racial Segregation",0.836077921188675
+49041,"Sevier County","Utah","Racial Segregation",0.911229065617278
+49043,"Summit County","Utah","Racial Segregation",0.828373410756515
+49045,"Tooele County","Utah","Racial Segregation",0.783386389729673
+49047,"Uintah County","Utah","Racial Segregation",0.798891875582862
+49049,"Utah County","Utah","Racial Segregation",0.782967780440068
+49051,"Wasatch County","Utah","Racial Segregation",0.814845844504021
+49053,"Washington County","Utah","Racial Segregation",0.813493338671527
+49055,"Wayne County","Utah","Racial Segregation",0.910050840829097
+49057,"Weber County","Utah","Racial Segregation",0.735046941389946
+56001,"Albany County","Wyoming","Racial Segregation",0.792909606766897
+56003,"Big Horn County","Wyoming","Racial Segregation",0.850984067478913
+56005,"Campbell County","Wyoming","Racial Segregation",0.848121995831384
+56007,"Carbon County","Wyoming","Racial Segregation",0.749948450065297
+56009,"Converse County","Wyoming","Racial Segregation",0.879642415873247
+56011,"Crook County","Wyoming","Racial Segregation",0.932552118817278
+56013,"Fremont County","Wyoming","Racial Segregation",0.691528171868666
+56015,"Goshen County","Wyoming","Racial Segregation",0.843489314371971
+56017,"Hot Springs County","Wyoming","Racial Segregation",0.889346037245561
+56019,"Johnson County","Wyoming","Racial Segregation",0.901302022785399
+56021,"Laramie County","Wyoming","Racial Segregation",0.738359444074666
+56023,"Lincoln County","Wyoming","Racial Segregation",0.911300724278202
+56025,"Natrona County","Wyoming","Racial Segregation",0.84493635166489
+56027,"Niobrara County","Wyoming","Racial Segregation",0.876604554865424
+56029,"Park County","Wyoming","Racial Segregation",0.879537679763526
+56031,"Platte County","Wyoming","Racial Segregation",0.852428538229142
+56033,"Sheridan County","Wyoming","Racial Segregation",0.893272122843122
+56035,"Sublette County","Wyoming","Racial Segregation",0.899727458550988
+56037,"Sweetwater County","Wyoming","Racial Segregation",0.760517876800842
+56039,"Teton County","Wyoming","Racial Segregation",0.782815309529926
+56041,"Uinta County","Wyoming","Racial Segregation",0.863091482649842
+56043,"Washakie County","Wyoming","Racial Segregation",0.810067462376751
+56045,"Weston County","Wyoming","Racial Segregation",0.852670080468178
+16001,"Ada County","Idaho","Gender Pay Gap",0.222019755014679
+16003,"Adams County","Idaho","Gender Pay Gap",0.255752384660308
+16005,"Bannock County","Idaho","Gender Pay Gap",0.223800548320768
+16007,"Bear Lake County","Idaho","Gender Pay Gap",0.51687074829932
+16009,"Benewah County","Idaho","Gender Pay Gap",0.21669611149776
+16011,"Bingham County","Idaho","Gender Pay Gap",0.215753008387018
+16013,"Blaine County","Idaho","Gender Pay Gap",0.00402022620472775
+16015,"Boise County","Idaho","Gender Pay Gap",0.318426538294267
+16017,"Bonner County","Idaho","Gender Pay Gap",0.216257088846881
+16019,"Bonneville County","Idaho","Gender Pay Gap",0.349273102427192
+16021,"Boundary County","Idaho","Gender Pay Gap",0.263096210533793
+16023,"Butte County","Idaho","Gender Pay Gap",0.232012421816909
+16025,"Camas County","Idaho","Gender Pay Gap",0.191586485431621
+16027,"Canyon County","Idaho","Gender Pay Gap",0.234452770839116
+16029,"Caribou County","Idaho","Gender Pay Gap",0.307523624718002
+16031,"Cassia County","Idaho","Gender Pay Gap",0.302153480499838
+16033,"Clark County","Idaho","Gender Pay Gap",0.237766203217541
+16035,"Clearwater County","Idaho","Gender Pay Gap",0.305509937326139
+16037,"Custer County","Idaho","Gender Pay Gap",0.0820937022104824
+16039,"Elmore County","Idaho","Gender Pay Gap",0.240639787999243
+16041,"Franklin County","Idaho","Gender Pay Gap",0.279796704756843
+16043,"Fremont County","Idaho","Gender Pay Gap",0.326547172533179
+16045,"Gem County","Idaho","Gender Pay Gap",0.315392362711459
+16047,"Gooding County","Idaho","Gender Pay Gap",0.120177844629269
+16049,"Idaho County","Idaho","Gender Pay Gap",0.189345602904438
+16051,"Jefferson County","Idaho","Gender Pay Gap",0.345654903054819
+16053,"Jerome County","Idaho","Gender Pay Gap",0.315587310432671
+16055,"Kootenai County","Idaho","Gender Pay Gap",0.221706527484144
+16057,"Latah County","Idaho","Gender Pay Gap",0.189036510095198
+16059,"Lemhi County","Idaho","Gender Pay Gap",0.337662804921926
+16061,"Lewis County","Idaho","Gender Pay Gap",0.255555555555556
+16063,"Lincoln County","Idaho","Gender Pay Gap",0.257481309254174
+16065,"Madison County","Idaho","Gender Pay Gap",0.420072003860001
+16067,"Minidoka County","Idaho","Gender Pay Gap",0.318575503500735
+16069,"Nez Perce County","Idaho","Gender Pay Gap",0.274062514343416
+16071,"Oneida County","Idaho","Gender Pay Gap",0.424635542510581
+16073,"Owyhee County","Idaho","Gender Pay Gap",0.236114799305485
+16075,"Payette County","Idaho","Gender Pay Gap",0.153557701321834
+16077,"Power County","Idaho","Gender Pay Gap",0.294276859504132
+16079,"Shoshone County","Idaho","Gender Pay Gap",0.392491895474003
+16081,"Teton County","Idaho","Gender Pay Gap",0.139445416691811
+16083,"Twin Falls County","Idaho","Gender Pay Gap",0.280269583551079
+16085,"Valley County","Idaho","Gender Pay Gap",0.392958420800648
+16087,"Washington County","Idaho","Gender Pay Gap",0.261158502224899
+30001,"Beaverhead County","Montana","Gender Pay Gap",0.246437705516989
+30003,"Big Horn County","Montana","Gender Pay Gap",0.0232049134561697
+30005,"Blaine County","Montana","Gender Pay Gap",0.12416573971079
+30007,"Broadwater County","Montana","Gender Pay Gap",0.360838210005732
+30009,"Carbon County","Montana","Gender Pay Gap",0.25777793446264
+30011,"Carter County","Montana","Gender Pay Gap",0.206147368421053
+30013,"Cascade County","Montana","Gender Pay Gap",0.200333217378568
+30015,"Chouteau County","Montana","Gender Pay Gap",0.103687958337762
+30017,"Custer County","Montana","Gender Pay Gap",0.175071562356434
+30019,"Daniels County","Montana","Gender Pay Gap",0.131311398052422
+30021,"Dawson County","Montana","Gender Pay Gap",0.404803991446899
+30023,"Deer Lodge County","Montana","Gender Pay Gap",0.136213707666935
+30025,"Fallon County","Montana","Gender Pay Gap",0.250058142915286
+30027,"Fergus County","Montana","Gender Pay Gap",0.1994375
+30029,"Flathead County","Montana","Gender Pay Gap",0.160562978290729
+30031,"Gallatin County","Montana","Gender Pay Gap",0.174683959940896
+30033,"Garfield County","Montana","Gender Pay Gap",0.190217391304348
+30035,"Glacier County","Montana","Gender Pay Gap",0.148533483301609
+30037,"Golden Valley County","Montana","Gender Pay Gap",0.422568705291218
+30039,"Granite County","Montana","Gender Pay Gap",0.315613266004476
+30041,"Hill County","Montana","Gender Pay Gap",0.264762896219981
+30043,"Jefferson County","Montana","Gender Pay Gap",0.157725733273692
+30045,"Judith Basin County","Montana","Gender Pay Gap",0.258468159719455
+30047,"Lake County","Montana","Gender Pay Gap",0.233983486468576
+30049,"Lewis And Clark County","Montana","Gender Pay Gap",0.188931644649133
+30051,"Liberty County","Montana","Gender Pay Gap",0.207928888888889
+30053,"Lincoln County","Montana","Gender Pay Gap",0.342890836765586
+30055,"McCone County","Montana","Gender Pay Gap",0.235162783888147
+30057,"Madison County","Montana","Gender Pay Gap",0.33931609521328
+30059,"Meagher County","Montana","Gender Pay Gap",0.0257361465337352
+30061,"Mineral County","Montana","Gender Pay Gap",0.192926540893435
+30063,"Missoula County","Montana","Gender Pay Gap",0.169123841617523
+30065,"Musselshell County","Montana","Gender Pay Gap",0.329248612318005
+30067,"Park County","Montana","Gender Pay Gap",0.189710556854303
+30069,"Petroleum County","Montana","Gender Pay Gap",0.283789126287021
+30071,"Phillips County","Montana","Gender Pay Gap",0.298396941981708
+30073,"Pondera County","Montana","Gender Pay Gap",0.148690652743636
+30075,"Powder River County","Montana","Gender Pay Gap",-0.203056723341686
+30077,"Powell County","Montana","Gender Pay Gap",0.208257858284496
+30079,"Prairie County","Montana","Gender Pay Gap",-0.00303548140486587
+30081,"Ravalli County","Montana","Gender Pay Gap",0.20724599167331
+30083,"Richland County","Montana","Gender Pay Gap",0.422661184927031
+30085,"Roosevelt County","Montana","Gender Pay Gap",0.173132426998945
+30087,"Rosebud County","Montana","Gender Pay Gap",0.225994857561258
+30089,"Sanders County","Montana","Gender Pay Gap",0.209555676601043
+30091,"Sheridan County","Montana","Gender Pay Gap",0.321941958231625
+30093,"Silver Bow County","Montana","Gender Pay Gap",0.270333125880311
+30095,"Stillwater County","Montana","Gender Pay Gap",0.436078281865548
+30097,"Sweet Grass County","Montana","Gender Pay Gap",0.0695564920730484
+30099,"Teton County","Montana","Gender Pay Gap",0.299340897230222
+30101,"Toole County","Montana","Gender Pay Gap",-0.0385921787709498
+30103,"Treasure County","Montana","Gender Pay Gap",-0.0358167115902965
+30105,"Valley County","Montana","Gender Pay Gap",0.147826086956522
+30107,"Wheatland County","Montana","Gender Pay Gap",0.125433922214606
+30109,"Wibaux County","Montana","Gender Pay Gap",0.257816666666667
+30111,"Yellowstone County","Montana","Gender Pay Gap",0.271963990724884
+32001,"Churchill County","Nevada","Gender Pay Gap",0.324594687823387
+32003,"Clark County","Nevada","Gender Pay Gap",0.118837933626893
+32005,"Douglas County","Nevada","Gender Pay Gap",0.219392697204947
+32007,"Elko County","Nevada","Gender Pay Gap",0.414373267751884
+32009,"Esmeralda County","Nevada","Gender Pay Gap",0.180382711093269
+32011,"Eureka County","Nevada","Gender Pay Gap",0.616515060499442
+32013,"Humboldt County","Nevada","Gender Pay Gap",0.395806985115284
+32015,"Lander County","Nevada","Gender Pay Gap",0.368192143310833
+32017,"Lincoln County","Nevada","Gender Pay Gap",0.252256153945197
+32019,"Lyon County","Nevada","Gender Pay Gap",0.228068783908119
+32021,"Mineral County","Nevada","Gender Pay Gap",0.331795022687501
+32023,"Nye County","Nevada","Gender Pay Gap",-0.00357235887321838
+32027,"Pershing County","Nevada","Gender Pay Gap",0.632668893977502
+32029,"Storey County","Nevada","Gender Pay Gap",-0.34625
+32031,"Washoe County","Nevada","Gender Pay Gap",0.158851613110643
+32033,"White Pine County","Nevada","Gender Pay Gap",0.0668571428571428
+32510,"Carson City","Nevada","Gender Pay Gap",0.147222475599745
+49001,"Beaver County","Utah","Gender Pay Gap",0.311859070464768
+49003,"Box Elder County","Utah","Gender Pay Gap",0.334062529939642
+49005,"Cache County","Utah","Gender Pay Gap",0.298878243705166
+49007,"Carbon County","Utah","Gender Pay Gap",0.402998953853307
+49009,"Daggett County","Utah","Gender Pay Gap",0.468868376068376
+49011,"Davis County","Utah","Gender Pay Gap",0.321842791827035
+49013,"Duchesne County","Utah","Gender Pay Gap",0.374568821631245
+49015,"Emery County","Utah","Gender Pay Gap",0.462610332004122
+49017,"Garfield County","Utah","Gender Pay Gap",0.181691886006083
+49019,"Grand County","Utah","Gender Pay Gap",0.219091959491606
+49021,"Iron County","Utah","Gender Pay Gap",0.224510032664489
+49023,"Juab County","Utah","Gender Pay Gap",0.348477121405298
+49025,"Kane County","Utah","Gender Pay Gap",0.214493669833136
+49027,"Millard County","Utah","Gender Pay Gap",0.314812992125984
+49029,"Morgan County","Utah","Gender Pay Gap",0.371909454061252
+49031,"Piute County","Utah","Gender Pay Gap",0.0736679887830635
+49033,"Rich County","Utah","Gender Pay Gap",0.521373289490688
+49035,"Salt Lake County","Utah","Gender Pay Gap",0.218887549209024
+49037,"San Juan County","Utah","Gender Pay Gap",0.257624666073019
+49039,"Sanpete County","Utah","Gender Pay Gap",0.342581011938601
+49041,"Sevier County","Utah","Gender Pay Gap",0.278024724491336
+49043,"Summit County","Utah","Gender Pay Gap",0.233889794817048
+49045,"Tooele County","Utah","Gender Pay Gap",0.322626705512447
+49047,"Uintah County","Utah","Gender Pay Gap",0.378071748203282
+49049,"Utah County","Utah","Gender Pay Gap",0.361244707526617
+49051,"Wasatch County","Utah","Gender Pay Gap",0.420233273737853
+49053,"Washington County","Utah","Gender Pay Gap",0.266483997897185
+49055,"Wayne County","Utah","Gender Pay Gap",0.255603122639134
+49057,"Weber County","Utah","Gender Pay Gap",0.271786951230928
+56001,"Albany County","Wyoming","Gender Pay Gap",0.188688436471142
+56003,"Big Horn County","Wyoming","Gender Pay Gap",0.19622336025905
+56005,"Campbell County","Wyoming","Gender Pay Gap",0.411664930092806
+56007,"Carbon County","Wyoming","Gender Pay Gap",0.450196377201855
+56009,"Converse County","Wyoming","Gender Pay Gap",0.36393049557292
+56011,"Crook County","Wyoming","Gender Pay Gap",0.150797215360431
+56013,"Fremont County","Wyoming","Gender Pay Gap",0.223010055618991
+56015,"Goshen County","Wyoming","Gender Pay Gap",0.219280417467729
+56017,"Hot Springs County","Wyoming","Gender Pay Gap",0.235545454545455
+56019,"Johnson County","Wyoming","Gender Pay Gap",0.103595662586482
+56021,"Laramie County","Wyoming","Gender Pay Gap",0.25785153729574
+56023,"Lincoln County","Wyoming","Gender Pay Gap",0.41566702528241
+56025,"Natrona County","Wyoming","Gender Pay Gap",0.29284422170161
+56027,"Niobrara County","Wyoming","Gender Pay Gap",0.293800084352594
+56029,"Park County","Wyoming","Gender Pay Gap",0.352782107975694
+56031,"Platte County","Wyoming","Gender Pay Gap",0.208982854374643
+56033,"Sheridan County","Wyoming","Gender Pay Gap",0.306410393744166
+56035,"Sublette County","Wyoming","Gender Pay Gap",0.400940510781465
+56037,"Sweetwater County","Wyoming","Gender Pay Gap",0.352561548880567
+56039,"Teton County","Wyoming","Gender Pay Gap",0.123653488240934
+56041,"Uinta County","Wyoming","Gender Pay Gap",0.372521594786511
+56043,"Washakie County","Wyoming","Gender Pay Gap",0.241304591474577
+56045,"Weston County","Wyoming","Gender Pay Gap",0.488170563961486
+16001,"Ada County","Idaho","Uninsured Children",0.0436080402841055
+16003,"Adams County","Idaho","Uninsured Children",0.114774114774115
+16005,"Bannock County","Idaho","Uninsured Children",0.0305893124687864
+16007,"Bear Lake County","Idaho","Uninsured Children",0.0412748171368861
+16009,"Benewah County","Idaho","Uninsured Children",0.136865342163355
+16011,"Bingham County","Idaho","Uninsured Children",0.0477965215117039
+16013,"Blaine County","Idaho","Uninsured Children",0.0699111626110467
+16015,"Boise County","Idaho","Uninsured Children",0.124645892351275
+16017,"Bonner County","Idaho","Uninsured Children",0.0689288476411446
+16019,"Bonneville County","Idaho","Uninsured Children",0.0395186858726315
+16021,"Boundary County","Idaho","Uninsured Children",0.161163779012749
+16023,"Butte County","Idaho","Uninsured Children",0
+16025,"Camas County","Idaho","Uninsured Children",0.0861618798955614
+16027,"Canyon County","Idaho","Uninsured Children",0.0830090046100157
+16029,"Caribou County","Idaho","Uninsured Children",0.0138203356367226
+16031,"Cassia County","Idaho","Uninsured Children",0.0730426285574692
+16033,"Clark County","Idaho","Uninsured Children",0.00892857142857143
+16035,"Clearwater County","Idaho","Uninsured Children",0.150969529085873
+16037,"Custer County","Idaho","Uninsured Children",0.0324543610547667
+16039,"Elmore County","Idaho","Uninsured Children",0.0822167295433849
+16041,"Franklin County","Idaho","Uninsured Children",0.120967741935484
+16043,"Fremont County","Idaho","Uninsured Children",0.0511415525114155
+16045,"Gem County","Idaho","Uninsured Children",0.102494802494803
+16047,"Gooding County","Idaho","Uninsured Children",0.137272727272727
+16049,"Idaho County","Idaho","Uninsured Children",0.222786238014664
+16051,"Jefferson County","Idaho","Uninsured Children",0.0409675116029989
+16053,"Jerome County","Idaho","Uninsured Children",0.09935532802427
+16055,"Kootenai County","Idaho","Uninsured Children",0.0543584371056454
+16057,"Latah County","Idaho","Uninsured Children",0.0567407081592259
+16059,"Lemhi County","Idaho","Uninsured Children",0.0267857142857143
+16061,"Lewis County","Idaho","Uninsured Children",0.139225181598063
+16063,"Lincoln County","Idaho","Uninsured Children",0.0744827586206896
+16065,"Madison County","Idaho","Uninsured Children",0.0190906954887218
+16067,"Minidoka County","Idaho","Uninsured Children",0.0745976838622349
+16069,"Nez Perce County","Idaho","Uninsured Children",0.0877156299006796
+16071,"Oneida County","Idaho","Uninsured Children",0.0363495746326373
+16073,"Owyhee County","Idaho","Uninsured Children",0.219317133189788
+16075,"Payette County","Idaho","Uninsured Children",0.0272816762761918
+16077,"Power County","Idaho","Uninsured Children",0.140197568389058
+16079,"Shoshone County","Idaho","Uninsured Children",0.0297843204382061
+16081,"Teton County","Idaho","Uninsured Children",0.143047238855622
+16083,"Twin Falls County","Idaho","Uninsured Children",0.05180545890358
+16085,"Valley County","Idaho","Uninsured Children",0.0515418502202643
+16087,"Washington County","Idaho","Uninsured Children",0.0866236905721193
+30001,"Beaverhead County","Montana","Uninsured Children",0.0336391437308868
+30003,"Big Horn County","Montana","Uninsured Children",0.113088533453481
+30005,"Blaine County","Montana","Uninsured Children",0.16356201726488
+30007,"Broadwater County","Montana","Uninsured Children",0.0545822102425876
+30009,"Carbon County","Montana","Uninsured Children",0.0601874691662556
+30011,"Carter County","Montana","Uninsured Children",0.102661596958175
+30013,"Cascade County","Montana","Uninsured Children",0.0443528110228301
+30015,"Chouteau County","Montana","Uninsured Children",0.0205091937765205
+30017,"Custer County","Montana","Uninsured Children",0.0697674418604651
+30019,"Daniels County","Montana","Uninsured Children",0.0236686390532544
+30021,"Dawson County","Montana","Uninsured Children",0.0405336069779374
+30023,"Deer Lodge County","Montana","Uninsured Children",0.076271186440678
+30025,"Fallon County","Montana","Uninsured Children",0.168044077134986
+30027,"Fergus County","Montana","Uninsured Children",0.155186064924782
+30029,"Flathead County","Montana","Uninsured Children",0.0582295932849438
+30031,"Gallatin County","Montana","Uninsured Children",0.0470533245043431
+30033,"Garfield County","Montana","Uninsured Children",0.188340807174888
+30035,"Glacier County","Montana","Uninsured Children",0.290719696969697
+30037,"Golden Valley County","Montana","Uninsured Children",0.166666666666667
+30039,"Granite County","Montana","Uninsured Children",0.115072933549433
+30041,"Hill County","Montana","Uninsured Children",0.0473595976529757
+30043,"Jefferson County","Montana","Uninsured Children",0.0263057567670606
+30045,"Judith Basin County","Montana","Uninsured Children",0.0147679324894515
+30047,"Lake County","Montana","Uninsured Children",0.140336808340016
+30049,"Lewis And Clark County","Montana","Uninsured Children",0.0564027190887378
+30051,"Liberty County","Montana","Uninsured Children",0.0205479452054795
+30053,"Lincoln County","Montana","Uninsured Children",0.146021117692506
+30055,"McCone County","Montana","Uninsured Children",0.0421348314606742
+30057,"Madison County","Montana","Uninsured Children",0.0690887432995831
+30059,"Meagher County","Montana","Uninsured Children",0.066006600660066
+30061,"Mineral County","Montana","Uninsured Children",0.0460526315789474
+30063,"Missoula County","Montana","Uninsured Children",0.0305046447401456
+30065,"Musselshell County","Montana","Uninsured Children",0.169980119284294
+30067,"Park County","Montana","Uninsured Children",0.0534251065224517
+30069,"Petroleum County","Montana","Uninsured Children",0.0526315789473684
+30071,"Phillips County","Montana","Uninsured Children",0.00198609731876862
+30073,"Pondera County","Montana","Uninsured Children",0.030976430976431
+30075,"Powder River County","Montana","Uninsured Children",0
+30077,"Powell County","Montana","Uninsured Children",0.126425855513308
+30079,"Prairie County","Montana","Uninsured Children",0
+30081,"Ravalli County","Montana","Uninsured Children",0.0769402818161485
+30083,"Richland County","Montana","Uninsured Children",0.0442655935613682
+30085,"Roosevelt County","Montana","Uninsured Children",0.293538952406275
+30087,"Rosebud County","Montana","Uninsured Children",0.198209198209198
+30089,"Sanders County","Montana","Uninsured Children",0.157554885923375
+30091,"Sheridan County","Montana","Uninsured Children",0.14390243902439
+30093,"Silver Bow County","Montana","Uninsured Children",0.0159918771417693
+30095,"Stillwater County","Montana","Uninsured Children",0.0237741456166419
+30097,"Sweet Grass County","Montana","Uninsured Children",0.0753086419753086
+30099,"Teton County","Montana","Uninsured Children",0.033112582781457
+30101,"Toole County","Montana","Uninsured Children",0.073327222731439
+30103,"Treasure County","Montana","Uninsured Children",0.00763358778625954
+30105,"Valley County","Montana","Uninsured Children",0.0302197802197802
+30107,"Wheatland County","Montana","Uninsured Children",0.251082251082251
+30109,"Wibaux County","Montana","Uninsured Children",0.0491329479768786
+30111,"Yellowstone County","Montana","Uninsured Children",0.0524617620255659
+32001,"Churchill County","Nevada","Uninsured Children",0.0591637745827136
+32003,"Clark County","Nevada","Uninsured Children",0.0825422747833268
+32005,"Douglas County","Nevada","Uninsured Children",0.0708904532542917
+32007,"Elko County","Nevada","Uninsured Children",0.0549138670714804
+32009,"Esmeralda County","Nevada","Uninsured Children",0.0681818181818182
+32011,"Eureka County","Nevada","Uninsured Children",0.0707317073170732
+32013,"Humboldt County","Nevada","Uninsured Children",0.0615612439179183
+32015,"Lander County","Nevada","Uninsured Children",0.0224438902743142
+32017,"Lincoln County","Nevada","Uninsured Children",0.0787564766839378
+32019,"Lyon County","Nevada","Uninsured Children",0.078510202533566
+32021,"Mineral County","Nevada","Uninsured Children",0.111599297012302
+32023,"Nye County","Nevada","Uninsured Children",0.083204590598102
+32027,"Pershing County","Nevada","Uninsured Children",0.0676156583629893
+32029,"Storey County","Nevada","Uninsured Children",0
+32031,"Washoe County","Nevada","Uninsured Children",0.0670431070100537
+32033,"White Pine County","Nevada","Uninsured Children",0.0446479679450487
+32510,"Carson City","Nevada","Uninsured Children",0.05696049123374
+49001,"Beaver County","Utah","Uninsured Children",0.263322884012539
+49003,"Box Elder County","Utah","Uninsured Children",0.0532850491464045
+49005,"Cache County","Utah","Uninsured Children",0.0448303438820976
+49007,"Carbon County","Utah","Uninsured Children",0.0604684946431814
+49009,"Daggett County","Utah","Uninsured Children",0.032967032967033
+49011,"Davis County","Utah","Uninsured Children",0.0493616520562452
+49013,"Duchesne County","Utah","Uninsured Children",0.0829246544806063
+49015,"Emery County","Utah","Uninsured Children",0.0301608579088472
+49017,"Garfield County","Utah","Uninsured Children",0.0727272727272727
+49019,"Grand County","Utah","Uninsured Children",0.214054054054054
+49021,"Iron County","Utah","Uninsured Children",0.0720765848500028
+49023,"Juab County","Utah","Uninsured Children",0.0613425925925926
+49025,"Kane County","Utah","Uninsured Children",0.0293803418803419
+49027,"Millard County","Utah","Uninsured Children",0.118773062730627
+49029,"Morgan County","Utah","Uninsured Children",0.0456349206349206
+49031,"Piute County","Utah","Uninsured Children",0.00831024930747922
+49033,"Rich County","Utah","Uninsured Children",0.101534828807556
+49035,"Salt Lake County","Utah","Uninsured Children",0.0789353711221588
+49037,"San Juan County","Utah","Uninsured Children",0.173450070989115
+49039,"Sanpete County","Utah","Uninsured Children",0.0789573101624481
+49041,"Sevier County","Utah","Uninsured Children",0.0536600496277916
+49043,"Summit County","Utah","Uninsured Children",0.0413627550549349
+49045,"Tooele County","Utah","Uninsured Children",0.0459149489614945
+49047,"Uintah County","Utah","Uninsured Children",0.107210082658155
+49049,"Utah County","Utah","Uninsured Children",0.0600043232612648
+49051,"Wasatch County","Utah","Uninsured Children",0.0579492170220295
+49053,"Washington County","Utah","Uninsured Children",0.129636290967226
+49055,"Wayne County","Utah","Uninsured Children",0.119205298013245
+49057,"Weber County","Utah","Uninsured Children",0.0661213901903174
+56001,"Albany County","Wyoming","Uninsured Children",0.0449648039074846
+56003,"Big Horn County","Wyoming","Uninsured Children",0.0701281186783547
+56005,"Campbell County","Wyoming","Uninsured Children",0.133409004918653
+56007,"Carbon County","Wyoming","Uninsured Children",0.130494505494506
+56009,"Converse County","Wyoming","Uninsured Children",0.0314917127071823
+56011,"Crook County","Wyoming","Uninsured Children",0.0325159914712154
+56013,"Fremont County","Wyoming","Uninsured Children",0.163334299236936
+56015,"Goshen County","Wyoming","Uninsured Children",0.0724914154902709
+56017,"Hot Springs County","Wyoming","Uninsured Children",0.0593471810089021
+56019,"Johnson County","Wyoming","Uninsured Children",0.103314917127072
+56021,"Laramie County","Wyoming","Uninsured Children",0.107793879500062
+56023,"Lincoln County","Wyoming","Uninsured Children",0.152384432669468
+56025,"Natrona County","Wyoming","Uninsured Children",0.0623650514687422
+56027,"Niobrara County","Wyoming","Uninsured Children",0.008
+56029,"Park County","Wyoming","Uninsured Children",0.0317818948636843
+56031,"Platte County","Wyoming","Uninsured Children",0.209276642738818
+56033,"Sheridan County","Wyoming","Uninsured Children",0.0562482289600453
+56035,"Sublette County","Wyoming","Uninsured Children",0.0749751737835154
+56037,"Sweetwater County","Wyoming","Uninsured Children",0.0954711273244951
+56039,"Teton County","Wyoming","Uninsured Children",0.0974576271186441
+56041,"Uinta County","Wyoming","Uninsured Children",0.0587741393786734
+56043,"Washakie County","Wyoming","Uninsured Children",0.0820424555364314
+56045,"Weston County","Wyoming","Uninsured Children",0.122641509433962
+16001,"Ada County","Idaho","Uninsured (Black)",0.0850523643287845
+16003,"Adams County","Idaho","Uninsured (Black)",0
+16005,"Bannock County","Idaho","Uninsured (Black)",0.340025094102886
+16007,"Bear Lake County","Idaho","Uninsured (Black)",0
+16009,"Benewah County","Idaho","Uninsured (Black)",0
+16011,"Bingham County","Idaho","Uninsured (Black)",0.0769230769230769
+16013,"Blaine County","Idaho","Uninsured (Black)",0
+16015,"Boise County","Idaho","Uninsured (Black)",0.8125
+16017,"Bonner County","Idaho","Uninsured (Black)",0.530973451327434
+16019,"Bonneville County","Idaho","Uninsured (Black)",0
+16021,"Boundary County","Idaho","Uninsured (Black)",0
+16023,"Butte County","Idaho","Uninsured (Black)",NA
+16025,"Camas County","Idaho","Uninsured (Black)",NA
+16027,"Canyon County","Idaho","Uninsured (Black)",0.0431423052157115
+16029,"Caribou County","Idaho","Uninsured (Black)",NA
+16031,"Cassia County","Idaho","Uninsured (Black)",0
+16033,"Clark County","Idaho","Uninsured (Black)",NA
+16035,"Clearwater County","Idaho","Uninsured (Black)",0.466666666666667
+16037,"Custer County","Idaho","Uninsured (Black)",0
+16039,"Elmore County","Idaho","Uninsured (Black)",0.0168067226890756
+16041,"Franklin County","Idaho","Uninsured (Black)",NA
+16043,"Fremont County","Idaho","Uninsured (Black)",0
+16045,"Gem County","Idaho","Uninsured (Black)",0
+16047,"Gooding County","Idaho","Uninsured (Black)",0
+16049,"Idaho County","Idaho","Uninsured (Black)",0
+16051,"Jefferson County","Idaho","Uninsured (Black)",0
+16053,"Jerome County","Idaho","Uninsured (Black)",0
+16055,"Kootenai County","Idaho","Uninsured (Black)",0
+16057,"Latah County","Idaho","Uninsured (Black)",0.00735294117647059
+16059,"Lemhi County","Idaho","Uninsured (Black)",NA
+16061,"Lewis County","Idaho","Uninsured (Black)",0.451612903225806
+16063,"Lincoln County","Idaho","Uninsured (Black)",0.588235294117647
+16065,"Madison County","Idaho","Uninsured (Black)",0
+16067,"Minidoka County","Idaho","Uninsured (Black)",0
+16069,"Nez Perce County","Idaho","Uninsured (Black)",0
+16071,"Oneida County","Idaho","Uninsured (Black)",0.352941176470588
+16073,"Owyhee County","Idaho","Uninsured (Black)",0.192307692307692
+16075,"Payette County","Idaho","Uninsured (Black)",0
+16077,"Power County","Idaho","Uninsured (Black)",1
+16079,"Shoshone County","Idaho","Uninsured (Black)",0.125984251968504
+16081,"Teton County","Idaho","Uninsured (Black)",NA
+16083,"Twin Falls County","Idaho","Uninsured (Black)",0.0809716599190283
+16085,"Valley County","Idaho","Uninsured (Black)",0
+16087,"Washington County","Idaho","Uninsured (Black)",0
+30001,"Beaverhead County","Montana","Uninsured (Black)",0
+30003,"Big Horn County","Montana","Uninsured (Black)",NA
+30005,"Blaine County","Montana","Uninsured (Black)",0.129032258064516
+30007,"Broadwater County","Montana","Uninsured (Black)",0
+30009,"Carbon County","Montana","Uninsured (Black)",0
+30011,"Carter County","Montana","Uninsured (Black)",0
+30013,"Cascade County","Montana","Uninsured (Black)",0.0223577235772358
+30015,"Chouteau County","Montana","Uninsured (Black)",0
+30017,"Custer County","Montana","Uninsured (Black)",0
+30019,"Daniels County","Montana","Uninsured (Black)",0
+30021,"Dawson County","Montana","Uninsured (Black)",NA
+30023,"Deer Lodge County","Montana","Uninsured (Black)",0.115384615384615
+30025,"Fallon County","Montana","Uninsured (Black)",NA
+30027,"Fergus County","Montana","Uninsured (Black)",0.472972972972973
+30029,"Flathead County","Montana","Uninsured (Black)",0.0885608856088561
+30031,"Gallatin County","Montana","Uninsured (Black)",0.25
+30033,"Garfield County","Montana","Uninsured (Black)",0
+30035,"Glacier County","Montana","Uninsured (Black)",1
+30037,"Golden Valley County","Montana","Uninsured (Black)",0
+30039,"Granite County","Montana","Uninsured (Black)",1
+30041,"Hill County","Montana","Uninsured (Black)",0.0212765957446809
+30043,"Jefferson County","Montana","Uninsured (Black)",0
+30045,"Judith Basin County","Montana","Uninsured (Black)",NA
+30047,"Lake County","Montana","Uninsured (Black)",0
+30049,"Lewis And Clark County","Montana","Uninsured (Black)",0.0913461538461538
+30051,"Liberty County","Montana","Uninsured (Black)",NA
+30053,"Lincoln County","Montana","Uninsured (Black)",0
+30055,"McCone County","Montana","Uninsured (Black)",NA
+30057,"Madison County","Montana","Uninsured (Black)",NA
+30059,"Meagher County","Montana","Uninsured (Black)",0
+30061,"Mineral County","Montana","Uninsured (Black)",0.0689655172413793
+30063,"Missoula County","Montana","Uninsured (Black)",0.0419075144508671
+30065,"Musselshell County","Montana","Uninsured (Black)",NA
+30067,"Park County","Montana","Uninsured (Black)",0
+30069,"Petroleum County","Montana","Uninsured (Black)",NA
+30071,"Phillips County","Montana","Uninsured (Black)",0
+30073,"Pondera County","Montana","Uninsured (Black)",0
+30075,"Powder River County","Montana","Uninsured (Black)",NA
+30077,"Powell County","Montana","Uninsured (Black)",0
+30079,"Prairie County","Montana","Uninsured (Black)",NA
+30081,"Ravalli County","Montana","Uninsured (Black)",0
+30083,"Richland County","Montana","Uninsured (Black)",0
+30085,"Roosevelt County","Montana","Uninsured (Black)",0
+30087,"Rosebud County","Montana","Uninsured (Black)",0
+30089,"Sanders County","Montana","Uninsured (Black)",0.639344262295082
+30091,"Sheridan County","Montana","Uninsured (Black)",NA
+30093,"Silver Bow County","Montana","Uninsured (Black)",0
+30095,"Stillwater County","Montana","Uninsured (Black)",0
+30097,"Sweet Grass County","Montana","Uninsured (Black)",0
+30099,"Teton County","Montana","Uninsured (Black)",0
+30101,"Toole County","Montana","Uninsured (Black)",0.388888888888889
+30103,"Treasure County","Montana","Uninsured (Black)",NA
+30105,"Valley County","Montana","Uninsured (Black)",0.0487804878048781
+30107,"Wheatland County","Montana","Uninsured (Black)",0
+30109,"Wibaux County","Montana","Uninsured (Black)",0
+30111,"Yellowstone County","Montana","Uninsured (Black)",0.197470133520731
+32001,"Churchill County","Nevada","Uninsured (Black)",0.182590233545648
+32003,"Clark County","Nevada","Uninsured (Black)",0.0962487262383895
+32005,"Douglas County","Nevada","Uninsured (Black)",0
+32007,"Elko County","Nevada","Uninsured (Black)",0.020253164556962
+32009,"Esmeralda County","Nevada","Uninsured (Black)",NA
+32011,"Eureka County","Nevada","Uninsured (Black)",NA
+32013,"Humboldt County","Nevada","Uninsured (Black)",0
+32015,"Lander County","Nevada","Uninsured (Black)",0.446043165467626
+32017,"Lincoln County","Nevada","Uninsured (Black)",1
+32019,"Lyon County","Nevada","Uninsured (Black)",0.260623229461756
+32021,"Mineral County","Nevada","Uninsured (Black)",0
+32023,"Nye County","Nevada","Uninsured (Black)",0.0559157212317666
+32027,"Pershing County","Nevada","Uninsured (Black)",0
+32029,"Storey County","Nevada","Uninsured (Black)",0
+32031,"Washoe County","Nevada","Uninsured (Black)",0.116256759113902
+32033,"White Pine County","Nevada","Uninsured (Black)",0
+32510,"Carson City","Nevada","Uninsured (Black)",0.11611030478955
+49001,"Beaver County","Utah","Uninsured (Black)",NA
+49003,"Box Elder County","Utah","Uninsured (Black)",0
+49005,"Cache County","Utah","Uninsured (Black)",0.104882459312839
+49007,"Carbon County","Utah","Uninsured (Black)",0.227586206896552
+49009,"Daggett County","Utah","Uninsured (Black)",NA
+49011,"Davis County","Utah","Uninsured (Black)",0.0562937907707176
+49013,"Duchesne County","Utah","Uninsured (Black)",0
+49015,"Emery County","Utah","Uninsured (Black)",0
+49017,"Garfield County","Utah","Uninsured (Black)",NA
+49019,"Grand County","Utah","Uninsured (Black)",0
+49021,"Iron County","Utah","Uninsured (Black)",0
+49023,"Juab County","Utah","Uninsured (Black)",0
+49025,"Kane County","Utah","Uninsured (Black)",NA
+49027,"Millard County","Utah","Uninsured (Black)",0
+49029,"Morgan County","Utah","Uninsured (Black)",1
+49031,"Piute County","Utah","Uninsured (Black)",NA
+49033,"Rich County","Utah","Uninsured (Black)",NA
+49035,"Salt Lake County","Utah","Uninsured (Black)",0.158934094694266
+49037,"San Juan County","Utah","Uninsured (Black)",NA
+49039,"Sanpete County","Utah","Uninsured (Black)",0.120689655172414
+49041,"Sevier County","Utah","Uninsured (Black)",0
+49043,"Summit County","Utah","Uninsured (Black)",0.105263157894737
+49045,"Tooele County","Utah","Uninsured (Black)",0.0726072607260726
+49047,"Uintah County","Utah","Uninsured (Black)",0
+49049,"Utah County","Utah","Uninsured (Black)",0.128683914510686
+49051,"Wasatch County","Utah","Uninsured (Black)",1
+49053,"Washington County","Utah","Uninsured (Black)",0.421686746987952
+49055,"Wayne County","Utah","Uninsured (Black)",NA
+49057,"Weber County","Utah","Uninsured (Black)",0.116245487364621
+56001,"Albany County","Wyoming","Uninsured (Black)",0.206666666666667
+56003,"Big Horn County","Wyoming","Uninsured (Black)",0.180327868852459
+56005,"Campbell County","Wyoming","Uninsured (Black)",0.0657894736842105
+56007,"Carbon County","Wyoming","Uninsured (Black)",0.11046511627907
+56009,"Converse County","Wyoming","Uninsured (Black)",0
+56011,"Crook County","Wyoming","Uninsured (Black)",NA
+56013,"Fremont County","Wyoming","Uninsured (Black)",0.339805825242718
+56015,"Goshen County","Wyoming","Uninsured (Black)",0.208955223880597
+56017,"Hot Springs County","Wyoming","Uninsured (Black)",NA
+56019,"Johnson County","Wyoming","Uninsured (Black)",0.5
+56021,"Laramie County","Wyoming","Uninsured (Black)",0.193901858027632
+56023,"Lincoln County","Wyoming","Uninsured (Black)",0
+56025,"Natrona County","Wyoming","Uninsured (Black)",0.168141592920354
+56027,"Niobrara County","Wyoming","Uninsured (Black)",0
+56029,"Park County","Wyoming","Uninsured (Black)",0.10377358490566
+56031,"Platte County","Wyoming","Uninsured (Black)",0
+56033,"Sheridan County","Wyoming","Uninsured (Black)",0.491935483870968
+56035,"Sublette County","Wyoming","Uninsured (Black)",0
+56037,"Sweetwater County","Wyoming","Uninsured (Black)",0.0808080808080808
+56039,"Teton County","Wyoming","Uninsured (Black)",0.248175182481752
+56041,"Uinta County","Wyoming","Uninsured (Black)",0.545454545454545
+56043,"Washakie County","Wyoming","Uninsured (Black)",1
+56045,"Weston County","Wyoming","Uninsured (Black)",NA
+16001,"Ada County","Idaho","Uninsured (Hispanic)",0.159403669724771
+16003,"Adams County","Idaho","Uninsured (Hispanic)",0.267676767676768
+16005,"Bannock County","Idaho","Uninsured (Hispanic)",0.0954773869346734
+16007,"Bear Lake County","Idaho","Uninsured (Hispanic)",0.282786885245902
+16009,"Benewah County","Idaho","Uninsured (Hispanic)",0.0683760683760684
+16011,"Bingham County","Idaho","Uninsured (Hispanic)",0.135207652823145
+16013,"Blaine County","Idaho","Uninsured (Hispanic)",0.225943033102386
+16015,"Boise County","Idaho","Uninsured (Hispanic)",0.230366492146597
+16017,"Bonner County","Idaho","Uninsured (Hispanic)",0.141884222474461
+16019,"Bonneville County","Idaho","Uninsured (Hispanic)",0.115890886685711
+16021,"Boundary County","Idaho","Uninsured (Hispanic)",0.143061516452074
+16023,"Butte County","Idaho","Uninsured (Hispanic)",0.292682926829268
+16025,"Camas County","Idaho","Uninsured (Hispanic)",0.0853658536585366
+16027,"Canyon County","Idaho","Uninsured (Hispanic)",0.177934227022857
+16029,"Caribou County","Idaho","Uninsured (Hispanic)",0.0154639175257732
+16031,"Cassia County","Idaho","Uninsured (Hispanic)",0.236158345803292
+16033,"Clark County","Idaho","Uninsured (Hispanic)",0.504237288135593
+16035,"Clearwater County","Idaho","Uninsured (Hispanic)",0.175548589341693
+16037,"Custer County","Idaho","Uninsured (Hispanic)",0.253968253968254
+16039,"Elmore County","Idaho","Uninsured (Hispanic)",0.245010615711253
+16041,"Franklin County","Idaho","Uninsured (Hispanic)",0.140858208955224
+16043,"Fremont County","Idaho","Uninsured (Hispanic)",0.292763157894737
+16045,"Gem County","Idaho","Uninsured (Hispanic)",0.294857768052516
+16047,"Gooding County","Idaho","Uninsured (Hispanic)",0.411958085062667
+16049,"Idaho County","Idaho","Uninsured (Hispanic)",0.368595041322314
+16051,"Jefferson County","Idaho","Uninsured (Hispanic)",0.23030303030303
+16053,"Jerome County","Idaho","Uninsured (Hispanic)",0.294365455502896
+16055,"Kootenai County","Idaho","Uninsured (Hispanic)",0.156689771056501
+16057,"Latah County","Idaho","Uninsured (Hispanic)",0.105341246290801
+16059,"Lemhi County","Idaho","Uninsured (Hispanic)",0.246575342465753
+16061,"Lewis County","Idaho","Uninsured (Hispanic)",0.0476190476190476
+16063,"Lincoln County","Idaho","Uninsured (Hispanic)",0.244510385756677
+16065,"Madison County","Idaho","Uninsured (Hispanic)",0.139772508193561
+16067,"Minidoka County","Idaho","Uninsured (Hispanic)",0.227849676455948
+16069,"Nez Perce County","Idaho","Uninsured (Hispanic)",0.139439906651109
+16071,"Oneida County","Idaho","Uninsured (Hispanic)",0.357843137254902
+16073,"Owyhee County","Idaho","Uninsured (Hispanic)",0.293069306930693
+16075,"Payette County","Idaho","Uninsured (Hispanic)",0.144638949671772
+16077,"Power County","Idaho","Uninsured (Hispanic)",0.242729306487696
+16079,"Shoshone County","Idaho","Uninsured (Hispanic)",0.165103189493433
+16081,"Teton County","Idaho","Uninsured (Hispanic)",0.440309328177864
+16083,"Twin Falls County","Idaho","Uninsured (Hispanic)",0.174446868183235
+16085,"Valley County","Idaho","Uninsured (Hispanic)",0.147540983606557
+16087,"Washington County","Idaho","Uninsured (Hispanic)",0.217315514235909
+30001,"Beaverhead County","Montana","Uninsured (Hispanic)",0.048728813559322
+30003,"Big Horn County","Montana","Uninsured (Hispanic)",0.00170068027210884
+30005,"Blaine County","Montana","Uninsured (Hispanic)",0.272251308900524
+30007,"Broadwater County","Montana","Uninsured (Hispanic)",0.496124031007752
+30009,"Carbon County","Montana","Uninsured (Hispanic)",0.0610932475884244
+30011,"Carter County","Montana","Uninsured (Hispanic)",0
+30013,"Cascade County","Montana","Uninsured (Hispanic)",0.0864516129032258
+30015,"Chouteau County","Montana","Uninsured (Hispanic)",0.151685393258427
+30017,"Custer County","Montana","Uninsured (Hispanic)",0
+30019,"Daniels County","Montana","Uninsured (Hispanic)",0
+30021,"Dawson County","Montana","Uninsured (Hispanic)",0
+30023,"Deer Lodge County","Montana","Uninsured (Hispanic)",0
+30025,"Fallon County","Montana","Uninsured (Hispanic)",0.928571428571429
+30027,"Fergus County","Montana","Uninsured (Hispanic)",0.21900826446281
+30029,"Flathead County","Montana","Uninsured (Hispanic)",0.101587301587302
+30031,"Gallatin County","Montana","Uninsured (Hispanic)",0.155640779801854
+30033,"Garfield County","Montana","Uninsured (Hispanic)",NA
+30035,"Glacier County","Montana","Uninsured (Hispanic)",0.180371352785146
+30037,"Golden Valley County","Montana","Uninsured (Hispanic)",0.2
+30039,"Granite County","Montana","Uninsured (Hispanic)",0
+30041,"Hill County","Montana","Uninsured (Hispanic)",0.0513761467889908
+30043,"Jefferson County","Montana","Uninsured (Hispanic)",0.107361963190184
+30045,"Judith Basin County","Montana","Uninsured (Hispanic)",0
+30047,"Lake County","Montana","Uninsured (Hispanic)",0.201210287443268
+30049,"Lewis And Clark County","Montana","Uninsured (Hispanic)",0.0342342342342342
+30051,"Liberty County","Montana","Uninsured (Hispanic)",NA
+30053,"Lincoln County","Montana","Uninsured (Hispanic)",0.44314381270903
+30055,"McCone County","Montana","Uninsured (Hispanic)",NA
+30057,"Madison County","Montana","Uninsured (Hispanic)",0.0220820189274448
+30059,"Meagher County","Montana","Uninsured (Hispanic)",0
+30061,"Mineral County","Montana","Uninsured (Hispanic)",0.0424242424242424
+30063,"Missoula County","Montana","Uninsured (Hispanic)",0.0750563355867568
+30065,"Musselshell County","Montana","Uninsured (Hispanic)",0.016304347826087
+30067,"Park County","Montana","Uninsured (Hispanic)",0.145580589254766
+30069,"Petroleum County","Montana","Uninsured (Hispanic)",NA
+30071,"Phillips County","Montana","Uninsured (Hispanic)",0
+30073,"Pondera County","Montana","Uninsured (Hispanic)",0.0291970802919708
+30075,"Powder River County","Montana","Uninsured (Hispanic)",0
+30077,"Powell County","Montana","Uninsured (Hispanic)",0.0666666666666667
+30079,"Prairie County","Montana","Uninsured (Hispanic)",0
+30081,"Ravalli County","Montana","Uninsured (Hispanic)",0.0693069306930693
+30083,"Richland County","Montana","Uninsured (Hispanic)",0.0837359098228663
+30085,"Roosevelt County","Montana","Uninsured (Hispanic)",0.191489361702128
+30087,"Rosebud County","Montana","Uninsured (Hispanic)",0.180505415162455
+30089,"Sanders County","Montana","Uninsured (Hispanic)",0.0560747663551402
+30091,"Sheridan County","Montana","Uninsured (Hispanic)",0.0120481927710843
+30093,"Silver Bow County","Montana","Uninsured (Hispanic)",0.151890886546807
+30095,"Stillwater County","Montana","Uninsured (Hispanic)",0.0754098360655738
+30097,"Sweet Grass County","Montana","Uninsured (Hispanic)",0
+30099,"Teton County","Montana","Uninsured (Hispanic)",0
+30101,"Toole County","Montana","Uninsured (Hispanic)",0.032967032967033
+30103,"Treasure County","Montana","Uninsured (Hispanic)",0.348837209302326
+30105,"Valley County","Montana","Uninsured (Hispanic)",0.104166666666667
+30107,"Wheatland County","Montana","Uninsured (Hispanic)",0.37037037037037
+30109,"Wibaux County","Montana","Uninsured (Hispanic)",0.376811594202899
+30111,"Yellowstone County","Montana","Uninsured (Hispanic)",0.0823049174102905
+32001,"Churchill County","Nevada","Uninsured (Hispanic)",0.18348623853211
+32003,"Clark County","Nevada","Uninsured (Hispanic)",0.205901409512745
+32005,"Douglas County","Nevada","Uninsured (Hispanic)",0.126968973747017
+32007,"Elko County","Nevada","Uninsured (Hispanic)",0.114095433255269
+32009,"Esmeralda County","Nevada","Uninsured (Hispanic)",0.154761904761905
+32011,"Eureka County","Nevada","Uninsured (Hispanic)",0
+32013,"Humboldt County","Nevada","Uninsured (Hispanic)",0.118166164442531
+32015,"Lander County","Nevada","Uninsured (Hispanic)",0.119462025316456
+32017,"Lincoln County","Nevada","Uninsured (Hispanic)",0.153374233128834
+32019,"Lyon County","Nevada","Uninsured (Hispanic)",0.158862727676588
+32021,"Mineral County","Nevada","Uninsured (Hispanic)",0.120947630922693
+32023,"Nye County","Nevada","Uninsured (Hispanic)",0.132792284168431
+32027,"Pershing County","Nevada","Uninsured (Hispanic)",0.12
+32029,"Storey County","Nevada","Uninsured (Hispanic)",0.0551724137931034
+32031,"Washoe County","Nevada","Uninsured (Hispanic)",0.185966141644503
+32033,"White Pine County","Nevada","Uninsured (Hispanic)",0.126846220677672
+32510,"Carson City","Nevada","Uninsured (Hispanic)",0.208982647158898
+49001,"Beaver County","Utah","Uninsured (Hispanic)",0.425661914460285
+49003,"Box Elder County","Utah","Uninsured (Hispanic)",0.233898305084746
+49005,"Cache County","Utah","Uninsured (Hispanic)",0.160467791411043
+49007,"Carbon County","Utah","Uninsured (Hispanic)",0.103748580083302
+49009,"Daggett County","Utah","Uninsured (Hispanic)",0.5
+49011,"Davis County","Utah","Uninsured (Hispanic)",0.163049622729619
+49013,"Duchesne County","Utah","Uninsured (Hispanic)",0.263007840342124
+49015,"Emery County","Utah","Uninsured (Hispanic)",0.282578875171468
+49017,"Garfield County","Utah","Uninsured (Hispanic)",0.0189274447949527
+49019,"Grand County","Utah","Uninsured (Hispanic)",0.475
+49021,"Iron County","Utah","Uninsured (Hispanic)",0.18388326977284
+49023,"Juab County","Utah","Uninsured (Hispanic)",0.0376766091051805
+49025,"Kane County","Utah","Uninsured (Hispanic)",0.439873417721519
+49027,"Millard County","Utah","Uninsured (Hispanic)",0.202188940092166
+49029,"Morgan County","Utah","Uninsured (Hispanic)",0.134986225895317
+49031,"Piute County","Utah","Uninsured (Hispanic)",0.315068493150685
+49033,"Rich County","Utah","Uninsured (Hispanic)",0.370786516853933
+49035,"Salt Lake County","Utah","Uninsured (Hispanic)",0.247075532272261
+49037,"San Juan County","Utah","Uninsured (Hispanic)",0.0282258064516129
+49039,"Sanpete County","Utah","Uninsured (Hispanic)",0.29296875
+49041,"Sevier County","Utah","Uninsured (Hispanic)",0.212365591397849
+49043,"Summit County","Utah","Uninsured (Hispanic)",0.277578569921957
+49045,"Tooele County","Utah","Uninsured (Hispanic)",0.131367292225201
+49047,"Uintah County","Utah","Uninsured (Hispanic)",0.196084936960849
+49049,"Utah County","Utah","Uninsured (Hispanic)",0.207291512290136
+49051,"Wasatch County","Utah","Uninsured (Hispanic)",0.233359283768003
+49053,"Washington County","Utah","Uninsured (Hispanic)",0.24199836793907
+49055,"Wayne County","Utah","Uninsured (Hispanic)",0.760869565217391
+49057,"Weber County","Utah","Uninsured (Hispanic)",0.18787720286473
+56001,"Albany County","Wyoming","Uninsured (Hispanic)",0.134090909090909
+56003,"Big Horn County","Wyoming","Uninsured (Hispanic)",0.287545787545788
+56005,"Campbell County","Wyoming","Uninsured (Hispanic)",0.419104204753199
+56007,"Carbon County","Wyoming","Uninsured (Hispanic)",0.261951797708416
+56009,"Converse County","Wyoming","Uninsured (Hispanic)",0.12748643761302
+56011,"Crook County","Wyoming","Uninsured (Hispanic)",0.242857142857143
+56013,"Fremont County","Wyoming","Uninsured (Hispanic)",0.176223241590214
+56015,"Goshen County","Wyoming","Uninsured (Hispanic)",0.216765453005927
+56017,"Hot Springs County","Wyoming","Uninsured (Hispanic)",0.367231638418079
+56019,"Johnson County","Wyoming","Uninsured (Hispanic)",0.181318681318681
+56021,"Laramie County","Wyoming","Uninsured (Hispanic)",0.137225418410042
+56023,"Lincoln County","Wyoming","Uninsured (Hispanic)",0.357211079274117
+56025,"Natrona County","Wyoming","Uninsured (Hispanic)",0.174855888004392
+56027,"Niobrara County","Wyoming","Uninsured (Hispanic)",0.0181818181818182
+56029,"Park County","Wyoming","Uninsured (Hispanic)",0.0704622322435175
+56031,"Platte County","Wyoming","Uninsured (Hispanic)",0.718019257221458
+56033,"Sheridan County","Wyoming","Uninsured (Hispanic)",0.182660489741893
+56035,"Sublette County","Wyoming","Uninsured (Hispanic)",0.393081761006289
+56037,"Sweetwater County","Wyoming","Uninsured (Hispanic)",0.29262639432131
+56039,"Teton County","Wyoming","Uninsured (Hispanic)",0.271777003484321
+56041,"Uinta County","Wyoming","Uninsured (Hispanic)",0.233649525711433
+56043,"Washakie County","Wyoming","Uninsured (Hispanic)",0.230410447761194
+56045,"Weston County","Wyoming","Uninsured (Hispanic)",0.505952380952381
+16001,"Ada County","Idaho","Living Below Poverty (Black)",0.215176715176715
+16003,"Adams County","Idaho","Living Below Poverty (Black)",0
+16005,"Bannock County","Idaho","Living Below Poverty (Black)",0.352941176470588
+16007,"Bear Lake County","Idaho","Living Below Poverty (Black)",NA
+16009,"Benewah County","Idaho","Living Below Poverty (Black)",NA
+16011,"Bingham County","Idaho","Living Below Poverty (Black)",NA
+16013,"Blaine County","Idaho","Living Below Poverty (Black)",NA
+16015,"Boise County","Idaho","Living Below Poverty (Black)",NA
+16017,"Bonner County","Idaho","Living Below Poverty (Black)",0
+16019,"Bonneville County","Idaho","Living Below Poverty (Black)",0.121794871794872
+16021,"Boundary County","Idaho","Living Below Poverty (Black)",NA
+16023,"Butte County","Idaho","Living Below Poverty (Black)",NA
+16025,"Camas County","Idaho","Living Below Poverty (Black)",NA
+16027,"Canyon County","Idaho","Living Below Poverty (Black)",0.155234657039711
+16029,"Caribou County","Idaho","Living Below Poverty (Black)",NA
+16031,"Cassia County","Idaho","Living Below Poverty (Black)",NA
+16033,"Clark County","Idaho","Living Below Poverty (Black)",NA
+16035,"Clearwater County","Idaho","Living Below Poverty (Black)",NA
+16037,"Custer County","Idaho","Living Below Poverty (Black)",NA
+16039,"Elmore County","Idaho","Living Below Poverty (Black)",0
+16041,"Franklin County","Idaho","Living Below Poverty (Black)",NA
+16043,"Fremont County","Idaho","Living Below Poverty (Black)",NA
+16045,"Gem County","Idaho","Living Below Poverty (Black)",NA
+16047,"Gooding County","Idaho","Living Below Poverty (Black)",NA
+16049,"Idaho County","Idaho","Living Below Poverty (Black)",NA
+16051,"Jefferson County","Idaho","Living Below Poverty (Black)",NA
+16053,"Jerome County","Idaho","Living Below Poverty (Black)",0
+16055,"Kootenai County","Idaho","Living Below Poverty (Black)",0
+16057,"Latah County","Idaho","Living Below Poverty (Black)",0
+16059,"Lemhi County","Idaho","Living Below Poverty (Black)",NA
+16061,"Lewis County","Idaho","Living Below Poverty (Black)",1
+16063,"Lincoln County","Idaho","Living Below Poverty (Black)",NA
+16065,"Madison County","Idaho","Living Below Poverty (Black)",0
+16067,"Minidoka County","Idaho","Living Below Poverty (Black)",NA
+16069,"Nez Perce County","Idaho","Living Below Poverty (Black)",NA
+16071,"Oneida County","Idaho","Living Below Poverty (Black)",1
+16073,"Owyhee County","Idaho","Living Below Poverty (Black)",NA
+16075,"Payette County","Idaho","Living Below Poverty (Black)",NA
+16077,"Power County","Idaho","Living Below Poverty (Black)",NA
+16079,"Shoshone County","Idaho","Living Below Poverty (Black)",0
+16081,"Teton County","Idaho","Living Below Poverty (Black)",NA
+16083,"Twin Falls County","Idaho","Living Below Poverty (Black)",0.653465346534653
+16085,"Valley County","Idaho","Living Below Poverty (Black)",NA
+16087,"Washington County","Idaho","Living Below Poverty (Black)",NA
+30001,"Beaverhead County","Montana","Living Below Poverty (Black)",NA
+30003,"Big Horn County","Montana","Living Below Poverty (Black)",NA
+30005,"Blaine County","Montana","Living Below Poverty (Black)",NA
+30007,"Broadwater County","Montana","Living Below Poverty (Black)",NA
+30009,"Carbon County","Montana","Living Below Poverty (Black)",NA
+30011,"Carter County","Montana","Living Below Poverty (Black)",NA
+30013,"Cascade County","Montana","Living Below Poverty (Black)",0.0414746543778802
+30015,"Chouteau County","Montana","Living Below Poverty (Black)",NA
+30017,"Custer County","Montana","Living Below Poverty (Black)",NA
+30019,"Daniels County","Montana","Living Below Poverty (Black)",1
+30021,"Dawson County","Montana","Living Below Poverty (Black)",NA
+30023,"Deer Lodge County","Montana","Living Below Poverty (Black)",0
+30025,"Fallon County","Montana","Living Below Poverty (Black)",NA
+30027,"Fergus County","Montana","Living Below Poverty (Black)",1
+30029,"Flathead County","Montana","Living Below Poverty (Black)",0
+30031,"Gallatin County","Montana","Living Below Poverty (Black)",0.106382978723404
+30033,"Garfield County","Montana","Living Below Poverty (Black)",NA
+30035,"Glacier County","Montana","Living Below Poverty (Black)",0
+30037,"Golden Valley County","Montana","Living Below Poverty (Black)",0
+30039,"Granite County","Montana","Living Below Poverty (Black)",NA
+30041,"Hill County","Montana","Living Below Poverty (Black)",NA
+30043,"Jefferson County","Montana","Living Below Poverty (Black)",NA
+30045,"Judith Basin County","Montana","Living Below Poverty (Black)",NA
+30047,"Lake County","Montana","Living Below Poverty (Black)",0.64
+30049,"Lewis And Clark County","Montana","Living Below Poverty (Black)",0
+30051,"Liberty County","Montana","Living Below Poverty (Black)",NA
+30053,"Lincoln County","Montana","Living Below Poverty (Black)",NA
+30055,"McCone County","Montana","Living Below Poverty (Black)",NA
+30057,"Madison County","Montana","Living Below Poverty (Black)",NA
+30059,"Meagher County","Montana","Living Below Poverty (Black)",NA
+30061,"Mineral County","Montana","Living Below Poverty (Black)",NA
+30063,"Missoula County","Montana","Living Below Poverty (Black)",0
+30065,"Musselshell County","Montana","Living Below Poverty (Black)",NA
+30067,"Park County","Montana","Living Below Poverty (Black)",NA
+30069,"Petroleum County","Montana","Living Below Poverty (Black)",NA
+30071,"Phillips County","Montana","Living Below Poverty (Black)",NA
+30073,"Pondera County","Montana","Living Below Poverty (Black)",NA
+30075,"Powder River County","Montana","Living Below Poverty (Black)",NA
+30077,"Powell County","Montana","Living Below Poverty (Black)",NA
+30079,"Prairie County","Montana","Living Below Poverty (Black)",NA
+30081,"Ravalli County","Montana","Living Below Poverty (Black)",NA
+30083,"Richland County","Montana","Living Below Poverty (Black)",0
+30085,"Roosevelt County","Montana","Living Below Poverty (Black)",NA
+30087,"Rosebud County","Montana","Living Below Poverty (Black)",NA
+30089,"Sanders County","Montana","Living Below Poverty (Black)",NA
+30091,"Sheridan County","Montana","Living Below Poverty (Black)",NA
+30093,"Silver Bow County","Montana","Living Below Poverty (Black)",NA
+30095,"Stillwater County","Montana","Living Below Poverty (Black)",NA
+30097,"Sweet Grass County","Montana","Living Below Poverty (Black)",NA
+30099,"Teton County","Montana","Living Below Poverty (Black)",NA
+30101,"Toole County","Montana","Living Below Poverty (Black)",NA
+30103,"Treasure County","Montana","Living Below Poverty (Black)",NA
+30105,"Valley County","Montana","Living Below Poverty (Black)",NA
+30107,"Wheatland County","Montana","Living Below Poverty (Black)",NA
+30109,"Wibaux County","Montana","Living Below Poverty (Black)",NA
+30111,"Yellowstone County","Montana","Living Below Poverty (Black)",0
+32001,"Churchill County","Nevada","Living Below Poverty (Black)",0
+32003,"Clark County","Nevada","Living Below Poverty (Black)",0.172575928756563
+32005,"Douglas County","Nevada","Living Below Poverty (Black)",0
+32007,"Elko County","Nevada","Living Below Poverty (Black)",0
+32009,"Esmeralda County","Nevada","Living Below Poverty (Black)",NA
+32011,"Eureka County","Nevada","Living Below Poverty (Black)",NA
+32013,"Humboldt County","Nevada","Living Below Poverty (Black)",0
+32015,"Lander County","Nevada","Living Below Poverty (Black)",NA
+32017,"Lincoln County","Nevada","Living Below Poverty (Black)",NA
+32019,"Lyon County","Nevada","Living Below Poverty (Black)",0
+32021,"Mineral County","Nevada","Living Below Poverty (Black)",0.4875
+32023,"Nye County","Nevada","Living Below Poverty (Black)",0.015625
+32027,"Pershing County","Nevada","Living Below Poverty (Black)",NA
+32029,"Storey County","Nevada","Living Below Poverty (Black)",NA
+32031,"Washoe County","Nevada","Living Below Poverty (Black)",0.194444444444444
+32033,"White Pine County","Nevada","Living Below Poverty (Black)",0
+32510,"Carson City","Nevada","Living Below Poverty (Black)",0
+49001,"Beaver County","Utah","Living Below Poverty (Black)",NA
+49003,"Box Elder County","Utah","Living Below Poverty (Black)",NA
+49005,"Cache County","Utah","Living Below Poverty (Black)",0.211206896551724
+49007,"Carbon County","Utah","Living Below Poverty (Black)",0.666666666666667
+49009,"Daggett County","Utah","Living Below Poverty (Black)",NA
+49011,"Davis County","Utah","Living Below Poverty (Black)",0.0176470588235294
+49013,"Duchesne County","Utah","Living Below Poverty (Black)",NA
+49015,"Emery County","Utah","Living Below Poverty (Black)",NA
+49017,"Garfield County","Utah","Living Below Poverty (Black)",NA
+49019,"Grand County","Utah","Living Below Poverty (Black)",NA
+49021,"Iron County","Utah","Living Below Poverty (Black)",NA
+49023,"Juab County","Utah","Living Below Poverty (Black)",0
+49025,"Kane County","Utah","Living Below Poverty (Black)",NA
+49027,"Millard County","Utah","Living Below Poverty (Black)",NA
+49029,"Morgan County","Utah","Living Below Poverty (Black)",NA
+49031,"Piute County","Utah","Living Below Poverty (Black)",NA
+49033,"Rich County","Utah","Living Below Poverty (Black)",NA
+49035,"Salt Lake County","Utah","Living Below Poverty (Black)",0.217219772569042
+49037,"San Juan County","Utah","Living Below Poverty (Black)",NA
+49039,"Sanpete County","Utah","Living Below Poverty (Black)",NA
+49041,"Sevier County","Utah","Living Below Poverty (Black)",0
+49043,"Summit County","Utah","Living Below Poverty (Black)",0.392857142857143
+49045,"Tooele County","Utah","Living Below Poverty (Black)",0
+49047,"Uintah County","Utah","Living Below Poverty (Black)",0
+49049,"Utah County","Utah","Living Below Poverty (Black)",0.147640791476408
+49051,"Wasatch County","Utah","Living Below Poverty (Black)",NA
+49053,"Washington County","Utah","Living Below Poverty (Black)",0
+49055,"Wayne County","Utah","Living Below Poverty (Black)",NA
+49057,"Weber County","Utah","Living Below Poverty (Black)",0.175078864353312
+56001,"Albany County","Wyoming","Living Below Poverty (Black)",0.04
+56003,"Big Horn County","Wyoming","Living Below Poverty (Black)",0.4
+56005,"Campbell County","Wyoming","Living Below Poverty (Black)",NA
+56007,"Carbon County","Wyoming","Living Below Poverty (Black)",0.714285714285714
+56009,"Converse County","Wyoming","Living Below Poverty (Black)",NA
+56011,"Crook County","Wyoming","Living Below Poverty (Black)",NA
+56013,"Fremont County","Wyoming","Living Below Poverty (Black)",0
+56015,"Goshen County","Wyoming","Living Below Poverty (Black)",NA
+56017,"Hot Springs County","Wyoming","Living Below Poverty (Black)",NA
+56019,"Johnson County","Wyoming","Living Below Poverty (Black)",NA
+56021,"Laramie County","Wyoming","Living Below Poverty (Black)",0.293139293139293
+56023,"Lincoln County","Wyoming","Living Below Poverty (Black)",NA
+56025,"Natrona County","Wyoming","Living Below Poverty (Black)",0.832335329341317
+56027,"Niobrara County","Wyoming","Living Below Poverty (Black)",NA
+56029,"Park County","Wyoming","Living Below Poverty (Black)",1
+56031,"Platte County","Wyoming","Living Below Poverty (Black)",NA
+56033,"Sheridan County","Wyoming","Living Below Poverty (Black)",0
+56035,"Sublette County","Wyoming","Living Below Poverty (Black)",NA
+56037,"Sweetwater County","Wyoming","Living Below Poverty (Black)",0
+56039,"Teton County","Wyoming","Living Below Poverty (Black)",NA
+56041,"Uinta County","Wyoming","Living Below Poverty (Black)",0
+56043,"Washakie County","Wyoming","Living Below Poverty (Black)",NA
+56045,"Weston County","Wyoming","Living Below Poverty (Black)",NA
+16001,"Ada County","Idaho","Living Below Poverty (Hispanic)",0.0826184640522876
+16003,"Adams County","Idaho","Living Below Poverty (Hispanic)",0
+16005,"Bannock County","Idaho","Living Below Poverty (Hispanic)",0.122356495468278
+16007,"Bear Lake County","Idaho","Living Below Poverty (Hispanic)",0.242424242424242
+16009,"Benewah County","Idaho","Living Below Poverty (Hispanic)",0.128205128205128
+16011,"Bingham County","Idaho","Living Below Poverty (Hispanic)",0.098876404494382
+16013,"Blaine County","Idaho","Living Below Poverty (Hispanic)",0.146778042959427
+16015,"Boise County","Idaho","Living Below Poverty (Hispanic)",0
+16017,"Bonner County","Idaho","Living Below Poverty (Hispanic)",0.0945558739255014
+16019,"Bonneville County","Idaho","Living Below Poverty (Hispanic)",0.0937417480855559
+16021,"Boundary County","Idaho","Living Below Poverty (Hispanic)",0.251700680272109
+16023,"Butte County","Idaho","Living Below Poverty (Hispanic)",0.333333333333333
+16025,"Camas County","Idaho","Living Below Poverty (Hispanic)",0
+16027,"Canyon County","Idaho","Living Below Poverty (Hispanic)",0.130792452830189
+16029,"Caribou County","Idaho","Living Below Poverty (Hispanic)",0
+16031,"Cassia County","Idaho","Living Below Poverty (Hispanic)",0.115933044017359
+16033,"Clark County","Idaho","Living Below Poverty (Hispanic)",0.162162162162162
+16035,"Clearwater County","Idaho","Living Below Poverty (Hispanic)",0
+16037,"Custer County","Idaho","Living Below Poverty (Hispanic)",NA
+16039,"Elmore County","Idaho","Living Below Poverty (Hispanic)",0.168454935622318
+16041,"Franklin County","Idaho","Living Below Poverty (Hispanic)",0.0470588235294118
+16043,"Fremont County","Idaho","Living Below Poverty (Hispanic)",0.196078431372549
+16045,"Gem County","Idaho","Living Below Poverty (Hispanic)",0.131221719457014
+16047,"Gooding County","Idaho","Living Below Poverty (Hispanic)",0.151616499442586
+16049,"Idaho County","Idaho","Living Below Poverty (Hispanic)",0.292307692307692
+16051,"Jefferson County","Idaho","Living Below Poverty (Hispanic)",0.323920265780731
+16053,"Jerome County","Idaho","Living Below Poverty (Hispanic)",0.17014773306164
+16055,"Kootenai County","Idaho","Living Below Poverty (Hispanic)",0.0665907797381901
+16057,"Latah County","Idaho","Living Below Poverty (Hispanic)",0.235632183908046
+16059,"Lemhi County","Idaho","Living Below Poverty (Hispanic)",0
+16061,"Lewis County","Idaho","Living Below Poverty (Hispanic)",0.486486486486487
+16063,"Lincoln County","Idaho","Living Below Poverty (Hispanic)",0.0448179271708683
+16065,"Madison County","Idaho","Living Below Poverty (Hispanic)",0.348837209302326
+16067,"Minidoka County","Idaho","Living Below Poverty (Hispanic)",0.183016877637131
+16069,"Nez Perce County","Idaho","Living Below Poverty (Hispanic)",0.0686274509803922
+16071,"Oneida County","Idaho","Living Below Poverty (Hispanic)",0
+16073,"Owyhee County","Idaho","Living Below Poverty (Hispanic)",0.179023508137432
+16075,"Payette County","Idaho","Living Below Poverty (Hispanic)",0.034037558685446
+16077,"Power County","Idaho","Living Below Poverty (Hispanic)",0
+16079,"Shoshone County","Idaho","Living Below Poverty (Hispanic)",0.285714285714286
+16081,"Teton County","Idaho","Living Below Poverty (Hispanic)",0.079664570230608
+16083,"Twin Falls County","Idaho","Living Below Poverty (Hispanic)",0.12638322655795
+16085,"Valley County","Idaho","Living Below Poverty (Hispanic)",0
+16087,"Washington County","Idaho","Living Below Poverty (Hispanic)",0.290575916230366
+30001,"Beaverhead County","Montana","Living Below Poverty (Hispanic)",0
+30003,"Big Horn County","Montana","Living Below Poverty (Hispanic)",0.469387755102041
+30005,"Blaine County","Montana","Living Below Poverty (Hispanic)",0
+30007,"Broadwater County","Montana","Living Below Poverty (Hispanic)",NA
+30009,"Carbon County","Montana","Living Below Poverty (Hispanic)",0
+30011,"Carter County","Montana","Living Below Poverty (Hispanic)",0
+30013,"Cascade County","Montana","Living Below Poverty (Hispanic)",0.216743119266055
+30015,"Chouteau County","Montana","Living Below Poverty (Hispanic)",0.114285714285714
+30017,"Custer County","Montana","Living Below Poverty (Hispanic)",0
+30019,"Daniels County","Montana","Living Below Poverty (Hispanic)",0
+30021,"Dawson County","Montana","Living Below Poverty (Hispanic)",0.52
+30023,"Deer Lodge County","Montana","Living Below Poverty (Hispanic)",0
+30025,"Fallon County","Montana","Living Below Poverty (Hispanic)",NA
+30027,"Fergus County","Montana","Living Below Poverty (Hispanic)",0
+30029,"Flathead County","Montana","Living Below Poverty (Hispanic)",0.1234375
+30031,"Gallatin County","Montana","Living Below Poverty (Hispanic)",0.0974643423137876
+30033,"Garfield County","Montana","Living Below Poverty (Hispanic)",NA
+30035,"Glacier County","Montana","Living Below Poverty (Hispanic)",0.727272727272727
+30037,"Golden Valley County","Montana","Living Below Poverty (Hispanic)",0
+30039,"Granite County","Montana","Living Below Poverty (Hispanic)",0
+30041,"Hill County","Montana","Living Below Poverty (Hispanic)",0.333333333333333
+30043,"Jefferson County","Montana","Living Below Poverty (Hispanic)",0.529411764705882
+30045,"Judith Basin County","Montana","Living Below Poverty (Hispanic)",0
+30047,"Lake County","Montana","Living Below Poverty (Hispanic)",0.453947368421053
+30049,"Lewis And Clark County","Montana","Living Below Poverty (Hispanic)",0.100200400801603
+30051,"Liberty County","Montana","Living Below Poverty (Hispanic)",NA
+30053,"Lincoln County","Montana","Living Below Poverty (Hispanic)",0
+30055,"McCone County","Montana","Living Below Poverty (Hispanic)",NA
+30057,"Madison County","Montana","Living Below Poverty (Hispanic)",0
+30059,"Meagher County","Montana","Living Below Poverty (Hispanic)",0.111111111111111
+30061,"Mineral County","Montana","Living Below Poverty (Hispanic)",0
+30063,"Missoula County","Montana","Living Below Poverty (Hispanic)",0.0831873905429072
+30065,"Musselshell County","Montana","Living Below Poverty (Hispanic)",0
+30067,"Park County","Montana","Living Below Poverty (Hispanic)",0.0919540229885057
+30069,"Petroleum County","Montana","Living Below Poverty (Hispanic)",NA
+30071,"Phillips County","Montana","Living Below Poverty (Hispanic)",0
+30073,"Pondera County","Montana","Living Below Poverty (Hispanic)",0.5
+30075,"Powder River County","Montana","Living Below Poverty (Hispanic)",0
+30077,"Powell County","Montana","Living Below Poverty (Hispanic)",NA
+30079,"Prairie County","Montana","Living Below Poverty (Hispanic)",NA
+30081,"Ravalli County","Montana","Living Below Poverty (Hispanic)",0.0294985250737463
+30083,"Richland County","Montana","Living Below Poverty (Hispanic)",0
+30085,"Roosevelt County","Montana","Living Below Poverty (Hispanic)",0.4
+30087,"Rosebud County","Montana","Living Below Poverty (Hispanic)",0
+30089,"Sanders County","Montana","Living Below Poverty (Hispanic)",0
+30091,"Sheridan County","Montana","Living Below Poverty (Hispanic)",0.159090909090909
+30093,"Silver Bow County","Montana","Living Below Poverty (Hispanic)",0.238095238095238
+30095,"Stillwater County","Montana","Living Below Poverty (Hispanic)",0.32258064516129
+30097,"Sweet Grass County","Montana","Living Below Poverty (Hispanic)",0
+30099,"Teton County","Montana","Living Below Poverty (Hispanic)",0
+30101,"Toole County","Montana","Living Below Poverty (Hispanic)",0
+30103,"Treasure County","Montana","Living Below Poverty (Hispanic)",1
+30105,"Valley County","Montana","Living Below Poverty (Hispanic)",0.361111111111111
+30107,"Wheatland County","Montana","Living Below Poverty (Hispanic)",NA
+30109,"Wibaux County","Montana","Living Below Poverty (Hispanic)",0
+30111,"Yellowstone County","Montana","Living Below Poverty (Hispanic)",0.119722382880278
+32001,"Churchill County","Nevada","Living Below Poverty (Hispanic)",0.0765124555160142
+32003,"Clark County","Nevada","Living Below Poverty (Hispanic)",0.134737107218367
+32005,"Douglas County","Nevada","Living Below Poverty (Hispanic)",0.0297297297297297
+32007,"Elko County","Nevada","Living Below Poverty (Hispanic)",0.0987654320987654
+32009,"Esmeralda County","Nevada","Living Below Poverty (Hispanic)",0
+32011,"Eureka County","Nevada","Living Below Poverty (Hispanic)",0
+32013,"Humboldt County","Nevada","Living Below Poverty (Hispanic)",0.0817717206132879
+32015,"Lander County","Nevada","Living Below Poverty (Hispanic)",0.171503957783641
+32017,"Lincoln County","Nevada","Living Below Poverty (Hispanic)",NA
+32019,"Lyon County","Nevada","Living Below Poverty (Hispanic)",0.0595369349503859
+32021,"Mineral County","Nevada","Living Below Poverty (Hispanic)",0.0758620689655172
+32023,"Nye County","Nevada","Living Below Poverty (Hispanic)",0.106169296987088
+32027,"Pershing County","Nevada","Living Below Poverty (Hispanic)",0.0648148148148148
+32029,"Storey County","Nevada","Living Below Poverty (Hispanic)",0
+32031,"Washoe County","Nevada","Living Below Poverty (Hispanic)",0.104654599187292
+32033,"White Pine County","Nevada","Living Below Poverty (Hispanic)",0.0109289617486339
+32510,"Carson City","Nevada","Living Below Poverty (Hispanic)",0.168154761904762
+49001,"Beaver County","Utah","Living Below Poverty (Hispanic)",0.278195488721804
+49003,"Box Elder County","Utah","Living Below Poverty (Hispanic)",0.160885608856089
+49005,"Cache County","Utah","Living Below Poverty (Hispanic)",0.146637608966376
+49007,"Carbon County","Utah","Living Below Poverty (Hispanic)",0.193150684931507
+49009,"Daggett County","Utah","Living Below Poverty (Hispanic)",0
+49011,"Davis County","Utah","Living Below Poverty (Hispanic)",0.0922880963408986
+49013,"Duchesne County","Utah","Living Below Poverty (Hispanic)",0.174904942965779
+49015,"Emery County","Utah","Living Below Poverty (Hispanic)",0.175324675324675
+49017,"Garfield County","Utah","Living Below Poverty (Hispanic)",0.0462962962962963
+49019,"Grand County","Utah","Living Below Poverty (Hispanic)",0.0649350649350649
+49021,"Iron County","Utah","Living Below Poverty (Hispanic)",0.18368962787015
+49023,"Juab County","Utah","Living Below Poverty (Hispanic)",0.0421052631578947
+49025,"Kane County","Utah","Living Below Poverty (Hispanic)",0.0555555555555556
+49027,"Millard County","Utah","Living Below Poverty (Hispanic)",0.172494172494172
+49029,"Morgan County","Utah","Living Below Poverty (Hispanic)",0
+49031,"Piute County","Utah","Living Below Poverty (Hispanic)",0
+49033,"Rich County","Utah","Living Below Poverty (Hispanic)",0.818181818181818
+49035,"Salt Lake County","Utah","Living Below Poverty (Hispanic)",0.0978553973203
+49037,"San Juan County","Utah","Living Below Poverty (Hispanic)",0.0352112676056338
+49039,"Sanpete County","Utah","Living Below Poverty (Hispanic)",0.254237288135593
+49041,"Sevier County","Utah","Living Below Poverty (Hispanic)",0.247706422018349
+49043,"Summit County","Utah","Living Below Poverty (Hispanic)",0.0478723404255319
+49045,"Tooele County","Utah","Living Below Poverty (Hispanic)",0.041683694319575
+49047,"Uintah County","Utah","Living Below Poverty (Hispanic)",0.107954545454545
+49049,"Utah County","Utah","Living Below Poverty (Hispanic)",0.100871530019367
+49051,"Wasatch County","Utah","Living Below Poverty (Hispanic)",0.119386637458927
+49053,"Washington County","Utah","Living Below Poverty (Hispanic)",0.12980068060282
+49055,"Wayne County","Utah","Living Below Poverty (Hispanic)",0
+49057,"Weber County","Utah","Living Below Poverty (Hispanic)",0.0939728958630528
+56001,"Albany County","Wyoming","Living Below Poverty (Hispanic)",0.0796252927400468
+56003,"Big Horn County","Wyoming","Living Below Poverty (Hispanic)",0.203883495145631
+56005,"Campbell County","Wyoming","Living Below Poverty (Hispanic)",0.0565326633165829
+56007,"Carbon County","Wyoming","Living Below Poverty (Hispanic)",0.141975308641975
+56009,"Converse County","Wyoming","Living Below Poverty (Hispanic)",0.0597826086956522
+56011,"Crook County","Wyoming","Living Below Poverty (Hispanic)",0
+56013,"Fremont County","Wyoming","Living Below Poverty (Hispanic)",0.0868686868686869
+56015,"Goshen County","Wyoming","Living Below Poverty (Hispanic)",0.208333333333333
+56017,"Hot Springs County","Wyoming","Living Below Poverty (Hispanic)",0
+56019,"Johnson County","Wyoming","Living Below Poverty (Hispanic)",0.111111111111111
+56021,"Laramie County","Wyoming","Living Below Poverty (Hispanic)",0.124053581828771
+56023,"Lincoln County","Wyoming","Living Below Poverty (Hispanic)",0.174603174603175
+56025,"Natrona County","Wyoming","Living Below Poverty (Hispanic)",0.0921553693830922
+56027,"Niobrara County","Wyoming","Living Below Poverty (Hispanic)",0
+56029,"Park County","Wyoming","Living Below Poverty (Hispanic)",0.162939297124601
+56031,"Platte County","Wyoming","Living Below Poverty (Hispanic)",0
+56033,"Sheridan County","Wyoming","Living Below Poverty (Hispanic)",0.0253521126760563
+56035,"Sublette County","Wyoming","Living Below Poverty (Hispanic)",0.0972222222222222
+56037,"Sweetwater County","Wyoming","Living Below Poverty (Hispanic)",0.203777335984095
+56039,"Teton County","Wyoming","Living Below Poverty (Hispanic)",0.0480427046263345
+56041,"Uinta County","Wyoming","Living Below Poverty (Hispanic)",0.0424242424242424
+56043,"Washakie County","Wyoming","Living Below Poverty (Hispanic)",0.0689655172413793
+56045,"Weston County","Wyoming","Living Below Poverty (Hispanic)",NA
+16001,"Ada County","Idaho","Lack_English_Prof",0.0115811197435461
+16003,"Adams County","Idaho","Lack_English_Prof",0.00224971878515186
+16005,"Bannock County","Idaho","Lack_English_Prof",0.00307569836445216
+16007,"Bear Lake County","Idaho","Lack_English_Prof",0.0104455687938632
+16009,"Benewah County","Idaho","Lack_English_Prof",0.00127781918858482
+16011,"Bingham County","Idaho","Lack_English_Prof",0.0241246844473713
+16013,"Blaine County","Idaho","Lack_English_Prof",0.0444845837183903
+16015,"Boise County","Idaho","Lack_English_Prof",0.00452313259240114
+16017,"Bonner County","Idaho","Lack_English_Prof",0.00351404559791698
+16019,"Bonneville County","Idaho","Lack_English_Prof",0.0106180975979428
+16021,"Boundary County","Idaho","Lack_English_Prof",0.00682105263157895
+16023,"Butte County","Idaho","Lack_English_Prof",0.0162311955661124
+16025,"Camas County","Idaho","Lack_English_Prof",0.00474833808167141
+16027,"Canyon County","Idaho","Lack_English_Prof",0.0280334931831365
+16029,"Caribou County","Idaho","Lack_English_Prof",0.000750300120048019
+16031,"Cassia County","Idaho","Lack_English_Prof",0.0464935737082722
+16033,"Clark County","Idaho","Lack_English_Prof",0.131541725601132
+16035,"Clearwater County","Idaho","Lack_English_Prof",0.0108215033744473
+16037,"Custer County","Idaho","Lack_English_Prof",0.00441860465116279
+16039,"Elmore County","Idaho","Lack_English_Prof",0.0294392000298496
+16041,"Franklin County","Idaho","Lack_English_Prof",0.00330955357799515
+16043,"Fremont County","Idaho","Lack_English_Prof",0.0239390642002176
+16045,"Gem County","Idaho","Lack_English_Prof",0.0195119357754267
+16047,"Gooding County","Idaho","Lack_English_Prof",0.0755585646580907
+16049,"Idaho County","Idaho","Lack_English_Prof",0.0111742190393876
+16051,"Jefferson County","Idaho","Lack_English_Prof",0.018634581224654
+16053,"Jerome County","Idaho","Lack_English_Prof",0.120906910834968
+16055,"Kootenai County","Idaho","Lack_English_Prof",0.00214371207564922
+16057,"Latah County","Idaho","Lack_English_Prof",0.00226940734557596
+16059,"Lemhi County","Idaho","Lack_English_Prof",0.00706486833654464
+16061,"Lewis County","Idaho","Lack_English_Prof",0.00863557858376511
+16063,"Lincoln County","Idaho","Lack_English_Prof",0.0462813257881972
+16065,"Madison County","Idaho","Lack_English_Prof",0.00737371511010479
+16067,"Minidoka County","Idaho","Lack_English_Prof",0.0535775671561165
+16069,"Nez Perce County","Idaho","Lack_English_Prof",0.00373171459846751
+16071,"Oneida County","Idaho","Lack_English_Prof",0.00616016427104723
+16073,"Owyhee County","Idaho","Lack_English_Prof",0.0690909090909091
+16075,"Payette County","Idaho","Lack_English_Prof",0.019171153532387
+16077,"Power County","Idaho","Lack_English_Prof",0.0649196734263893
+16079,"Shoshone County","Idaho","Lack_English_Prof",0.0019620153822006
+16081,"Teton County","Idaho","Lack_English_Prof",0.0224640224640225
+16083,"Twin Falls County","Idaho","Lack_English_Prof",0.0245985333704632
+16085,"Valley County","Idaho","Lack_English_Prof",0.0062278349623735
+16087,"Washington County","Idaho","Lack_English_Prof",0.0369508292115217
+30001,"Beaverhead County","Montana","Lack_English_Prof",0.000219466695928893
+30003,"Big Horn County","Montana","Lack_English_Prof",0.000331702462890787
+30005,"Blaine County","Montana","Lack_English_Prof",0.00309262409154167
+30007,"Broadwater County","Montana","Lack_English_Prof",0
+30009,"Carbon County","Montana","Lack_English_Prof",0.000954380606986066
+30011,"Carter County","Montana","Lack_English_Prof",0
+30013,"Cascade County","Montana","Lack_English_Prof",0.000716269367546715
+30015,"Chouteau County","Montana","Lack_English_Prof",0
+30017,"Custer County","Montana","Lack_English_Prof",0.00114638447971781
+30019,"Daniels County","Montana","Lack_English_Prof",0
+30021,"Dawson County","Montana","Lack_English_Prof",0
+30023,"Deer Lodge County","Montana","Lack_English_Prof",0
+30025,"Fallon County","Montana","Lack_English_Prof",0
+30027,"Fergus County","Montana","Lack_English_Prof",0.00519741041305735
+30029,"Flathead County","Montana","Lack_English_Prof",0.00328335233195959
+30031,"Gallatin County","Montana","Lack_English_Prof",0.00520918398046986
+30033,"Garfield County","Montana","Lack_English_Prof",0
+30035,"Glacier County","Montana","Lack_English_Prof",0.0103410167350805
+30037,"Golden Valley County","Montana","Lack_English_Prof",0
+30039,"Granite County","Montana","Lack_English_Prof",0
+30041,"Hill County","Montana","Lack_English_Prof",0.000605693519079346
+30043,"Jefferson County","Montana","Lack_English_Prof",0.00175732217573222
+30045,"Judith Basin County","Montana","Lack_English_Prof",0.00152284263959391
+30047,"Lake County","Montana","Lack_English_Prof",0.00607752956636005
+30049,"Lewis And Clark County","Montana","Lack_English_Prof",0.00164629438074564
+30051,"Liberty County","Montana","Lack_English_Prof",0.00221852468108708
+30053,"Lincoln County","Montana","Lack_English_Prof",0.00364612346179166
+30055,"McCone County","Montana","Lack_English_Prof",0
+30057,"Madison County","Montana","Lack_English_Prof",0.0026641955287849
+30059,"Meagher County","Montana","Lack_English_Prof",0
+30061,"Mineral County","Montana","Lack_English_Prof",0
+30063,"Missoula County","Montana","Lack_English_Prof",0.00323363683366488
+30065,"Musselshell County","Montana","Lack_English_Prof",0
+30067,"Park County","Montana","Lack_English_Prof",0.00042004200420042
+30069,"Petroleum County","Montana","Lack_English_Prof",0
+30071,"Phillips County","Montana","Lack_English_Prof",0
+30073,"Pondera County","Montana","Lack_English_Prof",0.00960170697012802
+30075,"Powder River County","Montana","Lack_English_Prof",0
+30077,"Powell County","Montana","Lack_English_Prof",0.00044202151171357
+30079,"Prairie County","Montana","Lack_English_Prof",0
+30081,"Ravalli County","Montana","Lack_English_Prof",0.00118599612270498
+30083,"Richland County","Montana","Lack_English_Prof",0.00215678919729932
+30085,"Roosevelt County","Montana","Lack_English_Prof",0.000307219662058372
+30087,"Rosebud County","Montana","Lack_English_Prof",0.00814182534471438
+30089,"Sanders County","Montana","Lack_English_Prof",0.00699300699300699
+30091,"Sheridan County","Montana","Lack_English_Prof",0.000293944738389183
+30093,"Silver Bow County","Montana","Lack_English_Prof",0.00148827241338255
+30095,"Stillwater County","Montana","Lack_English_Prof",0.00115260488704472
+30097,"Sweet Grass County","Montana","Lack_English_Prof",0.00227531285551763
+30099,"Teton County","Montana","Lack_English_Prof",0.00136031287196055
+30101,"Toole County","Montana","Lack_English_Prof",0.000633981403212172
+30103,"Treasure County","Montana","Lack_English_Prof",0
+30105,"Valley County","Montana","Lack_English_Prof",0.000140390284992279
+30107,"Wheatland County","Montana","Lack_English_Prof",0
+30109,"Wibaux County","Montana","Lack_English_Prof",0
+30111,"Yellowstone County","Montana","Lack_English_Prof",0.00322065275277052
+32001,"Churchill County","Nevada","Lack_English_Prof",0.00595213319458897
+32003,"Clark County","Nevada","Lack_English_Prof",0.0615598631931077
+32005,"Douglas County","Nevada","Lack_English_Prof",0.0102522341936023
+32007,"Elko County","Nevada","Lack_English_Prof",0.0197891548257239
+32009,"Esmeralda County","Nevada","Lack_English_Prof",0.0480769230769231
+32011,"Eureka County","Nevada","Lack_English_Prof",0
+32013,"Humboldt County","Nevada","Lack_English_Prof",0.0318001487726258
+32015,"Lander County","Nevada","Lack_English_Prof",0.0122890682318415
+32017,"Lincoln County","Nevada","Lack_English_Prof",0
+32019,"Lyon County","Nevada","Lack_English_Prof",0.0194291280374319
+32021,"Mineral County","Nevada","Lack_English_Prof",0.00261096605744125
+32023,"Nye County","Nevada","Lack_English_Prof",0.0208978631640855
+32027,"Pershing County","Nevada","Lack_English_Prof",0.0219354838709677
+32029,"Storey County","Nevada","Lack_English_Prof",0.00523821401845847
+32031,"Washoe County","Nevada","Lack_English_Prof",0.0317696127964225
+32033,"White Pine County","Nevada","Lack_English_Prof",0.00163781001403837
+32510,"Carson City","Nevada","Lack_English_Prof",0.0222266358515095
+49001,"Beaver County","Utah","Lack_English_Prof",0.0290723812378241
+49003,"Box Elder County","Utah","Lack_English_Prof",0.00830528715666051
+49005,"Cache County","Utah","Lack_English_Prof",0.0164955953755397
+49007,"Carbon County","Utah","Lack_English_Prof",0.00621377473761161
+49009,"Daggett County","Utah","Lack_English_Prof",0.00980392156862745
+49011,"Davis County","Utah","Lack_English_Prof",0.0096341097494249
+49013,"Duchesne County","Utah","Lack_English_Prof",0.00856285792200709
+49015,"Emery County","Utah","Lack_English_Prof",0.00759277082664956
+49017,"Garfield County","Utah","Lack_English_Prof",0.00634465820712239
+49019,"Grand County","Utah","Lack_English_Prof",0.00603318250377074
+49021,"Iron County","Utah","Lack_English_Prof",0.0108389990389065
+49023,"Juab County","Utah","Lack_English_Prof",0.0023784355179704
+49025,"Kane County","Utah","Lack_English_Prof",0.00211444429760804
+49027,"Millard County","Utah","Lack_English_Prof",0.0273300057278455
+49029,"Morgan County","Utah","Lack_English_Prof",0.00229046487953851
+49031,"Piute County","Utah","Lack_English_Prof",0.00181928441479685
+49033,"Rich County","Utah","Lack_English_Prof",0.00757894736842105
+49035,"Salt Lake County","Utah","Lack_English_Prof",0.0375030609487993
+49037,"San Juan County","Utah","Lack_English_Prof",0.0302339267323819
+49039,"Sanpete County","Utah","Lack_English_Prof",0.0172219188057528
+49041,"Sevier County","Utah","Lack_English_Prof",0.00528711998825084
+49043,"Summit County","Utah","Lack_English_Prof",0.0194059699281535
+49045,"Tooele County","Utah","Lack_English_Prof",0.00979811650594936
+49047,"Uintah County","Utah","Lack_English_Prof",0.00869926664885247
+49049,"Utah County","Utah","Lack_English_Prof",0.0193180999062928
+49051,"Wasatch County","Utah","Lack_English_Prof",0.0297071005035607
+49053,"Washington County","Utah","Lack_English_Prof",0.015388408818354
+49055,"Wayne County","Utah","Lack_English_Prof",0.00167224080267559
+49057,"Weber County","Utah","Lack_English_Prof",0.0177908665483298
+56001,"Albany County","Wyoming","Lack_English_Prof",0.00558211512421588
+56003,"Big Horn County","Wyoming","Lack_English_Prof",0.0142163037610221
+56005,"Campbell County","Wyoming","Lack_English_Prof",0.00625711035267349
+56007,"Carbon County","Wyoming","Lack_English_Prof",0.00925521061069815
+56009,"Converse County","Wyoming","Lack_English_Prof",0.0101747572815534
+56011,"Crook County","Wyoming","Lack_English_Prof",0.0067026081888387
+56013,"Fremont County","Wyoming","Lack_English_Prof",0.00193923723335488
+56015,"Goshen County","Wyoming","Lack_English_Prof",0.00279187817258883
+56017,"Hot Springs County","Wyoming","Lack_English_Prof",0.00183612577461556
+56019,"Johnson County","Wyoming","Lack_English_Prof",0
+56021,"Laramie County","Wyoming","Lack_English_Prof",0.00667672218296117
+56023,"Lincoln County","Wyoming","Lack_English_Prof",0.00990151156054142
+56025,"Natrona County","Wyoming","Lack_English_Prof",0.00578103978793974
+56027,"Niobrara County","Wyoming","Lack_English_Prof",0.00254452926208651
+56029,"Park County","Wyoming","Lack_English_Prof",0.00262568267749615
+56031,"Platte County","Wyoming","Lack_English_Prof",0.00692503948487426
+56033,"Sheridan County","Wyoming","Lack_English_Prof",0.00511712909121116
+56035,"Sublette County","Wyoming","Lack_English_Prof",0.00214720267207444
+56037,"Sweetwater County","Wyoming","Lack_English_Prof",0.00796448953709575
+56039,"Teton County","Wyoming","Lack_English_Prof",0.0336622170632618
+56041,"Uinta County","Wyoming","Lack_English_Prof",0.00956764584195283
+56043,"Washakie County","Wyoming","Lack_English_Prof",0.00297820495465006
+56045,"Weston County","Wyoming","Lack_English_Prof",0.00244798041615667

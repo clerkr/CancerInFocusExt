@@ -1,7 +1,7 @@
 
 #### Prod Env ####
 
-docker run -it -v /srv/external:/srv/external shape-ext
+docker run -v /srv/external:/srv/external shape-ext
 
 #### Dev Env ####
 
