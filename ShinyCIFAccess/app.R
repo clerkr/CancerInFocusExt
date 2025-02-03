@@ -50,3 +50,4 @@ tract_df = read.csv('www/data/all_tract.csv', header=T) %>%
     mutate(
         GEOID = str_pad(GEOID, side = 'left', width = 11, pad = '0'),
     ) 
+
