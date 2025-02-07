@@ -538,6 +538,7 @@ server = function(input, output, session) {
             fitBounds(bbox[[1]]-0.5, bbox[[2]]-0.5, bbox[[3]]+0.5, bbox[[4]]+0.5)
 
     })
+}
 
 ### call app----
 shinyApp(ui, server)
