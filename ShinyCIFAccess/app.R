@@ -516,7 +516,7 @@ server = function(input, output, session) {
     }
     
     #create HTMl link variable
-    ds_link = HTML('<a href = "https://cancerinfocusaccess.uky.edu/data-sources/" target="_blank" 
+    ds_link = HTML('<a href = "https://cancerinfocus.uky.edu/data-sources/" target="_blank" 
                    rel="noopener noreferrer"> Data Sources </a>')
     
     # create base map
