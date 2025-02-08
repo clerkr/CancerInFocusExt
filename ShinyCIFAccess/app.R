@@ -1,24 +1,23 @@
 
 ## app.R ##
-library(shiny)    # for shiny apps
-library(bslib) #for boostrap themes
-library(leaflet)  # renderLeaflet function
-library(leaflegend) #for improved legends
+library(shiny)          #for shiny apps
+library(bslib)          #for boostrap themes
+library(leaflet)        #for maps
+library(leaflegend)     #for improved legends
 library(dplyr)
-library(plotly)
+library(esquisse)       #for color palette selection
+library(scales)         #for color palette selection
 library(shinydashboard)
 library(stringr)
 library(htmltools)
-library(shinyWidgets) 
+library(shinyWidgets)
 library(sf)
 library(lubridate)
-library(biscale)
-library(ggplot2)
-library(shinydlplot)
 library(pryr)
 library(capture)
 library(shinyalert)
 library(shinyjs)
+library(classInt)
 library(shinybusy)
 
 ### ITEMS TO ADJUST (marked with #!)----
@@ -31,7 +30,7 @@ ca = 'huntsman' #! catchment area name from CIFTools
 # setwd(path)
 
 #encode image for display
-b64 <- base64enc::dataURI(file = "www/cif_huntsman_bivar_big_logo_light.png", 
+b64 <- base64enc::dataURI(file = "www/cif_huntsman_big_logo_light.png", 
                         #! file name for logo
                           mime = "image/png")
 
@@ -54,6 +53,18 @@ roads_sf = st_read('www/shapefiles/roads_sf.shp')
 fd = st_read("www/shapefiles/fd.shp")
 
 state_sf = st_read("www/shapefiles/state_border_sf.shp")
+
+state_df = read.csv('www/data/all_state.csv', header = T) %>% 
+  mutate(
+    GEOID = str_pad(GEOID, side = 'left', width = 2, pad = '0'),
+    RE = case_when(
+      RE == 'All' ~ 'All Races',
+      .default = RE
+    ),
+    Sex = case_when(
+      Sex == 'All' ~ 'All Sexes',
+      .default = Sex
+    ))
 
 county_sf = st_read("www/shapefiles/county_sf.shp") 
 
