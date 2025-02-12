@@ -252,13 +252,21 @@ existing_data = tabPanel(
             width = "100%"
         ),
         pickerInput(
-            inputId = "category",
-            label = "Select a category of access",
-            choices = unique(county_df$cat),
-            multiple = F,
-            options = pickerOptions(style = 'picker',
-                                    size = 7),
-            width = "100%"
+          inputId = "category",
+          label = "Select a category of access",
+          choices = c("County Tract closest facility", "Average drive time", 
+                      "Broadband accessibility"),
+          multiple = FALSE,
+          options = pickerOptions(style = 'picker', size = 7),
+          width = "100%"
+        ),
+        pickerInput(
+          inputId = "service_type",
+          label = "Select a service type",
+          choices = c("Mammography", "Lung Cancer Screening", "GI Providers"),
+          multiple = FALSE,
+          options = pickerOptions(style = 'picker', size = 7),
+          width = "100%"
         )
     )
 )   
@@ -465,19 +473,9 @@ server = function(input, output, session) {
         input$category
     })
     
-    #define group reactive
-    group_to_map <- reactive({
-        input$group
-    })
-    
-    #define re reactive
-    re_to_map <- reactive({
-        input$re
-    })
-    
-    #define sex reactive
-    sex_to_map <- reactive({
-        input$sex
+    # Define service type reactive
+    service_to_map <- reactive({
+      input$service_type
     })
     
     #define color scale reactive
