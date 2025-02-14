@@ -263,7 +263,7 @@ existing_data = tabPanel(
         pickerInput(
           inputId = "service_type",
           label = "Select a service type",
-          choices = c("Mammography", "Lung Cancer Screening", "GI Providers"),
+          choices = c("Mammography", "Lung Cancer Screening", "Gastroenterology"),
           multiple = FALSE,
           options = pickerOptions(style = 'picker', size = 7),
           width = "100%"
@@ -547,6 +547,7 @@ server = function(input, output, session) {
             fitBounds(bbox[[1]]-0.5, bbox[[2]]-0.5, bbox[[3]]+0.5, bbox[[4]]+0.5)
 
     })
+    
 }
 
 ### call app----
