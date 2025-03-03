@@ -1,0 +1,364 @@
+measure,def,fmt,source
+Total,Total Population,int,"ACS 5-Year, 2019 - 2023"
+Under 18,Under 18 Years Old,pct,"ACS 5-Year, 2019 - 2023"
+18 to 64,18 to 64 Years Old,pct,"ACS 5-Year, 2019 - 2023"
+Over 64,Over 64 Years Old,pct,"ACS 5-Year, 2019 - 2023"
+Below 9th grade,Did Not Attend High School,pct,"ACS 5-Year, 2019 - 2023"
+High School,Graduated High School,pct,"ACS 5-Year, 2019 - 2023"
+College,Graduated College,pct,"ACS 5-Year, 2019 - 2023"
+Advanced Degree,Completed a Graduate Degree,pct,"ACS 5-Year, 2019 - 2023"
+White,White (non-Hispanic),pct,"ACS 5-Year, 2019 - 2023"
+Black,Black (non-Hispanic),pct,"ACS 5-Year, 2019 - 2023"
+Asian,Asian (non-Hispanic),pct,"ACS 5-Year, 2019 - 2023"
+AIAN,American Indian and Alaska Native (non-Hispanic),pct,"ACS 5-Year, 2019 - 2023"
+NHOPI,Native Hawaiian and Other Pacific Islander (non-Hispanic),pct,"ACS 5-Year, 2019 - 2023"
+Hispanic,Hispanic,pct,"ACS 5-Year, 2019 - 2023"
+Other Races,Other Non-Hispanic Race,pct,"ACS 5-Year, 2019 - 2023"
+Urban Percentage,Urbanized Residents,pct,"US Census Bureau, 2020 Decennial Census"
+Insurance Coverage,Insured,pct,"ACS 5-Year, 2019 - 2023"
+Medicaid Enrollment,Enrolled in Medicaid,pct,"ACS 5-Year, 2019 - 2023"
+Gini Coefficient,Income Inequality (Gini Coefficient),int,"ACS 5-Year, 2019 - 2023"
+Household Income,Household Income ($),int,"ACS 5-Year, 2019 - 2023"
+Annual Labor Force Participation Rate,Annual Labor Force Participation,pct,"ACS 5-Year, 2019 - 2023"
+Annual Unemployment Rate,Annual Unemployment Rate,pct,"ACS 5-Year, 2019 - 2023"
+Below Poverty,Living Below Poverty,pct,"ACS 5-Year, 2019 - 2023"
+Uninsured,Uninsured,pct,"ACS 5-Year, 2019 - 2023"
+Vacancy Rate,Vacant Housing,pct,"ACS 5-Year, 2019 - 2023"
+No Vehicle,No Household Vehicle Access,pct,"ACS 5-Year, 2019 - 2023"
+Rent Burden (40% Income),High Rent Burden,pct,"ACS 5-Year, 2019 - 2023"
+Received Public Assistance,Received TANF or SNAP Public Assistance,pct,"ACS 5-Year, 2019 - 2023"
+Lack English Prof,Lack Proficiency in English,pct,"ACS 5-Year, 2019 - 2023"
+Median Home Value,Median Home Value ($),int,"ACS 5-Year, 2019 - 2023"
+Median Monthly Mortgage,Median Monthly Mortgage ($),int,"ACS 5-Year, 2019 - 2023"
+Median Gross Rent,Median Gross Rent ($),int,"ACS 5-Year, 2019 - 2023"
+Mobile Homes,Housing in Mobile Homes,pct,"ACS 5-Year, 2019 - 2023"
+Multi-Unit Structures,Housing in Multi-Unit Structures,pct,"ACS 5-Year, 2019 - 2023"
+Owner Occupied Housing,Owner-occupied Housing Units,pct,"ACS 5-Year, 2019 - 2023"
+Crowded Housing,Crowded Homes,pct,"ACS 5-Year, 2019 - 2023"
+No Home Broadband,Homes without Broadband Internet,pct,"ACS 5-Year, 2019 - 2023"
+Lack Complete Plumbing,Homes without Complete Plumbing,pct,"ACS 5-Year, 2019 - 2023"
+Single Parent Household,Single Parent Homes,pct,"ACS 5-Year, 2019 - 2023"
+Cancer Prevalence,History of Cancer Diagnosis,pct,"CDC PLACES, 2024"
+Binge Drinking,Binge Drink,pct,"CDC PLACES, 2024"
+Met Breast Screen,Met Breast Screening Recommendations,pct,"CDC PLACES, 2024  (HP2030 Goal: 80.5%)"
+BMI Obese,Obese (BMI over 30),pct,"CDC PLACES, 2024 (HP2030 Goal: 36.0%)"
+Currently Smoke,Currently Smoke (adults),pct,"CDC PLACES, 2024 (HP2030 Goal: 6.1%)"
+Met Colon Screen,Met Colorectal Screening Recommendations,pct,"CDC PLACES, 2024 (HP2030 Goal: 74.4%)"
+Met Cervical Screen,"Had Pap Test in Last 3 Years, Age 21-64",pct,"CDC PLACES, 2024 (HP2030 Goal: 84.3%)"
+High BP,Have High Blood Pressure,pct,"CDC PLACES, 2024"
+BP Medicine,On Blood Pressure Medication,pct,"CDC PLACES, 2024"
+High Cholesterol,Have High Cholesterol,pct,"CDC PLACES, 2024"
+Asthma,Diagnosed with Asthma,pct,"CDC PLACES, 2024"
+CHD,Have Coronary Heart Disease,pct,"CDC PLACES, 2024"
+Recent Checkup,Had a Medical Checkup in the Last Year,pct,"CDC PLACES, 2024"
+COPD,Have COPD,pct,"CDC PLACES, 2024"
+Recent Dentist,Had a Dental Visit in the Last Year,pct,"CDC PLACES, 2024"
+Depression,Have Depression,pct,"CDC PLACES, 2024"
+Diabetes DX,Diagnosed with Diabetes,pct,"CDC PLACES, 2024"
+Bad Health,Report Fair or Poor Overall Health,pct,"CDC PLACES, 2024"
+Kidney Disease,Have Chronic Kidney Disease,pct,"CDC PLACES, 2024"
+Physically Inactive,Physically Inactive,pct,"CDC PLACES, 2024"
+Poor Mental,Report Frequent Mental Health Distress,pct,"CDC PLACES, 2024"
+Poor Physical,Report Frequent Physical Health Distress,pct,"CDC PLACES, 2024"
+Sleep Debt,Sleep < 7 Hours a Night,pct,"CDC PLACES, 2024"
+Had Stroke,Had a Stroke,pct,"CDC PLACES, 2024"
+No Teeth,All Adult Teeth Lost,pct,"CDC PLACES, 2024"
+Hearing Disability,Hearing Disability,pct,"CDC PLACES, 2024"
+Vision Disability,Vision Disability,pct,"CDC PLACES, 2024"
+Cognitive Disability,Cognitive Disability,pct,"CDC PLACES, 2024"
+Mobility Disability,Mobility Disability,pct,"CDC PLACES, 2024"
+Selfcare Disability,Self-care Disability,pct,"CDC PLACES, 2024"
+Independent Living Disability,Independent Living Disability,pct,"CDC PLACES, 2024"
+Socially Isolated,Felt Socially Isolated in Last 12 Months,pct,"CDC PLACES, 2024"
+Food Insecure,Experienced Food Insecurity in Last 12 Months,pct,"CDC PLACES, 2024"
+Housing Insecure,Experienced Housing Insecurity in Last 12 Months,pct,"CDC PLACES, 2024"
+Lacked Reliable Transportation,Lacked Reliable Transportation in Last 12 Months,pct,"CDC PLACES, 2024"
+Lacked Social Emotional Support,Lacked Social/Emotional Support in Last 12 Months,pct,"CDC PLACES, 2024"
+PWS Violations Since 2016,Public Water System Violations since 2016,int,"EPA, 2024"
+LILATracts Vehicle,Tracts that are Food Deserts,pct,"USDA ERS, 2019"
+Lead Paint,Housing Units Built Pre-1960,pct,"EJScreen, 2024"
+Diesel PM,Diesel Particulate Matter (annual avg. mcg/m^3),int,"EJScreen, 2024"
+Air Toxics Cancer,Lifetime Cancer Risk from Air Toxics (per 1 million people),int,"EJScreen, 2024"
+Air Toxics Resp,Air Toxics Respiratory Hazard Index,int,"EJScreen, 2024"
+Toxics Release to Air,Toxic Releases to Air,int,"EJScreen, 2024"
+Traffic Proximity,Traffic Volume,int,"EJScreen, 2024"
+Water Discharge,Toxic Water Discharge,int,"EJScreen, 2024"
+Superfund Proximity,Superfund Proximity,int,"EJScreen, 2024"
+RMP Proximity,Risk Management Plan Facility Proximity,int,"EJScreen, 2024"
+Hazardous Waste Proximity,Hazardous Waste Proximity,int,"EJScreen, 2024"
+Ozone,Annual Ozone Average (ppb),int,"EJScreen, 2024"
+Underground Storage Tanks,Underground Storage Tanks,int,"EJScreen, 2024"
+PM25,Particulate Matter 2.5 (annual avg. mcg/m^3),int,"EJScreen, 2024"
+Nitrogen Dioxide,Nitrogen Dioxide (average annual part per billion),int,"EJScreen, 2024"
+Drinking Water Noncompliance,Drinking Water Non-Compliance,int,"EJScreen, 2024"
+Economic Segregation,Economic Segregation,int,"ACS 5-Year, 2019 - 2023"
+Racial Segregation,Racial Segregation,int,"ACS 5-Year, 2019 - 2023"
+Racial Economic Segregation,Racial Economic Segregation,int,"ACS 5-Year, 2019 - 2023"
+Gender Pay Gap,Gender Pay Gap,int,"ACS 5-Year, 2019 - 2023"
+Uninsured Children,Children without Health Insurance,pct,"ACS 5-Year, 2019 - 2023"
+Uninsured (Black),Black Population without Health Insurance,pct,"ACS 5-Year, 2019 - 2023"
+Uninsured (Hispanic),Hispanic Population without Health Insurance,pct,"ACS 5-Year, 2019 - 2023"
+Living Below Poverty (Black),Black Population Living Below Poverty,pct,"ACS 5-Year, 2019 - 2023"
+Living Below Poverty (Hispanic),Hispanic Population Living Below Poverty,pct,"ACS 5-Year, 2019 - 2023"
+Incidence All Site,All Cancer Site ,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Bladder,Bladder Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Brain & ONS,Brain Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Colon & Rectum,Colorectal Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Colon & Rectum (Early Stage),Colorectal Cancer (Early Stage),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Colon & Rectum (Late Stage),Colorectal Cancer (Late Stage),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Colon & Rectum (45-75 years),Colorectal Cancer (45-75 years),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Esophagus,Esophageal Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Kidney & Renal Pelvis,Kidney Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Leukemia,Leukemia,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Liver & IBD,Liver Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Lung & Bronchus,Lung Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Lung & Bronchus (Early Stage),Lung Cancer (Early Stage),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Lung & Bronchus (Late Stage),Lung Cancer (Late Stage),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Lung & Bronchus (50-80 years),Lung Cancer (50-80 years),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Melanoma of the Skin,Melanoma,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Non-Hodgkin Lymphoma,Non-Hodgkin Lymphoma,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Oral Cavity & Pharynx,Oral Cavity and Pharynx Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Pancreas,Pancreatic Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Stomach,Stomach Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Thyroid,Thyroid Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Female Breast,Female Breast Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Female Breast (Early Stage),Female Breast Cancer (Early Stage),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Female Breast (Late Stage),Female Breast Cancer (Late Stage),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Female Breast (40-74 years),Female Breast Cancer (40-74 years),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Cervix,Cervical Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Cervix (Early Stage),Cervical Cancer (Early Stage),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Cervix (Late Stage),Cervical Cancer (Late Stage),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Cervix (21-65 years),Cervical Cancer (21-65 years),int,"US Cancer Statistics, 2017 - 2021"
+Incidence Ovary,Ovarian Cancer,int,"US Cancer Statistics, 2017 - 2021"
+"Incidence Corpus Uteri & Uterus, NOS",Uterine Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Prostate,Prostate Cancer,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Alcohol-associated,Alcohol-associated Cancers,int,"US Cancer Statistics, 2017 - 2021"
+Incidence HPV-associated,HPV-associated Cancers,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Obesity-associated,Obesity-associated Cancers,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Tobacco-associated,Tobacco-associated Cancers,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Head and Neck,Head and Neck Cancers,int,"US Cancer Statistics, 2017 - 2021"
+Incidence Pediatric (0-19 years),Pediatric Cancers (0-19 years),int,"US Cancer Statistics, 2017 - 2021"
+Incidence AYA (15-39 years),Adolescent and Young Adults Cancers (15-39 years),int,"US Cancer Statistics, 2017 - 2021"
+Mortality All Site,All Cancer Site ,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Bladder,Bladder Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Brain & ONS,Brain Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Colon & Rectum,Colorectal Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Esophagus,Esophageal Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Kidney & Renal Pelvis,Kidney Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Leukemia,Leukemia,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Liver & IBD,Liver Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Lung & Bronchus,Lung Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Melanoma of the Skin,Melanoma,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Non-Hodgkin Lymphoma,Non-Hodgkin Lymphoma,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Oral Cavity & Pharynx,Oral Cavity and Pharynx Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Pancreas,Pancreatic Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Stomach,Stomach Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Thyroid,Thyroid Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Female Breast,Female Breast Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Cervix,Cervical Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Ovary,Ovarian Cancer,int,"State Cancer Profiles, 2018 - 2022"
+"Mortality Corpus Uteri & Uterus, NOS",Uterine Cancer,int,"State Cancer Profiles, 2018 - 2022"
+Mortality Prostate,Prostate Cancer,int,"State Cancer Profiles, 2018 - 2022"
+pctBB 100 20,Housing Units with 100/20 Mbps Broadband Service,pct,"FCC, December 2023"
+pctBB 1000 10,Housing Units with 1000/10 Mbps Broadband Service,pct,"FCC, December 2023"
+pct5G 7 1,Area with 7/1 Mbps Mobile 5G Coverage,pct,"FCC, December 2023"
+pct5G 35 3,Area with 35/3 Mbps Mobile 5G Coverage,pct,"FCC, December 2023"
+daysWithAqi,Number of days on which AQI was recorded,int,Environmental Protection Agency
+goodDays,Proportion of days with good AQI,pct,Environmental Protection Agency
+moderateDays,Proportion of days with moderate AQI,pct,Environmental Protection Agency
+unhealthyForSensitiveGroupsDays,Proportion of days with AQI that is unhealthy for sensitive groups,pct,Environmental Protection Agency
+unhealthyDays,Proportion of days with unhealthy AQI,pct,Environmental Protection Agency
+veryUnhealthyDays,Proportion of days with very unhealthy AQI,pct,Environmental Protection Agency
+hazardousDays,Proportion of days with hazardous AQI,pct,Environmental Protection Agency
+maxAqi,Max AQI in the last year,int,Environmental Protection Agency
+medianAqi,Median AQI in the last year,int,Environmental Protection Agency
+hadMammogramInTheLastTwoYearsAge40OrOlder,"Had mammogram in the last two years, age 40 or older",pct,Behavioral Risk Factor Surveillance System
+haventHadMammogramInTheLastTwoYearsAge40OrOlder,"Haven't had mammogram in the last two years, age 40 or older",pct,Behavioral Risk Factor Surveillance System
+hadMammogramInTheLastTwoYearsAges50To74,"Had mammogram in the last two years, ages 50 to 74",pct,Behavioral Risk Factor Surveillance System
+haventHadMammogramInTheLastTwoYearsAges50To74,"Haven't had mammogram in the last two years, ages 50 to 74",pct,Behavioral Risk Factor Surveillance System
+everMammogram,Ever mammogram,pct,Behavioral Risk Factor Surveillance System
+neverMammogram,Never mammogram,pct,Behavioral Risk Factor Surveillance System
+hadMammogramInTheLastTwoYears,Had mammogram in the last two years,pct,Behavioral Risk Factor Surveillance System
+hadMammogramThreeOrMoreYearsAgo,Had mammogram three or more years ago,pct,Behavioral Risk Factor Surveillance System
+hadPapTestInThePast3YearsNoHysterectomyAges21To65,"Had pap test in the past 3 years, no hysterectomy, ages 21 to 65",pct,Behavioral Risk Factor Surveillance System
+everCervicalCancerScreening,Ever cervical cancer screening,pct,Behavioral Risk Factor Surveillance System
+neverCervicalCancerScreening,Never cervical cancer screening,pct,Behavioral Risk Factor Surveillance System
+everPapTest,Ever pap test,pct,Behavioral Risk Factor Surveillance System
+neverPapTest,Never pap test,pct,Behavioral Risk Factor Surveillance System
+hadCervicalCancerScreeningInTheLastYear,Had cervical cancer screening in the last year,pct,Behavioral Risk Factor Surveillance System
+hadCervicalCancerScreeningWithinTheLastTwoToFiveYears,Had cervical cancer screening within the last two to five years,pct,Behavioral Risk Factor Surveillance System
+hadCervicalCancerScreeningFiveOrMoreYearsAgo,Had cervical cancer screening five or more years ago,pct,Behavioral Risk Factor Surveillance System
+everHpvTest,Ever HPV test,pct,Behavioral Risk Factor Surveillance System
+neverHpvTest,Never HPV test,pct,Behavioral Risk Factor Surveillance System
+insurancePaidForAllOrPartOfCancerTreatment,Insurance paid for all or part of cancer treatment,pct,Behavioral Risk Factor Surveillance System
+insuranceDidntPayForAnyOfCancerTreatment,Insurance didn't pay for any of cancer treatment,pct,Behavioral Risk Factor Surveillance System
+everDeniedHealthOrLifeInsuranceBecauseOfCancer,Ever denied health or life insurance because of cancer,pct,Behavioral Risk Factor Surveillance System
+neverDeniedHealthOrLifeInsuranceBecauseOfCancer,Never denied health or life insurance because of cancer,pct,Behavioral Risk Factor Surveillance System
+hadAtLeastOneRecommendedCrcTestAges45To75,"Had at least one recommended CRC test, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+haventHadAtLeastOneRecommendedCrcTestInRecommendedTimeIntervalAges45To75,"Haven't had at least one recommended CRC test in recommended time interval, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+neverHadAnyRecommendedCrcTestsAges45To75,"Never had any recommended CRC tests, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+hadABloodStoolTestInThePastYearAges45To75,"Had a blood stool test in the past year, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+hadABloodStoolTestMoreThanOneYearAgoAges45To75,"Had a blood stool test more than one year ago, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+neverHadABloodStoolTestAges45To75,"Never had a blood stool test, ages 45 to 75",pct,Behavioral Risk Factor Surveillance System
+everColonoscopy,Ever colonoscopy,pct,Behavioral Risk Factor Surveillance System
+everSigmoidoscopy,Ever sigmoidoscopy,pct,Behavioral Risk Factor Surveillance System
+everColonoscopyAndSigmoidoscopy,Ever colonoscopy and sigmoidoscopy,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyWithinTheLastYear,Had colonoscopy within the last year,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyMoreThanOneLessThanTenYearsAgo,Had colonoscopy more than one less than ten years ago,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyMoreThanTenYearsAgo,Had colonoscopy more than ten years ago,pct,Behavioral Risk Factor Surveillance System
+hadSigmoidoscopyWithinTheLastYear,Had sigmoidoscopy within the last year,pct,Behavioral Risk Factor Surveillance System
+hadSigmoidoscopyMoreThanOneLessThanTenYearsAgo,Had sigmoidoscopy more than one less than ten years ago,pct,Behavioral Risk Factor Surveillance System
+hadSigmoidoscopyMoreThanTenYearsAgo,Had sigmoidoscopy more than ten years ago,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyOrSigmoidoscopyWithinTheLastYear,Had colonoscopy or sigmoidoscopy within the last year,pct,Behavioral Risk Factor Surveillance System
+hadColonoscopyOrSigmoidoscopyMoreThanTenYearsAgo,Had colonoscopy or sigmoidoscopy more than ten years ago,pct,Behavioral Risk Factor Surveillance System
+didntGoToDoctorBecauseCouldNotAffordIt,Didn't go to doctor because could not afford it,pct,Behavioral Risk Factor Surveillance System
+haveAPersonalHealthCareProvider,Have a personal health care provider,pct,Behavioral Risk Factor Surveillance System
+dontHaveAPersonalHealthCareProvider,Don't have a personal health care provider,pct,Behavioral Risk Factor Surveillance System
+eligibleForLungCancerScreening,Eligible for Lung cancer screening,pct,Behavioral Risk Factor Surveillance System
+eligibleForLungCancerScreeningAndHadCtScanForLungCancerInThePastYear,Eligible for Lung cancer screening and had CT scan for Lung cancer in the past year,pct,Behavioral Risk Factor Surveillance System
+everHadCtScanForLungCancerAges50To80,"Ever had CT scan for Lung cancer, ages 50 to 80",pct,Behavioral Risk Factor Surveillance System
+hadCtScanForLungCancerInThePastYearAges50To80,"Had CT scan for Lung cancer in the past year, ages 50 to 80",pct,Behavioral Risk Factor Surveillance System
+mentalHealthGoodForTheWholeLastMonth,Mental health good for the whole last month,pct,Behavioral Risk Factor Surveillance System
+mentalHealthGoodForMostOfTheLastMonth,Mental health good for most of the last month,pct,Behavioral Risk Factor Surveillance System
+mentalHealthNotGoodForAboutHalfOfTheLastMonth,Mental health not good for about half of the last month,pct,Behavioral Risk Factor Surveillance System
+mentalHealthNotGoodForMostOfTheLastMonth,Mental health not good for most of the last month,pct,Behavioral Risk Factor Surveillance System
+lostJobOrDecreasedHoursInTheLastYear,Lost job or decreased hours in the last year,pct,Behavioral Risk Factor Surveillance System
+didNotLoseJobOrDecreaseHoursInTheLastYear,Did not lose job or decrease hours in the last year,pct,Behavioral Risk Factor Surveillance System
+receivedSnapInTheLastYear,Received SNAP in the last year,pct,Behavioral Risk Factor Surveillance System
+haventReceivedSnapInTheLastYear,Haven't received SNAP in the last year,pct,Behavioral Risk Factor Surveillance System
+normallyDidNotHaveMoneyToGetMoreFoodOnceItRanOutInTheLastYear,Normally did not have money to get more food once it ran out in the last year,pct,Behavioral Risk Factor Surveillance System
+sometimesDidNotHaveMoneyToGetMoreFoodOnceItRanOutInTheLastYear,Sometimes did not have money to get more food once it ran out in the last year,pct,Behavioral Risk Factor Surveillance System
+normallyHadMoneyToGetMoreFoodOnceItRanOutInTheLastYear,Normally had money to get more food once it ran out in the last year,pct,Behavioral Risk Factor Surveillance System
+notAbleToPayForHousingOrUtilitiesAtAnyTimeInTheLastYear,Not able to pay for housing or utilities at any time in the last year,pct,Behavioral Risk Factor Surveillance System
+ableToPayForHousingAndUtilitiesInTheLastYear,Able to pay for housing and utilities in the last year,pct,Behavioral Risk Factor Surveillance System
+threatenedWithHavingUtilitiesShutOffInTheLastYear,Threatened with having utilities shut off in the last year,pct,Behavioral Risk Factor Surveillance System
+notThreatenedWithHavingUtilitiesShutOffInTheLastYear,Not threatened with having utilities shut off in the last year,pct,Behavioral Risk Factor Surveillance System
+currentSmokerAges18OrOlder,"Current smoker, ages 18 or older",pct,Behavioral Risk Factor Surveillance System
+notCurrentSmokerAges18OrOlder,"Not current smoker, ages 18 or older",pct,Behavioral Risk Factor Surveillance System
+everSmoked100Cigarettes,Ever smoked 100 cigarettes,pct,Behavioral Risk Factor Surveillance System
+neverSmoked100Cigarettes,Never smoked 100 cigarettes,pct,Behavioral Risk Factor Surveillance System
+smokeEveryDay,Smoke every day,pct,Behavioral Risk Factor Surveillance System
+smokeSomeDays,Smoke some days,pct,Behavioral Risk Factor Surveillance System
+formerSmoker,Former smoker,pct,Behavioral Risk Factor Surveillance System
+neverSmoked,Never smoked,pct,Behavioral Risk Factor Surveillance System
+Cable_B_upload,Cable Upload Speed for Business,int,"FCC, DEC 2023"
+Cable_B_download,Cable Download Speed for Business,int,"FCC, DEC 2023"
+Cable_R_upload,Cable Upload Speed for Residential,int,"FCC, DEC 2023"
+Cable_R_download,Cable Download Speed for Residential,int,"FCC, DEC 2023"
+Copper_B_upload,Copper Upload Speed for Business,int,"FCC, DEC 2023"
+Copper_B_download,Copper Download Speed for Business,int,"FCC, DEC 2023"
+Copper_R_upload,Copper Upload Speed for Residential,int,"FCC, DEC 2023"
+Copper_R_download,Copper Download Speed for Residential,int,"FCC, DEC 2023"
+Fiber_B_upload,Fiber Upload Speed for Business,int,"FCC, DEC 2023"
+Fiber_B_download,Fiber Download Speed for Business,int,"FCC, DEC 2023"
+Fiber_R_upload,Fiber Upload Speed for Residential,int,"FCC, DEC 2023"
+Fiber_R_download,Fiber Download Speed for Residential,int,"FCC, DEC 2023"
+GSO_B_upload,GSO Satellite Upload Speed for Business,int,"FCC, DEC 2023"
+GSO_B_download,GSO Satellite Download Speed for Business,int,"FCC, DEC 2023"
+GSO_R_upload,GSO Satellite Upload Speed for Residential,int,"FCC, DEC 2023"
+GSO_R_download,GSO Satellite Download Speed for Residential,int,"FCC, DEC 2023"
+LBR_B_upload,LBR Fixed Wireless Upload Speed for Business,int,"FCC, DEC 2023"
+LBR_B_download,LBR Fixed Wireless Download Speed for Business,int,"FCC, DEC 2023"
+LBR_R_upload,LBR Fixed Wireless Upload Speed for Residential,int,"FCC, DEC 2023"
+LBR_R_download,LBR Fixed Wireless Download Speed for Residential,int,"FCC, DEC 2023"
+LFW_B_upload,Licensed Fixed Wireless Upload Speed for Business,int,"FCC, DEC 2023"
+LFW_B_download,Licensed Fixed Wireless Download Speed for Business,int,"FCC, DEC 2023"
+LFW_R_upload,Licensed Fixed Wireless Upload Speed for Residential,int,"FCC, DEC 2023"
+LFW_R_download,Licensed Fixed Wireless Download Speed for Residential,int,"FCC, DEC 2023"
+NGSO_B_upload,NGSO Satellite Upload Speed for Business,int,"FCC, DEC 2023"
+NGSO_B_download,NGSO Satellite Download Speed for Business,int,"FCC, DEC 2023"
+NGSO_R_upload,NGSO Satellite Upload Speed for Residential,int,"FCC, DEC 2023"
+NGSO_R_download,NGSO Satellite Download Speed for Residential,int,"FCC, DEC 2023"
+UFW_B_upload,Unlicensed Fixed Wireless Upload Speed for Business,int,"FCC, DEC 2023"
+UFW_B_download,Unlicensed Fixed Wireless Download Speed for Business,int,"FCC, DEC 2023"
+UFW_R_upload,Unlicensed Fixed Wireless Upload Speed for Residential,int,"FCC, DEC 2023"
+UFW_R_download,Unlicensed Fixed Wireless Download Speed for Residential,int,"FCC, DEC 2023"
+3G_MINDOWN,3G Minimum Download Speed,int,"FCC, DEC 2023"
+3G_MINUP,3G Minimum Upload Speed,int,"FCC, DEC 2023"
+4G_MINDOWN,4G Minimum Download Speed,int,"FCC, DEC 2023"
+4G_MINUP,4G Minimum Upload Speed,int,"FCC, DEC 2023"
+5G_MINDOWN,5G Minimum Download Speed,int,"FCC, DEC 2023"
+5G_MINUP,5G Minimum Upload Speed,int,"FCC, DEC 2023"
+everLookedForInformationAboutCancer,Ever looked for information about cancer,pct,Health Information National Trends Survey
+neverLookedForInformationAboutCancer,Never looked for information about cancer,pct,Health Information National Trends Survey
+lowConfidenceInGettingAdviceOrInformationAboutCancer,Low confidence in getting advice or information about cancer,pct,Health Information National Trends Survey
+wouldLookForInformationAboutCancerFromWrittenMaterials,Would look for information about cancer from written materials,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromADoctorALot,Trust information about cancer from a doctor a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromADoctorAModerateAmount,Trust information about cancer from a doctor a moderate amount,pct,Health Information National Trends Survey
+dontTrustInformationAboutCancerFromADoctor,Don't trust information about cancer from a doctor,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromCharitableOrganizationsALot,Trust information about cancer from charitable organizations a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromCharitableOrganizationsAModerateAmount,Trust information about cancer from charitable organizations a moderate amount,pct,Health Information National Trends Survey
+dontTrustInformationAboutCancerFromCharitableOrganizations,Don't trust information about cancer from charitable organizations,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromFamilyOrFriendsALot,Trust information about cancer from family or friends a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromFamilyOrFriendsAModerateAmount,Trust information about cancer from family or friends a moderate amount,pct,Health Information National Trends Survey
+dontTrustInformationAboutCancerFromFamilyOrFriends,Don't trust information about cancer from family or friends,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromReligiousOrganizationsAModerateAmount,Trust information about cancer from religious organizations a moderate amount,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromTheInternetALot,Trust information about cancer from the internet a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromTheInternetAModerateAmount,Trust information about cancer from the internet a moderate amount,pct,Health Information National Trends Survey
+dontTrustInformationAboutCancerFromTheInternet,Don't trust information about cancer from the internet,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromTheRadioALot,Trust information about cancer from the radio a lot,pct,Health Information National Trends Survey
+trustInformationAboutCancerFromTheTelevisionALot,Trust information about cancer from the television a lot,pct,Health Information National Trends Survey
+feelLikeEverythingCausesCancer,Feel like everything causes cancer,pct,Health Information National Trends Survey
+dontFeelLikeEverythingCausesCancer,Don't feel like everything causes cancer,pct,Health Information National Trends Survey
+feelTheresNotMuchThatCanBeDoneToLowerChancesOfGettingCancer,Feel there's not much that can be done to lower chances of getting cancer,pct,Health Information National Trends Survey
+feelTheresSomethingThatCanBeDoneToLowerChancesOfGettingCancer,Feel there's something that can be done to lower chances of getting cancer,pct,Health Information National Trends Survey
+feelThereAreSoManyRecommendationsAboutPreventingCancerItsHardToKnowWhichOnesToFollow,Feel there are so many recommendations about preventing cancer it's hard to know which ones to follow,pct,Health Information National Trends Survey
+feelThereArentTooManyRecommendationsAboutPreventingCancerToKnowWhichOnesToFollow,Feel there aren't too many recommendations about preventing cancer to know which ones to follow,pct,Health Information National Trends Survey
+wouldChangeBehaviorsIfAGeneticTestShowedHighRiskForCancer,Would change behaviors if a genetic test showed high risk for cancer,pct,Health Information National Trends Survey
+wouldNotChangeBehaviorsIfAGeneticTestShowedHighRiskForCancer,Would not change behaviors if a genetic test showed high risk for cancer,pct,Health Information National Trends Survey
+notWorriedAboutDelayingOrAvoidingCancerScreeningTestBecauseOfCovidInTheLastYear,Not worried about delaying or avoiding cancer screening test because of COVID in the last year,pct,Health Information National Trends Survey
+hadPapTestInTheLastThreeYears,Had Pap test in the last three years,pct,Health Information National Trends Survey
+hadPapTestMoreThanThreeYearsAgo,Had Pap test more than three years ago,pct,Health Information National Trends Survey
+neverHadAPapTest,Never had a Pap test,pct,Health Information National Trends Survey
+heardOfHpv,Heard of HPV,pct,Health Information National Trends Survey
+haventHeardOfHpv,Haven't heard of HPV,pct,Health Information National Trends Survey
+thinkHpvCanCauseAnalCancer,Think HPV can cause anal cancer,pct,Health Information National Trends Survey
+thinkHpvCanCauseCervicalCancer,Think HPV can cause cervical cancer,pct,Health Information National Trends Survey
+thinkHpvCanCauseOralCancer,Think HPV can cause oral cancer,pct,Health Information National Trends Survey
+thinkHpvCanCausePenileCancer,Think HPV can cause penile cancer,pct,Health Information National Trends Survey
+dontThinkHpvCanCauseAnalCancer,Don't think HPV can cause anal cancer,pct,Health Information National Trends Survey
+dontThinkHpvCanCauseCervicalCancer,Don't think HPV can cause cervical cancer,pct,Health Information National Trends Survey
+dontThinkHpvCanCauseOralCancer,Don't think HPV can cause oral cancer,pct,Health Information National Trends Survey
+dontThinkHpvCanCausePenileCancer,Don't think HPV can cause penile cancer,pct,Health Information National Trends Survey
+heardOfHpvShot,Heard of HPV shot,pct,Health Information National Trends Survey
+haventHeardOfHpvShot,Haven't heard of HPV shot,pct,Health Information National Trends Survey
+everInvitedToParticipateInAClinicalTrial,Ever invited to participate in a clinical trial,pct,Health Information National Trends Survey
+neverInvitedToParticipateInAClinicalTrial,Never invited to participate in a clinical trial,pct,Health Information National Trends Survey
+heardOfClinicaltrialsGov,Heard of clinicaltrials.gov,pct,Health Information National Trends Survey
+neverHeardOfClinicaltrialsGov,Never heard of clinicaltrials.gov,pct,Health Information National Trends Survey
+wouldLookForInformationAboutClinicalTrialsFromDiseaseSpecificPatientSupportGroups,Would look for information about clinical trials from disease-specific patient support groups,pct,Health Information National Trends Survey
+talkedToDoctorAboutHavingATestToCheckForLungCancerInTheLastYear,Talked to doctor about having a test to check for lung cancer in the last year,pct,Health Information National Trends Survey
+haventTalkedToDoctorAboutHavingATestToCheckForLungCancerInTheLastYear,Haven't talked to doctor about having a test to check for lung cancer in the last year,pct,Health Information National Trends Survey
+botheredByFeelingDownDepressedOrHopelessInTheLastTwoWeeks,"Bothered by feeling down, depressed, or hopeless in the last two weeks",pct,Health Information National Trends Survey
+notBotheredByFeelingDownDepressedOrHopelessInTheLastTwoWeeks,"Not bothered by feeling down, depressed, or hopeless in the last two weeks",pct,Health Information National Trends Survey
+botheredByFeelingNervousAnxiousOrOnEdgeInTheLastTwoWeeks,"Bothered by feeling nervous, anxious, or on edge in the last two weeks",pct,Health Information National Trends Survey
+notBotheredByFeelingNervousAnxiousOrOnEdgeInTheLastTwoWeeks,"Not bothered by feeling nervous, anxious, or on edge in the last two weeks",pct,Health Information National Trends Survey
+botheredByLittleInterestOrPleasureInDoingThingsInTheLastTwoWeeks,Bothered by little interest or pleasure in doing things in the last two weeks,pct,Health Information National Trends Survey
+notBotheredByLittleInterestOrPleasureInDoingThingsInTheLastTwoWeeks,Not bothered by little interest or pleasure in doing things in the last two weeks,pct,Health Information National Trends Survey
+botheredByNotBeingAbleToStopOrControlWorryingInTheLastTwoWeeks,Bothered by not being able to stop or control worrying in the last two weeks,pct,Health Information National Trends Survey
+notBotheredByNotBeingAbleToStopOrControlWorryingInTheLastTwoWeeks,Not bothered by not being able to stop or control worrying in the last two weeks,pct,Health Information National Trends Survey
+haveFriendsOrFamilyToTalkToAboutHealth,Have friends or family to talk to about health,pct,Health Information National Trends Survey
+dontHaveFriendsOrFamilyToTalkToAboutHealth,Don't have friends or family to talk to about health,pct,Health Information National Trends Survey
+everToldByHealthProfessionalHaveDepressionOrAnxiety,Ever told by health professional have depression or anxiety,pct,Health Information National Trends Survey
+neverToldByHealthProfessionalHaveDepressionOrAnxiety,Never told by health professional have depression or anxiety,pct,Health Information National Trends Survey
+feelStronglyThatLifeHasMeaning,Feel strongly that life has meaning,pct,Health Information National Trends Survey
+feelStronglyThatLifeHasPurpose,Feel strongly that life has purpose,pct,Health Information National Trends Survey
+stronglyFeelIsolatedEvenWhenPeopleAreAround,Strongly feel isolated even when people are around,pct,Health Information National Trends Survey
+doctorRecommendedReducingExposureToIndoorTanningDevices,Doctor recommended reducing exposure to indoor tanning devices,pct,Health Information National Trends Survey
+doctorDidNotGiveRecommendationForReducingExposureToIndoorTanningDevices,Doctor did not give recommendation for reducing exposure to indoor tanning devices,pct,Health Information National Trends Survey
+thinkAfterMonthsOfNotGoingOutInTheSunBeingInTheSunForAnHourWithNoProtectionWouldCauseSevereSunburn,"Think after months of not going out in the sun, being in the sun for an hour with no protection would cause severe sunburn",pct,Health Information National Trends Survey
+ableToAffordBalancedMealsInTheLastYear,Able to afford balanced meals in the last year,pct,Health Information National Trends Survey
+notAbleToAffordBalancedMealsInTheLastYear,Not able to afford balanced meals in the last year,pct,Health Information National Trends Survey
+ableToGetToMedicalAppointmentsWorkOrThingsNeededForDailyLivingWithoutTransportationIssues,"Able to get to medical appointments, work, or things needed for daily living without transportation issues",pct,Health Information National Trends Survey
+unableToGetToMedicalAppointmentsWorkOrThingsNeededForDailyLivingBecauseOfLackOfReliableTransportation,"Unable to get to medical appointments, work, or things needed for daily living because of lack of reliable transportation",pct,Health Information National Trends Survey
+cutTheSizeOfMealsOrSkippedMealsBecauseOfMoneyInTheLastYear,Cut the size of meals or skipped meals because of money in the last year,pct,Health Information National Trends Survey
+didNotCutTheSizeOfMealsOrSkipMealsBecauseOfMoneyInTheLastYear,Did not cut the size of meals or skip meals because of money in the last year,pct,Health Information National Trends Survey
+worriedAboutBeingForcedToMove,Worried about being forced to move,pct,Health Information National Trends Survey
+notWorriedAboutBeingForcedToMove,Not worried about being forced to move,pct,Health Information National Trends Survey
+everUsedECig,Ever used e-cig,pct,Health Information National Trends Survey
+neverUsedECig,Never used e-cig,pct,Health Information National Trends Survey
+thinkSmokelessTobaccoIsLessHarmfulThanCigarettes,Think smokeless tobacco is less harmful than cigarettes,pct,Health Information National Trends Survey
+thinkSmokelessTobaccoIsTheSameOrMoreHarmfulThanCigarettes,Think smokeless tobacco is the same or more harmful than cigarettes,pct,Health Information National Trends Survey
+thinkECigsAreMoreHarmfulThanCigarettes,Think e-cigs are more harmful than cigarettes,pct,Health Information National Trends Survey
+thinkNicotineIsTheMainSubstanceInTobaccoThatMakesPeopleWantToSmoke,Think nicotine is the main substance in tobacco that makes people want to smoke,pct,Health Information National Trends Survey
+thinkNicotineIsNotTheMainSubstanceInTobaccoThatMakesPeopleWantToSmoke,Think nicotine is not the main substance in tobacco that makes people want to smoke,pct,Health Information National Trends Survey
