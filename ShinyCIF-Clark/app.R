@@ -82,10 +82,16 @@ county_df = read.csv('www/data/all_county.csv', header = T) %>%
 
 tract_sf = st_read("www/shapefiles/tract_sf.shp")
 
-tract_df = read.csv('www/data/all_tract.csv', header=T) %>% 
-    mutate(
-        GEOID = str_pad(GEOID, side = 'left', width = 11, pad = '0'),
-    )
+# tract_df = read.csv('www/data/all_tract.csv', header=T) %>% 
+#     mutate(
+#         GEOID = str_pad(GEOID, side = 'left', width = 11, pad = '0'),
+#     )
+
+tract_df = read.csv('www/data/tract_min_FORAPP.csv', header=T) %>% 
+  mutate(
+    GEOID = str_pad(GEOID, side = 'left', width = 11, pad = '0'),
+  )
+
 
 #calculate bounding box of shapefile
 bbox = st_bbox(county_sf$geometry)
@@ -792,7 +798,7 @@ server = function(input, output, session) {
             input$re,
             unique(vals$datRE$RE[!is.na(vals$datRE$value)])[1]
         )
-        
+
         if (!is.na(selRE)){
             updatePickerInput(
                 session,
@@ -809,17 +815,17 @@ server = function(input, output, session) {
                 "re",
                 choices = NA
             )
-            
+
             vals$datSex = vals$datRE
         }
-        
+
         #update Sex selection
         selSex = ifelse(
             input$sex %in% unique(vals$datSex$Sex[!is.na(vals$datSex$value)]),
             input$sex,
             unique(vals$datSex$Sex[!is.na(vals$datSex$value)])[1]
         )
-        
+
         if (!is.na(selSex)){
             updatePickerInput(
                 session,
@@ -828,7 +834,7 @@ server = function(input, output, session) {
                 selected = selSex
             )
 
-            vals$dat1= vals$datSex %>% 
+            vals$dat1= vals$datSex %>%
                 filter(Sex == selSex)
         } else {
             updatePickerInput(
@@ -836,12 +842,12 @@ server = function(input, output, session) {
                 "sex",
                 choices = NA
             )
-            
+
             vals$dat1 = vals$datSex
         }
-        
+
         vals$race = unique(vals$dat1$RE)
-        
+
         vals$sex = unique(vals$dat1$Sex)
         
         #update variable selection
@@ -849,23 +855,36 @@ server = function(input, output, session) {
             input$group %in% sort(unique(vals$dat1$def[!is.na(vals$dat1$value)])),
             input$group,
             ifelse(
-                input$category %in% c('Sociodemographics', 'Screening & Risk Factors',
-                                      'Other Health Factors', 'Cancer Incidence (age-adj per 100k)'),
+                # input$category %in% c('Sociodemographics', 'Screening & Risk Factors',
+                #                       'Other Health Factors', 'Cancer Incidence (age-adj per 100k)'),
+                input$category %in% c('Gastroenterology', 'Lung Cancer Screening',
+                                      'Mammography'),
                 intersect(unique(vals$dat1$def), unique(vals$dat1$def[!is.na(vals$dat1$value)]))[1],
                 sort(unique(vals$dat1$def[!is.na(vals$dat1$value)]))[1]
             )
         )
         
+        # updatePickerInput(
+        #     session,
+        #     "group",
+        #     choices = if(input$category %in% c('Sociodemographics', 'Screening & Risk Factors',
+        #                                        'Other Health Factors', 'Cancer Incidence (age-adj per 100k)')) {
+        #         intersect(unique(vals$dat1$def), unique(vals$dat1$def[!is.na(vals$dat1$value)]))
+        #     } else {
+        #         sort(unique(vals$dat1$def[!is.na(vals$dat1$value)]))
+        #     }, 
+        #     selected = sel2
+        # )
         updatePickerInput(
-            session,
-            "group",
-            choices = if(input$category %in% c('Sociodemographics', 'Screening & Risk Factors',
-                                               'Other Health Factors', 'Cancer Incidence (age-adj per 100k)')) {
-                intersect(unique(vals$dat1$def), unique(vals$dat1$def[!is.na(vals$dat1$value)]))
-            } else {
-                sort(unique(vals$dat1$def[!is.na(vals$dat1$value)]))
-            }, 
-            selected = sel2
+          session,
+          "group",
+          choices = if(input$category %in% c('Gastroenterology', 'Lung Cancer Screening',
+                                             'Mammography')) {
+            intersect(unique(vals$dat1$def), unique(vals$dat1$def[!is.na(vals$dat1$value)]))
+          } else {
+            sort(unique(vals$dat1$def[!is.na(vals$dat1$value)]))
+          }, 
+          selected = sel2
         )
     },
     priority = 10,
