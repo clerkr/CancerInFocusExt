@@ -1,7 +1,8 @@
 import pandas as pd
+from csv import QUOTE_NONNUMERIC
 
 fl_comp = "/Users/jonathanroylance/Downloads/facility_load_comprehensive.csv"
-all_tracts = '/Users/jonathanroylance/CS_Projects/BIO465/CancerInFocus/CancerInFocusExt/ShinyCIF/www/data/all_tract.csv'
+all_tracts = '/Users/jonathanroylance/CS_Projects/BIO465/CancerInFocus/CancerInFocusExt/ShinyCIF-Clark/www/data/all_tract.csv'
 
 df = pd.read_csv(fl_comp)
 df['CountyTract'] = df['CountyTract'].astype(str).str[1:]
@@ -20,8 +21,12 @@ df.rename(columns={'minutes' : 'value'}, inplace=True)
 df['lbl'] = df['value'].round().astype(int).astype(str)
 df['measure'] = 'Minutes'
 df['fmt'] = 'float64'
+df['def'] = 'Minutes Driven'
 
-new_order =['GEOID', 'Tract', 'County', 'State', 'FacID', 'FacType', 'measure', 'value', 'fmt', 'lbl']
+new_order =['GEOID', 'Tract', 'County', 'State', 'FacID', 'FacType', 'measure', 'value', 'def', 'fmt', 'lbl']
 df = df[new_order]
+df.rename(columns={'FacType' : 'cat'}, inplace=True)
 
-df.to_csv('/Users/jonathanroylance/Downloads/tract_min_FORAPP.csv', index=False)
+df.to_csv('/Users/jonathanroylance/CS_Projects/BIO465/CancerInFocus/CancerInFocusExt/ShinyCIF-Clark/www/data/tract_min_FORAPP.csv', 
+          index=False,
+          quoting=QUOTE_NONNUMERIC)
