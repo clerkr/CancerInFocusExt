@@ -87,7 +87,7 @@ tract_sf = st_read("www/shapefiles/tract_sf.shp")
 #         GEOID = str_pad(GEOID, side = 'left', width = 11, pad = '0'),
 #     )
 
-tract_df = read.csv('www/data/all_tract_capstone.csv', header=T) %>% 
+tract_df = read.csv('www/data/all_tract_capstone_complete.csv', header=T) %>% 
   mutate(
     GEOID = str_pad(GEOID, side = 'left', width = 11, pad = '0'),
   )
