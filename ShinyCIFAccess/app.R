@@ -243,31 +243,53 @@ existing_data = tabPanel(
     fluidRow(
         style = "margin-bottom: 5.31vh; margin-top: 2.66vh;",
         pickerInput(
-            inputId = "geo",
-            label = "Select a geographic level",
-            choices = geo,
-            multiple = F,
-            options = pickerOptions(style = 'picker',
-                                    size = 4),
-            width = "100%"
-        ),
-        pickerInput(
           inputId = "category",
-          label = "Select a category of access",
-          choices = c("County Tract closest facility", "Average drive time", 
-                      "Broadband accessibility"),
-          multiple = FALSE,
-          options = pickerOptions(style = 'picker', size = 7),
+          label = "Select a category of variables",
+          choices = unique(county_df$cat),
+          multiple = F,
+          options = pickerOptions(style = 'picker',
+                                  size = 7),
           width = "100%"
         ),
-        pickerInput(
-          inputId = "service_type",
-          label = "Select a service type",
-          choices = c("Mammography", "Lung Cancer Screening", "Gastroenterology"),
-          multiple = FALSE,
-          options = pickerOptions(style = 'picker', size = 7),
-          width = "100%"
-        )
+        column(12,
+               conditionalPanel(
+                 condition = "input.category == 'Drive Time to Screening Facility'",
+                 fluidRow(
+                   style = "align-items: center;",
+                   column(
+                     12,
+                     pickerInput(
+                       inputId = "re",
+                       label = "Select Screening Type",
+                       choices = unique(county_df$def[county_df$cat[1]]),
+                       multiple = F,
+                       options = pickerOptions(style = 'picker',
+                                               size = 7),
+                       width = "100%"
+                     )
+                   )
+                 )
+               )
+        ), 
+        column(12,
+               conditionalPanel(
+                 condition = "input.category == 'Broadband Accesibility'",
+                 fluidRow(
+                   style = "align-items: center;",
+                   column(
+                     12,
+                     pickerInput(
+                       inputId = "measure",
+                       label = "Select Type of Accessibility",
+                       choices = unique(county_df$def[county_df$cat[1]]),
+                       multiple = F,
+                       options = pickerOptions(style = 'picker',
+                                               size = 7),
+                       width = "100%"
+                     )
+                   )
+                 )
+               ))
     )
 )   
 
