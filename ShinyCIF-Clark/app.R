@@ -802,6 +802,7 @@ server = function(input, output, session) {
                     right_join(vals$dat1, by = c('GEOID')) %>%
                     dplyr::filter(def == group_to_map()) %>%
                     distinct(GEOID, .keep_all = TRUE)
+                # Leaving these commented lines in for my (Clark R.) benefit. 
                   #dplyr::filter(value > 60)
                 #write.csv(vals$dat2, "debug_missing_data_shapejoin.csv", row.names = FALSE)
                 # Write this instead to a shape file using sf package st_write(dataframe, filepath.shp) interactive R terminal
