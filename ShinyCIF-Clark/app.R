@@ -316,7 +316,10 @@ existing_data = tabPanel(
             options = pickerOptions(style = 'picker',
                                     size = 7),
             width = "100%"
-        )
+        ),
+        # 
+        numericInput("threshold", "Filter by minimum drive time (minutes):", value = 0, min = 0, max = 1000, step = 1)
+        # 
     ),
     fluidRow(
         style = "margin-bottom: 2.66vh; align-items: center;",
@@ -583,6 +586,10 @@ server = function(input, output, session) {
         input$scale
     })
     
+    drive_minutes_min_thresh = reactive({
+      input$threshold
+    })
+    
     #define reactive values to store map
     vals <- reactiveValues()
     
@@ -654,6 +661,7 @@ server = function(input, output, session) {
         input$category
         input$sex
         input$re
+        input$threshold
     }, {
         #chose correct shapefile
         if (geo_to_map() == 'County') {
@@ -789,6 +797,7 @@ server = function(input, output, session) {
         input$sex
         input$scale
         input$palPick
+        input$threshold
     }, {
         enable(id = 'scale', asis = T)
         
@@ -798,15 +807,29 @@ server = function(input, output, session) {
                     right_join(vals$dat1, by = 'GEOID') %>%
                     dplyr::filter(def == group_to_map())
             } else if (geo_to_map() == 'Tract'){
-                vals$dat2 = tract_sf %>% 
-                    right_join(vals$dat1, by = c('GEOID')) %>%
-                    dplyr::filter(def == group_to_map()) %>%
-                    distinct(GEOID, .keep_all = TRUE)
-                # Leaving these commented lines in for my (Clark R.) benefit. 
-                  #dplyr::filter(value > 60)
-                #write.csv(vals$dat2, "debug_missing_data_shapejoin.csv", row.names = FALSE)
-                # Write this instead to a shape file using sf package st_write(dataframe, filepath.shp) interactive R terminal
-            } else if (geo_to_map() == 'State'){
+              
+                  
+                  
+                  
+                  
+                  vals$dat2 = tract_sf %>% 
+                      right_join(vals$dat1, by = c('GEOID')) %>%
+                      dplyr::filter(def == group_to_map()) %>%
+                      distinct(GEOID, .keep_all = TRUE)
+                  
+                  print(paste0("Max value: ", max(vals$dat2$value)))
+                  
+                  thresh = drive_minutes_min_thresh()
+                  if (is.na(thresh)|| is.null(thresh)) {
+                    thresh = 0
+                  }
+                  if (thresh >= max(vals$dat2$value)){
+                    thresh = max(vals$dat2$value) - 2
+                  }
+                  
+                  vals$dat2 = dplyr::filter(vals$dat2, value > thresh)
+                  
+                } else if (geo_to_map() == 'State'){
                 vals$dat2 = state_sf %>%
                     right_join(vals$dat1, by = 'GEOID') %>%
                     dplyr::filter(def == group_to_map())

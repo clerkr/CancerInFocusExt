@@ -57,8 +57,31 @@ combined_data <- my_data %>%
   ungroup() %>%
   select(-passes_download, -passes_upload) %>%  # Remove temporary columns
   rename(original_value = value, value = combined_value) %>%  # Rename for clarity
-  select(-original_value, -broadband_type, -technology, -type, -speed) %>%
+  select(-original_value, -broadband_type, -type, -speed) %>%  # Removed -technology
   distinct(GEOID, def, .keep_all = TRUE) # Keep only one row per GEOID and new_def combination
+
+#Revised Step 2.1: Combining Terrestrial and Mobile
+succinct_data <- combined_data %>%
+  group_by(GEOID, technology) %>%
+  group_modify(~ {
+    tibble(
+      value = any(.x$value, na.rm = TRUE),
+      def = ifelse(.y$technology[1] == "terrestrial", 
+                   "Sufficient Terrestrial", 
+                   "Sufficient Mobile"),
+      cat = "Sufficient Broadband",
+      # Copy other necessary columns from first row
+      state = first(.x$state),
+      county = first(.x$county)
+    )
+  }) %>%
+  ungroup()
+
+
+# Combine with original data
+combined_data <- bind_rows(combined_data, succinct_data) %>%
+  select(-technology)  # Remove technology from final dataset
+
 
 # Step 3: To be removed when we can graph categorical data
 combined_data <- combined_data %>%
