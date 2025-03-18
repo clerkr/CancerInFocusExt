@@ -318,7 +318,7 @@ existing_data = tabPanel(
             width = "100%"
         ),
         # 
-        numericInput("threshold", "Enter threshold value:", value = 0, min = 0, max = 1000, step = 1)
+        numericInput("threshold", "Filter by minimum drive time (minutes):", value = 0, min = 0, max = 1000, step = 1)
         # 
     ),
     fluidRow(
@@ -808,23 +808,27 @@ server = function(input, output, session) {
                     dplyr::filter(def == group_to_map())
             } else if (geo_to_map() == 'Tract'){
               
-                  thresh = drive_minutes_min_thresh()
-                  if (is.na(thresh)|| is.null(thresh)) {
-                    thresh = 0
-                  }
                   
-                  if (thresh > 200){
-                    thresh = 150
-                  }
+                  
+                  
                   
                   vals$dat2 = tract_sf %>% 
                       right_join(vals$dat1, by = c('GEOID')) %>%
                       dplyr::filter(def == group_to_map()) %>%
-                      distinct(GEOID, .keep_all = TRUE) %>% dplyr::filter(value > thresh)
-                  # Leaving these commented lines in for my (Clark R.) benefit. 
-                    #dplyr::filter(value > 60)
-                  #write.csv(vals$dat2, "debug_missing_data_shapejoin.csv", row.names = FALSE)
-                  # Write this instead to a shape file using sf package st_write(dataframe, filepath.shp) interactive R terminal
+                      distinct(GEOID, .keep_all = TRUE)
+                  
+                  print(paste0("Max value: ", max(vals$dat2$value)))
+                  
+                  thresh = drive_minutes_min_thresh()
+                  if (is.na(thresh)|| is.null(thresh)) {
+                    thresh = 0
+                  }
+                  if (thresh >= max(vals$dat2$value)){
+                    thresh = max(vals$dat2$value) - 2
+                  }
+                  
+                  vals$dat2 = dplyr::filter(vals$dat2, value > thresh)
+                  
                 } else if (geo_to_map() == 'State'){
                 vals$dat2 = state_sf %>%
                     right_join(vals$dat1, by = 'GEOID') %>%
