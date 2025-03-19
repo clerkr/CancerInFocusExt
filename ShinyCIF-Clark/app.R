@@ -317,9 +317,11 @@ existing_data = tabPanel(
                                     size = 7),
             width = "100%"
         ),
-        # 
-        numericInput("threshold", "Filter by minimum drive time (minutes):", value = 0, min = 0, max = 1000, step = 1)
-        # 
+        conditionalPanel(
+          condition = "input.category == 'Travel time to Screening Facility'",  # Conditionally based on geo input
+          numericInput("threshold", "Filter by minimum drive time (minutes):", 
+                       value = 0, min = 0, max = 1000, step = 1)
+        )
     ),
     fluidRow(
         style = "margin-bottom: 2.66vh; align-items: center;",
@@ -808,10 +810,6 @@ server = function(input, output, session) {
                     dplyr::filter(def == group_to_map())
             } else if (geo_to_map() == 'Tract'){
               
-                  
-                  
-                  
-                  
                   vals$dat2 = tract_sf %>% 
                       right_join(vals$dat1, by = c('GEOID')) %>%
                       dplyr::filter(def == group_to_map()) %>%
@@ -819,16 +817,17 @@ server = function(input, output, session) {
                   
                   print(paste0("Max value: ", max(vals$dat2$value)))
                   
-                  thresh = drive_minutes_min_thresh()
-                  if (is.na(thresh)|| is.null(thresh)) {
-                    thresh = 0
+                  if (cat_to_map() == "Travel time to Screening Facility") {
+                    thresh = drive_minutes_min_thresh()
+                    if (is.na(thresh)|| is.null(thresh)) {
+                      thresh = 0
+                    }
+                    if (thresh >= max(vals$dat2$value)){
+                      thresh = max(vals$dat2$value) - 2
+                    }
+                    
+                    vals$dat2 = dplyr::filter(vals$dat2, value > thresh)
                   }
-                  if (thresh >= max(vals$dat2$value)){
-                    thresh = max(vals$dat2$value) - 2
-                  }
-                  
-                  vals$dat2 = dplyr::filter(vals$dat2, value > thresh)
-                  
                 } else if (geo_to_map() == 'State'){
                 vals$dat2 = state_sf %>%
                     right_join(vals$dat1, by = 'GEOID') %>%
