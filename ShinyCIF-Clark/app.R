@@ -307,7 +307,7 @@ existing_data = tabPanel(
                    )
                )
 
-        ),
+        ), #This needs to be a conditional panel Clark :)
         pickerInput(
             inputId = "group",
             label = "Select a variable to map",
