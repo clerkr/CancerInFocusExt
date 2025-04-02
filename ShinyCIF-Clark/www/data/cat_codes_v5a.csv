@@ -1,0 +1,12 @@
+measure,value,lbl
+appalachia,0,Non-Appalachia
+appalachia,1,Appalachia
+rucc,1,"Metro, >1mil"
+rucc,2,"Metro, 250k-1mil"
+rucc,3,"Metro, <250k"
+rucc,4,"Nonmetro, >20k adjacent"
+rucc,5,"Nonmetro, >20k not adjacent"
+rucc,6,"Nonmetro, 5-20k adjacent"
+rucc,7,"Nonmetro, 5-20k not adjacent"
+rucc,8,"Nonmetro, <5k adjacent"
+rucc,9,"Nonmetro, <5k not adjacent"
